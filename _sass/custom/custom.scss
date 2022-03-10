@@ -9,14 +9,8 @@
 
 
 // this is bad, and the source of all your problems in the future so here are some tags "navbar nav margin navmargin"
-#site-nav > ul > li:nth-child(1) {
-  margin-bottom: 100px;
-  color: #000;
-}
-
-
-#site-nav > ul > li:nth-child(2) {
-  border-bottom-width: 3px;
-  border-bottom-color: #fff;
-  border: 5px solid red;
+#site-nav > ul > li:nth-child(1),
+#site-nav > ul > li:nth-child(4) {
+  border-bottom: 3px solid #eee;
+    margin-bottom: 10px;
 }
