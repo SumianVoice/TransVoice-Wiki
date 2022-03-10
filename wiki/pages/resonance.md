@@ -1,3 +1,10 @@
+---
+layout: default
+title: Clarity
+nav_order: 2
+has_children: true
+---
+
 # Resonance
 
 ## What is Resonance
