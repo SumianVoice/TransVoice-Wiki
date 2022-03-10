@@ -7,12 +7,6 @@ has_children: false
 
 # Vocal Weight
 
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
 ## What is vocal weight?
 Vocal weight is essentially a way of describing the amount of force with which the vocal folds interact. Think of it like clapping your hands together. You can vary the speed your hands travel and this causes the sound to increase in volume. You could also tense the muscles in your hands so that when they do hit they have a more sudden and thus louder interaction. The vocal folds are doing a similar thing. Since it's one of the most important and fundamental aspects of voice it's super useful to have good control over it.
 
