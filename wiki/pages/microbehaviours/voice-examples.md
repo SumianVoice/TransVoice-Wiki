@@ -9,6 +9,7 @@ nav_order: 3
 
 ## ♀️ Drawing With Waffles
 {: .no_toc }
+
 dynamic
 {: .label .label-green }
 medium pitch
