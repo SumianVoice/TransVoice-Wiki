@@ -9,6 +9,7 @@ nav_order: 3
 
 ## ♀️ Drawing With Waffles
 {: .no_toc }
+Good for learning more varied speech patterns, and for training medium pitch brightness.
 
 dynamic
 {: .label .label-green }
