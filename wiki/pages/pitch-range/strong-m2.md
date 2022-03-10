@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Strong m2
-parent: Pitch Range
+parent: Pitch Range Expansion
 nav_order: 2
 ---
 # Strong m2
