@@ -10,9 +10,7 @@ This is of course not exhaustive! Help us fill this out, contact sumianvoice (gm
 
 
 ## Voice Art Project
-<span class="fs-8">
-[Discord](https://discord.gg/ahc5hb9zSk){: .btn }
-</span>
+<span class="fs-8"> [Discord](https://discord.gg/ahc5hb9zSk){: .btn } </span>
 The main maintainers of this site.
 - allows voice related advertising
 - anyone can teach or hold events there
@@ -20,7 +18,8 @@ The main maintainers of this site.
 - has events and practice sessions
 - has "office hours" event where anyone can come and ask questions of teachers (as in, Sumyjkl)
 
-## [Scinguistics](https://discord.gg/w6Eb2tY)
+## Scinguistics
+<span class="fs-8"> [Discord](https://discord.gg/w6Eb2tY){: .btn } </span>
 Huge community with regular events
 - singing, voice science discussion, linguistics, trans voice
 - server maintainers offer paid lessons
