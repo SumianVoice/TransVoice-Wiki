@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # Getting Started
-Usually, the recommendation is to start by lowering [vocal weight](). Getting to a higher pitch with lower weight makes a significant difference already.
+Usually, the recommendation is to start by lowering [vocal weight](Vocal Weight). Getting to a higher pitch with lower weight makes a significant difference already.
 It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
 
 Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start.
