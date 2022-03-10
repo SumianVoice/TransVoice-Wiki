@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vocal Weight
+title: Front Page
 nav_order: 1
 has_children: false
 ---
