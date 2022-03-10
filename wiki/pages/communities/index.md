@@ -9,7 +9,10 @@ has_children: false
 This is of course not exhaustive! Help us fill this out, contact sumianvoice (gmail). Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first.
 
 
-## [Voice Art Project](https://discord.gg/ahc5hb9zSk)
+## Voice Art Project
+<span class="fs-8">
+[Discord](https://discord.gg/ahc5hb9zSk){: .btn }
+</span>
 The main maintainers of this site.
 - allows voice related advertising
 - anyone can teach or hold events there
