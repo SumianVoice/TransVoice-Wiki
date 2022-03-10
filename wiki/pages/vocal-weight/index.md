@@ -9,6 +9,9 @@ has_children: false
 Your browser does not support the audio element.
 </audio>
 
+Something in a box
+{: .label .label-green }
+
 # Vocal Weight
 
 ## What is vocal weight?
