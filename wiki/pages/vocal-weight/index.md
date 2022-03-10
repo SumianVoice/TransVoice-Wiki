@@ -4,10 +4,10 @@ title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
-<audio controls width="500">
+<!-- <audio controls width="500">
   <source src="/audio/2022 03 05 different voices.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio>
+</audio> -->
 
 
 # Vocal Weight
