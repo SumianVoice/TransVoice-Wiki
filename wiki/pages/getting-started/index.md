@@ -6,20 +6,20 @@ has_children: true
 ---
 
 # Getting Started
-Usually, the recommendation is to start by lowering [vocal weight](Vocal Weight). Getting to a higher pitch with lower weight makes a significant difference already.
+Usually, the recommendation is to start by lowering [vocal weight](/pages/vocal-weight). Getting to a higher pitch with lower weight makes a significant difference already.
 It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
 
 Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start.
 
-## Lower weight and raise pitch
+## Lower [weight](/pages/vocal-weight) and raise pitch
 - avoid breathiness or going too light, avoid m2 / falsetto
 
-## Raise resonance as needed
-- avoid FVF constriciton (old man / old woman voice)
+## Raise [resonance](/pages/resonance) as needed
+- avoid [FVF](/pages/clarity/FVF) constriciton (old man / old woman voice)
 - when going out of an unvoiced slide, do so fluidly, avoid pauses that can let you reset to a lower larynx position
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 
-## Practice speech patterns
+## Practice speech patterns and [microbehaviours](/pages/microbehaviours)
 - avoid emphasis with volume for feminine voices
 - vary tempo
 - intonation doesn't need to be super high, but it's worth practicing
