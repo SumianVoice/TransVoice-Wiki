@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vocal Weight
+title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
