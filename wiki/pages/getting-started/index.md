@@ -12,7 +12,7 @@ It's important to be aware at every stage of the possibility of falling into bad
 Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start.
 
 ## Lower [weight](/wiki/pages/vocal-weight) and raise pitch
-- avoid breathiness or going too light, avoid m2 / falsetto
+- avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [m2 / falsetto](/wiki/pages/mechanisms) for now
 
 ## Raise [resonance](/wiki/pages/resonance) as needed
 - avoid [FVF](/wiki/pages/clarity/FVF) constriciton (old man / old woman voice)
