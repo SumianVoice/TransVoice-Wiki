@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nasality
+title: Mimicry
 parent: Microbehaviours
-nav_order: 6
+nav_order: 2
 ---

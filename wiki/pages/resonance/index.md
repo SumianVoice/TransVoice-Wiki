@@ -2,7 +2,7 @@
 layout: default
 title: Resonance
 nav_order: 3
-has_children: true
+has_children: false
 ---
 
 # Resonance
