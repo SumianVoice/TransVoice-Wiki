@@ -8,7 +8,12 @@ nav_order: 3
 <!-- voice example block -->
 
 
-♀️ Very **dynamic** medium pitch voice with **medium to high resonance**.
+♀️ Very
+dynamic
+{: .label .label-green }
+medium pitch voice with medium to high
+resonance
+{: .label .label-green }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
