@@ -9,7 +9,7 @@ has_children: false
 This is of course not exhaustive! Help us fill this out, contact sumianvoice (gmail). Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first.
 
 
-## Voice Art Project
+## [Voice Art Project](https://discord.gg/ahc5hb9zSk)
 The main maintainers of this site.
 - allows voice related advertising
 - anyone can teach or hold events there
@@ -17,7 +17,7 @@ The main maintainers of this site.
 - has events and practice sessions
 - has "office hours" event where anyone can come and ask questions of teachers (as in, Sumyjkl)
 
-## Scinguistics
+## [Scinguistics](https://discord.gg/w6Eb2tY)
 Huge community with regular events
 - singing, voice science discussion, linguistics, trans voice
 - server maintainers offer paid lessons
