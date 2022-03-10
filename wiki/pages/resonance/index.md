@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clarity
+title: Resonance
 nav_order: 2
 has_children: true
 ---
