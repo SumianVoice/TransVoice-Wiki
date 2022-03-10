@@ -2,5 +2,5 @@
 layout: default
 title: Breathiness
 parent: Clarity
-nav_order: 5
+nav_order: 2
 ---
