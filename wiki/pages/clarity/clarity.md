@@ -1,6 +1,6 @@
 ---
 layout: default
-title: clarity
+title: Clarity
 nav_order: 4
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FVF
-parent: clarity
+parent: Clarity
 nav_order: 4
 ---
 
