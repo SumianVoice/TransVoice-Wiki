@@ -9,8 +9,6 @@ has_children: false
 Your browser does not support the audio element.
 </audio>
 
-Something in a box
-{: .label .label-green }
 
 # Vocal Weight
 
@@ -47,7 +45,7 @@ Pitch slides are a good way to reduce vocal weight. As you go up in pitch, the f
 The exercise itself looks like this:
 \[example clip\]
 
-<p align="center">
+<p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s1PyFzG86Eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
