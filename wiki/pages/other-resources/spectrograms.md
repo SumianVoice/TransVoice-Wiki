@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spectrograms
-parent: Extra Info
+parent: Other Resources
 nav_order: 3
 has_children: false
 ---
