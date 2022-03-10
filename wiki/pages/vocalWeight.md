@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clarity
+title: Vocal Weight
 nav_order: 1
 has_children: true
 ---
