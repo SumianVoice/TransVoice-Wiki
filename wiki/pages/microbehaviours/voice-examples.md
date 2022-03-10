@@ -11,9 +11,10 @@ nav_order: 3
 ♀️ Very
 dynamic
 {: .label .label-green }
-medium pitch voice with medium to high
-resonance
-{: .label .label-green }
+medium pitch voice
+{: .label }
+medium high resonance
+{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
