@@ -7,12 +7,12 @@ nav_order: 3
 
 <!-- voice example block -->
 
-
-♀️ Very
+## ♀️ Drawing With Waffles
+{: .no_toc }
 dynamic
 {: .label .label-green }
-medium pitch voice
-{: .label }
+medium pitch
+{: .label .label-yellow }
 medium high resonance
 {: .label .label-blue }
 ```
