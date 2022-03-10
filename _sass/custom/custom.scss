@@ -9,12 +9,6 @@
 
 
 // this is bad, and the source of all your problems in the future so here are some tags "navbar nav margin navmargin"
-nav-list-item li:nth-child(2) {
+.nav-list .nav-list-item li:nth-child(2) {
   margin-bottom: 100px;
-}
-
-
-#site-nav > ul > li:nth-child(5) {
-  border-bottom-width: 3px;
-  border-bottom-color: #fff;
 }
