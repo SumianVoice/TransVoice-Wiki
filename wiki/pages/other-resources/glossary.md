@@ -99,3 +99,33 @@ Primary sources of low Harmonic to Noise ratio:
 - nasal sounds should be the only muffled sounds when the nose is pinched, so you can read ?non-nasal passages to test for it
 
 ## Hyponasality
+
+## Open Quotiant
+
+## Closed Quotiant
+
+## Larynx
+ 
+## Register 
+
+## Laryngeal Vibratory Mechanism 
+
+### M0 - Vocal Fry
+
+### M1 - Mixed Voice
+
+### M2 - Falsetto / Head Voice
+
+### M3
+
+## Resonance: Anything that changes sound quality or texture without changing the actual pitch of a note.
+
+## Phonate
+
+## Placement
+
+## Embouchure
+
+## Vocal Tract
+
+## AES/Aryepiglottic Sphincter
