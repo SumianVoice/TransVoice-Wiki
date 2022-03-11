@@ -5,12 +5,16 @@ parent: Microbehaviours
 nav_order: 3
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
 1. TOC
 {:toc}
+</details>
 
+# ♀️ Feminine Voice List ♀️
 <!-- voice example block -->
 ## ♀️ Drawing With Waffles
 Good for learning more varied speech patterns, and for training medium pitch brightness.
