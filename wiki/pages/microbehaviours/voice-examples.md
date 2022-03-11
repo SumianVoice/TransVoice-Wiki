@@ -14,7 +14,7 @@ nav_order: 3
 {:toc}
 </details>
 
-# ♀️ Feminine Voice List ♀️
+# Feminine Voice List
 <!-- voice example block -->
 ## ♀️ Drawing With Waffles
 Good for learning more varied speech patterns, and for training medium pitch brightness.
