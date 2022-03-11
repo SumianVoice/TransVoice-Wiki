@@ -16,6 +16,12 @@
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
+.side-bar {
+  width: calc((100% - 1364px) / 2 + 264px);
+}
+#top {
+  margin-left: calc( (100% - 1364px) / 2 + 264px );
+}
 
 .label-grey {
   background-color: $grey-lt-300;
