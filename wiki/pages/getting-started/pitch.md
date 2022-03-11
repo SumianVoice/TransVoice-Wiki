@@ -21,12 +21,12 @@ Put simply, a lot of exercises use pitch as a method of changing other factors. 
 A good pitch that is usually not too high for most people, but still gets the benefits of lowering vocal weight and often resonance too, is 200hz or G3. For most people this is the sweetspot. Too much higher is straining or flipping into [m2 / falsetto](/wiki/pages/other-resources/mechanisms), too much lower risks becoming heavier in vocal weight and darker in [resonance](/wiki/pages/resonance).
 
 ## Why low pitch voices are hard
-So if pitch isn't important, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how. 
+So if pitch isn't important, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how.
 
 Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when we're already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns), the microbehaviours / glottal behaviours fall apart.
 
 We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
-[Jackie Liu voice example](/wiki/pages/voice-examples/#jackie-liu) {: .btn .btn-green}
+[Jackie Liu voice example](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
 
 
 
