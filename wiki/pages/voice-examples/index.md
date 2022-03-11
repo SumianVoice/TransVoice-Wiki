@@ -126,8 +126,232 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?start=393" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+<!--  -->
 
 <!--  -->
+## PearlescentMoon
+Good for super high intonation
+
+high pitch intonation
+{: .label .label-red }
+medium low vocal weight
+{: .label .label-green }
+🇳🇿 Australian accent
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-low
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch          🎵 🟡 🟡 🟡 🟡 🟤 170hz- 400hz
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke9RcVSdWkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Shohreh Aghdashloo
+A quite out of the ordinary voice that's really interesting and beautiful
+
+very low pitch
+{: .label .label-grey }
+FVF constriction
+{: .label .label-red }
+vocal fry
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-high
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low 65 - 150hz
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DGcUB55muSw?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## 39daph
+Good for low pitch brightness and dynamic resonance and weight.
+
+lowish resonance
+{: .label .label-grey }
+heavier weight
+{: .label .label-grey }
+bright
+{: .label .label-blue }
+very dynamic
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium-high
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium with high intonation (140hz - 270hz, 350hz highs)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EpM3nWRUqXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Mijinko
+Ridiculous hyperfem trained afab voice
+
+hyperfem
+{: .label .label-green }
+ludicrous
+{: .label .label-blue }
+absolutely insane resonance
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 quite low
+resonance      🎻 🟡 🟡 🟡 🟡 🟡 very high (1200hz F1 /a/)
+pitch          🎵 🟡 🟡 🟡 🟡 🟤 very high (230 - 500hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟡 ridiculous hard
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PUbMSqi7F68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## pikat
+Low pitch deep fem voice with ludicrous glottal behaviour
+
+low pitch
+{: .label .label-red }
+low resonance
+{: .label .label-green }
+deep
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium low
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth for a low res and low pitch voice)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IjVd6VdJf2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Gazes
+Good for high resonance at low volume
+
+quiet
+{: .label .label-grey }
+high resonance
+{: .label .label-green }
+slightly breathy
+{: .label .label-blue }
+```
+vocal weight 🥁 🟡 🟡 🟤 🟤 🟤 low
+resonance     🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch               🎵 🟡 🟡 🟡 🟤 🟤 medium (200 -250hz)
+difficulty        💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1SqetzLJ4Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Rainbow 6 video
+Good for voice acting deep feminine voices
+
+low pitch
+{: .label .label-green }
+slightly breathy
+{: .label .label-blue }
+Japanese
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
+pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (180-300hz)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lgk9WQsg5xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## imawonder
+Really good for learning brightness despite a very low pitch
+
+very bright
+{: .label .label-yellow }
+slightly heavy
+{: .label .label-blue }
+low pitch
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
+pitch          🎵 🟡 🟡 🟤 🟤 🟤 medium (150hz - 250hz intonation, ~500hz peaks)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Nurse
+Perfect for learning a deep feminine voice at very (120hz) low pitch.
+
+very low pitch
+{: .label .label-red }
+smooth
+{: .label .label-blue }
+deep fem
+{: .label .label-grey }
+low resonance
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
+pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## The Narrator (Baldur's Gate)
+Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
+
+extreme low pitch
+{: .label .label-red }
+bright voice
+{: .label .label-yellow }
+vocal fry
+{: .label .label-grey }
+deep fem
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
+pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch, especially because it's bright)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+
+
+
+
+
+
+
+
 
 
 
