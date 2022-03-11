@@ -60,3 +60,78 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UzvqPVx0Jd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
+
+<!--  -->
+## Jimena Reno
+Good for low volume brightness and a good entry level mimicry source.
+
+medium pitch
+{: .label .label-green }
+low intonation
+{: .label .label-blue }
+low volume
+{: .label .label-grey }
+high resonance
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟤 🟤 🟤 🟤 very low
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~300hz peaks)
+difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?t=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Karina Singh
+Good example of low resonance and pitch but maintaining feminine qualities and brightness.
+
+low pitch
+{: .label .label-green }
+low intonation
+{: .label .label-blue }
+intonation spikes
+{: .label .label-red }
+lowish resonance
+{: .label .label-grey }
+```
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium-low
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonation, ~340hz peaks)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DYGBmB04SVo?t=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+low pitch
+{: .label .label-blue }
+high intonation
+{: .label .label-green }
+dynamic
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch          🎵 🟡 🟡 🟤 🟤 🟤 low-high (140hz - 350hz intonation)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
+````
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?t=393" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<!--  -->
+
+
+
+
+
+
+
+
+
+<!--  -->
