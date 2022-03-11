@@ -79,4 +79,4 @@ One way is to yawn. Usually people yawn with low vocal weight and low resonance,
 
 ## Vocal weight comparison on an FFT spectrogram
 
-\[insert image here\]
+![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
