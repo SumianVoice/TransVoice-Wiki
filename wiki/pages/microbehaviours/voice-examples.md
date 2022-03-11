@@ -80,7 +80,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~
 difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?t=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -103,11 +103,14 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonati
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DYGBmB04SVo?t=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DYGBmB04SVo?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
 <!--  -->
+## Jackie Liu
+Very soft and high resonance, good for learning brightness at low pitch
+
 low pitch
 {: .label .label-blue }
 high intonation
@@ -121,7 +124,7 @@ pitch          🎵 🟡 🟡 🟤 🟤 🟤 low-high (140hz - 350hz intonation)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 ````
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?t=393" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?start=393" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <!--  -->
