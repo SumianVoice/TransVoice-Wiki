@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Voice Examples
-parent: Microbehaviours
-nav_order: 3
+nav_order: 18
+has_children: false
 ---
 
 <details open markdown="block">

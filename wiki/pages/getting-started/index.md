@@ -20,7 +20,7 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 
 ## Practice speech patterns and [microbehaviours](/wiki/pages/microbehaviours)
-- find an [example](/wiki/pages/microbehaviours/voice-examples) of a voice you like
+- find an [example](/wiki/pages/voice-examples) of a voice you like
 - avoid emphasis with volume for feminine voices
 - vary tempo
 - intonation doesn't need to be super high, but it's worth practicing
@@ -45,6 +45,6 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - slowly reduce weight at your highest note in order to go even higher (will probably break at first)
 
 ## Start [mimicry](/wiki/pages/microbehaviours/mimicry)
-- find a clip of a voice that is close to yours such as from [voice examples](/wiki/pages/microbehaviours/voice-examples)
+- find a clip of a voice that is close to yours such as from [voice examples](/wiki/pages/voice-examples)
 - put a beep sound at the beginning for timing
 - practice speaking over it as it plays and also listening and copying

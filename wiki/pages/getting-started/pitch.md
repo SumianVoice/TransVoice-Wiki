@@ -23,3 +23,14 @@ Put simply, a lot of exercises use pitch as a method of changing other factors. 
 
 ## Why low pitch voices are hard
 So then, why is a low pitch voice so hard to do if pitch isn't important? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours). Tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns) the microbehaviours / glottal behaviours fall apart.
+
+We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
+
+
+
+
+
+
+
+
+<!--  -->

@@ -32,7 +32,7 @@ Typical behaviours associated with masculine voices:
 
 ## Example
 A random example of intonation just to show how different it can be.
-![Intonation](/img/intonation.png)
+![Intonation](/img/intonation.jpg)
 
 ## Use of emotive phrases to train intonation and emphasis
 You can use an emotive phrase to get into the 'character' of the voice you're going for. Choose something that you can really overact, you can always dial it back later.
