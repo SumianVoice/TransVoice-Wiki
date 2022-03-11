@@ -78,18 +78,18 @@ Primary sources of low Harmonic to Noise ratio:
     ・vocal fry and creak
 
 ## Breath Support
-- low support voices are typically unstable and fluctuate in pitch uncontrollably, may flip between m1 and m2 unpredictably
+- low support voices are typically unstable and fluctuate in pitch uncontrollably, may flip between m1 and M2 unpredictably
 - high support voices are more robust
 - putting a fair bit of pressure into the /s/ sound can induce better support
-- m2 and quiet voices tend to be low in support without training
+- M2 and quiet voices tend to be low in support without training
 
 ## TA Muscles
 The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
 - thyroarytenoid muscles, running the length of the vocal folds
 - more activation = more weight and then typically into pressed phonation when pushed too far
-- can make m2 not sound like m2 and be more stable and bright rather than the "too thin" or hollow quality m2 usually has
+- can make M2 not sound like M2 and be more stable and bright rather than the "too thin" or hollow quality M2 usually has
 - can help with more general (not breath specifically) support to the voice to make it more robust
-- can blend m1 and m2 to avoid breaks and more reliably come back into m1 from a slide
+- can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
 - a component of "shouting posture"
 
 ## Nasality

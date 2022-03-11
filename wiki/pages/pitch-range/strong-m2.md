@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Strong m2
+title: Strong M2
 parent: Pitch Range Expansion
 nav_order: 2
 ---
-# Strong m2
+# Strong M2
 Also known as mixed voice
 
 ```
