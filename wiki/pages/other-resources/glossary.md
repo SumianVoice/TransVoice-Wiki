@@ -61,6 +61,16 @@ has a list of things and links to where they are found
 - can be a sign of slight FVF constriction interfering
 - https://youtu.be/DbKJ2E7YCNg?t=274 
 
+## Harmonic to Noise Ratio (HNR)
+HNR is the description of essentially how noisy a voice is. We have harmonics - which are the horizontal lines in the image - and then there's noise in between, either from constriction, breathiness or a combination. You can see in the image how there is a clean looking pattern on the left, and a noisy one on the right. This could be called the 'clarity' of the voice, though it refers specifically to noise and not things like nasality or knodel effects which might make a voice sound 'out of place'. 
+
+![HNR](/img/hnr.png)
+
+Primary sources of low Harmonic to Noise ratio:
+    ・abduction (breathiness)
+    ・FVF constriction
+    ・vocal fry and creak 
+
 ## Breath Support
 - low support voices are typically unstable and fluctuate in pitch uncontrollably, may flip between m1 and m2 unpredictably 
 - high support voices are more robust
