@@ -12,7 +12,6 @@ has_children: false
 </p>
 
 ## Main structures bookmarks
-<div class="nolist">
 - 01:58 hyoid bone
 - 02:35 epiglottis
 - 03:18 thyroid cartilage, laryngeal prominence "adams apple"
@@ -28,7 +27,6 @@ has_children: false
 - 13:20 arytenoid muscles - adduction
 - 13:57 posterior cricoarytenoid muscles - abduction
 - 14:25 lateral cricoarytenoid muscles - adduction
-</div>
 
 ## Notes:
 - The thyroid tilts in order to increase or decrease pitch, by stretching or relaxing the vocal folds.
