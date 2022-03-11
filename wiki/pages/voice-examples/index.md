@@ -29,7 +29,7 @@ medium high resonance
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (150hz - 330hz intonation, 500hz highest)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pitch is hard
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitch is hard)
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qjC30KkyLLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -228,7 +228,7 @@ deep
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth for a low res and low pitch voice)
+difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IjVd6VdJf2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -337,7 +337,7 @@ deep fem
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch, especially because it's bright)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
