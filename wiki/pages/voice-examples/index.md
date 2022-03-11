@@ -12,9 +12,13 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
-</details>
 
 # ♀️ Feminine Voice List ♀️
+</details>
+<details open markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
 <!-- voice example block -->
 ## Drawing With Waffles
 Good for learning more varied speech patterns, and for training medium pitch brightness.
@@ -343,7 +347,8 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
-
+</details>
+<!-- End of fem voices! -->
 
 
 
