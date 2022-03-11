@@ -15,7 +15,7 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 - avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [m2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
 
 ## Raise [resonance](/wiki/pages/resonance) as needed
-- avoid [FVF](/wiki/pages/clarity/FVF) constriciton (old man / old woman voice)
+- avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
 - when going out of an unvoiced slide, do so fluidly, avoid pauses that can let you reset to a lower larynx position
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 

@@ -84,7 +84,7 @@ Primary sources of low Harmonic to Noise ratio:
 - m2 and quiet voices tend to be low in support without training
 
 ## TA Muscles
-    The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
+The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
 - thyroarytenoid muscles, running the length of the vocal folds
 - more activation = more weight and then typically into pressed phonation when pushed too far
 - can make m2 not sound like m2 and be more stable and bright rather than the "too thin" or hollow quality m2 usually has
@@ -105,10 +105,10 @@ Primary sources of low Harmonic to Noise ratio:
 ## Closed Quotiant
 
 ## Larynx
- 
-## Register 
 
-## Laryngeal Vibratory Mechanism 
+## Register
+
+## Laryngeal Vibratory Mechanism
 
 ### M0 - Vocal Fry
 
