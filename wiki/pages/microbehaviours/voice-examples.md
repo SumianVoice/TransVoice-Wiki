@@ -6,7 +6,6 @@ nav_order: 3
 ---
 
 <!-- voice example block -->
-
 ## ♀️ Drawing With Waffles
 {: .no_toc }
 Good for learning more varied speech patterns, and for training medium pitch brightness.
@@ -25,5 +24,24 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pit
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qjC30KkyLLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## ♀️ Moriah Elizabeth
+typical feminine
+creak
+low pitch
+high intonation
+high volume
+{: .label .label-blue }
+```
+vocal weight 🥁 🟡 🟡 🟤 🟤 🟤 low w/ twang sometimes
+resonance     🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch               🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
+difficulty        💔 🟡 🟡 🟡 🟡 🟤 medium-hard
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UzvqPVx0Jd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
