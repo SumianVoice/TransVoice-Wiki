@@ -28,14 +28,15 @@ Normally you might not affect vocal weight consciously at all, but there are way
 
 It's important however to be aware that pitch is not the only way to affect weight. You can isolate it and get low weight at a low pitch for example or high weight at a high pitch. This extra control is very important - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
 
-## Gender perception of vocal weight
+### Gender perception of vocal weight
 
 * Low vocal weight ➡️ ♀️
 * High vocal weight ➡️ ♂️
 
-## Generalisations about vocal weight (not assured):
-When getting louder I drop in pitch and don't add air - heavier weight
-When getting louder I raise in pitch and add air - lighter weight
+### Generalisations about vocal weight (not assured)
+
+* When getting louder I drop in pitch and don't add air - heavier weight
+* When getting louder I raise in pitch and add air - lighter weight
 
 ## Loudness vs vocal weight
 A lot of people conflate the volume of your speech with vocal weight. Vocal weight is louder, but that doesn't mean all loud things are high in vocal weight. Yelling/shouting (rather than just speaking loudly) typically induces three things:
