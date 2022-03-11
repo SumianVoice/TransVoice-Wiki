@@ -13,7 +13,6 @@ nav_order: 3
 
 <!-- voice example block -->
 ## ♀️ Drawing With Waffles
-{: .no_toc }
 Good for learning more varied speech patterns, and for training medium pitch brightness.
 
 dynamic
@@ -35,7 +34,6 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pit
 
 <!--  -->
 ## ♀️ Moriah Elizabeth
-{: .no_toc }
 Good for learning high pitch brightness and getting out of a low volume configuration.
 
 typical feminine
