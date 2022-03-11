@@ -5,6 +5,12 @@ parent: Microbehaviours
 nav_order: 3
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 <!-- voice example block -->
 ## ♀️ Drawing With Waffles
 {: .no_toc }
