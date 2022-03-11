@@ -13,7 +13,7 @@ Very! But, not how you think.
 
 There is a big misconception that pitch is a big or even the only reason masculine and feminine voices are different. There are a whole bunch of features that differ between a masculine and a feminine voice, and in fact, pitch isn't really in the equation at all.
 
-![pitch comparison](/img/spectropitchcomparison.jpg)
+![pitch comparison](/img/spectropitchcomparison.png)
 
 Pitch is not a gendered factor. On its own it does not modify the gender presentation of a voice. In fact, there are plenty of voices as low as 120hz or even 90hz that are unmistakably feminine and voices as high as 250hz that are unmistakably masculine. Pitch as a part of your voice is basically not important.
 
