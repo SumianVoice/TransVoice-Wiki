@@ -16,7 +16,6 @@ has_children: false
 </details>
 
 ## Gendered patterns
-
 Typical behaviours associated with feminine voices:
 - higher range of intonation
 - use of tempo to vary speech
