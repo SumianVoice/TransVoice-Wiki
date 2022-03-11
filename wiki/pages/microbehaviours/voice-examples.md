@@ -14,9 +14,9 @@ nav_order: 3
 {:toc}
 </details>
 
-# Feminine Voice List
+# ♀️ Feminine Voice List ♀️
 <!-- voice example block -->
-## ♀️ Drawing With Waffles
+## Drawing With Waffles
 Good for learning more varied speech patterns, and for training medium pitch brightness.
 
 dynamic
@@ -37,7 +37,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pit
 <!--  -->
 
 <!--  -->
-## ♀️ Moriah Elizabeth
+## Moriah Elizabeth
 Good for learning high pitch brightness and getting out of a low volume configuration.
 
 typical feminine
