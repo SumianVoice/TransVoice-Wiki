@@ -16,11 +16,15 @@
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
-.side-bar {
-  width: calc((100% - 1364px) / 2 + 264px);
-}
-#top {
-  margin-left: calc( (100% - 1364px) / 2 + 264px );
+// .side-bar {
+//   width: calc((100% - 1364px) / 2 + 264px);
+// }
+// #top {
+//   margin-left: calc( (100% - 1364px) / 2 + 264px );
+// }
+body > div {
+  display: grid;
+
 }
 
 .label-grey {
