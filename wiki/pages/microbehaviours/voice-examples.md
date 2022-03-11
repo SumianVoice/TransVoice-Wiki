@@ -29,6 +29,9 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pit
 
 <!--  -->
 ## ♀️ Moriah Elizabeth
+{: .no_toc }
+Good for learning high pitch brightness and getting out of a low volume configuration.
+
 typical feminine
 {: .label .label-pink }
 creak
