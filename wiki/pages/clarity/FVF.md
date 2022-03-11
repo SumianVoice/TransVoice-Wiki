@@ -14,9 +14,12 @@ FVF or False Vocal Folds are the ventricular folds, just above the true vocal fo
 
 The false folds should not be activated in normal speech.
 
-There are commonly two problems associated with false fold constriction.
+There are commonly two problems associated with false fold constriction, FVF closure conflation and passiv FVF constriction.
 
-## FVF closure conflation
+<details open markdown="block">
+  <summary>
+    ## FVF closure conflation
+  </summary>
 This is where the false folds are constricted when we try to add true fold closure. If left unchecked it can be very difficult to remedy.
 There are signs of this that you can check on fortunately.
 ```
@@ -33,6 +36,7 @@ Good glottal taps:
 Constricted glottal taps:
 <audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
+</details>
 
 
 
