@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Spec</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/master.css">
+    <style media="screen">
+      canvas {
+        position: fixed;
+      }
+      body {
+        background: #222;
+      }
+      #alertPitch {
+        position: fixed;
+        transform: translateX(180px);
+        width: 100px;
+        height: 20px;
+        margin-top: 20px;
+        text-align: center;
+        resize: none;
+        background: rgba(200,200,200,0.3);
+        border: none;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- <audio id="alert" src="sound/alert.ogg"></audio> -->
+    <div id="div"></div>
+    <textarea id="alertPitch" name="minPitch" rows="8" cols="80" title="alert for min pitch">0</textarea>
+    <!-- input -->
+    <script src="js/interface/mouse.js"></script>
+    <!-- analyser -->
+    <script src="js/fft/fft.js"></script>
+    <script src="js/fft/FFTdata.js"></script>
+    <script src="js/fft/FFTdraw.js"></script>
+    <script src="js/fft/FFTanalyser.js"></script>
+    <script src="js/spectrogram/spectrogramDraw.js"></script>
+    <!-- gui -->
+    <script src="js/interface/guiButton.js"></script>
+    <!-- <script src="js/interface/iguiButton.js"></script> -->
+    <script src="js/interface/mouseControl.js"></script>
+    <script src="js/interface/interface.js"></script>
+    <script src="js/pitchTracker/pitchNotify.js"></script>
+    <script src="js/pitchTracker/noteFreq.js"></script>
+    <!-- factory -->
+    <!-- <script src="js/factory.js"></script> -->
+    <!-- main run loop -->
+    <script src="js/main.js"></script>
+  </body>
+</html>
