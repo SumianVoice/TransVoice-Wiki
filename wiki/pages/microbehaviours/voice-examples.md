@@ -30,16 +30,20 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium - brightness at low pit
 <!--  -->
 ## ♀️ Moriah Elizabeth
 typical feminine
+{: .label .label-pink }
 creak
+{: .label .label-grey }
 low pitch
-high intonation
-high volume
 {: .label .label-blue }
+high intonation
+{: .label .label-red }
+high volume
+{: .label .label-white }
 ```
-vocal weight 🥁 🟡 🟡 🟤 🟤 🟤 low w/ twang sometimes
-resonance     🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch               🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
-difficulty        💔 🟡 🟡 🟡 🟡 🟤 medium-hard
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low w/ twang sometimes
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+pitch          🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UzvqPVx0Jd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
