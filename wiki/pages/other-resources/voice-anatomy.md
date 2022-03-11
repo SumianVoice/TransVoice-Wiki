@@ -27,6 +27,7 @@ has_children: false
 - 13:20 arytenoid muscles - adduction
 - 13:57 posterior cricoarytenoid muscles - abduction
 - 14:25 lateral cricoarytenoid muscles - adduction
+{: .nolist}
 
 ## Notes:
 - The thyroid tilts in order to increase or decrease pitch, by stretching or relaxing the vocal folds.
