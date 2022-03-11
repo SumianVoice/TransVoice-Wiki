@@ -59,7 +59,7 @@ has a list of things and links to where they are found
 - covers all behaviours to do with phonation
 - vocal weight, pitch, closure, FVF, subglottal pressure, onsets, and microbehaviours are all under this umbrella
 - a catch all term for how the voice is produced
-- has a lot to do with [clarity](/wiki/pages/clarity) and tone purity / [HNR](#Harmonic to Noise Ratio (HNR))
+- has a lot to do with [clarity](/wiki/pages/clarity) and tone purity / [HNR](#harmonic-to-noise-ratio-hnr)
 
 ## Subharmonics
 - rough quality similar to creak/fry
