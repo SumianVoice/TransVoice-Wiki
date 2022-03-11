@@ -12,7 +12,7 @@ It's important to be aware at every stage of the possibility of falling into bad
 Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start.
 
 ## Lower [weight](/wiki/pages/vocal-weight) and raise pitch
-- avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [m2 / falsetto](/wiki/pages/mechanisms) for now
+- avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [m2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
 
 ## Raise [resonance](/wiki/pages/resonance) as needed
 - avoid [FVF](/wiki/pages/clarity/FVF) constriciton (old man / old woman voice)
@@ -20,31 +20,31 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 
 ## Practice speech patterns and [microbehaviours](/wiki/pages/microbehaviours)
+- find an [example](/wiki/pages/microbehaviours/voice-examples) of a voice you like
 - avoid emphasis with volume for feminine voices
 - vary tempo
 - intonation doesn't need to be super high, but it's worth practicing
 
 ## Clean up the voice
-
 If you're at this stage and you have any roughness in your voice, now's the time to sort it out. Going further will make it extremely difficult to unlearn later
 
-- reduce breathiness
+- reduce [breathiness](/wiki/pages/clarity/breathiness)
 - practice lighter onsets with glottal strikes
-- learn FVF retraction
+- learn [FVF](/wiki/pages/clarity/FVF) retraction
 - identify sources of tension and eliminate them
 - find or create your strategically lazy configuration
 
-## Get more pitch range
+## Get more [pitch range](/wiki/pages/pitch-range)
 - at first this means just using the voice at a higher pitch sometimes to stretch your range. Fatigue is normal, but strain is to be avoided. If tension in neck persists for more than a few seconds after stopping speech, then you should rest and reevaluate your methods
-- using m2 and making it stronger (sometimes called mix voice) is a good quick way to get tons of extra range
+- using [m2 and making it stronger](/wiki/pages/pitch-range/strong-m2) (sometimes called mix voice) is a good quick way to get tons of extra range
 - practice intonating progressively higher
 
-## Learn belting to be able to shout
+## Learn [belting](/wiki/pages/pitch-range/belting) to be able to shout
 - know what pressed phonation / hyperaduction sounds like and DON'T DO IT.
 - don't just do an ah vowel, do harder ones like eh
 - slowly reduce weight at your highest note in order to go even higher (will probably break at first)
 
-## Start mimicry
-- find a clip of a voice that is close to yours
+## Start [mimicry](/wiki/pages/microbehaviours/mimicry)
+- find a clip of a voice that is close to yours such as from [voice examples](/wiki/pages/microbehaviours/voice-examples)
 - put a beep sound at the beginning for timing
 - practice speaking over it as it plays and also listening and copying
