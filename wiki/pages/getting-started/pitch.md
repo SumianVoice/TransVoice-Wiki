@@ -26,6 +26,7 @@ So if pitch isn't important, why are low pitch feminine voices so hard? Well the
 Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when we're already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns), the microbehaviours / glottal behaviours fall apart.
 
 We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
+
 [Jackie Liu voice example](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
 
 
