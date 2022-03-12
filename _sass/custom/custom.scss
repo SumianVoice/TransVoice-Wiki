@@ -17,8 +17,10 @@
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
+
+// set the disclaimer to grey
 #site-nav > ul > li:last-child {
-  color: $grey-dk-200;
+  color: #646271;
 }
 // .side-bar {
 //   width: calc((100% - 1364px) / 2 + 264px);
