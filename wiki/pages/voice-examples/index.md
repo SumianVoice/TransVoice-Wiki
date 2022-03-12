@@ -326,27 +326,6 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 <!--  -->
 
 <!--  -->
-## imawonder
-Really good for learning brightness despite a very low pitch
-
-very bright
-{: .label .label-yellow }
-slightly heavy
-{: .label .label-blue }
-low pitch
-{: .label .label-red }
-```
-vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 medium (150hz - 250hz intonation, ~500hz peaks)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
-```
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<!--  -->
-
-<!--  -->
 ## The Narrator (Baldur's Gate)
 Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
 
