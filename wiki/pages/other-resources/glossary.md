@@ -92,40 +92,67 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
 - a component of "shouting posture"
 
-## Nasality
+## Hypernasality / Nasality
+- too much passage of air through the nose when phonating
 - darkens the sound and works as an antiformant
 - makes F1 and F2 almost nonexistant
 - can make vocal weight less prominent at higher pitches
 - nasal sounds should be the only muffled sounds when the nose is pinched, so you can read ?non-nasal passages to test for it
 
 ## Hyponasality
+- too little passage of air through the nose when phonating
 
-## Open Quotiant
+## Open Quotient
+- related to low [vocal weight](/wiki/pages/vocal-weight)
 
-## Closed Quotiant
+## Closed Quotient
+- related to high [vocal weight](/wiki/pages/vocal-weight)
 
 ## Larynx
+- houses the vocal folds
+- can be raised to get a brighter sound
+- the 'adam's apple' is outside of the thyroid cartilage, part of the larynx
 
 ## Register
+- see below
 
-## Laryngeal Vibratory Mechanism
+## [Laryngeal Vibratory Mechanism](/wiki/pages/other-resources/mechanisms)
+- describes how and how much of the vocal folds vibrates
 
 ### M0 - Vocal Fry
+- also known as
+  - pulse
+  - strohbass
+  - fry
+- is at the bottom of your range
+- sounds like an idling motorcycle
 
-### M1 - Mixed Voice
+### M1 - Modal voice
+- your normal speaking register
 
 ### M2 - Falsetto / Head Voice
+- high pitch, often hollow register
+- can be made less hollow with [strong M2](/wiki/pages/pitch-range/strong-m2)
 
 ### M3
+- whistle register
 
-## Resonance: Anything that changes sound quality or texture without changing the actual pitch of a note.
+## [Resonance](/wiki/pages/resonance)
+- changes the timbre or non-pitch qualities of a voice
+- is dependent on the size and shape of the vocal tract
 
 ## Phonate
+- verb: to produce a tone by making the vocal folds vibrate
+- requires both closure (adduction) and airflow
 
-## Placement
+## Placement (?)
+- to be added
 
 ## Embouchure
+- loosely describes resonance changes in the mouth
 
 ## Vocal Tract
+- the mouth, nose, larynx and pharynx; everything from the larynx up
 
 ## AES/Aryepiglottic Sphincter
+- associated with twang
