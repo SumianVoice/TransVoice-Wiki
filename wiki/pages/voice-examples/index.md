@@ -41,6 +41,50 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitc
 <!--  -->
 
 <!--  -->
+## imawonder
+Really good for learning brightness despite a very low pitch
+
+very bright
+{: .label .label-yellow }
+slightly heavy
+{: .label .label-blue }
+low pitch
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
+pitch          🎵 🟡 🟡 🟤 🟤 🟤 medium (150hz - 250hz intonation, ~500hz peaks)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
+## Nurse
+Perfect for learning a deep feminine voice at very (120hz) low pitch.
+
+very low pitch
+{: .label .label-red }
+smooth
+{: .label .label-blue }
+deep fem
+{: .label .label-grey }
+low resonance
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
+pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+<!--  -->
 ## Moriah Elizabeth
 Good for learning high pitch brightness and getting out of a low volume configuration.
 
@@ -299,29 +343,6 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
 ```
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<!--  -->
-
-<!--  -->
-## Nurse
-Perfect for learning a deep feminine voice at very (120hz) low pitch.
-
-very low pitch
-{: .label .label-red }
-smooth
-{: .label .label-blue }
-deep fem
-{: .label .label-grey }
-low resonance
-{: .label .label-blue }
-```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
-pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
-```
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
