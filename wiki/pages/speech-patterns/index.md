@@ -4,6 +4,9 @@ title: Speech Patterns
 nav_order: 8
 has_children: false
 ---
+```
+needs to mention mimicry and voice examples
+```
 
 # Speech Patterns
 <details open markdown="block">
@@ -31,7 +34,7 @@ Typical behaviours associated with masculine voices:
 - use of vocal weight to get more volume
 
 ## Example
-A random example of intonation just to show how different it can be.
+A random example of intonation just to show how different it can be when masculine and feminine voices are compared.
 ![Intonation](/img/intonation.jpg)
 
 ## Use of emotive phrases to train intonation and emphasis

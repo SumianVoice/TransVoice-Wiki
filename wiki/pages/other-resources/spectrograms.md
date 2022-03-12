@@ -5,6 +5,9 @@ parent: Other Resources
 nav_order: 3
 has_children: false
 ---
+```
+contains info about how to use spectrograms and read them and how they work to a small degree
+```
 
 # Spectrograms
 Spectrograms are cool!

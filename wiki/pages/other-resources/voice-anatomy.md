@@ -7,11 +7,11 @@ has_children: false
 ---
 
 # Sam Webster's video
-<details markdown="block">
+<details open markdown="block">
   <summary>
     Expand / Hide
   </summary>
-
+This video is a really good resource for anatomy information. It's recommended to watch the entire thing if you wish to know more about the anatomy of the voice. This is only about the larynx mind you. There are some notes and bookmarks below.
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mtqpyzS48zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -44,7 +44,7 @@ has_children: false
 
 </details>
 # Diagrams
-<details closed markdown="block">
+<details open markdown="block">
   <summary>
     Expand / Hide
   </summary>

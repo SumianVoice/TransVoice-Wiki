@@ -4,6 +4,9 @@ title: Resonance
 nav_order: 6
 has_children: false
 ---
+```
+need more info on exercises like BDSD
+```
 
 # Resonance
 ## What is Resonance

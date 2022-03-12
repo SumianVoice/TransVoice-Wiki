@@ -9,6 +9,7 @@ has_children: false
 # Glossary
 ```
 has a list of things and links to where they are found
+need to add more and better definitions
 ```
 <details open markdown="block">
   <summary>

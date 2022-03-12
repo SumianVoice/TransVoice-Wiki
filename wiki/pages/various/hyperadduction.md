@@ -6,12 +6,8 @@ nav_order: 12
 has_children: false
 ---
 
-# Hyperadduction Bad
-Don't do
-
-```
-explains what hyperadduction is and what are the common behavioural causes, and what problems it leads to
-```
+# Hyperadduction
+Don't do hyperadduction. 
 
 ## What hyperaduction sounds like
 Non-hyperadducted:

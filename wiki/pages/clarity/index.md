@@ -6,5 +6,6 @@ has_children: true
 ---
 
 # Clarity
-
-Stuff here too.
+```
+explains clarity and the concepts within it and why it's important
+```

@@ -10,10 +10,9 @@ Very! But, not in the way you think.
 
 There is a misconception that pitch is a big part or even the only reason masculine and feminine voices are different. There are a whole bunch of features that differ between a masculine and a feminine voice, and in fact, pitch isn't really in the equation at all.
 
-![pitch comparison](/img/spectropitchcomparison.png)
-
 Pitch is not a gendered factor. On its own it does not modify the gender presentation of a voice. In fact, there are plenty of voices as low as 120hz or even 90hz that are unmistakably feminine and voices as high as 250hz that are unmistakably masculine. Pitch as a part of your voice is basically not important.
 
+![pitch comparison](/img/spectropitchcomparison.png)
 
 ## So in what way _is_ pitch important?
 Put simply, a lot of exercises use pitch as a method of changing other factors. When we go up in pitch we usually lower [vocal weight](/wiki/pages/vocal-weight), which is useful in a pitch slide. So in essence, while pitch is not important to the way a voice is perceived, it _is_ important to the way we train our voices.
@@ -27,8 +26,9 @@ Even if we manage to keep our configuration together, the subtle ways we make th
 
 We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
 
-[Jackie Liu voice example](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
+[voice example - Jackie Liu](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
 
+[voice example - imawonder](/wiki/pages/voice-examples/#imawonder){: .btn .btn-green }
 
 
 

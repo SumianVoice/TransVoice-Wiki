@@ -9,6 +9,7 @@ has_children: false
 # How to Practice
 ```
 explains amount of time, frequency and what to practice
+need to add info in headers
 ```
 <details open markdown="block">
   <summary>

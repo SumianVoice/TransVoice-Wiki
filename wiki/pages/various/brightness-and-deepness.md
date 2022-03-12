@@ -5,6 +5,9 @@ parent: Big List of Stuff
 nav_order: 7
 has_children: false
 ---
+```
+explains features of and how to achieve brightness or deepness and the difference between them regardless of pitch
+```
 
 # Brightness vs Deepness
 _in female voices_

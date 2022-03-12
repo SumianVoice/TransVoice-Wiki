@@ -5,6 +5,10 @@ parent: Other Resources
 nav_order: 3
 has_children: false
 ---
+```
+more info on each category needed
+```
+
 
 # Vocal Health
 For obvious - and legal - reasons, no health advice is given on any pages on this site. All information here is hypothetical, and should not be implicitly trusted.

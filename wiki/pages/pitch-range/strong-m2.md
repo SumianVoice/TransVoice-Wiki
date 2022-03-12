@@ -8,5 +8,5 @@ nav_order: 2
 Also known as mixed voice
 
 ```
-talks about TA muscle activation and mechanisms
+talks about TA muscle activation and mechanisms, needs the workshop or a video linked
 ```
