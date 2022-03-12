@@ -19,9 +19,15 @@
 }
 
 // set the disclaimer to grey
-#site-nav > ul > li:last-child {
+#site-nav > ul > li:last-child > * {
   color: #646271;
 }
+
+// make no border for nav top
+.site-header {
+  border: none;
+}
+
 // .side-bar {
 //   width: calc((100% - 1364px) / 2 + 264px);
 // }
