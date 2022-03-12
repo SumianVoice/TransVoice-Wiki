@@ -14,4 +14,11 @@ A vocal mechanism or register is a distinct configuration of vocal fold interact
 - you can pass between mechanisms without a break with training
 
 ## M0 - fry
+fry {: .label .label-blue }
+strohbass {: .label .label-blue }
+pulse {: .label .label-blue }
+
+
 M0 or vocal fry is at the bottom of your vocal range. Try going to your lowest note, then relax a little and go lower. The rough sound similar to an idling motorcycle engine is from M0. This is when the folds are slack and the whole fold vibrates. This is often
+
+## M1 - modal voice
