@@ -19,6 +19,8 @@ Formants are areas of the voice that are highlighted because of the shape of the
 1. F1 is primarily thought to be a consequence of larynx position along with a few other factors
 2. F2 is primarily thought to be a consequence of mouth space
 
+![formants](/img/formants.png)
+
 When we make different vowels, we move our mouth to change these formants so that the space between them is different, and that's how we can tell what vowel someone is saying. Try saying "hat" and "hoot". Notice one sounds brighter and one darker. In "hoot" we make the mouth longer by pushing the lips out slightly, and so more space and longer tube = lower resonance.
 
 The following two sounds are at the same pitch (fundamental / F0), but at drastically different resonances. Larynx height isn't the only thing changing here, but it has the most impact.
