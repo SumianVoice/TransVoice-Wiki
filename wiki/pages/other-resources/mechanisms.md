@@ -6,9 +6,7 @@ nav_order: 7
 has_children: false
 ---
 
-# M1 M2 etc
-
-
+# Vocal Mechanisms
 A vocal mechanism or register is a distinct configuration of vocal fold interaction. Which, is a complicated way of saying...
 - vocal mechanisms are distinct, they don't overlap
 - they describe how the vocal folds vibrate
