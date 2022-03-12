@@ -13,3 +13,5 @@ Spectrograms are cool!
 
 ![How To Read A Spectrogram](/img/spectrogram.png)
 
+
+![Formants](/img/formants.png)
