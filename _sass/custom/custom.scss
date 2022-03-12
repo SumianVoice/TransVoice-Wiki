@@ -17,6 +17,9 @@
   margin-bottom: 10px;
   padding-bottom: 10px;
 }
+#site-nav > ul > li:last-child {
+  color: $grey-dk-200;
+}
 // .side-bar {
 //   width: calc((100% - 1364px) / 2 + 264px);
 // }
