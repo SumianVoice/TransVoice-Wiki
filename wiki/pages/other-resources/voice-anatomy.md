@@ -7,6 +7,11 @@ has_children: false
 ---
 
 # Sam Webster's video
+<details markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
+
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mtqpyzS48zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -36,3 +41,16 @@ has_children: false
 - The posterior cricoarytenoid muscles abduct (pull apart) the vocal folds, causing a breathy quality in voice.
 - The epiglottis helps encourage food and so on not to pass through the airway (but the vocal folds close as well when swallowing in order to be sure).
 - The lateral cricoarytenoid muscles adduct the folds
+
+</details>
+# Diagrams
+<details closed markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
+![larynx muscles](/img/diagram-larynx-intrinsic.jpg)
+![tongue muscles](/img/diagram-tongue.png)
+![neck muscles](/img/diagram-neck.jpg)
+![neck posterior](/img/diagram-neck-posterior.jpg)
+
+</details>

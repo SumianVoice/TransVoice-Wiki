@@ -6,7 +6,7 @@ has_children: false
 ---
 
 # List of Voice Communities
-This is of course not exhaustive! Help us fill this out, contact sumianvoice (gmail). Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first.
+This is of course not exhaustive! Help us fill this out and add more information about the servers; contact sumianvoice (gmail). Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first. 
 
 <details open markdown="block">
   <summary>
@@ -20,12 +20,12 @@ This is of course not exhaustive! Help us fill this out, contact sumianvoice (gm
 ## Voice Art Project
 <span class="fs-2"> [join on Discord](https://discord.gg/ahc5hb9zSk){: .btn } </span>
 
-The main maintainers of this site.
+The main maintainers of this site, open voice community run by Sumi
 - allows voice related advertising
 - anyone can teach or hold events there
-- server maintainer (Sumyjkl#7352) offers lessons
+- server maintainer (Sumyjkl#7352) offers paid lessons and two free lessons a week randomly selected from an open pool
 - has events and practice sessions
-- has "office hours" event where anyone can come and ask questions of teachers (as in, Sumyjkl)
+- has "office hours" event where anyone can come and ask questions of teachers and get help with their voice
 
 ## Scinguistics
 <span class="fs-2"> [join on Discord](https://discord.gg/w6Eb2tY){: .btn } </span>
@@ -38,6 +38,8 @@ Huge community with regular events
 <span class="fs-2"> [join on Discord](https://discord.gg/BPPMkDu){: .btn } </span>
 
 Discord server associated with the [r/TransVoice](http://reddit.com/r/transvoice/) community.
+- fairly active community
+- no official voice teachers
 
 ## Voice Training Emporium
 <span class="fs-2"> [join on Discord](https://discord.gg/rxksqd62Yu){: .btn } </span>
