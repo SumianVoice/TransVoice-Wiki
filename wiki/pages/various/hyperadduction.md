@@ -15,9 +15,9 @@ explains what hyperadduction is and what are the common behavioural causes, and 
 
 ## What hyperaduction sounds like
 Non-hyperadducted:
-`normal closure voice sample`
+<audio controls> <source src="/audio/tone-masc-normal.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 Hyperadducted:
-`hyperadducted voice sample`
+<audio controls> <source src="/audio/tone-masc-hyperadducted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 ## Causes
 Inexhaustive list.
