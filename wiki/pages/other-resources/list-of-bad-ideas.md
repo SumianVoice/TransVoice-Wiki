@@ -27,11 +27,9 @@ This is an evolving document like most of the site, so we're always looking for 
   </summary>
 
 ## Exercises
-
-
+### Swallow and hold
 dangerous
 {: .label .label-red }
-### Swallow and hold
 - often used to raise the larynx
 - risks extreme constriction of muscles not associated with phonation including [FVF](/wiki/pages/clarity/FVF)
 - strain, loss of vocal control, loss of [closure](/wiki/pages/clarity/breathiness), pain can result
@@ -42,9 +40,9 @@ dangerous
 - swallowing is fine, holding is not. Learning _what_ a larynx _is_ this way is fine, but it is absolutely paramount that you _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
 
+### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
 risky
 {: .label .label-yellow }
-### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
 - can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold closure
 - very, very hard to untrain if habitualised
 
