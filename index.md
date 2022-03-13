@@ -13,19 +13,18 @@ This project was started by Sumi and Emma. This is a fairly open resource so if 
 
 
 
-### Contributors
 
-#### Sumi
+## Contributors
+
+### Sumi
 Sumyjkl#7352 (Discord ID: 340353849414123523)
-
 - Creator of [Voice Art Project](/wiki/pages/communities/#voice-art-project) and main maintainer of this site.
 
-#### Emma
-`put your contacts here :p`
-
+### Emma
+Emma_ka#1178
 - Helped significantly with setting up and customising the github and theme side of the site and filling out some resource pages with info from existing sources.
 
-#### You, hopefully!
+### You, hopefully!
 `just pretend this says what you've added to the site`
 
 
@@ -38,4 +37,4 @@ Contact us or make a pull request.
 
 _I don't know how pull requests work_ - Sumi, 2022
 
-If you seem to know what you're doing and don't want to impose your particular pedagogy onto the site, then we'll just give you permissions to modify and add pages. 
+If you seem to know what you're doing and don't want to impose your particular pedagogy onto the site, then we'll just give you permissions to modify and add pages.
