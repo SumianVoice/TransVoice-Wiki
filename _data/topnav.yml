@@ -4,7 +4,7 @@
     type: "pages"
   values:
     layout: "page"
-    comments: true
+    comments: false
     search: true
     sidebar: home_sidebar
     topnav: topnav

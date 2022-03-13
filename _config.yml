@@ -7,7 +7,7 @@ color_scheme: darkOverride
 
 title: Voice Resource Project
 description: Resources for vocal feminisation
-baseurl: "/sumianvoice.github.io" # the subpath of your site, e.g. /blog
+# baseurl: "/sumianvoice.github.io" # the subpath of your site, e.g. /blog
 url: "https://sumianvoice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
