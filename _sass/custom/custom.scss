@@ -71,12 +71,12 @@ html {
 
 body {
   background-image: url("/img/header.png");
-  background-repeat: repeat-x;
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 #top {
-  background: rgba(60, 60, 60, 0.9);
+  background: rgba(60, 60, 70, 0.9);
   max-width: 100%;
 }
 #main-content {
