@@ -6,16 +6,22 @@ has_children: false
 nav_exclude: true
 ---
 
-
-
 # Voice Resource Repository
 This project was started by Sumi and Emma. This is a fairly open resource so if you have additions, suggestions or criticisms they are welcomed.
 
+## Mission Statement
+The main purpose of the collection is to provide information and where possible, direction, so that people have what they need to at least get started on changing their voice. It's also designed to be used as a reference centre for if people need to provide context or help or definitions to people.
 
+This resource is feminisation oriented, which means most of the resources assume you want to make your voice more feminine, but there are plenty of resources that are not specific to feminisation (such as [clarity](/wiki/pages/clarity)) and many of the exercises listed work in reverse with some minor alterations.
+
+
+## What About Masculinisation Resources?
+There are no definitive plans to add masculinisation resources, but it is definitely possible, as long as the resources are still simple to use for both masculinisation and feminisation and doesn't add confusion. There's also potential for adding a new section specifically for masculinisation or splitting it into categories. This, if it happens will be a long term goal.
+
+There isn't a whole lot of information out there about masculinisation so this would be a good addition if it does end up happening.
 
 
 ## Contributors
-
 ### Sumi
 Sumyjkl#7352 (Discord ID: 340353849414123523)
 - Creator of [Voice Art Project](/wiki/pages/communities/#voice-art-project) and main maintainer of this site.
