@@ -21,7 +21,9 @@ needs to be cleaned up and redrafted
 </details>
 
 ## What is vocal weight?
-Vocal weight is essentially a way of describing the amount of mass with which the vocal folds interact. Think of it like clapping our hands together. You can vary the speed our hands travel and this causes the sound to increase in volume. You could also tense the muscles in our hands so that when they do hit they have a more sudden and thus louder interaction. But, we can also use either only the tips of our fingers or the whole palm. The vocal folds are doing a similar thing. Since it's one of the most important and fundamental aspects of voice it's super useful to have good control over it.
+Vocal weight is a perceived quality of voice. Although it doesn't directly describe a physical modification, it does allude to one.
+
+It is essentially a way of describing the effect of the amount of mass with which the vocal folds interact. Think of it like clapping our hands together. You can vary the speed our hands travel and this causes the sound to increase in volume. You could also tense the muscles in our hands so that when they do hit they have a more sudden and thus louder interaction. But, we can also use either only the tips of our fingers or the whole palm. The vocal folds are doing a similar thing. Since it's one of the most important and fundamental aspects of voice it's super useful to have good control over it.
 
 Normally we might not affect vocal weight consciously at all, but there are ways to induce a change in it. Imagine you're clapping slowly as we described earlier. Now increase the rate with which we clap - as we go faster and faster we can't put as much force into it and so the force of each clap is lower. This is similar to the effect of low vocal weight. When we go up in pitch, the vocal folds are vibrating with a higher frequency, so of course, it's natural that the vocal weight tends to decrease when going to higher pitches, particularly when we don't try to force it and instead stay relaxed. This is the reason why pitch slides are such a great exercise for vocal weight.
 
@@ -29,7 +31,6 @@ It's important however to be aware that pitch is not the only way to affect weig
 
 
 ### Gender perception of vocal weight
-
 * Low vocal weight ➡️ ♀️ more feminine
 * High vocal weight ➡️ ♂️ more masculine
 
@@ -83,8 +84,7 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
 
 
 ### Using the 'sh' sound to control airflow amount
-
-/[Experimental/] Using the 'sh' sound to control airflow amount and then the 'dj' (like in jam) to go into voiced while still controlling airflow. This can be used to show the difference between heavy and light vocal weight. It isn't recommended for reducing vocal weight but it might be useful for isolating airflow volume vs vocal weight and pressed phonation.
+\[Experimental\] Using the 'sh' sound to control airflow amount and then the 'dj' (like in jam) to go into voiced while still controlling airflow. This can be used to show the difference between heavy and light vocal weight. It isn't recommended for reducing vocal weight but it might be useful for isolating airflow volume vs vocal weight and pressed phonation.
 
 \[Make an example clip for this \]
 
