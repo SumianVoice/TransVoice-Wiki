@@ -29,6 +29,7 @@ A vocal mechanism or register is a distinct configuration of vocal fold interact
 ![modal voice](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vocal_fold_scheme.svg/580px-Vocal_fold_scheme.svg.png)
 
 ## M0
+
 fry
 {: .label .label-blue }
 strohbass
@@ -42,6 +43,7 @@ M0 or vocal fry is at the bottom of your vocal range. Try going to your lowest n
 . below your lowest M1 note
 
 ## M1
+
 normal speech
 {: .label .label-blue }
 modal
@@ -57,6 +59,7 @@ M1 is your normal speaking register.
 
 
 ## M2
+
 falsetto
 {: .label .label-blue }
 mix
@@ -74,6 +77,7 @@ M2 is a usually hollow, very high pitch register.
 
 
 ## M3
+
 whistle
 {: .label .label-blue }
 flageolet
@@ -81,8 +85,23 @@ flageolet
 flute register
 {: .label .label-blue }
 
-There are different theories and typse of M3, but the main one is with mostly complete closure and a lot of tension, such that only a part of the folds vibrates.
+There are different theories and types of M3, but the main one is with mostly complete closure and a lot of tension, such that only a part of the folds vibrates.
 
+This type of M3 is called stop closure whistle by [Antonio Di Corcia and Franco Fussi's paper↗](https://www.francofussi.com/wp-content/uploads/WHISTLE-REGISTER-OF-THE-SINGING-VOICE.-HSDI-EVICENCE.pdf) which puts forward the following findings:
+
+**FLW - Female Laryngeal Whistle**
+    - _"very thin, stiff and tightly stretched vocal folds"_
+    - _"Often, no contact between the folds during phonation was noted"_
+**SCW – Stop Closure Whistle**
+    - _"the whistle sound depends on a tiny orifice at the anterior third of the folds"_
+    - caused by high adduction
+    - _"HSDI observation showed a total absence of vibration (normal periodic vibration) in any components of the vibrating system caused by the stop_closure phenomenon"_
+**IW - Ingressive Whistle**
+    - _"high activity of the adductor muscles"_
+    - _"absence of vibrating parts during ingressive phonation"_
+**Scream in M3**
+    - _"[...]very stretched, thin and stiff vocal folds and an high constriction of the false vocal folds"_
+    - _"[...]very further reduction of the mucosal wave vibration, very restricted to the edge of the fold"_
 
 
 
