@@ -5,6 +5,7 @@ parent: Other Resources
 nav_order: 4
 has_children: false
 ---
+{% include og.html %}
 ```
 more info on each category needed
 ```

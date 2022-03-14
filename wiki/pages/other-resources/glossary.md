@@ -5,6 +5,7 @@ parent: Other Resources
 nav_order: 1
 has_children: false
 ---
+{% include og.html %}
 
 # Glossary
 ```

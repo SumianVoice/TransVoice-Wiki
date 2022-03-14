@@ -4,6 +4,7 @@ title: Microbehaviours
 nav_order: 20
 has_children: true
 ---
+{% include og.html %}
 ```
 explains microbehaviours in some detail and particularly
 why they're useful to learn and how

@@ -5,6 +5,7 @@ parent: Other Resources
 nav_order: 11
 has_children: false
 ---
+{% include og.html %}
 
 # Sam Webster's video
 <details open markdown="block">

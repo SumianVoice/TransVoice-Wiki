@@ -4,6 +4,7 @@ title: Speech Patterns
 nav_order: 8
 has_children: false
 ---
+{% include og.html %}
 ```
 needs to mention mimicry and voice examples
 ```

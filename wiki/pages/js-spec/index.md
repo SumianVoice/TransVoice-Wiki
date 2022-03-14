@@ -4,6 +4,7 @@ title: In-Site Spectrogram
 nav_order: 100
 has_children: false
 ---
+{% include og.html %}
 # In-Site Spectrogram
 There is a js based spectrogram made by Sumi included in the site. It can be found below:
 

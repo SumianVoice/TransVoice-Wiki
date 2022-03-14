@@ -5,6 +5,7 @@ parent: Big List of Stuff
 nav_order: 8
 has_children: false
 ---
+{% include og.html %}
 ```
 need to fill in info, focusing on the pitch factor, and linking to brightness and deepness page
 ```

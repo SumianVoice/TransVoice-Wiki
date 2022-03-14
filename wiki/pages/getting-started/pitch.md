@@ -4,6 +4,7 @@ title: How Important is Pitch?
 parent: Getting Started
 nav_order: 5
 ---
+{% include og.html %}
 
 # How Important is Pitch?
 Very! But, not in the way you think.

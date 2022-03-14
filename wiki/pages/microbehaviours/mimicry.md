@@ -4,6 +4,7 @@ title: Mimicry
 parent: Microbehaviours
 nav_order: 2
 ---
+{% include og.html %}
 
 # Mimicry
 _a way to learn new microbehaviours_

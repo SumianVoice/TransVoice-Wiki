@@ -4,6 +4,7 @@ title: FVF
 parent: Clarity
 nav_order: 1
 ---
+{% include og.html %}
 
 # FVF
 FVF or False Vocal Folds are the ventricular folds, just above the true vocal folds. When stressed, swallowing or holding our breath tightly, these constrict and close to protect the true folds. In older voices, we hear FVF more because the true folds have atrophied and over time lost the ability to function correctly, so the false folds pick up the lost closure.

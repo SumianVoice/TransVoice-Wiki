@@ -5,9 +5,10 @@ parent: Big List of Stuff
 nav_order: 12
 has_children: false
 ---
+{% include og.html %}
 
 # Hyperadduction
-Don't do hyperadduction. 
+Don't do hyperadduction.
 
 ## What hyperaduction sounds like
 Non-hyperadducted:

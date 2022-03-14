@@ -4,6 +4,7 @@ title: Clarity
 nav_order: 7
 has_children: true
 ---
+{% include og.html %}
 
 # Clarity
 ```

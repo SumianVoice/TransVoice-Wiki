@@ -5,6 +5,7 @@ parent: Other Resources
 nav_order: 7
 has_children: false
 ---
+{% include og.html %}
 ```
 finish this section off with each mechanism and what people use to refer to it
 ```
