@@ -1,5 +1,6 @@
 
-$body-background-color: $grey-dk-200;
+// $body-background-color: $grey-dk-200;
+$body-background-color: rgb(80, 80, 90);
 $sidebar-color: $grey-dk-250;
 $border-color: transparent;
 
@@ -16,3 +17,51 @@ $code-background-color: $grey-dk-250;
 $search-background-color: $grey-dk-100;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
+
+// this is bad, and the source of all your problems in the future so
+// here are some tags "navbar nav margin navmargin navborder nav border"
+// ============================================================================
+// ===    navigation area
+// ============================================================================
+// set nave borders to break up categories
+#site-nav > ul > li:nth-child(1),
+#site-nav > ul > li:nth-child(9),
+#site-nav > ul > li:nth-child(13),
+#site-nav > ul > li:nth-child(5) {
+  border-bottom: 5px dotted #343;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+// set the disclaimer tab to grey
+#site-nav > ul > li:last-child > * {
+  color: #646271;
+}
+
+// ============================================================================
+// ===    top of site and search
+// ============================================================================
+// fix the text color of the search input, since it's not defined anywhere else
+.search-input {
+  color: #eee;
+}
+.search-input:focus {
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
