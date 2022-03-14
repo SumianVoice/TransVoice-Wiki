@@ -5,7 +5,7 @@ nav_order: 18
 has_children: false
 ---
 {% include og.html %}
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>
