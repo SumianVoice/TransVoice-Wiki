@@ -77,13 +77,16 @@ html {
   background: $grey-dk-300;
 }
 body {
+  // background-image: url("/img/header.jpg");
+  // background-repeat: no-repeat;
+  // background-size: contain;
+}
+#top {
+  // background: rgba(60, 60, 70, 0.9);
+  max-width: 100%;
   background-image: url("/img/header.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-}
-#top {
-  background: rgba(60, 60, 70, 0.9);
-  max-width: 100%;
 }
 #main-content {
   max-width: 800px;
@@ -97,19 +100,15 @@ body {
 #main-header > .search > .search-input {
   background: transparent;
 }
-
+// ---------------------------------
 #search-input:empty {
   background: rgba(100, 100, 100, 0.7);
-  border-radius: 0px 0px 40px 0px;
-}
-#search-input:empty {
-  background: rgba(100, 100, 100, 0.3);
   border-radius: 0px 0px 40px 0px;
   box-shadow: 4px 4px 5px rgba(40,40,40,0.5);
   transition: all 0.5s ease-in-out;
 }
 #search-input:focus {
-  background: rgba(100, 100, 100, 0.7);
+  background: rgba(100, 100, 100, 1);
   border-radius: 0px 0px 0px 0px;
   transition: all 0.5s ease-in-out;
 }
