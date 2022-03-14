@@ -10,7 +10,12 @@ nav_order: 2
 talks about TA muscle activation and mechanisms, needs the workshop or a video linked
 ```
 # Strong M2
-Usually when going into M2, we find a fairly hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to deactivate, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooyt and hollow sound.
+Usually when going into M2, we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to deactivate, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooyt and hollow sound.
+
+Passive M2
+<audio controls> <source src="/audio/tone-m2-passive.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+Active, strong M2:
+<audio controls> <source src="/audio/tone-m2-active.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 However, it is possible and very useful to train our M2 to sound more like M1 and be more full sounding. This is known as mix voice or strong M2.
 
@@ -19,6 +24,8 @@ However, it is possible and very useful to train our M2 to sound more like M1 an
 When we go into M2, we often deactivate the thyroarytenoid (TA) muscles. This can also happen in M1, and when in M1 it's often a result of doing pitch slides or humming exercises incorrectly. It can however be a useful tool in modifying certain voice characteristics, such as we will cover in this page.
 
 The TA muscles run the length of the vocal folds and when contracted bulk up the folds, pull the arytenoid cartilages and thyroid cartilage closer together and as a result of this, lower pitch.
+
+![muscles](/img/diagram-larynx-intrinsic.jpg)
 
 More TA muscle activation:
 - more vocal weight
@@ -37,7 +44,7 @@ When deactivated:
 ## Breath Support
 Breath support is a prerequisite of strong M2. Without it, we won't have the stability to traverse the M1/M2 break. Don't worry though, it's fairly easy to achieve.
 
-Start by making the _S_ sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
+Start by making the <i class="hlblue">S</b> sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
 
 All we need to do now is to control it when we're not doing the _S_ sound, so try on some other sounds like _AHH_  with a relaxed posture and a more supported one like we just did.
 
@@ -62,30 +69,38 @@ Now, remembering the 'almost yelling' configuration we had before, we will trans
 
 We can now test if we have TA activation and breath support by sliding down in pitch to a note low enough as to definitely not be in M2 such as 150hz. We need to do this very slowly so we can notice any breaks. You might find you lose some TA / weight when sliding down, in which case just try again and stay focused on keeping it consistent.
 
+We can then remove the vowel change from the equation and just go from hollow to active.
+
 ### Troubleshooting this exercise:
-> I become very unstable
+`I become very unstable`
 
 Instability is normal when _adding_ weight to M2, but if it's also accompanied by a harsh tone or buzziness, or if it stays around when you stop adding TA then it's probably [hyperaduction](/wiki/pages/various/hyperadduction).
 
-> I break when trying to add TA / weight
+`I break when trying to add TA / weight`
 
 It is possible the pitch is too low, going a little higher might help.
 
-> I feel like the tone is strained or I have trouble adding weight
+`I feel like the tone is strained or I have trouble adding weight`
 
-The pitch may be too high. It's best not to go above 400hz for most people. Hyperadduction tends to be the only way to add fullness above this range until more control is developed.
+The pitch may be too high. It's best not to go above 400hz for most people. [Hyperadduction](/wiki/pages/various/hyperadduction) tends to be the only way to add fullness above this range until more control is developed.
 
-> I'm at 300hz but I can't add weight
+`I'm at 300hz but I can't add weight`
 
 It could be that more control over weight in general is needed.
 
-> When I come down I drop suddenly in pitch and get very heavy
+`When I come down I drop suddenly in pitch and get very heavy`
 
-It could be that your M1 is too high in [vocal weight](/wiki/pages/vocal-weight) and needs to be trained to be lighter.
-
-
+It could be that your M1 is too high in [vocal weight](/wiki/pages/vocal-weight) and needs to be trained to be lighter before learning strong M2.
 
 
+# Other Resources
+TA muscles in relation to belting.
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GI4vPNLT7a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+Strong M2 Workshop by Sumi:
+[link on Google Drive](https://drive.google.com/file/d/19gdaBC4ECDBajFYUV7JbbJT6pAoUr64H/view?usp=sharing)
 
 
 
