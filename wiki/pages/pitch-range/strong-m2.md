@@ -44,9 +44,9 @@ When deactivated:
 ## Breath Support
 Breath support is a prerequisite of strong M2. Without it, we won't have the stability to traverse the M1/M2 break. Don't worry though, it's fairly easy to achieve.
 
-Start by making the <i class="hlblue">S</i> sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
+Start by making the <b class="hlblue">S</b> sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
 
-All we need to do now is to control it when we're not doing the _S_ sound, so try on some other sounds like _AHH_  with a relaxed posture and a more supported one like we just did.
+All we need to do now is to control it when we're not doing the <b class="hlblue">S</b> sound, so try on some other sounds like <b class="hlblue">AHH</b>  with a relaxed posture and a more supported one like we just did.
 
 
 ## How to Train TA Muscle Activation
@@ -61,11 +61,11 @@ It may be worth trying phonating in a low volume yell and a medium volume relaxe
 
 
 ## Putting it Together with OOOAAA
-Now we are going to go into M2 at for example 300hz, and we'll start at a very hollow and hooty configuration. We want a fairly dark vowel so let's use _O_ like in _SORT_.
+Now we are going to go into M2 at for example 300hz, and we'll start at a very hollow and hooty configuration. We want a fairly dark vowel so let's use <b class="hlblue">O</b> like in <b class="hlblue">SORT</b>.
 
 It's important to note that it is possible to add [hyperaduction](/wiki/pages/various/hyperadduction) to this if trying too much or trying to get too loud. Usually, when adding hyperaduction the voice will become extremely unstable and break immediately, but it's good to remember to be careful not to hyperadduct.
 
-Now, remembering the 'almost yelling' configuration we had before, we will transition from _O_ to a brighter vowel _A_ as in _BAT_. This can be called the _OOOAAA_ exercise. We will go from a hollow hooty sound to a brighter, more active sound. It may take a few tries and some experimentation to get it to happen.
+Now, remembering the 'almost yelling' configuration we had before, we will transition from <b class="hlblue">O</b> to a brighter vowel <b class="hlyellow">A</b> as in <b class="hlyellow">BAT</b>. This can be called the <b class="hlgreen">OOOAAA</b> exercise. We will go from a hollow hooty sound to a brighter, more active sound. It may take a few tries and some experimentation to get it to happen. 
 
 We can now test if we have TA activation and breath support by sliding down in pitch to a note low enough as to definitely not be in M2 such as 150hz. We need to do this very slowly so we can notice any breaks. You might find you lose some TA / weight when sliding down, in which case just try again and stay focused on keeping it consistent.
 
