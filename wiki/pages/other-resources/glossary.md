@@ -75,9 +75,9 @@ HNR is the description of essentially how noisy a voice is. We have harmonics - 
 ![HNR](/img/hnr.png)
 
 Primary sources of low Harmonic to Noise ratio:
-    ・abduction (breathiness)
-    ・FVF constriction
-    ・vocal fry and creak
+・abduction (breathiness)
+・FVF constriction
+・vocal fry and creak
 
 ## Breath Support
 - low support voices are typically unstable and fluctuate in pitch uncontrollably, may flip between m1 and M2 unpredictably
