@@ -10,7 +10,7 @@ nav_order: 2
 talks about TA muscle activation and mechanisms, needs the workshop or a video linked
 ```
 # Strong M2
-Usually when going into M2, we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to deactivate, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooyt and hollow sound.
+Usually when going into M2, we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to deactivate, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooty and hollow sound.
 
 Passive M2
 <audio controls> <source src="/audio/tone-m2-passive.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
@@ -27,6 +27,7 @@ The TA muscles run the length of the vocal folds and when contracted bulk up the
 
 ![muscles](/img/diagram-larynx-intrinsic.jpg)
 
+### Some Generalisations
 More TA muscle activation:
 - more vocal weight
 - more 'full' sound
@@ -37,7 +38,7 @@ When deactivated:
 - very low vocal weight
 - a tendency to suddenly jump in vocal weight
 - lack of lower pitch range
-- very hooty, dark sound
+- very hooty, <b class="hlblue">dark</b> sound
 - more M1/M2 break if started deactivation in M2
 
 
@@ -65,7 +66,7 @@ Now we are going to go into M2 at for example 300hz, and we'll start at a very h
 
 It's important to note that it is possible to add [hyperaduction](/wiki/pages/various/hyperadduction) to this if trying too much or trying to get too loud. Usually, when adding hyperaduction the voice will become extremely unstable and break immediately, but it's good to remember to be careful not to hyperadduct.
 
-Now, remembering the 'almost yelling' configuration we had before, we will transition from <b class="hlblue">O</b> to a brighter vowel <b class="hlyellow">A</b> as in <b class="hlyellow">BAT</b>. This can be called the <b class="hlgreen">OOOAAA</b> exercise. We will go from a hollow hooty sound to a brighter, more active sound. It may take a few tries and some experimentation to get it to happen. 
+Now, remembering the 'almost yelling' configuration we had before, we will transition from <b class="hlblue">O</b> to a brighter vowel <b class="hlyellow">A</b> as in <b class="hlyellow">BAT</b>. This can be called the <b class="hlgreen">OOOAAA</b> exercise. We will go from a hollow hooty sound to a brighter, more active sound. It may take a few tries and some experimentation to get it to happen.
 
 We can now test if we have TA activation and breath support by sliding down in pitch to a note low enough as to definitely not be in M2 such as 150hz. We need to do this very slowly so we can notice any breaks. You might find you lose some TA / weight when sliding down, in which case just try again and stay focused on keeping it consistent.
 
