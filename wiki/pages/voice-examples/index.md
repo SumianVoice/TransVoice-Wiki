@@ -53,7 +53,7 @@ low pitch
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 medium (150hz - 250hz intonation, ~500hz peaks)
+pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500hz peaks)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
 ```
 <p align="left">
