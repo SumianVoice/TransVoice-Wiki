@@ -12,6 +12,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 talks about how to modify the gender of various non-speech elements
 ```

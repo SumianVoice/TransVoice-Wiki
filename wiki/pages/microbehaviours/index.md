@@ -12,6 +12,7 @@ has_children: true
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains microbehaviours in some detail and particularly
 why they're useful to learn and how

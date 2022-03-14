@@ -12,6 +12,7 @@ nav_order: 5
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # How Important is Pitch?
 Very! But, not in the way you think.
 

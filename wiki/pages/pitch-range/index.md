@@ -12,6 +12,7 @@ has_children: true
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # Pitch Range
 ```
 explains both m1 and m2 range expansion and the use of mixed/strong m2

@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # Sam Webster's video
 <details open markdown="block">
   <summary>

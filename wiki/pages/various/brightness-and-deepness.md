@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains features of and how to achieve brightness or deepness and the difference between them regardless of pitch
 ```

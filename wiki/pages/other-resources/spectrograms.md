@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 contains info about how to use spectrograms and read them and how they work to a small degree
 ```

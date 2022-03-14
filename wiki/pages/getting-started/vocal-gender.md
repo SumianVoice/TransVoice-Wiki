@@ -12,6 +12,7 @@ nav_order: 5
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains dif between fem and masc voices, effect of T, andro voices etc.
 ```

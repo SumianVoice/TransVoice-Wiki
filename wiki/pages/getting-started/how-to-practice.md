@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # How to Practice
 ```
 explains amount of time, frequency and what to practice

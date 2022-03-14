@@ -12,6 +12,7 @@ nav_order: 3
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains creak and its effect
 ```

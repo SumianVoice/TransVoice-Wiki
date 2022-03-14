@@ -12,6 +12,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 needs to mention mimicry and voice examples
 ```

@@ -12,6 +12,7 @@ nav_order: 2
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # Mimicry
 _a way to learn new microbehaviours_
 

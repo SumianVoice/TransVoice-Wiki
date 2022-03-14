@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # Glossary
 
 ## FVF, False Vocal Folds and constriction

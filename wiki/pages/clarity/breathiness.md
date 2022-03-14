@@ -12,6 +12,7 @@ nav_order: 2
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains breathiness and its effect on the voice
 ```

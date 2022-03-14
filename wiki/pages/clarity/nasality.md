@@ -12,6 +12,7 @@ nav_order: 4
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains nasality and its effect
 ```

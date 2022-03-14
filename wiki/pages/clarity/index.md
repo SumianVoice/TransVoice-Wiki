@@ -12,6 +12,7 @@ has_children: true
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 # Clarity
 ```
 explains clarity and the concepts within it and why it's important

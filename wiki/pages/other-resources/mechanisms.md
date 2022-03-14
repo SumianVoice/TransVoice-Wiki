@@ -13,6 +13,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 finish this section off with each mechanism and what people use to refer to it
 ```

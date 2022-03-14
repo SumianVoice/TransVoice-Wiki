@@ -12,6 +12,7 @@ nav_order: 2
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains hard and soft and aspirate onsets
 and mentions closure and weight relationship

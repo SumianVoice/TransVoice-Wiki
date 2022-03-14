@@ -12,6 +12,7 @@ nav_order: 2
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 explains belting and warns against pressed phonation
 ```

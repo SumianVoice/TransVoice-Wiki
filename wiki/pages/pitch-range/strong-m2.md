@@ -12,6 +12,7 @@ nav_order: 2
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 talks about TA muscle activation and mechanisms, needs the workshop or a video linked
 ```

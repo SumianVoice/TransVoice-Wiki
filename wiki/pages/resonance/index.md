@@ -12,6 +12,7 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
+</details>
 ```
 need more info on exercises like BDSD
 ```
