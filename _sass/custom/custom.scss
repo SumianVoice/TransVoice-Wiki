@@ -76,6 +76,10 @@ body {
 
 #top {
   background: rgba(60, 60, 60, 0.9);
+  max-width: 100%;
+}
+#main-content {
+  max-width: 800px;
 }
 #main-header {
   background: transparent;
