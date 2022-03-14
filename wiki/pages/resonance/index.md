@@ -4,6 +4,7 @@ title: Resonance
 nav_order: 6
 has_children: false
 ---
+<meta content="https://sumianvoice.github.io/img/header.jpg" property="og:image">
 ```
 need more info on exercises like BDSD
 ```
