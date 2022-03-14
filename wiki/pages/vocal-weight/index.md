@@ -10,8 +10,6 @@ need more on exercises and more visual aids to break up the wall of text
 needs to be cleaned up and redrafted
 ```
 
-INCLUDE ACTIVE
-
 # Vocal Weight
 <details open markdown="block">
   <summary>
