@@ -7,6 +7,7 @@ color_scheme: darkOverride
 
 title: Voice Resource Project
 description: Resources for vocal feminisation
+image: "https://sumianvoice.github.io/img/header.jpg"
 # baseurl: "/sumianvoice.github.io" # the subpath of your site, e.g. /blog
 url: "https://sumianvoice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -14,6 +15,8 @@ url: "https://sumianvoice.github.io" # the base hostname & protocol for your sit
 #
 
 aux_links:
+  "Discord Server":
+    - "https://sumianvoice.github.io/wiki/pages/communities/#voice-art-project"
   "This Project on GitHub":
     - "https://github.com/SumianVoice/sumianvoice.github.io"
 
