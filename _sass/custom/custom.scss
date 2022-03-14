@@ -60,3 +60,48 @@
 .nolist > * {
   list-style: none;
 }
+
+
+
+
+// adds a background to the top of the page
+html {
+  background: $grey-dk-300;
+}
+
+body {
+  background-image: url("/img/header.png");
+  background-repeat: repeat-x;
+}
+
+#top {
+  background: rgba(60, 60, 60, 0.9);
+}
+#main-header {
+  background: transparent;
+}
+#main-header > .search {
+  background: rgba(100, 100, 100, 0.7);
+}
+#main-header > .search > .search-input {
+  background: transparent;
+}
+#search-input {
+  background: rgba(100, 100, 100, 0.7);
+  border-radius: 0px 20px 20px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
