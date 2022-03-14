@@ -23,10 +23,6 @@ There are commonly two problems associated with false fold constriction, FVF clo
 
 
 ## FVF closure conflation
-<details open markdown="block">
-  <summary>
-    Collapse / Expand
-  </summary>
 This is where the false folds are constricted when we try to add true fold closure. If left unchecked it can be very difficult to remedy.
 There are signs of this that you can check on fortunately.
 ```
@@ -43,15 +39,10 @@ Good glottal taps:
 Constricted glottal taps:
 <audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
-</details>
 
 
 
 ## Passive FVF Constriction
-<details open markdown="block">
-  <summary>
-    Collapse / Expand
-  </summary>
 This is where the voice constantly sound rough and hoarse. We can check for passive FVF in a few ways.
 ```
 video/audio example of fvf constriction
@@ -69,9 +60,6 @@ Good hum:
 <audio controls> <source src="/audio/hum unconstricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 Constricted hum:
 <audio controls> <source src="/audio/hum constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-
-</details>
-
 
 
 
