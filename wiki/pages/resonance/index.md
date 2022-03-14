@@ -5,6 +5,13 @@ nav_order: 6
 has_children: false
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 need more info on exercises like BDSD
 ```

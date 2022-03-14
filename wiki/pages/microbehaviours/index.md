@@ -5,6 +5,13 @@ nav_order: 20
 has_children: true
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 explains microbehaviours in some detail and particularly
 why they're useful to learn and how

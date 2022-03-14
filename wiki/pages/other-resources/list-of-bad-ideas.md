@@ -6,16 +6,13 @@ nav_order: 12
 has_children: false
 ---
 {% include og.html %}
-
 <details closed markdown="block">
   <summary>
-    Table of Contents
+    Table of contents
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
-</details>
-
 # List of Bad Ideas
 Below is a very incomplete list of just some of the vocal training methods that are either extremely questionable or downright dangerous. Each is ranked and information about how to avoid the risks if possible is included.
 

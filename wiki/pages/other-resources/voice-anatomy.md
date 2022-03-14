@@ -6,7 +6,13 @@ nav_order: 11
 has_children: false
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # Sam Webster's video
 <details open markdown="block">
   <summary>

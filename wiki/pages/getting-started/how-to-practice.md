@@ -6,7 +6,13 @@ nav_order: 10
 has_children: false
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # How to Practice
 ```
 explains amount of time, frequency and what to practice

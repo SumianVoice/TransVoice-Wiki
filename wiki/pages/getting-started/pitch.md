@@ -5,7 +5,13 @@ parent: Getting Started
 nav_order: 5
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # How Important is Pitch?
 Very! But, not in the way you think.
 

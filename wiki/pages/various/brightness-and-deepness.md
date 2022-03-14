@@ -6,6 +6,13 @@ nav_order: 7
 has_children: false
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 explains features of and how to achieve brightness or deepness and the difference between them regardless of pitch
 ```

@@ -11,7 +11,7 @@ needs to be cleaned up and redrafted
 ```
 
 # Vocal Weight
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>

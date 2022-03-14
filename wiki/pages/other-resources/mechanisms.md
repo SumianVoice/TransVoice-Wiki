@@ -6,6 +6,13 @@ nav_order: 7
 has_children: false
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 finish this section off with each mechanism and what people use to refer to it
 ```

@@ -5,7 +5,13 @@ parent: Pitch Range Expansion
 nav_order: 2
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 talks about TA muscle activation and mechanisms, needs the workshop or a video linked
 ```

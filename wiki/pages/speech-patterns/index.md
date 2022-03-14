@@ -5,19 +5,18 @@ nav_order: 8
 has_children: false
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 needs to mention mimicry and voice examples
 ```
 
 # Speech Patterns
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Gendered patterns
 Typical behaviours associated with feminine voices:

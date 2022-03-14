@@ -6,20 +6,14 @@ nav_order: 1
 has_children: false
 ---
 {% include og.html %}
-
-# Glossary
-```
-has a list of things and links to where they are found
-need to add more and better definitions
-```
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Table of contents
   </summary>
 {: .text-delta }
-- TOC
+1. TOC
 {:toc}
-</details>
+# Glossary
 
 ## FVF, False Vocal Folds and constriction
 - "white noise" quality in background is louder and may be present even when not breathy

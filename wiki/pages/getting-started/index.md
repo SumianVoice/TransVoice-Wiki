@@ -5,7 +5,13 @@ nav_order: 2
 has_children: true
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # Getting Started
 
 Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start. However, before we get into that, let's get some things straight.

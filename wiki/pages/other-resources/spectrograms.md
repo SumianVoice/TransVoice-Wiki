@@ -6,6 +6,13 @@ nav_order: 3
 has_children: false
 ---
 {% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 ```
 contains info about how to use spectrograms and read them and how they work to a small degree
 ```

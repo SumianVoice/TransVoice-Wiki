@@ -5,7 +5,13 @@ nav_order: 7
 has_children: true
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # Clarity
 ```
 explains clarity and the concepts within it and why it's important

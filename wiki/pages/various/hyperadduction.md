@@ -6,7 +6,13 @@ nav_order: 12
 has_children: false
 ---
 {% include og.html %}
-
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
 # Hyperadduction
 Don't do hyperadduction.
 
