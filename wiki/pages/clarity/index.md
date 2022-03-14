@@ -20,6 +20,14 @@ We have harmonics - which are the horizontal lines in the image - and then there
 ![HNR](/img/hnr.png)
 
 Primary sources of low Harmonic to Noise ratio:
-・abduction (breathiness)
-・FVF constriction
-・vocal fry and creak
+- abduction (breathiness)
+- FVF constriction
+- vocal fry and creak
+
+## Covers
+Covers are anything that 'covers up' or disguises a part of a voice or acts to modify the overall quality of the voice. An example is nasality.
+
+Common covers:
+- nasality
+- tongue root retraction (stitch voice)
+- M2 or [TA deactivation]()

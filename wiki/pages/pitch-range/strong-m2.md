@@ -44,7 +44,7 @@ When deactivated:
 ## Breath Support
 Breath support is a prerequisite of strong M2. Without it, we won't have the stability to traverse the M1/M2 break. Don't worry though, it's fairly easy to achieve.
 
-Start by making the <i class="hlblue">S</b> sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
+Start by making the <i class="hlblue">S</i> sound. Start off normal, then add a bit more air pressure to get a louder sound. If the chest and abdomen  muscles tense slightly, you have breath support.
 
 All we need to do now is to control it when we're not doing the _S_ sound, so try on some other sounds like _AHH_  with a relaxed posture and a more supported one like we just did.
 
