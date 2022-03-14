@@ -13,7 +13,7 @@ There is a js based spectrogram made by Sumi included in the site. It can be fou
 </span>
 
 ## How To Read a Spectrogram
-[See explaination here](https://sumianvoice.github.io/wiki/pages/other-resources/spectrograms.html)
+[See explanation here](https://sumianvoice.github.io/wiki/pages/other-resources/spectrograms.html)
 
 
 ## Pitch floor
