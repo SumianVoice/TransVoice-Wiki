@@ -4,7 +4,7 @@ title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
-{% include general/og.html %}
+{% include og.html %}
 ```
 need more on exercises and more visual aids to break up the wall of text
 needs to be cleaned up and redrafted
