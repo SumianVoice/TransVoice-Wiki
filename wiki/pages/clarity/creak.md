@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creak and Fry
+title: Creak
 parent: Clarity
 nav_order: 3
 ---
@@ -20,6 +20,7 @@ Creak, sometimes called [fry](/wiki/pages/other-resources/mechanisms.html#m0) is
 
 You can see it pretty clearly on a spectrogram. Notice the noise and roughness:
 
+Example of a very creaky voice:
 ![spec-creak](/img/spec-creak.jpg)
 
 Creak and fry (M0) are distinct.
