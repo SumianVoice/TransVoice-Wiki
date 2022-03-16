@@ -47,4 +47,4 @@ These mostly come about in the long term.
 1. stop training immediately
 2. rest
 3. do very light SOVTEs such as humming, to the point of failing to maintain phonation for at most 20 minutes a day until the hyperaduction habit is gone
-4. learn your limits and stay mostly within them - don't push your voice to be loud or high in pitch, don't to belting
+4. learn your limits and stay mostly within them - don't push your voice to be loud or high in pitch, don't do belting
