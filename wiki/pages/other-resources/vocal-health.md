@@ -4,6 +4,7 @@ title: Vocal Health
 parent: Other Resources
 nav_order: 4
 has_children: false
+nav_exclude: true
 ---
 {% include og.html %}
 <details closed markdown="block">

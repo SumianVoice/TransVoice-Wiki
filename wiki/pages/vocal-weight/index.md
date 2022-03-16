@@ -5,12 +5,6 @@ nav_order: 5
 has_children: false
 ---
 {% include og.html %}
-```
-need more on exercises and more visual aids to break up the wall of text
-needs to be cleaned up and redrafted
-```
-
-# Vocal Weight
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -19,7 +13,11 @@ needs to be cleaned up and redrafted
 1. TOC
 {:toc}
 </details>
-
+<!-- ```
+need more on exercises and more visual aids to break up the wall of text
+needs to be cleaned up and redrafted
+``` -->
+# Vocal Weight
 ## What is vocal weight?
 Vocal weight is a perceived quality of voice. Although it doesn't directly describe a physical modification, it does allude to one.
 

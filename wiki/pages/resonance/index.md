@@ -13,10 +13,6 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-```
-need more info on exercises like BDSD
-```
-
 # Resonance
 ## What is Resonance
 Every space has a resonance frequency. When a sound passes through that space, frequencies near the resonance frequency of the space are highlighted. You can hear this when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.

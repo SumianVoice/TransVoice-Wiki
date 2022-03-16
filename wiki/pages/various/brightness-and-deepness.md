@@ -15,7 +15,7 @@ has_children: false
 {:toc}
 </details>
 ```
-explains features of and how to achieve brightness or deepness and the difference between them regardless of pitch
+placeholder: explains features of and how to achieve brightness or deepness and the difference between them regardless of pitch
 ```
 
 # Brightness vs Deepness

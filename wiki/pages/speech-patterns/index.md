@@ -13,12 +13,7 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-```
-needs to mention mimicry and voice examples
-```
-
 # Speech Patterns
-
 ## Gendered patterns
 Typical behaviours associated with feminine voices:
 - higher range of intonation

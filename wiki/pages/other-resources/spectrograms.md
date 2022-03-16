@@ -15,7 +15,7 @@ has_children: false
 {:toc}
 </details>
 ```
-contains info about how to use spectrograms and read them and how they work to a small degree
+placeholder: info about how to use spectrograms and read them and how they work to a small degree
 ```
 
 # Spectrograms

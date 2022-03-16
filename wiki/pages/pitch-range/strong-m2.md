@@ -13,9 +13,6 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
-```
-talks about TA muscle activation and mechanisms, needs the workshop or a video linked
-```
 # Strong M2
 Usually when going into M2, we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to deactivate, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooty and hollow sound.
 
