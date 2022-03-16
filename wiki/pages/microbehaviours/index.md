@@ -13,10 +13,6 @@ has_children: true
 1. TOC
 {:toc}
 </details>
-```
-explains microbehaviours in some detail and particularly
-why they're useful to learn and how
-```
 # Microbehaviours
 You can call it a voice print.
 Microbehaviours are how to describe aspects of voice that are too small to individually explain or consciously train. When we think about glottal behaviour, which is just a fancy way of saying _the intricate ways we make sound go brr_, it contains things as big as vocal weight and as small as [onsets](/wiki/pages/clarity/onsets). So what's smaller and harder to affect than something as tiny as onsets? Well, microbehaviours.
