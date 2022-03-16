@@ -15,18 +15,7 @@ has_children: false
 {:toc}
 </details>
 # How to Practice
-```
-explains amount of time, frequency and what to practice
-need to add info in headers
-```
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
+Training is a very individual circumstance dependent thing, and some people might practice more or less, in different ways or be working on different things. Ask the question _"is what I'm doing in the direction of the the thing I want to be doing more of in the future"_. If the answer is yes, keep doing it. 
 
 ## The fundamental laws of voice training
 1. The more you use a configuration the more consistent it will become
@@ -47,7 +36,7 @@ As well, there is this process that can be used to do more or less of a certain 
 3. Try to isolate it so you don't change anything else
 
 ## Time
+A good balance is to practice exercises for 5-10 minutes, and up to a few hours of trained voice use per day. This is very much dependent on your level and the particular things that are occurring in your voice.
 
 ## Frequency
-
-## What To Practice
+Doing short periods of exercises (2-5min) several times a day is a good method. It can be best to avoid spending all your time training, but also to not go more than a few days without at least using the voice.
