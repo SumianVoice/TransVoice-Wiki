@@ -14,11 +14,9 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-```
+<!-- ```
 finish this section off with each mechanism and what people use to refer to it
-```
-
-
+``` -->
 # Vocal Mechanisms
 A vocal mechanism or register is a distinct configuration of vocal fold interaction. Which, is a complicated way of saying...
 - vocal mechanisms are distinct, they don't overlap
