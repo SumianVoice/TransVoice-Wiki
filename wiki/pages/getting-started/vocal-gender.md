@@ -13,9 +13,6 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
-```
-explains dif between fem and masc voices, effect of T, andro voices etc.
-```
 # Differences between masculine and feminine voices
 There are many differences between masculine voices and feminine voices.
 There's also a huge spectrum of voice types and modifications, which makes comparing them almost pointless. However, some generalisations can be made, and we can look at specific voice features and their effect on vocal gender.
