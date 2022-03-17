@@ -14,7 +14,7 @@ nav_order: 2
 {:toc}
 </details>
 # List of Microbehaviours
-These are mostly very vague for now, since not much is known about what is actually happening. There are no terms available that can describe most of these so it won't be like _"vocal weight"_ or _"resonance"_, it will be more like _"that thing that happens that makes voices that are low pitch sound bright and higher in pitch than they actually are"_
+These are mostly very vague for now, since not much is known about what is actually happening. There are no terms available that can describe most of these so it won't be like _"vocal weight"_ or _"resonance"_, it will be more like _"that thing that happens that makes voices that are low pitch sound bright and higher in pitch than they actually are"_. This will be added to with more information as time goes on.
 ## Low pitch brightness
 This might not be a microbehaviour and instead just be something as simple as adding twang.
 
