@@ -17,6 +17,8 @@ has_children: false
 # Hyperadduction
 Don't do hyperadduction.
 
+Hyperadduction is when the vocal folds are pressed too firmly together. The result is a damaging - when done for too long - and grating voice quality. 
+
 ## What hyperaduction sounds like
 Non-hyperadducted:
 <audio controls> <source src="/audio/tone-masc-normal.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>

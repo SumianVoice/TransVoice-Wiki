@@ -15,9 +15,9 @@ has_children: false
 </details>
 # Resonance
 ## What is Resonance
-Every space has a resonance frequency. When a sound passes through that space, frequencies near the resonance frequency of the space are highlighted. You can hear this when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
+Every space has a resonance frequency. When a sound passes through that space, frequencies in the sound near the resonance frequency of the space are highlighted. You can hear the resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
 
-Think of the larynx as the level of water in the bottle. The higher the larynx, the higher the resonance. When in voice, an area that is highlighted because of a resonant frequency is called a formant.
+Think of the larynx as the level of water in the bottle. The higher the larynx, the higher the resonance. When in voice, an area that is highlighted because of a resonance frequency is called a formant.
 
 
 ## Formants
