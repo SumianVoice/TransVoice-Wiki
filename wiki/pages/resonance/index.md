@@ -38,12 +38,39 @@ Low resonance sound:
 High resonance sound:
 <audio controls> <source src="/audio/tone-highpitch-highresonance.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
+# Types of Resonance Modification
+## Larynx Height
+Since the larynx houses the vocal folds, moving it up shortens the vocal tract and raises resonance. The sound is created further up the vocal tract.
 
+## Vowel Shape
+Vowels change formants. By changing the mouth shape we can access different vowels but also increase or decrease overall resonance.
+
+## OPC and OPE
+### OPC - Oropharyngeal closure
+The back of the mouth, the palatopharyngeal arch can constrict to become a tighter space, which increases resonance. This can also encourage tongue root retraction which contributes to a cartoonish quality (commonly heard in anime).
+### OPE - Oropharyngeal expansion
+Likewise, it can be expanded to lower resonance.
+
+## Twang*
+There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality.
+
+Comparing not twangy meow sound with a twangy one:
+<audio controls> <source src="/audio/twang-meow-compare.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+Comparing loudness from airflow with loudness from twang:
+<audio controls> <source src="/audio/twang-airflow-compare.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 ## Exercises
-
+To raise resonance in general, using a combination of modifications.
 ### Big Dog Small Dog
 1. Imitate a big dog panting
 2. Try to imitate a smaller and smaller dog, raising the 'pitch' (it's not actually pitch) of the whisper
 3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
   - avoid going too high in pitch
+
+### Voiced Resonance Slide
+Related: kyo kya
+
+
+
+### Kyo Kya
+This is mostly for learning OPC
