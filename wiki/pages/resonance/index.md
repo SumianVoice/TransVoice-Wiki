@@ -67,10 +67,20 @@ To raise resonance in general, using a combination of modifications.
 3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
   - avoid going too high in pitch
 
+### Whisper Sirens
+These are the same as big dog small dog, but without panting, just a constant stream of air going from low resonance to high or vice versa. 
+
 ### Voiced Resonance Slide
 Related: kyo kya
 
+A voiced resonance slide can be difficult because we'll want to change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
+
+With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
+
+How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the larynx, and then when some control is achieved, try and try again to move the larynx without moving pitch. Focus on the pitch sound.
 
 
 ### Kyo Kya
 This is mostly for learning OPC
+
+Kyo Kya is a voiced resonance exercise where we start on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
