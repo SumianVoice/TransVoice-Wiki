@@ -44,6 +44,6 @@ Contact us or make a pull request.
 
 _I don't know how pull requests work_ - Sumi, 2022
 
-
+Pull requests are pretty easy. [Here's an article↗](https://opensource.com/article/19/7/create-pull-request-github) about making changes with a pull request.
 
 If you seem to know what you're doing and don't want to impose your particular pedagogy onto the site, then we'll just give you permissions to modify and add pages.
