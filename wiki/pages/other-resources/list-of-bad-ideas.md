@@ -35,14 +35,14 @@ dangerous
 - recommended by some very old resources and occasionally SLPs
 
 #### To avoid risks
-- don't do it
-- swallowing is fine, holding is not. Learning _what_ a larynx _is_ this way is fine, but it is absolutely paramount that you _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
+- don't do it at all
+- swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
 
 ### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
 risky
 {: .label .label-yellow }
-- can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold closure
+- can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold [closure](/wiki/pages/clarity/breathiness)
 - very, very hard to untrain if habitualised
 
 #### To avoid risks
