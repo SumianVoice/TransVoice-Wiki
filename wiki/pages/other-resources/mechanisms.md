@@ -27,7 +27,7 @@ A vocal mechanism or register is a distinct configuration of vocal fold interact
 ![modal voice](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vocal_fold_scheme.svg/580px-Vocal_fold_scheme.svg.png)
 
 ## M0
-
+<p></p>
 fry
 {: .label .label-blue }
 strohbass
@@ -41,7 +41,7 @@ M0 or vocal fry is at the bottom of your vocal range. Try going to your lowest n
 - below your lowest M1 note
 
 ## M1
-
+<p></p>
 normal speech
 {: .label .label-blue }
 modal
@@ -57,7 +57,7 @@ M1 is your normal speaking register.
 
 
 ## M2
-
+<p></p>
 falsetto
 {: .label .label-blue }
 mix
@@ -75,7 +75,7 @@ M2 is a usually hollow, very high pitch register.
 
 
 ## M3
-
+<p></p>
 whistle
 {: .label .label-blue }
 flageolet
