@@ -14,6 +14,9 @@ has_children: false
 1. TOC
 {:toc}
 </details>
+# Voice Anatomy
+While usually unnecessary to train our voices, being aware of the physical changes happening in the vocal tract can provide useful context. 
+
 # Sam Webster's video
 <details open markdown="block">
   <summary>

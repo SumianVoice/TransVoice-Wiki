@@ -36,9 +36,9 @@ pulse
 {: .label .label-blue }
 
 M0 or vocal fry is at the bottom of your vocal range. Try going to your lowest note, then relax a little and go lower. The rough sound similar to an idling motorcycle engine is from M0. This is when the folds are slack and the whole fold vibrates.
-. slack folds
-. whole fold vibrates
-. below your lowest M1 note
+- slack folds
+- whole fold vibrates
+- below your lowest M1 note
 
 ## M1
 
@@ -50,8 +50,8 @@ chest voice
 {: .label .label-blue }
 
 M1 is your normal speaking register.
-. where most people speak the majority of the time
-. most of the vocal folds vibrates
+- where most people speak the majority of the time
+- most of the vocal folds vibrates
 
 ![modal voice](https://upload.wikimedia.org/wikipedia/commons/e/eb/Vocal_fold_animated.gif)
 
@@ -66,10 +66,10 @@ head voice
 {: .label .label-blue }
 
 M2 is a usually hollow, very high pitch register.
-. sometimes has a gap between folds / lack of closure
-. very high pitch
-. usually the TA muscles deactivate except in [strong m2](/wiki/pages/pitch-range/strong-m2) practice
-. mostly just mucosa of the folds vibrates
+- sometimes has a gap between folds / lack of closure
+- very high pitch
+- usually the TA muscles deactivate except in [strong m2](/wiki/pages/pitch-range/strong-m2) practice
+- mostly just mucosa of the folds vibrates
 
 ![modal voice](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vocal_fold_falsett_animated.gif)
 
@@ -84,6 +84,8 @@ flute register
 {: .label .label-blue }
 
 There are different theories and types of M3, but the main one is with mostly complete closure and a lot of tension, such that only a part of the folds vibrates.
+- mostly only a small part of the folds vibrates and only the mucosa
+- usually starts at 1000hz and can go as high as 5000hz or more.
 
 This type of M3 is called stop closure whistle by [Antonio Di Corcia and Franco Fussi's paper↗](https://www.francofussi.com/wp-content/uploads/WHISTLE-REGISTER-OF-THE-SINGING-VOICE.-HSDI-EVICENCE.pdf) which puts forward the following findings:
 

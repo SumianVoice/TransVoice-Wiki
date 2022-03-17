@@ -29,4 +29,4 @@ The way we vet resources is by asking these questions:
 
 Essentially, we want information and methods that work, and as long as there aren't any risks associated with it, then that's useful information.
 
-If you experience any problems with any methods whether listed on the site or not, there's a big list [here](/wiki/pages/other-resources/list-of-bad-ideas). We welcome any new information.
+If you experience any problems with any methods whether listed on the site or not, there's a list [here](/wiki/pages/other-resources/list-of-bad-ideas). We welcome any new information.

@@ -42,7 +42,6 @@ In other words, while microbehaviours don't matter much in typically feminine vo
 Learning to do a low pitch feminine voice or a high vocal weight one can actually help significantly with getting a more natural configuration, because we are forced to learn more feminine speech patterns and microbehaviours.
 
 ## Voice examples
-
 ### imawonder
 Really good for learning brightness despite a very low pitch
 
@@ -62,7 +61,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Nurse
+### Nurse
 Perfect for learning a deep feminine voice at very (120hz) low pitch.
 
 very low pitch
