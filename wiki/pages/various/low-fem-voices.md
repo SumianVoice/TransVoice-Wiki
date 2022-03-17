@@ -7,9 +7,6 @@ has_children: false
 nav_exclude: false
 ---
 {% include og.html %}
-```
-need to fill in info, focusing on the pitch factor, and linking to brightness and deepness page
-```
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -20,7 +17,6 @@ need to fill in info, focusing on the pitch factor, and linking to brightness an
 </details>
 # How to do Low Fem Voices
 ## And why low pitch is difficult
-[link to an explanation](/wiki/pages/getting-started/pitch.html#why-low-pitch-voices-are-hard)
 While pitch is not a gendered factor there are several hurdles to overcome in order to achieve a low pitch feminine voice.
 ## Vocal weight
 Vocal weight is much harder to keep light at a low pitch. To achieve a low pitch feminine voice, we need a very high level of control over vocal weight.

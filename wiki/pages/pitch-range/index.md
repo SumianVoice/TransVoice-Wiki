@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pitch Range Expansion
+title: Pitch Range
 nav_order: 25
 has_children: true
 ---
