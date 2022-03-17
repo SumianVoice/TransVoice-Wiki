@@ -7,9 +7,6 @@ has_children: false
 nav_exclude: false
 ---
 {% include og.html %}
-```
-need to fill in info, focusing on the pitch factor, and linking to brightness and deepness page
-```
 <details closed markdown="block">
   <summary>
     Table of contents
