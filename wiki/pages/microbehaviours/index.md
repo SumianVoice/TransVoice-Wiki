@@ -21,7 +21,7 @@ has_children: true
 You can call it a voice print.
 Microbehaviours are how to describe aspects of voice that are too small to individually explain or consciously train. When we think about glottal behaviour, which is just a fancy way of saying _the intricate ways we make sound go brr_, it contains things as big as vocal weight and as small as [onsets](/wiki/pages/clarity/onsets). So what's smaller and harder to affect than something as tiny as onsets? Well, microbehaviours.
 
-When you take a feminine voice, lower the pitch, make it heavier in [vocal weight](/wiki/pages/vocal-weight) and drop the [resonance](/wiki/pages/resonance) a bit, you expect to hear a typical masculine sound. So, why is it then that sometimes we hear voices just like this that are feminine? Why is it that we also sometimes hear voices just like this that are masculine, even though they have the same basic characteristics. The answer is - _probably_ - microbehaviours.
+When you take a feminine voice, lower the pitch, make it heavier in [vocal weight](/wiki/pages/vocal-weight) and drop the [resonance](/wiki/pages/resonance) a bit, you expect to hear a typical masculine sound. So, why is it then that sometimes we hear [voices just like this](/wiki/pages/voice-examples/#imawonder) that are feminine? Why is it that we also sometimes hear voices just like this that are masculine, even though they have the same basic characteristics. The answer is - _probably_ - microbehaviours.
 
 
 # How to learn microbehaviours
