@@ -100,12 +100,15 @@ It could be that your M1 is too high in [vocal weight](/wiki/pages/vocal-weight)
 
 # Other Resources
 TA muscles in relation to belting.
+
+
+Strong M2 Workshop by Sumi:
+[link on Google Drive](https://drive.google.com/file/d/19gdaBC4ECDBajFYUV7JbbJT6pAoUr64H/view?usp=sharing){: .btn .btn-green }
+
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GI4vPNLT7a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Strong M2 Workshop by Sumi:
-[link on Google Drive](https://drive.google.com/file/d/19gdaBC4ECDBajFYUV7JbbJT6pAoUr64H/view?usp=sharing)
 
 
 
