@@ -16,7 +16,6 @@ nav_order: 1
 # FVF
 FVF or False Vocal Folds are the ventricular folds, just above the true vocal folds. When stressed, swallowing or holding our breath tightly, these constrict and close to protect the true folds. In older voices, we hear FVF more because the true folds have atrophied and over time lost the ability to function correctly, so the false folds pick up the lost closure.
 
-
 The false folds should not be activated in normal speech.
 
 There are commonly two problems associated with false fold constriction, FVF closure conflation and passiv FVF constriction.
@@ -25,9 +24,9 @@ There are commonly two problems associated with false fold constriction, FVF clo
 ## FVF closure conflation
 This is where the false folds are constricted when we try to add true fold closure. If left unchecked it can be very difficult to remedy.
 There are signs of this that you can check on fortunately.
-```
+<!-- ```
 video on false fold closure checks, glottal taps and strikes
-```
+``` -->
 ### Checking for FVF Closure Issues
 1. hold your breath as lightly as possible.
 2. breath out (you should notice a very slight pop)
@@ -40,14 +39,11 @@ Constricted glottal taps:
 <audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 
-
-
 ## Passive FVF Constriction
 This is where the voice constantly sound rough and hoarse. We can check for passive FVF in a few ways.
-```
+<!-- ```
 video/audio example of fvf constriction
-```
-
+``` -->
 
 ### Using light phonation
 1. use a very light humming sound
@@ -56,7 +52,7 @@ video/audio example of fvf constriction
   - yes -> probably constricted
   - no -> probably not constricted
 
-Good hum:
+Unconstricted hum:
 <audio controls> <source src="/audio/hum unconstricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 Constricted hum:
 <audio controls> <source src="/audio/hum constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>

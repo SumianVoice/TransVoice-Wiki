@@ -15,9 +15,9 @@ nav_order: 5
 </details>
 # Differences between masculine and feminine voices
 There are many differences between masculine voices and feminine voices.
-There's also a huge spectrum of voice types and modifications, which makes comparing them almost pointless. However, some generalisations can be made, and we can look at specific voice features and their effect on vocal gender.
+There's also a huge spectrum of voice types and modifications, which makes comparing them generally almost untenable. However, some generalisations can be made, and we can look at specific voice features and their effect on vocal gender.
 
-In a very basic matter of speaking, when people hear a voice they subconsciously ask themselves _"what is the closest gender category that this falls in"_. There are no magic numbers or min/maxing, only vague descriptions.
+In a very basic matter of speaking, when people hear a voice they subconsciously ask themselves <i class="hlblue">"what is the closest gender category that this falls in"</i>. There are no magic numbers or min/maxing, only vague descriptions.
 
 # Effects of testosterone
 The primary effects of testosterone on the voice are:
