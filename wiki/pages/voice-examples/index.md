@@ -13,8 +13,7 @@ has_children: false
 1. TOC
 {:toc}
 
-
-# ♀️ Feminine Voice List ♀️
+# Feminine Voice List
 
 </details>
 <details open markdown="block">
