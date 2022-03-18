@@ -350,14 +350,39 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 </details>
 <!-- End of fem voices! -->
 
+<!-- Start of masc voices! -->
+# ♂️ Masculine Voices ♂️
+<details open markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
+<!-- voice block -->
+## Frank Proto
+Dynamic, mostly high pitch, lots of intonation, fast tempo
+
+medium high pitch
+{: .label .label-blue }
+heavy
+{: .label .label-yellow }
+vocal fry
+{: .label .label-grey }
+roughness
+{: .label .label-red }
+```
+vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium high
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 250hz, base ~150hz)
+difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (heavy vocal weight)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/I-mWa_GqIEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
 
 
 
-
-
-
-
-
+</details>
+<!-- End of masc voices! -->
 
 
 
