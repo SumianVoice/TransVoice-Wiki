@@ -15,7 +15,13 @@ has_children: false
 {:toc}
 </details>
 # How to Practice
-Training is a very individual circumstance dependent thing, and some people might practice more or less, in different ways or be working on different things. Ask the question _"is what I'm doing in the direction of the the thing I want to be doing more of in the future"_. If the answer is yes, keep doing it. 
+Training is a very individual circumstance dependent thing, and some people might practice more or less, in different ways or be working on different things. Ask the question _"is what I'm doing in the direction of the the thing I want to be doing more of in the future"_. If the answer is yes, keep doing it.
+
+In general, focus on practice more than exercises. That is, don't spend all your time doing pitch slides or resonance exercises and not speaking. Fundamentally, speaking is what you want to be able to do, and you get good at the things you do. You don't get good at the things you avoid.
+
+Pay attention to the sound of your voice, listen back to recordings regularly, and listen to voices you like or are in the direction you want your own voice to go as much as possible.
+
+Practicing more regularly for less time is sometimes ideal. Burnout can happen, and it's common to get stuck doing the same things and expecting different results. If something is consistently not working, it might be time to try something else. 
 
 ## The fundamental laws of voice training
 1. The more you use a configuration the more consistent it will become
