@@ -12,10 +12,9 @@ has_children: false
 {: .text-delta }
 1. TOC
 {:toc}
-
-# Feminine Voice List
-
 </details>
+
+# ♀️ Feminine Voice List ♀️
 <details open markdown="block">
   <summary>
     Expand / Hide
