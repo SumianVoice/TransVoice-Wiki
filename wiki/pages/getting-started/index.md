@@ -35,12 +35,6 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 - when going out of an unvoiced slide, do so fluidly, avoid pauses that can let you reset to a lower larynx position
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 
-## Practice speech patterns and [microbehaviours](/wiki/pages/microbehaviours)
-- find an [example](/wiki/pages/voice-examples) of a voice you like
-- avoid emphasis with volume for feminine voices
-- vary tempo
-- intonation doesn't need to be super high, but it's worth practicing
-
 ## Clean up the voice
 If you're at this stage and you have any roughness in your voice, now's the time to sort it out. Going further will make it extremely difficult to unlearn later
 
@@ -49,6 +43,12 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - learn [FVF](/wiki/pages/clarity/FVF) retraction
 - identify sources of tension and eliminate them
 - find or create your strategically lazy configuration
+
+## Practice speech patterns
+- find an [example](/wiki/pages/voice-examples) of a voice you like
+- avoid emphasis with volume for feminine voices
+- vary tempo
+- intonation doesn't need to be super high, but it's worth practicing
 
 ## Get more [pitch range](/wiki/pages/pitch-range)
 - at first this means just using the voice at a higher pitch sometimes to stretch your range. Fatigue is normal, but strain is to be avoided. If tension in neck persists for more than a few seconds after stopping speech, then you should rest and reevaluate your methods
@@ -60,7 +60,7 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - don't just do an ah vowel, do harder ones like eh
 - slowly reduce weight at your highest note in order to go even higher (will probably break at first)
 
-## Start [mimicry](/wiki/pages/microbehaviours/mimicry)
-- find a clip of a voice that is close to yours such as from [voice examples](/wiki/pages/voice-examples)
+## Start [mimicry](/wiki/pages/microbehaviours/mimicry) and learn [microbehaviours](/wiki/pages/microbehaviours)
+- find a clip of a voice such as from [voice examples](/wiki/pages/voice-examples) that is not outside your pitch or resonance range
 - put a beep sound at the beginning for timing
 - practice speaking over it as it plays and also listening and copying
