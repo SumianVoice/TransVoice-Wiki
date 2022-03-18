@@ -35,6 +35,7 @@ The primary effects of testosterone on the voice are:
 - high intonation range and frequency
 - lots of tempo changes through speech
 - pitch used as emphasis
+
 ## Typical features of masculine voices
 - heavy in vocal weight
 - low to medium in resonance
