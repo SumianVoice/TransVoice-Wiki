@@ -52,7 +52,7 @@ The back of the mouth, the palatopharyngeal arch can constrict to become a tight
 Likewise, it can be expanded to lower resonance.
 
 ## Twang*
-There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality.
+There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality. This can add some brightness to a voice when added in very small amounts, so that we can go from a dark, soft sound to a bright crisp sound. It's especially useful when imitating low pitch bright voices, and getting loudness at medium to high pitch without adding vocal weight. 
 
 Comparing not twangy meow sound with a twangy one:
 <audio controls> <source src="/audio/twang-meow-compare.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
@@ -68,7 +68,7 @@ To raise resonance in general, using a combination of modifications.
   - avoid going too high in pitch
 
 ### Whisper Sirens
-These are the same as big dog small dog, but without panting, just a constant stream of air going from low resonance to high or vice versa. 
+These are the same as big dog small dog, but without panting, just a constant stream of air going from low resonance to high or vice versa.
 
 ### Voiced Resonance Slide
 Related: kyo kya
