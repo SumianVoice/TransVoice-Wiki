@@ -32,13 +32,23 @@ Aspirate onset:
 Hard onsets have a sudden attack and often are slightly louder than the rest of the sound.
 
 These can sound harsh, and also have a tendency to bring out heavy vocal weight.
+- pressed folds > airflow > phonation
+- vocal folds start closed, pressed firmly together
+- needs more pressure to _start_ phonation than to continue it, leading to a burst
 
 ## Soft onsets
 Soft onsets have either a sudden attack or a slight ramp and are consistent with the rest of the sound.
 
 These are usually a little cleaner sounding than hard onsets.
+- lightly closed folds > airflow > phonation
+- vocal folds start closed, pressed only very lightly together
+- only needs as much pressure as is needed in phonation, making the voice more consistent
 
 ## Aspirate onsets
 Aspirate onsets start breathy and then go to phonation. "Haa" is an aspirate onset.
 
 These typically are associated with breathiness.
+- open folds > airflow > adding closure > phonation
+- vocal folds start open and close in order to start phonation
+- can encourage breathiness
+- can discourage proper vocal fold closure at rest (rare)
