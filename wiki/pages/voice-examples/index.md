@@ -13,13 +13,15 @@ has_children: false
 1. TOC
 {:toc}
 
+
 # ♀️ Feminine Voice List ♀️
+
 </details>
 <details open markdown="block">
   <summary>
     Expand / Hide
   </summary>
-<!-- voice example block -->
+
 ## Drawing With Waffles
 Good for learning more varied speech patterns, and for training medium pitch brightness.
 
