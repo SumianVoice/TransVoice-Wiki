@@ -24,11 +24,11 @@ There isn't a whole lot of information out there about masculinisation so this w
 
 ## Contributors
 ### Sumi
-Sumyjkl#7352 (Discord ID: 340353849414123523)
+Sumyjkl#7352 (Discord ID: 340353849414123523) [website](https://sumianvoice.com)
 - Creator of [Voice Art Project](/wiki/pages/communities/#voice-art-project) and main maintainer of this site.
 
 ### Emma
-Emma_ka#1178
+Emma_ka#1178 [github](https://github.com/Nanrin)
 - Helped significantly with setting up and customising the github and theme side of the site and filling out some resource pages with info from existing sources.
 
 ### You, hopefully!
@@ -37,7 +37,7 @@ Emma_ka#1178
 
 ## How to contribute
 ### The easy way
-Contact any of the maintainers, such as Sumi through Discord or email (sumianvoice at gmail) with the page and what you suggest changing and why.
+Contact any of the maintainers, such as Sumi through Discord or email (sumianvoice at gmail) with the page URL, what you suggest changing and why.
 
 ### The less easy way
 Contact us or make a pull request.
