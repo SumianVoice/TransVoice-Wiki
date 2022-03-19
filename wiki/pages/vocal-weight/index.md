@@ -31,6 +31,8 @@ It is essentially a way of describing the sound quality caused by the amount of 
 
 Normally we might not affect vocal weight consciously at all, but there are ways to induce a change in it. Imagine you're clapping slowly as we described earlier. Now increase the rate with which we clap - as we go faster and faster we can't put as much force into it and so the force of each clap is lower. This is similar to the effect of low vocal weight. When we go up in pitch, the vocal folds are vibrating with a higher frequency, so of course, it's natural that the vocal weight tends to decrease when going to higher pitches, particularly when we don't try to force it and instead stay relaxed. This is the reason why pitch slides are such a great exercise for vocal weight.
 
+![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
+
 It's important however to be aware that pitch is not the only way to affect weight. You can isolate it and get low weight at a low pitch for example or high weight at a high pitch. This extra control is very useful - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
 
 
@@ -90,7 +92,6 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
 3. each time, go down to a higher pitch, working your way up to about 220hz or A3
 4. each time, make sure you check that when you go to higher resonance, it doesn't go too heavy
 
-\[example clip\]
 
 <!--
 ### Vocal weight gradients
@@ -106,11 +107,6 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
  -->
 
 # Other Info
-## Vocal weight comparison on an FFT spectrogram
-
-![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
-
-
 ## Vocal Weight and Airflow
 Higher vocal weight requires more subglottal pressure, but not more airflow. This can seem a little counter intuitive, but we can increase air pressure without increasing airflow, since that airflow pressure is resisted by the folds. This extra resistance by the folds is what allows them to vibrate with more mass. If the airflow skipped over the folds, then they wouldn't have the energy to move in the high vocal fold mass configuration.
 - more vocal weight requires more pressure but not airflow
