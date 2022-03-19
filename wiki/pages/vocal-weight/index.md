@@ -98,12 +98,12 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
 
 ### Volume isolated gradients
  -->
-
+<!--
 ## Using the 'sh' sound to control airflow amount
 \[Experimental\] Using the 'sh' sound to control airflow amount and then the 'dj' (like in jam) to go into voiced while still controlling airflow. This can be used to show the difference between heavy and light vocal weight. It isn't recommended for reducing vocal weight but it might be useful for isolating airflow volume vs vocal weight and pressed phonation.
 
 \[Make an example clip for this \]
-
+ -->
 
 # Other Info
 ## Vocal weight comparison on an FFT spectrogram
