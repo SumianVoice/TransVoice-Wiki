@@ -18,7 +18,7 @@ FVF or False Vocal Folds are the ventricular folds, just above the true vocal fo
 
 The false folds should not be activated in normal speech.
 
-There are commonly two problems associated with false fold constriction, FVF closure conflation and passiv FVF constriction.
+There are commonly two problems associated with false fold constriction, FVF closure conflation and passive FVF constriction.
 
 
 ## FVF closure conflation
