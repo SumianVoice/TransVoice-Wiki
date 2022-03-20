@@ -76,24 +76,25 @@ We can now test if we have TA activation and breath support by sliding down in p
 
 We can then remove the vowel change from the equation and just go from hollow to active.
 
-### Troubleshooting this exercise:
-`I become very unstable`
+### Troubleshooting this exercise
+
+#### I become very unstable
 
 Instability is normal when _adding_ weight to M2, but if it's also accompanied by a harsh tone or buzziness, or if it stays around when you stop adding TA then it's probably [hyperaduction](/wiki/pages/various/hyperadduction).
 
-`I break when trying to add TA / weight`
+#### I break when trying to add TA / weight
 
 It is possible the pitch is too low, going a little higher might help.
 
-`I feel like the tone is strained or I have trouble adding weight`
+#### I feel like the tone is strained or I have trouble adding weight
 
 The pitch may be too high. It's best not to go above 400hz for most people. [Hyperadduction](/wiki/pages/various/hyperadduction) tends to be the only way to add fullness above this range until more control is developed.
 
-`I'm at 300hz but I can't add weight`
+#### I'm at 300hz but I can't add weight
 
 It could be that more control over weight in general is needed.
 
-`When I come down I drop suddenly in pitch and get very heavy`
+#### When I come down I drop suddenly in pitch and get very heavy
 
 It could be that your M1 is too high in [vocal weight](/wiki/pages/vocal-weight) and needs to be trained to be lighter before learning strong M2.
 
