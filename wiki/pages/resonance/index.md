@@ -52,7 +52,7 @@ The back of the mouth, the palatopharyngeal arch can constrict to become a tight
 Likewise, it can be expanded to lower resonance.
 
 ## Twang*
-There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality. This can add some brightness to a voice when added in very small amounts, so that we can go from a dark, soft sound to a bright crisp sound. It's especially useful when imitating low pitch bright voices, and getting loudness at medium to high pitch without adding vocal weight. 
+There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality. This can add some brightness to a voice when added in very small amounts, so that we can go from a dark, soft sound to a bright crisp sound. It's especially useful when imitating low pitch bright voices, and getting loudness at medium to high pitch without adding vocal weight.
 
 Comparing not twangy meow sound with a twangy one:
 <audio controls> <source src="/audio/twang-meow-compare.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
@@ -84,3 +84,20 @@ How to learn it is essentially to first do voiced resonance slides, and drag the
 This is mostly for learning OPC
 
 Kyo Kya is a voiced resonance exercise where we start on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
+
+
+## Note on TH and SH Muscles
+As a generalisation, when raising the larynx as a result of raising pitch, only the thyrohyoid muscles raise the larynx. Often when training resonance we use both the thyrohyoid muscles and the stylohyoid muscles. The stylohyoid muscles do add some resonance, but it typically isn't as much as from the thyrohyoid muscles.
+
+![tongue and larynx](/img/diagram-tongue.png)
+_The stylohyoid runs from top right middle to the hyoid bone, thyrohyoid runs from hyoid to the larynx (thyroid)._
+
+If we have a situation in which the resonance cannot go above around 700hz F1 (/.ae/ vowel) then it's highly likely that only the stylohyoid muscles are being activated. It can be useful then to use high pitch to gain activation of the thyrohyoid muscles and then lower pitch while trying to maintain that configuration.
+
+
+
+
+
+
+
+<!--  -->
