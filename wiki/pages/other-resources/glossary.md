@@ -17,7 +17,6 @@ has_children: false
 # Glossary
 Below is a list of voice related words and the concepts relating to them, links and definitions where available.
 
-
 # Sound Production Related
 <details open markdown="block">
   <summary>
@@ -36,7 +35,6 @@ Below is a list of voice related words and the concepts relating to them, links 
 ## Closed Quotient
 - related to high [vocal weight](/wiki/pages/vocal-weight)
 - how long in each glottal cycle (each flap of the folds) the folds are closing
-
 </details>
 <!-- ======================================================================================================= -->
 # Pitch and Range Related
@@ -83,7 +81,6 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - can help with more general (not breath specifically) support to the voice to make it more robust
 - can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
 - a component of "shouting posture"
-
 </details>
 <!-- ======================================================================================================= -->
 # Resonance Related
@@ -121,7 +118,6 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - F2 is considered a mouth caused feature
 - F3 is from the difference in size between the mouth and the space between the teeth, mostly between the teeth and tongue
 - F4 is from the same but lips
-
 </details>
 <!-- ======================================================================================================= -->
 # Clarity Related
@@ -150,7 +146,6 @@ Primary sources of low Harmonic to Noise ratio:
 ・abduction (breathiness)
 ・FVF constriction
 ・vocal fry and creak
-
 </details>
 <!-- ======================================================================================================= -->
 # Exercise and Training Related
@@ -169,7 +164,6 @@ Primary sources of low Harmonic to Noise ratio:
 - high support voices are more robust
 - putting a fair bit of pressure into the /s/ sound can induce better support
 - M2 and quiet voices tend to be low in support without training
-
 </details>
 <!-- ======================================================================================================= -->
 # Cover Related
@@ -194,7 +188,6 @@ Primary sources of low Harmonic to Noise ratio:
 
 ## Hyponasality
 - too little passage of air through the nose when phonating
-
 </details>
 <!-- ======================================================================================================= -->
 # Anatomy Related
@@ -205,9 +198,32 @@ Primary sources of low Harmonic to Noise ratio:
 ## Vocal Tract
 - the mouth, nose, larynx and pharynx; everything from the larynx up
 
+## Thyroarytenoid muscles
+- lowers pitch
+- adds weight (probably)
+- can be used to make M2 more full sounding
+- if deactivated, results in a hollow, M2-like, dark sound
+
+## Cricothyroid muscles
+- raises pitch
+
+## Thyrohyoid muscles
+- raises the larynx to the hyoid bone
+- usually activates when raising pitch, resulting in pitch/resonance conflation
+
+## Stylohyoid muscles
+- raise the hyoid bone (and therefore larynx) toward the base of the tongue
+- can be activated when consciously raising the larynx
+
+## Vocal Ligament
+- the vocal folds, without the muscles
+
+## Vocalis muscle
+- thyroarytenoid muscle
+- \[needs disambiguation\]
+
 ## AES/Aryepiglottic Sphincter
 - associated with twang
 - when the epiglottis is moved to make the passage in the throat smaller and cause a high frequency filter
-
 </details>
 <!-- ======================================================================================================= -->
