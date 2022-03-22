@@ -43,13 +43,23 @@ High resonance sound:
 Since the larynx houses the vocal folds, moving it up shortens the vocal tract and raises resonance. The sound is created further up the vocal tract.
 
 ## Vowel Shape
-Vowels change formants. By changing the mouth shape we can access different vowels but also increase or decrease overall resonance.
+Vowels change formants. By changing the mouth shape we can access different vowels but also increase or decrease overall resonance by shifting vowels to a higher resonance vowel like /.ae/ as in 'had'.
 
 ## OPC and OPE
 ### OPC - Oropharyngeal closure
 The back of the mouth, the palatopharyngeal arch can constrict to become a tighter space, which increases resonance. This can also encourage tongue root retraction which contributes to a cartoonish quality (commonly heard in anime).
 ### OPE - Oropharyngeal expansion
 Likewise, it can be expanded to lower resonance.
+
+## Mouth Space
+By changing tension in a few places in the mouth we can achieve a brighter or darker sound. Imagine pulling the corners of the mouth back for an <b class="hlgreen">A</b> vowel like in <b class="hlgreen">HAD</b>, then keep the inward pressure from the cheeks but remove the expression. This when done properly with enough practice causes a fairly significant shift in brightness.
+
+Large mouth space, dark:
+<audio controls> <source src="/audio/mouthspace-large.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+Smaller mouth space, bright:
+<audio controls> <source src="/audio/mouthspace-small.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+
+
 
 ## Twang*
 There are many ways to get a _"twangy"_ sound. It can encourage nasality so it's worth being aware of that. Twang adds upper frequency range information which means a brighter sound. It highlights parts of the voice around 2000-4000hz which is in the F2 range. It has a buzzy quality. This can add some brightness to a voice when added in very small amounts, so that we can go from a dark, soft sound to a bright crisp sound. It's especially useful when imitating low pitch bright voices, and getting loudness at medium to high pitch without adding vocal weight.
