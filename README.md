@@ -1,4 +1,4 @@
-![header](/img/header.jpg)
+
 ![siteimage](/img/site-image01.jpg)
 
 ## Voice Resource Project
@@ -16,7 +16,7 @@ It is best to make a pull request:
 Additions or changes should take these principles into account. Changes should do at least one of the following things:
 - make voice resources more complete and accessible to the average viewer
 - improve readability of pages for the public
-- fix errors or outdated information
+- fix errors or outdated information<br>
     _**OR**_
 - make wiki pages more stylistically consistent
 
@@ -43,27 +43,25 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-* you can use \* as well
+* you can use * as well
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-\`\`\`
 codeblock
-with multiple lines
-\`\`\`
+with multiple lines can be added with three `` backticks
 
 [Link](url) and ![Image](src)
 
-\<button\>You can also add HTML inline\<\/button\>
+<button>You can also add HTML inline</button>
 <p>...But most markdown **inside** will break</p>
 
 You can also give elements classes like:
 {: .someCSS-class .and-this-one-too }
 
-Or \<div class="something"\>
+Or <div class="something">
 
 ```
 
