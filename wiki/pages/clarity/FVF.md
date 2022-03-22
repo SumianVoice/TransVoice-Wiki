@@ -20,6 +20,8 @@ The false folds should not be activated in normal speech.
 
 There are commonly two problems associated with false fold constriction, FVF closure conflation and passive FVF constriction.
 
+No FVF constriction (left) comared to heavily FVF constricted (right)
+![fvf comparison](/img/fvf-without-with.jpg)
 
 ## FVF closure conflation
 This is where the false folds are constricted when we try to add true fold closure. If left unchecked it can be very difficult to remedy.
