@@ -31,6 +31,12 @@ The TA muscles run the length of the vocal folds and when contracted bulk up the
 
 ![muscles](/img/diagram-larynx-intrinsic.jpg)
 
+TA activated:
+<audio controls> <source src="/audio/ta-activation.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+TA deactivated:
+<audio controls> <source src="/audio/ta-deactivation.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+
+
 ### Some Generalisations
 More TA muscle activation:
 - more vocal weight
