@@ -36,7 +36,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (150hz - 330hz intonatio
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitch is hard)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qjC30KkyLLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qjC30KkyLLU" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -57,7 +57,7 @@ pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -80,7 +80,7 @@ pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -105,7 +105,7 @@ pitch          🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonati
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UzvqPVx0Jd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UzvqPVx0Jd4" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -128,7 +128,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~
 difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?start=89" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?start=89" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -151,7 +151,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonati
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DYGBmB04SVo?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DYGBmB04SVo?start=20" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -172,7 +172,7 @@ pitch          🎵 🟡 🟡 🟤 🟤 🟤 low-high (140hz - 350hz intonation)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 ````
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?start=393" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/oOXXuwTPJYQ?start=393" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -193,7 +193,7 @@ pitch          🎵 🟡 🟡 🟡 🟡 🟤 170hz- 400hz
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke9RcVSdWkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke9RcVSdWkg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -214,7 +214,7 @@ pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low 65 - 150hz
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DGcUB55muSw?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DGcUB55muSw?start=18" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -237,7 +237,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium with high intonation (140hz 
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EpM3nWRUqXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EpM3nWRUqXE" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -258,7 +258,7 @@ pitch          🎵 🟡 🟡 🟡 🟡 🟤 very high (230 - 500hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 ridiculous hard
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PUbMSqi7F68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PUbMSqi7F68" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -279,7 +279,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up 
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/IjVd6VdJf2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IjVd6VdJf2M" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -300,7 +300,7 @@ pitch               🎵 🟡 🟡 🟡 🟤 🟤 medium (200 -250hz)
 difficulty        💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1SqetzLJ4Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1SqetzLJ4Es" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -321,7 +321,7 @@ pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (180-300hz)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lgk9WQsg5xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lgk9WQsg5xU" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
@@ -344,7 +344,7 @@ pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 </details>
@@ -375,7 +375,7 @@ pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 250hz, base ~150hz)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (heavy vocal weight)
 ```
 <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/I-mWa_GqIEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/I-mWa_GqIEg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
 
