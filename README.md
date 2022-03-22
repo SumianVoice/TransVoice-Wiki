@@ -51,7 +51,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 codeblock
-with multiple lines can be added with three `` backticks
+with multiple lines
+can be added with three `backticks` either side.
 
 [Link](url) and ![Image](src)
 
