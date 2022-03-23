@@ -83,6 +83,10 @@ The exercise itself looks like this:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s1PyFzG86Eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+It can be very useful to bring the low vocal weight configuration down to a low pitch. Usually this is to either get more control over it in general or to access that lower range for low pitch feminine voices.
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OHxwSAAnj-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Yawning Exercise
 Yawning typically induces lower vocal weight so we can sometimes use this to our advantage. Usually people yawn with low vocal weight and low resonance, so we can use this to see what low vocal weight sounds like for us. Some people have a tendency to abduct (go breathy) so it's important to be aware of this and reduce the breathiness if there is any.
