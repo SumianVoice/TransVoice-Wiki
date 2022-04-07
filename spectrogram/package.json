@@ -1,0 +1,25 @@
+
+
+{
+  "main": "index.html",
+  "name": "Spectrogram",
+  "description": "spectrogram thing",
+  "version": "0.1.0",
+  "keywords": [ "Spectrogram", "node-webkit" ],
+  "window": {
+    "title": "Spectrogram",
+    "icon": "title.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 800,
+    "height": 500,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 8000,
+    "max_height": 6000
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

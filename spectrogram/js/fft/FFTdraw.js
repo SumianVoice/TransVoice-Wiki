@@ -415,6 +415,41 @@ class _fftSpectrogramDisplay {
     this.ctx.strokeStyle = color;
     this.ctx.stroke();
   }
+  // draw dots
+  dotPlot(array, color, lineWidth=4) {
+    if (!this.enable) {return}
+
+    const radius = lineWidth;
+
+    let x = 0;
+    for (let i = 0; i < array.length; i++) {
+      if (array[i][0] != 0) {
+        const tmpY = this.ctxWindow.height - ((array[i][1] / 128) * this.ctxWindow.height) / 2;
+
+
+        ctx.beginPath();
+        ctx.fillStyle = color;
+        ctx.strokeStyle = color;
+        ctx.lineWidth = 2;
+
+        ctx.arc(
+          Math.min(this.ctxWindow.x + this.scaleFunc(array[i][0]), this.ctxWindow.width),
+          this.ctxWindow.y + tmpY,
+          radius, 0, 1.99 * Math.PI);
+        // ctx.fill();
+        ctx.stroke();
+
+        this.ctx.font = "20px Arial";
+        this.ctx.fillText(`${Math.floor(this.hz(array[i][0]))}`, this.scaleFunc(array[i][0]+0.5) + 5, this.ctxWindow.y + tmpY + 40);
+
+        // this.ctx.beginPath();
+        x++;
+      }
+    }
+    // this.ctx.lineWidth = lineWidth;
+    // this.ctx.strokeStyle = color;
+    // this.ctx.stroke();
+  }
   // draw a line for each array[x]
   lineFFTPlot(array, color, lineWidth=1) {
     if (!this.enable) {return}

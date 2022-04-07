@@ -108,31 +108,32 @@ class _fftAnalyser {
   // gets highest point in segments
   getPeaks(array, baseSegmentSize, logPeaksScale) {
     let segmentSize = baseSegmentSize;
-    let curSegment = 0;
+    let curSegment = 1;
     let segmentStart = 0;
 
     let peaks = new Array(0); // make a blank array for adding to later
 
     let tmpPeakIndex = 0;
     let tmpPeakValue = 0;
+    peaks.push([1,10]);
     for (let k = 0; k < array.length; k++) {
-
+      // tmpPeakIndex = k;
       if (array[k] >= tmpPeakValue) {
         tmpPeakIndex = k;
         tmpPeakValue = array[k];
       }
 
-      if (k > segmentStart + segmentSize) { // when you get to the end of the segment
-        peaks.push(new Array(2));
-        peaks[curSegment][0] = tmpPeakIndex;
-        peaks[curSegment][1] = tmpPeakValue;
+      if (k >= segmentStart + segmentSize) { // when you get to the end of the segment
+        peaks.push([tmpPeakIndex, tmpPeakValue]);
+        // peaks[curSegment][0] = tmpPeakIndex;
+        // peaks[curSegment][1] = tmpPeakValue;
 
-        segmentSize = unBaseLog(logPeaksScale, curSegment);
+        segmentSize = unBaseLog(logPeaksScale, curSegment) * baseSegmentSize;
         segmentStart = k;
         curSegment++;
-
-        tmpPeakIndex = 0;
         tmpPeakValue = 0;
+
+
       }
     }
     // console.log(peaks);
@@ -154,5 +155,62 @@ class _fftAnalyser {
       array[i][1] = (sampleArray[i][1] + array[i][1]*(span-1)) / span;
     }
     return array;
+  }
+  //
+  getFormants(array, formants) {
+    let newFormants = [[0,0],[0,0],[0,0]];
+
+    let highestPeak = 0;
+    for (var i = 1; i < array.length; i++) {
+      if (array[i][1] > highestPeak) {
+        highestPeak = array[i][1]
+      }
+    }
+    let minAmp = highestPeak * 0;
+
+    for (var i = 1; i < array.length-1; i++) {
+      // only look at the third formant back
+      if (array[i][1] > newFormants[0][1]) {
+        if (array[i-1][1] < array[i][1] && array[i][1] > array[i+1][1]) {
+          newFormants.shift();
+          newFormants.push(array[i]);
+        }
+      }
+    }
+
+    // let currentPeak = [0,0];
+    // for (var i = 1; i < array.length; i++) {
+    //   // only look above threshold
+    //   if (array[i][1] > minAmp) {
+    //     // look for peaks
+    //     if (array[i][1] > currentPeak[1]) {
+    //       currentPeak = array[i];
+    //     }
+    //     else if (array[i][1] < currentPeak[1]*0.3) {
+    //       newFormants.shift();
+    //       newFormants.push(currentPeak);
+    //     }
+    //   }
+    //   // else if (currentPeakIndex > 0) {
+    //   //   return {"index" : currentPeakIndex, "amplitude" : currentPeakAmplitude};
+    //   // }
+    // }
+      //
+    return newFormants;
+  }
+  getFormantsB(array, formants) {
+    let newFormants = [[0,0],[0,0],[0,0]];
+    let lastPeak = [0,0];
+    let minAmp = 150;
+    for (var i = 1; i < array.length; i++) {
+      // only look at the third formant back
+      if (array[i][1] > newFormants[0][1]) {
+        if (array[i-1][1] < array[i][1] || array[i][1] > array[i+1][1]) {
+          newFormants.shift();
+          newFormants.push(array[i]);
+        }
+      }
+    }
+    return newFormants;
   }
 }

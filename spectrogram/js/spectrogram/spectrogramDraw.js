@@ -183,7 +183,7 @@ class _spectrogram2d extends _fftSpectrogramDisplay{
       this.ctxWindow.height - this.scaleFuncY(position+0.5) - 2,
       this.spectrogramPixelWidth,
       6);
-        this.ctx.fillStyle = color;
+    this.ctx.fillStyle = color;
     this.ctx.fillRect(
       this.ctxWindow.width - this.scaleWidth - this.spectrogramPixelWidth,
       this.ctxWindow.height - this.scaleFuncY(position+0.5),

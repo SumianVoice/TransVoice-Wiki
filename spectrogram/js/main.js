@@ -52,6 +52,8 @@ let movAvg;
 let movAvgPeaks;
 let smoothMovAvg;
 let smoothPeaks;
+let formants = [[0,0],[0,0],[0,0],[0,0]];
+
 let pitchAvg = 0;
 let showControls = false;
 let tracking = "none";
@@ -105,11 +107,13 @@ function spectrum(stream) {
     //
     fftDraw.clear();
     if (fftDraw.enable && fft.data) {
-      peaks = fftAnalyse.getPeaks(fft.data, 2, 2);
-      movAvg = fftAnalyse.movingAverage(fft.data,50)
-      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 2, 2);
-      smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 20);
+      peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
+      movAvg = fftAnalyse.movingAverage(fft.data,20);
+      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 2, 1);
+      smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 10);
       smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
+      // formants = fftAnalyse.getFormants(smoothPeaks, formants);
+      formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
       fftDraw.updateScale();
       fftDraw.render();
       // fftDraw.lineFFTPlot(fftDraw.data, "#24a", 1);
@@ -134,6 +138,13 @@ function spectrum(stream) {
     if (smoothMovAvg) {
       fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
       // fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
+    }
+    if (formants && fftDraw.enable) {
+      fftDraw.dotPlot(formants, "#ffa", 10);
+      if (formants[0][1] > 40) {spectrogram.plot(formants[0][0], "#fff");}
+      if (formants[1][1] > 40) {spectrogram.plot(formants[1][0], "#aaf")}
+      if (formants[2][1] > 40) {spectrogram.plot(formants[2][0], "#faa")}
+      //
     }
 
     if (m.keys.includes(0)) {
