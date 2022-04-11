@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperaduction
+title: Hyperadduction
 parent: Big List of Stuff
 nav_order: 12
 has_children: false
