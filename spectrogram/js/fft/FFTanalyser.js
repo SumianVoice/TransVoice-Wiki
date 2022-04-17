@@ -84,8 +84,8 @@ class _fftAnalyser {
       tmpCurAvg = 0;
       for (var l = i-span; l < i+span; l++) {
         if (l > 0 && l < array.length) {
-          tmpCurAvg += array[l]/i;
-          totalDiv += 1/i;
+          tmpCurAvg += array[l];
+          totalDiv += 1;
         }
       }
       // tmpCurAvg = (array[i] + tmpCurAvg*span) / (span+1);
