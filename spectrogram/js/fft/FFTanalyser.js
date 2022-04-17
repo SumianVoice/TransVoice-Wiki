@@ -77,6 +77,25 @@ class _fftAnalyser {
   // gets an average amplitude across many array (freq) positions
   movingAverage(array, span) {
     let newArray = new Array(array.length);
+    let tmpCurAvg = 0;
+    let totalDiv = 0;
+    for (let i = 0; i < array.length; i++) {
+      totalDiv = 0;
+      tmpCurAvg = 0;
+      for (var l = i-span; l < i+span; l++) {
+        if (l > 0 && l < array.length) {
+          tmpCurAvg += array[l]/i;
+          totalDiv += 1/i;
+        }
+      }
+      // tmpCurAvg = (array[i] + tmpCurAvg*span) / (span+1);
+      newArray[i] = tmpCurAvg / totalDiv;
+    }
+    return newArray;
+  }
+  // gets an average amplitude across many array (freq) positions
+  movingAverageC(array, span) {
+    let newArray = new Array(array.length);
     let tmpAvg = 0;
     for (let i = 0; i < array.length; i++) {
       let tmpTotal = 0;
@@ -161,19 +180,32 @@ class _fftAnalyser {
     let newFormants = [[0,0],[0,0],[0,0]];
 
     let highestPeak = 0;
-    for (var i = 1; i < array.length; i++) {
-      if (array[i][1] > highestPeak) {
-        highestPeak = array[i][1]
-      }
-    }
-    let minAmp = highestPeak * 0;
-
+    // for (var i = 1; i < array.length; i++) {
+    //   if (array[i][1] > highestPeak) {
+    //     highestPeak = array[i][1]
+    //   }
+    // }
+    let minAmp = highestPeak;
+    let avgPos = 0;
+    let avgAmp = 0;
+    let totalDiv = 0;
+    const tmpExp = 40;
     for (var i = 1; i < array.length-1; i++) {
       // only look at the third formant back
       if (array[i][1] > newFormants[0][1]) {
         if (array[i-1][1] < array[i][1] && array[i][1] > array[i+1][1]) {
+          avgAmp = (array[i][1] + array[i-1][1] + array[i+1][1]) / 3;
+          avgPos = 0;
+          totalDiv = 0;
+          for (var l = -1; l < 2; l++) {
+            avgPos += array[(i+l)][0] * array[i+l][1]**tmpExp;
+            totalDiv += array[i+l][1]**tmpExp;
+          }
+          avgPos = avgPos / totalDiv;
           newFormants.shift();
-          newFormants.push(array[i]);
+          // newFormants.push(array[i]);
+          // newFormants.push([array[i][0],avgAmp]);
+          newFormants.push([avgPos,array[i][1]]);
         }
       }
     }

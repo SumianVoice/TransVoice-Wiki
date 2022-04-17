@@ -26,6 +26,7 @@ function setCanvasSize() {
     canvasSpec.height = window.innerHeight;
     specCtx.setSize(canvasSpec.width, canvasSpec.height - 80);
     spectrogram.updateScale();
+    spectrogram.fillScreen();
   }
 }
 
@@ -53,10 +54,12 @@ let movAvgPeaks;
 let smoothMovAvg;
 let smoothPeaks;
 let formants = [[0,0],[0,0],[0,0],[0,0]];
+let oldFormants = { ...formants };
 
 let pitchAvg = 0;
 let showControls = false;
 let tracking = "none";
+let formantTrackingVisibility = false;
 
 function roundRect(x, y, w, h, radius) {
   var canvas = canvas;
@@ -89,7 +92,7 @@ function spectrum(stream) {
   spectrogram = new _spectrogram2d(fft.data, specCtx, fft.audioCtx.sampleRate, fft.analyser.frequencyBinCount);
   spectrogram.canvas = canvasSpec;
   spectrogram.setEnable(true);
-
+  spectrogram.fillScreen();
   //
   buttonsInit();
   // console.log(fft.analyser.getByteFrequencyData);
@@ -106,17 +109,22 @@ function spectrum(stream) {
     // console.log(fft.data.length);
     //
     fftDraw.clear();
+    peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
+    movAvg = fftAnalyse.movingAverage(fft.data,10);
+    movAvg = fftAnalyse.movingAverage(movAvg,10);
+    movAvgPeaks = fftAnalyse.getPeaks(movAvg, 10, 1);
+    // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
+    smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
+    // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+    // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
     if (fftDraw.enable && fft.data) {
-      peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
-      movAvg = fftAnalyse.movingAverage(fft.data,20);
-      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 2, 1);
-      smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 10);
-      smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
-      // formants = fftAnalyse.getFormants(smoothPeaks, formants);
-      formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
       fftDraw.updateScale();
       fftDraw.render();
       // fftDraw.lineFFTPlot(fftDraw.data, "#24a", 1);
+    }
+    if (formantTrackingVisibility && movAvgPeaks) {
+      oldFormants = { ...formants };
+      formants = fftAnalyse.getFormants(movAvgPeaks, formants);
     }
     fftDraw.scaleRender();
     let fundamental = fftAnalyse.getFundamental(fft.data);
@@ -137,14 +145,26 @@ function spectrum(stream) {
     }
     if (smoothMovAvg) {
       fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
-      // fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
     }
-    if (formants && fftDraw.enable) {
-      fftDraw.dotPlot(formants, "#ffa", 10);
-      if (formants[0][1] > 40) {spectrogram.plot(formants[0][0], "#fff");}
-      if (formants[1][1] > 40) {spectrogram.plot(formants[1][0], "#aaf")}
-      if (formants[2][1] > 40) {spectrogram.plot(formants[2][0], "#faa")}
-      //
+    // if (movAvg) {
+    //   fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
+    // }
+    if (formants && formantTrackingVisibility) {
+      if (fftDraw.enable) {
+        fftDraw.dotPlot(formants, "#ffa", 10);
+      }
+      if (spectrogram.enable) {
+        if (formants[0][1] > 40) {spectrogram.plot(formants[0][0], "#f3f");}
+        if (formants[1][1] > 40) {spectrogram.plot(formants[1][0], "#ff1")}
+        if (formants[2][1] > 40) {spectrogram.plot(formants[2][0], "#6ff")}
+      }
+      // if (spectrogram.enable) {
+      //   for (var i = 0; i < formants.length; i++) {
+      //     if (formants[i][1] >=40 && Math.abs(formants[i][0] - oldFormants[i][0]) <20 ) {
+      //       spectrogram.lineAt (formants[i][0],oldFormants[i][0],"#fff",2);
+      //     }
+      //   }
+      // }
     }
 
     if (m.keys.includes(0)) {

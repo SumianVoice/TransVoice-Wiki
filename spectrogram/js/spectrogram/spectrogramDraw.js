@@ -61,6 +61,14 @@ class _spectrogram2d extends _fftSpectrogramDisplay{
     }
     // this.ctx.restore();
   }
+  fillScreen() {
+    this.ctx.fillStyle = "#440154";
+    this.drawRect(
+      this.ctxWindow.x,
+      this.ctxWindow.y,
+      this.ctxWindow.width,
+      this.ctxWindow.height);
+  }
   cursorRender(x, y, ctx) {
     if (!this.enable) {return}
     let tmpY = y - this.ctxWindow.y;
@@ -189,5 +197,17 @@ class _spectrogram2d extends _fftSpectrogramDisplay{
       this.ctxWindow.height - this.scaleFuncY(position+0.5),
       this.spectrogramPixelWidth,
       2);
+  }
+  lineAt (y1,y2,color,lineWidth=1) {
+    this.ctx.beginPath();
+    this.ctx.lineTo(
+      this.ctxWindow.width - this.scaleWidth - this.spectrogramPixelWidth*2,
+      this.ctxWindow.height - this.scaleFuncY(y1));
+    this.ctx.lineTo(
+      this.ctxWindow.width - this.scaleWidth - this.spectrogramPixelWidth,
+      this.ctxWindow.height - this.scaleFuncY(y2));
+    this.ctx.lineWidth = lineWidth;
+    this.ctx.strokeStyle = color;
+    this.ctx.stroke();
   }
 }

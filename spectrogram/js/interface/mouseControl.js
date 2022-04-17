@@ -32,6 +32,7 @@ class _buttonControl {
   spectrogramToggle(child=false) {
     if (child) {return child.spectrogramToggle()}
     this.spectrogram.setEnable(this.spectrogram.enable ? false : true);
+    if (this.spectrogram.enable) {spectrogram.fillScreen();}
   }
   spectrogramPauseToggle(child=false) {
   if (child) {return child.spectrogramPauseToggle()}
@@ -45,6 +46,10 @@ class _buttonControl {
   fftToggle(child=false) {
     if (child) {return child.fftToggle()}
     this.fft.setEnable(this.fft.enable ? false : true);
+  }
+  trackingToggle(child=false) {
+    if (child) {return child.trackingToggle()}
+    formantTrackingVisibility = formantTrackingVisibility ? false : true;
   }
   // resolutionIncrease(child=false) {
   //   if (child) {return child.resolutionIncrease()}
@@ -130,6 +135,14 @@ function buttonsInit() {
   tmpButton.setSize(30, 30);
   tmpButton.setPos(180,50);
   tmpButton.setText(`▶`);
+  buttonList.add(tmpButton);
+  // toggle tracking
+  tmpButton = new _button();
+  tmpButton.childBind(buttonControl);
+  tmpButton.setFunction(buttonControl.trackingToggle)
+  tmpButton.setSize(140, 20);
+  tmpButton.setPos(20,110);
+  tmpButton.setText(`tracking`);
   buttonList.add(tmpButton);
 
   //
