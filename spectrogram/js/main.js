@@ -109,14 +109,16 @@ function spectrum(stream) {
     // console.log(fft.data.length);
     //
     fftDraw.clear();
-    peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
-    movAvg = fftAnalyse.movingAverage(fft.data,10);
-    movAvg = fftAnalyse.movingAverage(movAvg,10);
-    movAvgPeaks = fftAnalyse.getPeaks(movAvg, 10, 1);
-    // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
-    smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
-    // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
-    // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+    if (fft.data) {
+      peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
+      movAvg = fftAnalyse.movingAverage(fft.data,10);
+      movAvg = fftAnalyse.movingAverage(movAvg,10);
+      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 10, 1);
+      // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
+      smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
+      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+    }
     if (fftDraw.enable && fft.data) {
       fftDraw.updateScale();
       fftDraw.render();
