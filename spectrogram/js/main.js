@@ -111,9 +111,9 @@ function spectrum(stream) {
     fftDraw.clear();
     if (fft.data) {
       peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
-      movAvg = fftAnalyse.movingAverage(fft.data,10);
+      movAvg = fftAnalyse.movingAverage(fft.data,20);
       movAvg = fftAnalyse.movingAverage(movAvg,10);
-      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 10, 1);
+      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 6, 1);
       // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
       smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
       // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
@@ -148,9 +148,9 @@ function spectrum(stream) {
     if (smoothMovAvg) {
       fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
     }
-    // if (movAvg) {
-    //   fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
-    // }
+    if (movAvg) {
+      fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
+    }
     if (formants && formantTrackingVisibility) {
       if (fftDraw.enable) {
         fftDraw.dotPlot(formants, "#ffa", 10);
