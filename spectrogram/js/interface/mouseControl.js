@@ -84,6 +84,13 @@ let buttonControl = new _buttonControl();
 
 let buttonList = new _buttonContainer();
 
+const space_bar = 32;
+
+window.onkeydown = function(gfg){
+  if(gfg.keyCode === space_bar) {
+    buttonControl.spectrogramPauseToggle();
+  }
+};
 
 function buttonsInit() {
   buttonControl.fftBind(fftDraw);

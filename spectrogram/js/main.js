@@ -98,6 +98,7 @@ function spectrum(stream) {
   // console.log(fft.analyser.getByteFrequencyData);
   console.log(fft.analyser.getByteFrequencyData);
   //
+
   setInterval(() => { //loops
     setCanvasSize();
     ctx.font = "10px Georgia";
