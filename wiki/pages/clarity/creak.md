@@ -23,8 +23,8 @@ You can see it pretty clearly on a spectrogram. Notice the noise and roughness:
 Example of a very creaky voice:
 ![spec-creak](/img/spec-creak.jpg)
 
-Creak and fry (M0) are distinct.
-- creak can be at any pitch and is caused by airflow dynamics
+Creak and fry (M0) are distinct in practice (though they are thought to possibly be the same by some)
+- creak can be at any pitch and is caused primarily by airflow dynamics
 - fry is always at the bottom of the vocal range (though it can be coerced higher) and airflow mostly doesn't matter
 
 ## Common places to see creak
