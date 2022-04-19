@@ -32,4 +32,4 @@ Belting is loud, and essentially yelling so loud we can go higher. This has a te
 Mechanism breaks or voice cracks are a sign that the voice is not heavy or loud enough for that pitch and so a threshold is crossed, flipping into M2. The answer is not to just force the voice to get louder, but instead question technique. Are you adding weight or just volume? The fact that a break happened is a sign that we're belting because we have enough vocal weight and volume to not just slide into M2 like in [strong M2](/wiki/pages/pitch-range/strong-m2).
 
 Mechanism Break:
-<audio controls> <source src="/audio/belt-masc.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+<audio controls> <source src="/audio/belt-masc-break.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
