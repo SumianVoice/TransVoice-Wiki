@@ -18,12 +18,14 @@ When the vocal folds come apart (abduction) and air is able to rush through with
 
 The state of adduction vs abduction is called closure.
 
-```
-Abduction : folds further apart - your vocal folds get _taken away_ from earth by aliens
-Adduction : folds closer together - the aliens _add_ your vocal folds back to earth
 
-Closure : the amount of air that's used in speech vs the amount of air that gets let through
-```
+- Abduction
+  - folds further apart - your vocal folds get _taken away_ from earth by aliens
+- Adduction
+  - folds closer together - the aliens _add_ your vocal folds back to earth
+- Closure
+  - the amount of air that's used in speech vs the amount of air that gets let through
+
 
 If we add too much closure we get [hyperadduction](/wiki/pages/various/hyperadduction).
 
