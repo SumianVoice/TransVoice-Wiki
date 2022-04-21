@@ -347,6 +347,29 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BcdezgUEnLM" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <!--  -->
+
+<!--  -->
+## GeminiTay
+Bright, loud medium pitch voice with a fair bit of intonation range.
+
+bright voice
+{: .label .label-yellow }
+loud
+{: .label .label-grey }
+high intonation
+{: .label .label-blue }
+```
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high - 900-1200 F1 (~1200 /æ/)
+pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 - 350hz)
+difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resonance)
+```
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l-OHb50BzzQ" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<!--  -->
+
+
 </details>
 <!-- End of fem voices! -->
 
