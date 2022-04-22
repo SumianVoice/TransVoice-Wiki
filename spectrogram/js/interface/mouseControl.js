@@ -37,7 +37,7 @@ class _buttonControl {
   spectrogramPauseToggle(child=false) {
   if (child) {return child.spectrogramPauseToggle()}
   this.spectrogram.setPause(this.spectrogram.paused ? false : true);
-  // this.fft.setPause(this.fft.paused ? false : true);
+  this.fft.setPause(this.fft.paused ? false : true);
   if (this.spectrogram.paused) {buttonList.buttons[5].setText(`‖`);}
   else {buttonList.buttons[5].setText(`▶`);}
 

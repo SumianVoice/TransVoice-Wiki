@@ -63,6 +63,7 @@ let smoothPeaks;
 let rolloff;
 let formants = [[0,0],[0,0],[0,0],[0,0]];
 let oldFormants = { ...formants };
+let fundamental;
 
 let pitchAvg = 0;
 let showControls = false;
@@ -117,30 +118,16 @@ function spectrum(stream) {
     // fft.analyser.getByteTimeDomainData(fft.data);
     // console.log(fft.data.length);
     //
-    fftDraw.clear();
-    ctxUI.clearRect(0,0,canvasUI.width,canvasUI.height);
-    if (fft.data) {
-      peaks = fftAnalyse.getPeaks(fft.data, 8, 1.4);
-      movAvg = fftAnalyse.movingAverage(fft.data,20);
-      movAvg = fftAnalyse.movingAverage(movAvg,10);
-      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 6, 1);
-      // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
-      smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
-      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
-      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
-    }
-    if (fftDraw.enable && fft.data) {
-      fftDraw.updateScale();
-      fftDraw.render();
-      // fftDraw.lineFFTPlot(fftDraw.data, "#24a", 1);
-    }
-    if (formantTrackingVisibility && movAvgPeaks) {
-      oldFormants = { ...formants };
-      formants = fftAnalyse.getFormants(movAvgPeaks, formants);
-    }
-    fftDraw.scaleRender();
-    let fundamental = fftAnalyse.getFundamental(fft.data);
 
+    // ============================== clear the UI canvas ==============================
+    ctxUI.clearRect(0,0,canvasUI.width,canvasUI.height);
+
+    // ============================== FFT stuff ==============================
+    if (!fftDraw.paused) {
+      fftDraw.clear();
+    }
+
+    // ============================== controls ==============================
     if ((m.x < 300 && m.y < 200)) {
       showControls = true;
       alertPitchInput.style.visibility = "visible";
@@ -150,34 +137,62 @@ function spectrum(stream) {
       alertPitchInput.style.visibility = "hidden";
     }
     if (showControls) {
-      buttonList.drawAll(ctx);
+      buttonList.drawAll(ctxUI);
     }
-    if (smoothPeaks) {
-      fftDraw.linePlot(smoothPeaks, "#14a");
-    }
-    if (smoothMovAvg) {
-      fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
-    }
-    if (movAvg) {
-      fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
-    }
-    if (formants && formantTrackingVisibility) {
+
+    // ============================== analysis ==============================
+    if (fft.data && (!fftDraw.paused || !spectrogram.paused)) {
+      peaks = fftAnalyse.getPeaks(fft.data, 8, 1.4);
+      movAvg = fftAnalyse.movingAverage(fft.data,20);
+      movAvg = fftAnalyse.movingAverage(movAvg,10);
+      movAvgPeaks = fftAnalyse.getPeaks(movAvg, 6, 1);
+      // smoothMovAvg = fftAnalyse.getAccumAvg(movAvgPeaks, smoothMovAvg, 2);
+      smoothPeaks = fftAnalyse.getAccumAvg(peaks, smoothPeaks, 10);
+      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+      // formants = fftAnalyse.getAccumAvg(fftAnalyse.getFormants(smoothMovAvg, formants), formants, 4);
+      fundamental = fftAnalyse.getFundamental(fft.data);
+
+      // ============================== guess the formant locations ==============================
+      if (formantTrackingVisibility && movAvgPeaks) {
+        oldFormants = { ...formants };
+        formants = fftAnalyse.getFormants(movAvgPeaks, formants);
+      }
+
+
+      // ============================== render the FFT ==============================
       if (fftDraw.enable) {
-        fftDraw.dotPlot(formants, "#ffa", 10);
+        fftDraw.updateScale();
+        fftDraw.render();
+        fftDraw.scaleRender();
+        // fftDraw.lineFFTPlot(fftDraw.data, "#24a", 1);
       }
-      if (spectrogram.enable) {
-        if (formants[0][1] > 40) {spectrogram.plot(formants[0][0], "#f3f");}
-        if (formants[1][1] > 40) {spectrogram.plot(formants[1][0], "#ff1")}
-        if (formants[2][1] > 40) {spectrogram.plot(formants[2][0], "#6ff")}
+
+      // ============================== render the lines on the FFT ==============================
+      if (smoothPeaks) {
+        fftDraw.linePlot(smoothPeaks, "#14a");
       }
-      // if (spectrogram.enable) {
-      //   for (var i = 0; i < formants.length; i++) {
-      //     if (formants[i][1] >=40 && Math.abs(formants[i][0] - oldFormants[i][0]) <20 ) {
-      //       spectrogram.lineAt (formants[i][0],oldFormants[i][0],"#fff",2);
-      //     }
-      //   }
-      // }
+      if (smoothMovAvg) {
+        fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
+      }
+      if (movAvg) {
+        // fftDraw.lineFFTPlot(movAvg, `rgba(250,0,250,0.6)`, 2);
+      }
+      if (formants && formantTrackingVisibility) {
+        if (fftDraw.enable) {
+          fftDraw.dotPlot(formants, "#ffa", 10);
+        }
+        if (spectrogram.enable) {
+          if (formants[0][1] > 40) {spectrogram.plot(formants[0][0], "#f3f");}
+          if (formants[1][1] > 40) {spectrogram.plot(formants[1][0], "#ff1")}
+          if (formants[2][1] > 40) {spectrogram.plot(formants[2][0], "#6ff")}
+        }
+      }
     }
+
+
+
+
+
 
     if (m.keys.includes(0)) {
       fftDraw.cursorRender(m.x, m.y, ctxUI);
@@ -190,30 +205,27 @@ function spectrum(stream) {
     spectrogram.draw();
     spectrogram.scaleRender();
     //
-    if (fundamental && fundamental.amplitude > 150 && !spectrogram.paused) {
-      pitchAvg = ((pitchAvg * 1) + Math.max(fundamental.index,1))/2;
-      pitchAlertTest(fftDraw.hz(pitchAvg));
-      fftDraw.drawCursorAt((pitchAvg), 200, "#2f2", 2);
-      spectrogram.drawCursorAt((pitchAvg), 200, "#2f2", 2, fftDraw.ctx);
-      ctx.fillStyle = '#ff3';
-      ctx.font = "20px Arial";
-      ctx.fillText(lookupNote(fftDraw.hz(pitchAvg)), 300,35)
-      ctx.fillText(`~${Math.round(fftDraw.hz(pitchAvg))}Hz`, 350,35)
-    }
-    else {
-      if (fundamental) {
+    if (fundamental && !spectrogram.paused) {
+      if (fundamental.amplitude > 150) {
+        pitchAvg = ((pitchAvg * 1) + Math.max(fundamental.index,1))/2;
+        pitchAlertTest(fftDraw.hz(pitchAvg));
+        fftDraw.drawCursorAt((pitchAvg), 200, "#2f2", 2);
+        spectrogram.drawCursorAt((pitchAvg), 200, "#2f2", 2, fftDraw.ctx);
+        ctx.fillStyle = '#ff3';
+        ctx.font = "20px Arial";
+        ctx.fillText(lookupNote(fftDraw.hz(pitchAvg)), 300,35)
+        ctx.fillText(`~${Math.round(fftDraw.hz(pitchAvg))}Hz`, 350,35)
+        if (tracking === "all") {
+          spectrogram.plot(pitchAvg, `RGBA(20,250,10,0.7)`);
+        }
+      }
+      else {
         fftDraw.drawCursorAt(fundamental.index, fundamental.amplitude, "#ff0", 1);
         spectrogram.drawCursorAt((pitchAvg), 200, "#ff2", 2, fftDraw.ctx);
       }
     }
-    if (tracking === "all") {
-      if (fundamental && fundamental.amplitude > 150) {
-        spectrogram.plot(pitchAvg, `RGBA(20,250,10,0.7)`);
-      }
-      // for (var i = 0; i < smoothMovAvg.length; i++) {
-      //   spectrogram.plot(smoothMovAvg[i][0], `rgba(250,250,50,${smoothMovAvg[i][1]/255 > 0.2 ? smoothMovAvg[i][1]/200 : 0})`);
-      // }
-    }
+
+
     //
   }, (33));
   console.log(fft.audioCtx.sampleRate, (1000 * canvas.width) / fft.audioCtx.sampleRate);
