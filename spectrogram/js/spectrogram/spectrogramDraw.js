@@ -74,35 +74,35 @@ class _spectrogram2d extends _fftSpectrogramDisplay{
       this.ctxWindow.width,
       this.ctxWindow.height);
   }
-  cursorRender(x, y, ctx) {
+  cursorRender(x, y, tmpctx) {
     if (!this.enable) {return}
     let tmpY = y - this.ctxWindow.y;
     let tmpWidth = x - this.ctxWindow.x;
     let tmpHZ = Math.floor(this.hz(this.unscaleY(this.ctxWindow.height - tmpY)));
-    ctx.fillStyle = '#000';
-    ctx.fillRect(0, tmpY-1, this.ctxWindow.width + 5 - this.scaleWidth, 3);
-    ctx.fillStyle = '#ff3';
-    ctx.fillRect(0, tmpY-1, this.ctxWindow.width + 5 - this.scaleWidth, 1);
-    ctx.font = "20px Arial";
-    ctx.fillStyle = `RGBA(26, 0, 32, 0.3)`;
-    roundRect(x + 60 - 4, y - 8 - 22, 60, 28, 10);
-    // ctx.fillStyle = '#ff3';
+    tmpctx.fillStyle = '#000';
+    tmpctx.fillRect(0, tmpY-1, this.ctxWindow.width + 5 - this.scaleWidth, 3);
+    tmpctx.fillStyle = '#ff3';
+    tmpctx.fillRect(0, tmpY-1, this.ctxWindow.width + 5 - this.scaleWidth, 1);
+    tmpctx.font = "20px Arial";
+    tmpctx.fillStyle = `rgba(26, 0, 32, 0.3)`;
+    roundRect(x + 60 - 4, y - 8 - 22, 60, 28, 10, tmpctx);
+    // tmpctx.fillStyle = '#ff3';
     // hz
-    ctx.fillStyle = '#ff3';
-    ctx.fillText(`${tmpHZ}`, tmpWidth + 60, tmpY - 8);
+    tmpctx.fillStyle = '#ff3';
+    tmpctx.fillText(`${tmpHZ}`, tmpWidth + 60, tmpY - 8);
 
     // backing for note details
-    ctx.fillStyle = `RGBA(26, 0, 32, 0.3)`;
-    roundRect(x + 60 - 4, y + 2, 60, 46, 10);
+    tmpctx.fillStyle = `rgba(26, 0, 32, 0.3)`;
+    roundRect(x + 60 - 4, y + 2, 60, 46, 10, tmpctx);
 
     // note info
-    ctx.fillStyle = `RGBA(255,255,0,0.5)`;
+    tmpctx.fillStyle = `rgba(255,255,0,0.5)`;
     const tmpNote = lookupNote(tmpHZ);
     const tmpNoteHz = Math.round(getNoteHz(tmpNote)*1)/1;
     if (tmpNoteHz){
-      ctx.font = "14px Arial";
-      ctx.fillText(`${tmpNote}`, x + 60, y + 20);
-      ctx.fillText(`${tmpNoteHz}Hz`, x + 60, y + 40);
+      tmpctx.font = "14px Arial";
+      tmpctx.fillText(`${tmpNote}`, x + 60, y + 20);
+      tmpctx.fillText(`${tmpNoteHz}Hz`, x + 60, y + 40);
     }
   }
   // drawCursorAt(x, y, ctx) {
@@ -122,9 +122,9 @@ class _spectrogram2d extends _fftSpectrogramDisplay{
     ctx.fillStyle = color; // set color
     ctx.font = "20px Arial";
     const tmpX = 15;
-    ctx.fillStyle = `RGBA(50,50,50,0.4)`;
+    ctx.fillStyle = `rgba(50,50,50,0.4)`;
     ctx.fillRect(this.ctxWindow.width - this.scaleWidth, this.ctxWindow.height - this.scaleFuncY(fundamentalIndex+0.5) - 20, tmpX + 80, 35);
-    ctx.fillStyle = `RGBA(0,0,0,0.7)`;
+    ctx.fillStyle = `rgba(0,0,0,0.7)`;
     ctx.fillRect(this.ctxWindow.width - 8 -  this.scaleWidth - 2, this.ctxWindow.height - this.scaleFuncY(fundamentalIndex+0.5) - 2, tmpX + 20 + 2, width + 4);
     ctx.fillStyle = color; // set color
     ctx.fillRect(this.ctxWindow.width - 8 -  this.scaleWidth, this.ctxWindow.height - this.scaleFuncY(fundamentalIndex+0.5), tmpX + 20, width);

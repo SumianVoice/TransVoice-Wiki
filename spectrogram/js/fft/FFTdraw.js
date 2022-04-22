@@ -549,27 +549,27 @@ class _fftSpectrogramDisplay {
     }
   }
   // draw a vertical line at an index
-  drawCursorAt(fundamentalIndex, fundamentalAmplitude, color, width = 2) {
+  drawCursorAt(fundamentalIndex, fundamentalAmplitude, color, width = 2, tmpctx = this.ctx) {
     if (!this.enable) {return}
-    this.ctx.fillStyle = color; // set color
-    this.ctx.font = "20px Arial";
+    tmpctx.fillStyle = color; // set color
+    tmpctx.font = "20px Arial";
     const tmpY = this.ctxWindow.height - ((fundamentalAmplitude / 128) * this.ctxWindow.height) / 2;
-    this.ctx.fillRect(this.scaleFunc(fundamentalIndex+0.5), tmpY, width, this.ctxWindow.height - tmpY + 20);
-    this.ctx.fillText(`${Math.floor(this.hz(fundamentalIndex))}`, this.scaleFunc(fundamentalIndex+0.5) + 5, this.ctxWindow.height + 20);
+    tmpctx.fillRect(this.scaleFunc(fundamentalIndex+0.5), tmpY, width, this.ctxWindow.height - tmpY + 20);
+    tmpctx.fillText(`${Math.floor(this.hz(fundamentalIndex))}`, this.scaleFunc(fundamentalIndex+0.5) + 5, this.ctxWindow.height + 20);
   }
   // draw the mouse cursor
-  cursorRender(x, y) {
+  cursorRender(x, y, tmpctx = this.ctx) {
     if (!this.enable) {return}
     if (m.keys.includes(0)) {
       let tmpX = x - this.ctxWindow.x;
       let tmpHeight = y - this.ctxWindow.y;
       let tmpHZ = Math.floor(this.hz(this.unscale(tmpX)));
       ctx.fillStyle = '#000';
-      this.ctx.fillRect(tmpX - 1, tmpHeight, 3, this.ctxWindow.height-tmpHeight + 5);
-      this.ctx.fillStyle = '#3ff';
-      this.ctx.fillRect(tmpX, tmpHeight, 1, this.ctxWindow.height-tmpHeight + 5);
-      this.ctx.font = "20px Arial";
-      this.ctx.fillText(`${tmpHZ}`, (tmpX) + 5, tmpHeight - 2);
+      tmpctx.fillRect(tmpX - 1, tmpHeight, 3, this.ctxWindow.height-tmpHeight + 5);
+      tmpctx.fillStyle = '#3ff';
+      tmpctx.fillRect(tmpX, tmpHeight, 1, this.ctxWindow.height-tmpHeight + 5);
+      tmpctx.font = "20px Arial";
+      tmpctx.fillText(`${tmpHZ}`, (tmpX) + 5, tmpHeight - 2);
     }
   }
   // draw little indicators for peaks

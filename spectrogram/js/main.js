@@ -13,11 +13,18 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 const ctx = canvas.getContext('2d');
 
+const canvasUI = div.appendChild(document.createElement('canvas'));
+canvasUI.width = window.innerWidth;
+canvasUI.height = window.innerHeight;
+const ctxUI = canvasUI.getContext('2d');
+
 
 function setCanvasSize() {
   if (canvas.width !== window.innerWidth || canvas.height !== window.innerHeight) {
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
+    canvasUI.width = canvas.width;
+    canvasUI.height = canvas.height;
     fftCtx.setSize(canvas.width, canvas.height - 80);
     fftDraw.updateScale();
   }
@@ -53,6 +60,7 @@ let movAvg;
 let movAvgPeaks;
 let smoothMovAvg;
 let smoothPeaks;
+let rolloff;
 let formants = [[0,0],[0,0],[0,0],[0,0]];
 let oldFormants = { ...formants };
 
@@ -61,9 +69,9 @@ let showControls = false;
 let tracking = "none";
 let formantTrackingVisibility = false;
 
-function roundRect(x, y, w, h, radius) {
+function roundRect(x, y, w, h, radius, tmpctx) {
   var canvas = canvas;
-  var context = ctx;
+  var context = tmpctx;
   var r = x + w;
   var b = y + h;
   context.beginPath();
@@ -110,8 +118,9 @@ function spectrum(stream) {
     // console.log(fft.data.length);
     //
     fftDraw.clear();
+    ctxUI.clearRect(0,0,canvasUI.width,canvasUI.height);
     if (fft.data) {
-      peaks = fftAnalyse.getPeaks(fft.data, 2, 1.4);
+      peaks = fftAnalyse.getPeaks(fft.data, 8, 1.4);
       movAvg = fftAnalyse.movingAverage(fft.data,20);
       movAvg = fftAnalyse.movingAverage(movAvg,10);
       movAvgPeaks = fftAnalyse.getPeaks(movAvg, 6, 1);
@@ -171,10 +180,10 @@ function spectrum(stream) {
     }
 
     if (m.keys.includes(0)) {
-      fftDraw.cursorRender(m.x, m.y);
-      spectrogram.cursorRender(m.x, m.y, fftDraw.ctx);
-      ctx.fillStyle = '#ff3';
-      ctx.font = "20px Arial";
+      fftDraw.cursorRender(m.x, m.y, ctxUI);
+      spectrogram.cursorRender(m.x, m.y, ctxUI);
+      // ctx.fillStyle = '#ff3';
+      // ctx.font = "20px Arial";
       // ctx.fillText(lookupNote(spectrogram.hz(m.y)), m.x,m.y + 20)
     }
     //spectrogram 2d
