@@ -8,11 +8,11 @@ nav_exclude: true
 {% include og.html %}
 
 # Voice Resource Repository
-This project was started by Sumi and Emma. This is a fairly open resource so if you have additions, suggestions or criticisms they are welcomed.
+This project was started by Sumi and Emma. This is an open resource so if you have additions, suggestions or criticisms they are welcomed.
 
 ## Mission Statement
 The main purpose of the collection is to provide approachable information and where possible, direction, so that people have what they need to at least get started on changing their voice. It's also designed to be used as a reference centre for if people need to provide context or help or definitions to people.
-Basically, we want something a beginner can use as a guide to change their voice, and a reference material for students and teachers, to be as complete as possible and open to new information.
+Basically, we want something a beginner can use as a guide to change their voice, and a reference material for students and teachers, to be as complete as possible and open to new information. The information provided should be the best we have available, and as with all information, should be questioned and updated over time to reflect that.
 
 This resource is feminisation oriented, which means most of the resources assume you want to make your voice more feminine, but there are plenty of resources that are not specific to feminisation (such as [clarity](/wiki/pages/clarity)) and many of the exercises listed work in reverse with some minor alterations.
 
