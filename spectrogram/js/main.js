@@ -60,7 +60,7 @@ let movAvg;
 let movAvgPeaks;
 let smoothMovAvg;
 let smoothPeaks;
-let rolloff;
+let rolloffSave;
 let formants = [[0,0],[0,0],[0,0],[0,0]];
 let oldFormants = { ...formants };
 let fundamental;
@@ -168,8 +168,11 @@ function spectrum(stream) {
       }
 
       // ============================== render the lines on the FFT ==============================
+      if (rolloffSave) {
+        fftDraw.linePlot(rolloffSave, "#f4a");
+      }
       if (smoothPeaks) {
-        fftDraw.linePlot(smoothPeaks, "#14a");
+        fftDraw.linePlot(smoothPeaks, "#1fa");
       }
       if (smoothMovAvg) {
         fftDraw.linePlot(smoothMovAvg, "#a4a", 1);
@@ -188,6 +191,8 @@ function spectrum(stream) {
         }
       }
     }
+
+
 
 
 

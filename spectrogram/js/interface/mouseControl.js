@@ -78,6 +78,13 @@ class _buttonControl {
     this.fft.scaleModeSet(scaleMode);
     this.spectrogram.scaleModeSet(scaleMode);
   }
+  saveRolloff (child=false) {
+    if (child) {return child.saveRolloff()}
+    rolloffSave = [];
+    for (var i = 0; i < smoothPeaks.length; i++) {
+      rolloffSave.push({ ...smoothPeaks[i] });
+    }
+  }
 }
 
 let buttonControl = new _buttonControl();
@@ -150,6 +157,14 @@ function buttonsInit() {
   tmpButton.setSize(140, 20);
   tmpButton.setPos(20,110);
   tmpButton.setText(`tracking`);
+  buttonList.add(tmpButton);
+  // saveRolloff
+  tmpButton = new _button();
+  tmpButton.childBind(buttonControl);
+  tmpButton.setFunction(buttonControl.saveRolloff)
+  tmpButton.setSize(140, 20);
+  tmpButton.setPos(20,140);
+  tmpButton.setText(`save rolloff`);
   buttonList.add(tmpButton);
 
   //
