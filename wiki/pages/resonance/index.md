@@ -15,17 +15,19 @@ has_children: false
 </details>
 # Resonance
 ## What is Resonance
-Every space has a resonance frequency. When a sound passes through that space, frequencies in the sound near the resonance frequency of the space are highlighted. You can hear the resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
+Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of the space are highlighted. You can hear the lowest (usually) resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
 
 Think of the larynx as the level of water in the bottle. The higher the larynx, the higher the resonance. When in voice, an area that is highlighted because of a resonance frequency is called a formant.
 
 
 ## Formants
-Formants are areas of the voice that are highlighted because of the shape of the vocal tract. There are three formants we really care about.
+Formants are areas of the voice that are highlighted because of the shape of the vocal tract. If a resonance is a property of the container, or space, then a formant is a property of the *sound*. There are three formants we really care about.
 
 0. First, and while it isn't a formant itself, F0. F0 is your pitch, and it's the fundamental frequency of your voice at any time.
-1. F1 is primarily thought to be a consequence of larynx position along with a few other factors
-2. F2 is primarily thought to be a consequence of mouth space
+1. F1 is the lowest formant, and tends to be raised by constriction closer to the glottis, and expansion at the end of the vocal tract.
+2. F2 is the second lowest formant, and tends to be raised by constriction in the oral cavity.
+
+All resonances (and so, formants) will be raised by shortening the vocal tract, and lowered by extending it.
 
 ![formants](/img/formants.png)
 
@@ -106,8 +108,26 @@ If we have a situation in which the resonance cannot go above around 700hz F1 (/
 
 
 
+# Acoustic Resonance Details
+<details open markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
+## Standing Waves
+  A standing wave is a wave with a fixed position. Whereas a sound wave propagates through space, a standing wave sits where it is. In the case of voice, a standing wave is created by the interference of two waves moving in opposite directions, as in this animation (courtesy of wikipedia). 
+  
+![standing wave](/img/waventerference.gif)
+  _The blue wave travels leftward while the green wave travels rightward, their interference creating the standing red wave._
 
-
-
+  The two waves in our case are the *incident wave*, the sound wave being produced by the vocal folds, and the *reflected wave*, which is created when the initial wave arrives at the exit of the vocal tract, and a portion of it is reflected back towards the glottis by the changing medium.
+  
+## Nodes and Antinodes
+  In a standing wave, the points at which amplitude is at a minimum are called *nodes*, and the points at which amplitude is at a maximum are *anti-nodes*. In the context of voice, the amplitude we are referring to is as a measure of pressure, and of volume velocity. A pressure node (where pressure is at a minimum) will denote a volume velocity anti-node, and vise versa. In the vocal tract, there will always be a pressure node at the exit (where the greatest movement of air is possible), and a pressure anti-node at the glottis.
+  
+## Interference
+  When a sound wave travels through the vocal tract and meets its reflection (and therefore, the standing wave that the two are creating), it may be dampened or maintained depending on its characteristics. If the wavelength of a sound wave roughly matches the characteristics of the vocal tract with maximum volume velocity as it reaches the exit, it will be reinforced. The lowest frequency with such a wavelength is the first resonance frequency, which will have a wavelength four times the length of the vocal tract. The next lowest frequency will be the second resonance frequency, with a wavelength 3/4 the length of the vocal tract, and an additional node/anti-node pair, the former in the oropharynx, the latter in the anterior oral cavity.
+  
+## Perturbation
+  So far we have only discussed resonance as it is affected by the length of the vocal tract. While this is fine for a simple tube with equal diameter throughout its length, that is clearly not what the vocal tract is, and as discussed earlier on this page, resonance frequencies are affected by more than just length. A perturbation or constriction at or near a pressure anti-node will raise the frequency of the corresponding resonance, while a constriction at a pressure node will lower it. All resonance frequencies will therefore be raised and lowered respectively by constrictions at the glottis and lips. The second resonance frequency will be raised by a constriction in the front of the oral cavity (as in the vowel /i/), and lowered by constriction in the posterior oral cavity/oropharynx (as in the vowel /u/). As we examine progressively higher resonance frequencies, the number of nodes and anti-nodes increases, making it increasingly difficult to isolate them. This is why you will rarely see anyone discuss anything higher than R3/F3.
 
 <!--  -->
