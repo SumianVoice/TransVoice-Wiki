@@ -35,10 +35,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (150hz - 330hz intonation, 500hz highest)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitch is hard)
 ```
-<span id="waffles" onclick="buildiframe_yt('waffles','qjC30KkyLLU')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/qjC30KkyLLU/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</span>
+<span id="waffles" onclick="buildiframe_yt('waffles','qjC30KkyLLU')" class="yt-thumb imghover"><img src="https://img.youtube.com/vi/qjC30KkyLLU/0.jpg" alt="click for iframe" class=""><p class="imgcenter">click to load video</p></span>
 <!--  -->
 
 <!--  -->
