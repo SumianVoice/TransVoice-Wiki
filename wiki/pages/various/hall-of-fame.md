@@ -4,7 +4,7 @@ title: Hall of Fame
 parent: Big List of Stuff
 nav_order: 99
 has_children: false
-nav_show: false
+nav_exclude: true
 ---
 
 # Introduction
