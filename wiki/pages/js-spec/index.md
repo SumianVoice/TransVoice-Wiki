@@ -9,7 +9,7 @@ has_children: false
 There is a js based spectrogram made by Sumi included in the site. It can be found below:
 
 <span class="fs-8">
-[Open the spectrogram](/spectrogram){: .btn .btn-green }
+[Open the spectrogram](https://spec.sumianvoice.com/){: .btn .btn-green }
 </span>
 
 ## How To Read a Spectrogram
