@@ -39,9 +39,6 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitc
   <img src="https://img.youtube.com/vi/qjC30KkyLLU/0.jpg" alt="click for iframe" class="">
   <p class="imgcenter">click to load video</p>
 </span>
-<!-- <p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/qjC30KkyLLU" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
 <!--  -->
 
 <!--  -->
