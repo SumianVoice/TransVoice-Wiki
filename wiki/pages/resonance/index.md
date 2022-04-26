@@ -13,6 +13,7 @@ has_children: false
 1. TOC
 {:toc}
 </details>
+
 # Resonance
 ## What is Resonance
 Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of the space are highlighted. You can hear the lowest (usually) resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
@@ -113,6 +114,7 @@ If we have a situation in which the resonance cannot go above around 700hz F1 (/
   <summary>
     Expand / Hide
   </summary>
+  
 ## Standing Waves
   A standing wave is a wave with a fixed position. Whereas a sound wave propagates through space, a standing wave sits where it is. In the case of voice, a standing wave is created by the interference of two waves moving in opposite directions, as in this animation (courtesy of wikipedia). 
   
