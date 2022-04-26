@@ -116,7 +116,7 @@ If we have a situation in which the resonance cannot go above around 700hz F1 (/
 ## Standing Waves
   A standing wave is a wave with a fixed position. Whereas a sound wave propagates through space, a standing wave sits where it is. In the case of voice, a standing wave is created by the interference of two waves moving in opposite directions, as in this animation (courtesy of wikipedia). 
   
-![standing wave](/img/waventerference.gif)
+![standing wave](/img/Waventerference.gif )
   _The blue wave travels leftward while the green wave travels rightward, their interference creating the standing red wave._
 
   The two waves in our case are the *incident wave*, the sound wave being produced by the vocal folds, and the *reflected wave*, which is created when the initial wave arrives at the exit of the vocal tract, and a portion of it is reflected back towards the glottis by the changing medium.
