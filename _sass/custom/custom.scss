@@ -130,7 +130,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  transform: translate(calc(240px - 50%), calc(-180px - 50%));
+  transform: translate(calc(240px - 50%), calc(50% + 100px));
   font-size: 30px;
   color: #eee;
   background: #333;
@@ -142,6 +142,7 @@ body {
 .yt-thumb {
   position: relative;
   max-width: 480px;
+  max-height: 360px;
 }
 
 
