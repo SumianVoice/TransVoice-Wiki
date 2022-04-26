@@ -119,10 +119,30 @@ body {
 }
 
 
-
-
-
-
+.imghover {
+  filter: brightness(100%);
+  transition: all 0.2s ease;
+}
+.imghover:hover {
+  filter: brightness(40%);
+}
+.imgcenter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(calc(240px - 50%), calc(-180px - 50%));
+  font-size: 30px;
+  color: #eee;
+  background: #333;
+  padding: 2px 8px 2px 8px;
+  border-radius: 8px;
+  font-family: arial;
+  opacity: 0.8;
+}
+.yt-thumb {
+  position: relative;
+  max-width: 480px;
+}
 
 
 //
