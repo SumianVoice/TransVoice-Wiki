@@ -135,9 +135,6 @@ difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
   <img src="https://img.youtube.com/vi/lQWcnKb3BdI/0.jpg" alt="click for iframe" class="">
   <p class="imgcenter">click to load video</p>
 </div>
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lQWcnKb3BdI?start=89" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 <!--  -->
 
 <!--  -->
