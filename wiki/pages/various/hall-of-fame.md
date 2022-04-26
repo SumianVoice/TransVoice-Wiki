@@ -6,7 +6,15 @@ nav_order: 99
 has_children: false
 nav_exclude: true
 ---
-
+{% include og.html %}
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
+</details>
 # Introduction
 This is a big list of really interesting or amazing voices.
 
