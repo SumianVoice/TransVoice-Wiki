@@ -14,7 +14,7 @@ nav_order: 2
 {:toc}
 </details>
 # Strong M2
-Usually when going into M2, we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to lose some activation, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooty and hollow sound.
+Usually when going into M2 (aka _falsetto_), we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to lose some activation resulting in very low vocal weight, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooty and hollow sound.
 
 Passive M2:
 <audio controls> <source src="/audio/tone-m2-passive.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
@@ -23,33 +23,49 @@ Active, strong M2:
 
 However, it is possible and very useful to train our M2 to sound more like M1 and be more full sounding. This is known as mix voice or strong M2.
 
+## Passive vs Strong M2
+- Passive M2
+  - hollow, hooty, dark sound
+  - very low vocal weight
+  - generally lower TA muscle activation
+  - usually less closure, airleaks
+  - big vocal breaks
+- Strong M2
+  - more full sound
+  - can be bright or even buzzy
+  - more _consistent_ TA activation
+  - higher vocal weight
+  - balanced closure (not too much or too little)
+  - no or less sudden vocal break
 
-## TA Deactivation
-When we go into M2, we often lose some activation of the thyroarytenoid (TA) muscles. This can also happen in M1, and when in M1 it's often a result of doing pitch slides or humming exercises incorrectly. It can however be a useful tool in modifying certain voice characteristics, such as we will cover in this page.
+## Vocal Weight Deactivation
+When we flip into M2 because of a vocal break, we often lose some activation of the thyroarytenoid (TA) muscles. This can also happen in M1, and when in M1 it's commonly a result of doing pitch slides or humming exercises incorrectly. It can however be a useful tool in modifying certain voice characteristics, such as we will cover in this page.
+
+While TA is a physical muscle, vocal weight is a resulting perceived acoustic quality. Vocal weight can in theory be affected in more ways than just TA activation, so the concept of losing vocal weight to the point of becoming hollow and passive is called vocal weight deactivation to avoid complications.
 
 The TA muscles run the length of the vocal folds and when contracted bulk up the folds, pull the arytenoid cartilages and thyroid cartilage closer together and as a result of this, lower pitch.
 
 ![muscles](/img/diagram-larynx-intrinsic.jpg)
 
-TA activated:
+Activated:
 <audio controls> <source src="/audio/ta-activation.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-TA deactivated:
+Deactivated:
 <audio controls> <source src="/audio/ta-deactivation.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 
 ### Some Generalisations
-More TA muscle activation:
-- more vocal weight
+More vocal weight activation:
+- heavier sound
 - more 'full' sound
 - lower pitch
-- more closure _(disputable)_
+- more closure _(to a small extent)_
 
 When deactivated:
 - very low vocal weight
 - a tendency to suddenly jump in vocal weight
 - lack of lower pitch range
 - very hooty, <b class="hlblue">dark</b> sound
-- more M1/M2 break if started deactivation in M2
+- more M1/M2 break and at a lower pitch if started deactivation in M2
 
 
 ## Breath Support
@@ -60,15 +76,15 @@ Start by making the <b class="hlblue">S</b> sound. Start off normal, then add a 
 All we need to do now is to control it when we're not doing the <b class="hlblue">S</b> sound, so try on some other sounds like <b class="hlblue">AHH</b>  with a relaxed posture and a more supported one like we just did.
 
 
-## How to Train TA Muscle Activation
-TA muscle activation typically happens because of a few behavioural actions.
+## How to Train Vocal Weight Activation
+Vocal weight activation typically happens because of a few behavioural actions.
 - lowering in pitch
 - getting heavier
 - yelling
 
-Picture you're about to yell loudly to someone about 50m away. Now stop and hold that posture and configuration. Notice how you get that breath support and possibly open your mouth wider in readiness to yell. In this configuration, or one like it, we will have a high level of TA activation. In M1 this might be too much and we'd just go really loud and heavy, and probably at a medium to low pitch. In M2, this is a lot harder, so we only get a little out of it for now until we get more coordination.
+Picture you're about to yell loudly to someone about 50m away. Now stop and hold that posture and configuration. Notice how you get that breath support and possibly open your mouth wider in readiness to yell. In this configuration, or one like it, we will have a slightly higher level of vocal weight but at a high pitch. In M1 this might be too much and we'd just go really loud and heavy, and probably at a medium to low pitch. In M2, this amount of vocal weight is a lot harder to achieve, so we only get a little out of it for now until we get more coordination.
 
-It may be worth trying phonating in a low volume yell and a medium volume relaxed configuration to note the difference.
+It may be worth trying phonating in a low volume yell (or _"fake yell"_) and a medium volume relaxed configuration to note the difference.
 
 
 ## Putting it Together with OOOAAA
@@ -78,7 +94,7 @@ It's important to note that it is possible to add [hyperaduction](/wiki/pages/va
 
 Now, remembering the 'almost yelling' configuration we had before, we will transition from <b class="hlblue">O</b> to a brighter vowel <b class="hlyellow">A</b> as in <b class="hlyellow">BAT</b>. This can be called the <b class="hlgreen">OOOAAA</b> exercise. We will go from a hollow hooty sound to a brighter, more active sound. It may take a few tries and some experimentation to get it to happen.
 
-We can now test if we have TA activation and breath support by sliding down in pitch to a note low enough as to definitely not be in M2 such as 150hz. We need to do this very slowly so we can notice any breaks. You might find you lose some TA / weight when sliding down, in which case just try again and stay focused on keeping it consistent.
+We can now test if we have vocal weight and breath support by sliding down in pitch to a note low enough as to definitely not be in M2 such as 150hz. We need to do this very slowly so we can notice any breaks. You might find you lose some weight when sliding down, in which case just try again and stay focused on keeping it consistent.
 
 We can then remove the vowel change from the equation and just go from hollow to active. At the same time, we should try to relax the configuration as much as possible to find our 'lazy' configuration.
 
