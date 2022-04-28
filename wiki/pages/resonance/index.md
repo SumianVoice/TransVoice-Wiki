@@ -110,4 +110,9 @@ If we have a situation in which the resonance cannot go above around 700hz F1 (/
 # Acoustic Resonance Details
 A more detailed explanation of how resonance works physically can be found here: [Acoustic Resonance](acoustic-resonance.md)
 
+![standing wave](/img/Waventerference.gif )
+
+
+
+
 <!--  -->
