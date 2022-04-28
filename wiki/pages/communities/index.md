@@ -22,11 +22,10 @@ This is of course not exhaustive! Help us fill this out and add more information
 <span class="fs-2"> [join on Discord](https://discord.gg/ahc5hb9zSk){: .btn .btn-green } </span>
 
 The main maintainers of this site, open voice community run by Sumi
-- allows voice related advertising
+- has events and practice sessions
 - anyone can teach or hold events there
 - server maintainer (Sumyjkl#7352) offers paid lessons and two free lessons a week randomly selected from an open pool
-- has events and practice sessions
-- has "office hours" event where anyone can come and ask questions of teachers and get help with their voice
+- allows voice related advertising
 
 ## Scinguistics
 <span class="fs-2"> [join on Discord](https://discord.gg/w6Eb2tY){: .btn .btn-green } </span>
