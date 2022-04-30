@@ -67,6 +67,7 @@ These are terms that are commonly used in vague ways. They are not all inherentl
     Expand / Hide
   </summary>
 ### Chest voice, Head voice
+
 vague
 {: .label .label-yellow }
 polluted term
@@ -79,6 +80,7 @@ Alternatives:
 - modal voice, M2 / light M2
 
 ### Falsetto
+
 polluted term
 {: .label .label-red }
 
@@ -89,6 +91,7 @@ Alternatives:
 - light M2
 
 ### Buzziness (specific)
+
 usually okay
 {: .label .label-green }
 conflation
@@ -110,6 +113,7 @@ Alternatives:
     Expand / Hide
   </summary>
 ### Forward / Throat / Head resonance
+
 vague
 {: .label .label-yellow }
 ineffective
@@ -122,6 +126,7 @@ Alternatives:
 - too vague to even offer alternatives
 
 ### R1 / R2 (specific)
+
 conflation
 {: .label .label-yellow }
 
@@ -133,6 +138,7 @@ Alternatives:
 - F1, F2
 
 ### Bright (specific)
+
 conflation
 {: .label .label-yellow }
 
@@ -142,7 +148,14 @@ Alternatives:
 - high / low resonance
 - vocal tract size
 
+</details>
+## Other
+<details closed markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
 ### Breath Support (specific)
+
 overused term
 {: .label .label-green }
 
