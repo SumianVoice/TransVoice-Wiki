@@ -16,7 +16,7 @@ has_children: false
 
 # Resonance
 ## What is Resonance
-Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of the space are highlighted. You can hear the lowest (usually) resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) there is the higher the pitch of the whistle sound produced. Your vocal tract is similar to this.
+Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of the space are highlighted. You can hear a resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) is in the bottle, the higher the pitch of the whistle sound produced. Your vocal tract is similar to this, though much more complex of course.
 
 Think of the larynx as the level of water in the bottle. The higher the larynx, the higher the resonance. When in voice, an area that is highlighted because of a resonance frequency is called a formant.
 
@@ -25,8 +25,8 @@ Think of the larynx as the level of water in the bottle. The higher the larynx, 
 Formants are areas of the voice that are highlighted because of the shape of the vocal tract. If a resonance is a property of the container, or space, then a formant is a property of the *sound*. There are three formants we really care about.
 
 0. First, and while it isn't a formant itself, F0. F0 is your pitch, and it's the fundamental frequency of your voice at any time.
-1. F1 is the lowest formant, and tends to be raised by constriction closer to the glottis, and expansion at the end of the vocal tract.
-2. F2 is the second lowest formant, and tends to be raised by constriction in the oral cavity.
+1. F1 is the lowest formant by frequency
+2. F2 is the second lowest formant
 
 All resonances (and so, formants) will be raised by shortening the vocal tract, and lowered by extending it.
 
@@ -50,7 +50,7 @@ Vowels change formants. By changing the mouth shape we can access different vowe
 
 ## OPC and OPE
 ### OPC - Oropharyngeal closure
-The back of the mouth, the palatopharyngeal arch can constrict to become a tighter space, which increases resonance. This can also encourage tongue root retraction which contributes to a cartoonish quality (commonly heard in anime).
+The back of the mouth, the palatopharyngeal arch can constrict to become a tighter space, which raises resonance. This can also encourage tongue root retraction which contributes to a cartoonish quality (commonly heard in some anime voices).
 ### OPE - Oropharyngeal expansion
 Likewise, it can be expanded to lower resonance.
 
