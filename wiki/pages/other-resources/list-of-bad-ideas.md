@@ -121,6 +121,8 @@ ineffective
 
 Though these words on their own mean something, it gets very vague when talking about "where the resonance is". Not only is it subjective and perceived differently person to person but it's based on the assumption that sound can be moved to different parts of the body. This is different from the very real concept of vowel position. In normal phonation, the source of the sound is always at the vocal folds, in the larynx. We can affect how the voice *resonates* within our bodies, but not where the sound emits.
 
+The problem is when people chase certain feelings instead of sound qualities. Basing practice on "where the resonance" is will often result in nothing at all, or doing extraneous things in an effort to affect that feeling. 
+
 Alternatives:
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
