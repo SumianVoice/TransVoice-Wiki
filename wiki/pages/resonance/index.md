@@ -80,8 +80,17 @@ To raise resonance in general, using a combination of modifications.
 3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
   - avoid going too high in pitch
 
+Pitfalls:
+1. using FVF constriction to get louder breaths
+  - make it light and quiet but very airy, don't sacrifice airflow to make it quiet
+2. raising pitch as well as resonance
+  - since they are usually linked, this is common, and it might be worth using the voiced resonance slides or steps exercise
+
 ### Whisper Sirens
 These are the same as big dog small dog, but without panting, just a constant stream of air going from low resonance to high or vice versa.
+
+Pitfalls:
+1. even more likely to become FVF constricted especially at high resonance
 
 ### Voiced Resonance Slide
 Related: kyo kya
@@ -92,6 +101,18 @@ With more practice it is possible to change resonance without affecting pitch, a
 
 How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the larynx, and then when some control is achieved, try and try again to move the larynx without moving pitch. Focus on the pitch sound.
 
+### Voiced Resonance Stepping
+In this exercise we start at a medium or high pitch, then:
+1. speak some words at neutral resonance
+2. speak the same words at low resonance
+3. speak the same words at high resonance
+
+This helps avoid pitch conflation (going up in pitch when changing resonance) and might be more natural and less constricted for some people.
+
+Pitfalls:
+1. changing pitch too much
+  - have a pause between each step, don't slide
+  - picture the pitch when you speak
 
 ### Kyo Kya
 This is mostly for learning OPC
