@@ -198,6 +198,33 @@ Primary sources of low Harmonic to Noise ratio:
 - too little passage of air through the nose when phonating
 </details>
 <!-- ======================================================================================================= -->
+# Speech Pattern Related
+<details open markdown="block">
+  <summary>
+    Expand / Hide
+  </summary>
+## Intonation
+- the changing of pitch to add color to speech
+- intonation range is how far we intonate / change pitch in speech
+- intonation frequency is how often we change pitch in speech
+
+## Tempo
+- how much we change the speed of speech where some words are slowly spoken and some are rushed past
+- how fast in general the speech is
+
+## Emphasis
+- making a single sound or word stand out in speech
+- this usually relates to the use of volume for emphasis but can also be used in other ways
+- emphasis can be from volume, intonation, tempo
+
+## Resonance Fluctuation
+- how much the resonance changes through speech, or how much it is linked to pitch
+- some resonance fluctuation is normal
+- more resonance fluctuation is more dynamic and sometimes sounds out of place
+- no resonance fluctuation can sound unnatural
+
+</details>
+<!-- ======================================================================================================= -->
 # Anatomy Related
 <details open markdown="block">
   <summary>
