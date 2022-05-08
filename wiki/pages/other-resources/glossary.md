@@ -16,7 +16,7 @@ has_children: false
 </details>
 # Glossary
 Below is a list of voice related words and the concepts relating to them, links and definitions where available.
-
+<!-- ======================================================================================================= -->
 # Sound Production Related
 <details open markdown="block">
   <summary>
@@ -27,6 +27,14 @@ Below is a list of voice related words and the concepts relating to them, links 
 - vocal weight, pitch, closure, FVF, subglottal pressure, onsets, and microbehaviours are all under this umbrella
 - a catch all term for how the voice is produced and how 'cleanly' it is produced
 - has a lot to do with [clarity](/wiki/pages/clarity) and tone purity / [HNR](#harmonic-to-noise-ratio-hnr)
+
+## [Vocal Weight](/wiki/pages/vocal-weight)
+- how 'heavy' the voice sounds
+- doesn't take into account volume, pressed phonation, breathiness
+
+## Volume
+- the loudness of a voice
+- usually from airflow-closure more than vocal weight or pressed phonation
 
 ## Open Quotient
 - related to low [vocal weight](/wiki/pages/vocal-weight)
@@ -76,7 +84,7 @@ Below is a list of voice related words and the concepts relating to them, links 
 ## TA Muscles
 The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
 - thyroarytenoid muscles, running the length of the vocal folds
-- more activation = more weight and then typically into pressed phonation when pushed too far
+- more activation = more weight and then we typically into pressed phonation when pushed too far (but this isn't from TA)
 - can make M2 not sound like M2 and be more stable and bright rather than the "too thin" or hollow quality M2 usually has
 - can help with more general (not breath specifically) support to the voice to make it more robust
 - can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
@@ -111,11 +119,11 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - seen in some country singers, some Australian accents
 - often induces hypernasality
 
-## Formant, F1 F2 R1 R2 etc
+## Formant, F1 F2 or R1 R2 etc
 - these are resonance peaks in the voice, caused by the shape of your vocal tract
-- the ratio between F1 and F2 determines vowel
-- F1 is considered a larynx caused feature
-- F2 is considered a mouth caused feature
+- the ratio between F1 and F2 largely determines vowel
+- F1 is the first formant and is often altered through larynx height and OPC
+- F2 is the second formant and often altered through mouth space
 - F3 is from the difference in size between the mouth and the space between the teeth, mostly between the teeth and tongue
 - F4 is from the same but lips
 </details>
