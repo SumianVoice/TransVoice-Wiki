@@ -20,6 +20,9 @@ Every space has resonance frequencies. When a sound passes through that space, f
 
 Think of the larynx as the level of water in the bottle. The higher the larynx, the higher the resonance. When in voice, an area that is highlighted because of a resonance frequency is called a formant.
 
+<p align="left">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sxowishWgwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Formants
 Formants are areas of the voice that are highlighted because of the shape of the vocal tract. If a resonance is a property of the container, or space, then a formant is a property of the *sound*. There are three formants we really care about.
