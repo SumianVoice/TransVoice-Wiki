@@ -185,7 +185,7 @@ h5,
 }
 
 h2, .text-beta {
-  padding-bottom: 0.5em;
+  padding-bottom: 0.2em;
   border-bottom: 1px solid #5b5b68;
 }
 
@@ -208,6 +208,15 @@ summary > h2 {
   display: inline-block;
   width: 80%;
   margin-top: 1.5em !important;
+}
+
+.main-content h1+p,
+.main-content h2+p,
+.main-content h3+p,
+.main-content h4+p,
+.main-content h5+p,
+.main-content h6+p {
+ margin-top:0.75em;
 }
 
 
