@@ -35,8 +35,6 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 - M1, M2
 - modal voice, M2 / light M2
 
----
-
 ### Falsetto
 {: .no_toc .d-inline-block }
 <div>polluted term</div>{: .label .label-red }
@@ -46,8 +44,6 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 **Alternatives**:
 - M2
 - light M2
-
----
 
 ### Buzziness (specific)
 {: .no_toc .d-inline-block }
@@ -77,8 +73,6 @@ The problem is when people chase certain feelings instead of sound qualities. Ba
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
 
----
-
 ### R1 / R2 (specific)
 {: .no_toc .d-inline-block }
 <div>conflation</div>{: .label .label-yellow }
@@ -90,8 +84,6 @@ Although it's useful to talk about formant values numerically at times, **this i
 - vocal tract size
 - F1, F2
 
----
-
 ### Bright (specific)
 {: .no_toc .d-inline-block }
 <div>conflation</div>{: .label .label-yellow }
@@ -101,8 +93,6 @@ Although it's useful to talk about formant values numerically at times, **this i
 **Alternatives**:
 - high / low resonance
 - vocal tract size
-
----
 
 ## Other
 
