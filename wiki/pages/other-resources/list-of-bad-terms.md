@@ -26,8 +26,7 @@ This is an evolving document like most of the site, so we're always looking for 
   
 ### Chest voice, Head voice
 {: .no_toc .d-inline-block }
-<div>vague</div>{: .label .label-yellow }
-<div>polluted term</div>{: .label .label-grey }
+<div>confusing</div>{: .label .label-red }
 
 Chest and head voice are often very confusing in the world of singing pedagogy and even misused in research. They are inherently subjective terms, but their definition changes depending on who is asked. Chest voice can mostly be translated as M1 or modal voice. Head voice is usually referring to M2, but specifically for women, then some people use it for men but only when it's not "falsetto" and has been trained to be more full sounding.
 
@@ -37,7 +36,7 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 
 ### Falsetto
 {: .no_toc .d-inline-block }
-<div>polluted term</div>{: .label .label-grey }
+<div>polluted</div>{: .label .label-grey }
 
 Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy. The term is classically used to refer to male M2 of any kind that is not convincingly full, but has been more recently used for all light M2.
 
@@ -47,7 +46,6 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 
 ### Buzziness (specific)
 {: .no_toc .d-inline-block }
-<div>usually okay</div>{: .label .label-green }
 <div>conflation</div>{: .label .label-white }
 
 **This only applies to its use as an interchangeable term for vocal weight.**
@@ -62,8 +60,7 @@ Although the term is usually a good description of a few sound qualities, and is
 
 ### Forward / Throat / Head resonance
 {: .no_toc .d-inline-block }
-<div>vague</div>{: .label .label-yellow }
-<div>ineffective</div>{: .label .label-red }
+<div>confusing</div>{: .label .label-red }
 
 Though these words on their own mean something, it gets very vague when talking about "where the resonance is". Not only is it subjective and perceived differently person to person but it's based on the assumption that sound can be moved to different parts of the body. This is different from the very real concept of vowel position. In normal phonation, the source of the sound is always at the vocal folds, in the larynx. We can affect how the voice *resonates* within our bodies, but not where the sound emits.
 
@@ -75,7 +72,7 @@ The problem is when people chase certain feelings instead of sound qualities. Ba
 
 ### R1 / R2 (specific)
 {: .no_toc .d-inline-block }
-<div>conflation</div>{: .label .label-yellow }
+<div>conflation</div>{: .label .label-white }
 
 Although it's useful to talk about formant values numerically at times, **this is about the use of the terms as a description of resonance or vocal tract size**. Chasing numbers doesn't help, and usually ends up developing some unwanted habits. Also, F1 and F2 should be used in place of R1 and R2 for most cases that formant values are being discussed, partially because of the pollution of the term as mentioned.
 
@@ -86,7 +83,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 
 ### Bright (specific)
 {: .no_toc .d-inline-block }
-<div>conflation</div>{: .label .label-yellow }
+<div>conflation</div>{: .label .label-white }
 
 **This is only in regard to its use as a description of resonance frequency / size regardless of other factors**. A voice that is high in resonance can sound dark, and a voice that is low in resonance can sound bright, so using it to describe level of resonance / size is going to miss those cases. Brightness is a multivariable sound quality that can come from many things.
 
@@ -98,6 +95,6 @@ Although it's useful to talk about formant values numerically at times, **this i
 
 ### Breath Support (specific)
 {: .no_toc .d-inline-block }
-<div>overused term</div>{: .label .label-blue }
+<div>overused</div>{: .label .label-blue }
 
 **This relates to its overuse in the singing world**. Although breath support is important, and a prerequisite to almost anything voice related, most people do it automatically. It doesn't really solve any problems on it's own, but having breath support just means the voice isn't unstable and hard to control. In other words, **although breath support is important to voice, so is opening your mouth**. It's not common you need to tell people to do either, but for certain techniques it can be important enough to mention.
