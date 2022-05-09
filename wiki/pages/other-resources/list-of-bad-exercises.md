@@ -12,15 +12,6 @@ Below is a very incomplete list of just some of the vocal training methods that 
 
 This is an evolving document like most of the site, so we're always looking for more info.
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 ## Risky, dangerous or ineffective exercises
 
 ### Swallow and hold
