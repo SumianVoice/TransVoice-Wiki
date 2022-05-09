@@ -21,13 +21,10 @@ This is an evolving document like most of the site, so we're always looking for 
 {:toc}
 </details>
 
-## List of risky, dangerous or ineffective exercises
-
-### Exercises
+## Risky, dangerous or ineffective exercises
 {: .no_toc }
 
-#### Swallow and hold
-{: .no_toc }
+### Swallow and hold
 <div>dangerous</div>{: .label .label-red }
 
 - often used to raise the larynx
@@ -35,23 +32,18 @@ This is an evolving document like most of the site, so we're always looking for 
 - strain, loss of vocal control, loss of [closure](/wiki/pages/clarity/breathiness), pain can result
 - recommended by some very old resources and occasionally SLPs
 
-##### To avoid risks
-{: .no_toc }
-
+**To avoid risks**:
 - don't do it at all
 - swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
 
-#### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
-{: .no_toc }
+### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
 <div>risky</div>{: .label .label-yellow }
 
 - can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold [closure](/wiki/pages/clarity/breathiness)
 - very, very hard to untrain if habitualised
 
-##### To avoid risks
-{: .no_toc }
-
+**To avoid risks**:
 - only do it under supervision of someone who knows what [FVF](/wiki/pages/clarity/FVF) closure glottal stops and strikes sound like
   - don't add more pressure
   - use extremely light [glottal taps](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) to gain understanding of unconstricted true fold closure
@@ -69,7 +61,7 @@ These are terms that are commonly used in vague ways. They are not all inherentl
 
 Chest and head voice are often very confusing in the world of singing pedagogy and even misused in research. They are inherently subjective terms, but their definition changes depending on who is asked. Chest voice can mostly be translated as M1 or modal voice. Head voice is usually referring to M2, but specifically for women, then some people use it for men but only when it's not "falsetto" and has been trained to be more full sounding.
 
-Alternatives:
+**Alternatives**:
 - M1, M2
 - modal voice, M2 / light M2
 
@@ -79,7 +71,7 @@ Alternatives:
 
 Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy. The term is classically used to refer to male M2 of any kind that is not convincingly full, but has been more recently used for all light M2.
 
-Alternatives:
+**Alternatives**:
 - M2
 - light M2
 
@@ -92,7 +84,7 @@ Alternatives:
 
 Although the term is usually a good description of a few sound qualities, and is useful for describing overfull bright voices, it is sometimes used as an interchangeable term pointing to vocal weight / vocal fold mass. There are other sounds that sound buzzy, such as hyperadduction, pressed M0 / fry, twang, some forms of constriction. If trying to make a voice less buzzy in an attempt to make it more feminine, we'll likely sacrifice clarity and brightness in exchange for a dark, smooth, breathy voice. It's even more dangerous to base practice on this term when it comes to masculinisation. If we assume vocal weight is what "buzzy" refers to, then we may become hyperadducted or add any number of other factors while chasing a "buzzy" sound.
 
-Alternatives:
+**Alternatives**:
 - heavy
 - describe vocal weight as a clear undercurrent "rumble" to avoid conflation with other factors
 
@@ -107,7 +99,7 @@ Though these words on their own mean something, it gets very vague when talking 
 
 The problem is when people chase certain feelings instead of sound qualities. Basing practice on "where the resonance" is will often result in nothing at all, or doing extraneous things in an effort to affect that feeling. 
 
-Alternatives:
+**Alternatives**:
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
 
@@ -117,7 +109,7 @@ Alternatives:
 
 Although it's useful to talk about formant values numerically at times, **this is about the use of the terms as a description of resonance or vocal tract size**. Chasing numbers doesn't help, and usually ends up developing some unwanted habits. Also, F1 and F2 should be used in place of R1 and R2 for most cases that formant values are being discussed, partially because of the pollution of the term as mentioned.
 
-Alternatives:
+**Alternatives**:
 - resonance
 - vocal tract size
 - F1, F2
@@ -128,7 +120,7 @@ Alternatives:
 
 **This is only in regard to its use as a description of resonance frequency / size regardless of other factors**. A voice that is high in resonance can sound dark, and a voice that is low in resonance can sound bright, so using it to describe level of resonance / size is going to miss those cases. Brightness is a multivariable sound quality that can come from many things.
 
-Alternatives:
+**Alternatives**:
 - high / low resonance
 - vocal tract size
 
@@ -139,3 +131,23 @@ Alternatives:
 <div>overused term</div>{: .label .label-green }
 
 **This relates to its overuse in the singing world**. Although breath support is important, and a prerequisite to almost anything voice related, most people do it automatically. It doesn't really solve any problems on it's own, but having breath support just means the voice isn't unstable and hard to control. In other words, **although breath support is important to voice, so is opening your mouth**. It's not common you need to tell people to do either, but for certain techniques it can be important enough to mention.
+
+<style>
+h4,
+.text-delta {
+ font-size:15px !important;
+ font-weight:500;
+ text-transform:none;
+ letter-spacing:inherit;
+ display:inline-block;
+}
+@media (min-width: 31.25rem) {
+ h4,
+ .text-delta {
+  font-size:16px !important
+ }
+}
+.label {
+  margin-right: 0;
+}
+</style>
