@@ -4,11 +4,12 @@ title: Voice Examples
 nav_order: 18
 has_children: false
 ---
+# Voice Examples
 {% include og.html %}
 <details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
+<summary>
+  Table of contents
+</summary>
 {: .text-delta }
 1. TOC
 {:toc}
@@ -16,7 +17,7 @@ has_children: false
 
 <details open markdown="block">
 <summary markdown="block">
-## ♀️ Feminine Voice List ♀️
+## ♀️ Feminine Voice List
 </summary>
 
 ### Drawing With Waffles
