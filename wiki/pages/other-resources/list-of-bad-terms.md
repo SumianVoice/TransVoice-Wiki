@@ -2,7 +2,7 @@
 layout: default
 title: List of Bad Terminology
 parent: Other Resources
-nav_order: 13
+nav_order: 12
 has_children: false
 ---
 {% include og.html %}
