@@ -180,4 +180,8 @@ h5,
  vertical-align: text-bottom;
 }
 
+.main-content hr + * {
+  margin-top: 0 !important
+}
+
 //
