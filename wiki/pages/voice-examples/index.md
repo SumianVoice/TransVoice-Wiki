@@ -4,8 +4,8 @@ title: Voice Examples
 nav_order: 18
 has_children: false
 ---
-# Voice Examples
 {% include og.html %}
+# Voice Examples
 <details closed markdown="block">
 <summary>
   Table of contents
