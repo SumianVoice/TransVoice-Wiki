@@ -231,7 +231,7 @@ summary > h2::after {
 details[open] summary > h2::after {
   content: " ▼";
 }
-@media (min-width: 31.25rem) {
+@media (min-width: 50rem) {
   summary > h2::after {
     display:none;
   }
