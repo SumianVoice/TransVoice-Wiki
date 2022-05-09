@@ -145,41 +145,11 @@ body {
   max-height: 360px;
 }
 
+// ---------------------------------
+
 hr {
   background-color: #5b5b68;
 }
-
-h4,
-.text-delta {
- font-size:15px !important;
- font-weight:500 !important;
- text-transform:none;
- letter-spacing:inherit;
- display:inline-block !important;
-}
-@media (min-width: 31.25rem) {
- h4,
- .text-delta {
-  font-size:16px !important 
- }
-}
-h5,
-.text-epsilon {
- font-size:12px !important;
- color:#f5f6fa;
-}
-@media (min-width: 31.25rem) {
- h5,
- .text-epsilon {
-  font-size:14px !important
- }
-}
-
-.label {
- margin-right: 0;
- vertical-align: text-bottom;
-}
-
 .main-content hr + * {
   margin-top: 0 !important
 }
@@ -189,25 +159,40 @@ h2, .text-beta {
   border-bottom: 1px solid #5b5b68;
 }
 
-h3,
-.text-gamma {
- font-size:18px !important
+h3, .text-gamma {
+  font-size:18px !important
 }
 @media (min-width: 31.25rem) {
- h3,
- .text-gamma {
-  font-size:20px !important;
- }
+  h3, .text-gamma {
+    font-size:20px !important;
+  }
 }
 
 h2 + h3 {
   margin-top: 1em !important;
 }
 
-summary > h2 {
-  display: inline-block;
-  width: 80%;
-  margin-top: 1.5em !important;
+h4, .text-delta {
+  font-size:15px !important;
+  font-weight:500 !important;
+  text-transform:none;
+  letter-spacing:inherit;
+  display:inline-block !important;
+}
+@media (min-width: 31.25rem) {
+  h4, .text-delta {
+    font-size:16px !important 
+  }
+}
+
+h5, .text-epsilon {
+  font-size:12px !important;
+  color:#f5f6fa;
+}
+@media (min-width: 31.25rem) {
+  h5, .text-epsilon {
+    font-size:14px !important
+  }
 }
 
 .main-content h1+p,
@@ -216,8 +201,51 @@ summary > h2 {
 .main-content h4+p,
 .main-content h5+p,
 .main-content h6+p {
- margin-top:0.8em;
+  margin-top:0.8em;
 }
 
+.label {
+  margin-right: 0;
+  vertical-align: text-bottom;
+}
+
+summary > h2 {
+  display: inline-block;
+  width: 100%;
+  margin-top: 1.5em !important;
+}
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+summary > h2::after {
+  content: ' ►';
+  font-size:8px;
+  margin-left:3px;
+  vertical-align: middle;
+  display:inline-block;
+}
+details[open] summary > h2::after {
+  content: " ▼";
+}
+@media (min-width: 31.25rem) {
+  summary > h2::after {
+    display:none;
+  }
+  summary > h2::before {
+    content: ' ►';
+    margin-left:-20px;
+    font-size:10px;
+    width:14px;
+    vertical-align: middle;
+    display:inline-block;
+  }
+  details[open] summary > h2::before {
+    content: " ▼";
+  }
+}
 
 //
