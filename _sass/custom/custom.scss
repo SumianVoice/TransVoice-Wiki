@@ -184,15 +184,20 @@ h5,
   margin-top: 0 !important
 }
 
-@media (min-width: 31.25rem) {
-  h2, .text-beta {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid #5b5b68;
-  }
+h2, .text-beta {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #5b5b68;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
-  margin-top: 2em;
+h3,
+.text-gamma {
+ font-size:18px !important
+}
+@media (min-width: 31.25rem) {
+ h3,
+ .text-gamma {
+  font-size:20px !important;
+ }
 }
 
 h2 + h3 {
