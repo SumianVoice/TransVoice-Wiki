@@ -204,4 +204,10 @@ h2 + h3 {
   margin-top: 1em !important;
 }
 
+summary > h2 {
+  display: inline-block;
+  width: 80%;
+}
+
+
 //
