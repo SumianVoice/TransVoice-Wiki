@@ -39,4 +39,3 @@ This is an evolving document like most of the site, so we're always looking for 
   - don't add more pressure
   - use extremely light [glottal taps](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) to gain understanding of unconstricted true fold closure
 - don't do it
-- 
