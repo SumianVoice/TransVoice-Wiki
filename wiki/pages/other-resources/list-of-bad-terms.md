@@ -27,7 +27,7 @@ This is an evolving document like most of the site, so we're always looking for 
 ### Chest voice, Head voice
 {: .no_toc .d-inline-block }
 <div>vague</div>{: .label .label-yellow }
-<div>polluted term</div>{: .label .label-red }
+<div>polluted term</div>{: .label .label-grey }
 
 Chest and head voice are often very confusing in the world of singing pedagogy and even misused in research. They are inherently subjective terms, but their definition changes depending on who is asked. Chest voice can mostly be translated as M1 or modal voice. Head voice is usually referring to M2, but specifically for women, then some people use it for men but only when it's not "falsetto" and has been trained to be more full sounding.
 
@@ -37,7 +37,7 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 
 ### Falsetto
 {: .no_toc .d-inline-block }
-<div>polluted term</div>{: .label .label-red }
+<div>polluted term</div>{: .label .label-grey }
 
 Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy. The term is classically used to refer to male M2 of any kind that is not convincingly full, but has been more recently used for all light M2.
 
@@ -48,7 +48,7 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 ### Buzziness (specific)
 {: .no_toc .d-inline-block }
 <div>usually okay</div>{: .label .label-green }
-<div>conflation</div>{: .label .label-yellow }
+<div>conflation</div>{: .label .label-white }
 
 **This only applies to its use as an interchangeable term for vocal weight.**
 
@@ -98,6 +98,6 @@ Although it's useful to talk about formant values numerically at times, **this i
 
 ### Breath Support (specific)
 {: .no_toc .d-inline-block }
-<div>overused term</div>{: .label .label-green }
+<div>overused term</div>{: .label .label-blue }
 
 **This relates to its overuse in the singing world**. Although breath support is important, and a prerequisite to almost anything voice related, most people do it automatically. It doesn't really solve any problems on it's own, but having breath support just means the voice isn't unstable and hard to control. In other words, **although breath support is important to voice, so is opening your mouth**. It's not common you need to tell people to do either, but for certain techniques it can be important enough to mention.
