@@ -19,7 +19,7 @@ Below is a list of voice related words and the concepts relating to them, links 
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Sound Production Related
+## Sound Production Related
 </summary>
 ### Glottal Behaviour
 - covers all behaviours to do with phonation / sound production
@@ -46,7 +46,7 @@ Below is a list of voice related words and the concepts relating to them, links 
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Pitch and Range Related
+## Pitch and Range Related
 </summary>
 ### Pitch
 - the fundamental (F0) frequency of the voice
@@ -91,7 +91,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Resonance Related
+## Resonance Related
 </summary>
 ### [Resonance](/wiki/pages/resonance)
 - changes the timbre or non-pitch qualities of a voice
@@ -127,7 +127,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Clarity Related
+## Clarity Related
 </summary>
 ### FVF, False Vocal Folds and constriction
 - "white noise" quality in background is louder and may be present even when not breathy
@@ -154,7 +154,7 @@ Primary sources of low Harmonic to Noise ratio:
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Exercise and Training Related
+## Exercise and Training Related
 </summary>
 ### SOVTEs, VFEs
 - **Semi Occluded Vocal Tract Exercise** and **Vocal Function Exercises**
@@ -171,7 +171,7 @@ Primary sources of low Harmonic to Noise ratio:
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Cover Related
+## Cover Related
 </summary>
 ### Cover
 - hides or restricts a certain aspect of voice, usually fullness or resonance
@@ -194,7 +194,7 @@ Primary sources of low Harmonic to Noise ratio:
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Speech Pattern Related
+## Speech Pattern Related
 </summary>
 ### Intonation
 - the changing of pitch to add color to speech
@@ -220,7 +220,7 @@ Primary sources of low Harmonic to Noise ratio:
 <!-- ======================================================================================================= -->
 <details open markdown="block">
 <summary markdown="block">
-  ## Anatomy Related
+## Anatomy Related
 </summary>
 ### Vocal Tract
 - the mouth, nose, larynx and pharynx; everything from the larynx up
