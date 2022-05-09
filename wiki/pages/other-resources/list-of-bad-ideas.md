@@ -22,9 +22,9 @@ This is an evolving document like most of the site, so we're always looking for 
 </details>
 
 ## Risky, dangerous or ineffective exercises
-{: .no_toc }
 
 ### Swallow and hold
+{: .no_toc }
 <div>dangerous</div>{: .label .label-red }
 
 - often used to raise the larynx
@@ -36,8 +36,10 @@ This is an evolving document like most of the site, so we're always looking for 
 - don't do it at all
 - swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
+---
 
 ### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
+{: .no_toc }
 <div>risky</div>{: .label .label-yellow }
 
 - can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold [closure](/wiki/pages/clarity/breathiness)
@@ -48,6 +50,16 @@ This is an evolving document like most of the site, so we're always looking for 
   - don't add more pressure
   - use extremely light [glottal taps](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) to gain understanding of unconstricted true fold closure
 - don't do it
+
+---
+
+<details closed markdown="block">
+<summary markdown="block">
+### Test
+{: .no_toc }
+</summary>
+test
+</details>
 
 ## Red Flag Terminology
 These are terms that are commonly used in vague ways. They are not all inherently bad, but just present issues, either because of word use pollution (people using the word in too many different ways) or because they are always involved in risky or ineffective techniques like seen above.
@@ -65,6 +77,8 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 - M1, M2
 - modal voice, M2 / light M2
 
+---
+
 #### Falsetto
 {: .no_toc }
 <div>polluted term</div>{: .label .label-red }
@@ -74,6 +88,8 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 **Alternatives**:
 - M2
 - light M2
+
+---
 
 #### Buzziness (specific)
 {: .no_toc }
@@ -103,6 +119,8 @@ The problem is when people chase certain feelings instead of sound qualities. Ba
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
 
+---
+
 #### R1 / R2 (specific)
 {: .no_toc }
 <div>conflation</div>{: .label .label-yellow }
@@ -114,6 +132,8 @@ Although it's useful to talk about formant values numerically at times, **this i
 - vocal tract size
 - F1, F2
 
+---
+
 #### Bright (specific)
 {: .no_toc }
 <div>conflation</div>{: .label .label-yellow }
@@ -124,6 +144,8 @@ Although it's useful to talk about formant values numerically at times, **this i
 - high / low resonance
 - vocal tract size
 
+---
+
 ### Other
 
 #### Breath Support (specific)
@@ -131,23 +153,3 @@ Although it's useful to talk about formant values numerically at times, **this i
 <div>overused term</div>{: .label .label-green }
 
 **This relates to its overuse in the singing world**. Although breath support is important, and a prerequisite to almost anything voice related, most people do it automatically. It doesn't really solve any problems on it's own, but having breath support just means the voice isn't unstable and hard to control. In other words, **although breath support is important to voice, so is opening your mouth**. It's not common you need to tell people to do either, but for certain techniques it can be important enough to mention.
-
-<style>
-h4,
-.text-delta {
- font-size:15px !important;
- font-weight:500;
- text-transform:none;
- letter-spacing:inherit;
- display:inline-block;
-}
-@media (min-width: 31.25rem) {
- h4,
- .text-delta {
-  font-size:16px !important
- }
-}
-.label {
-  margin-right: 0;
-}
-</style>
