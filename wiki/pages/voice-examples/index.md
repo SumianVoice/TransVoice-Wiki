@@ -369,7 +369,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resona
 
 <details open markdown="block">
 <summary markdown="block">
-## ♂️ Masculine Voices ♂️
+## ♂️ Masculine Voices
 </summary>
 <!-- voice block -->
 
