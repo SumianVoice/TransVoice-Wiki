@@ -248,4 +248,39 @@ details[open] summary > h2::after {
   }
 }
 
+// figure related
+
+figure {
+  margin: 1em;
+  width: fit-content;
+  // background-color: #bbbbbb22;
+  // padding: 5px;
+}
+
+figure.float-right {
+  margin-right: 0em;
+}
+
+figure.float-left {
+  margin-left: 0em;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+figure > img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #777;
+}
+
+@media (max-width: 31.25rem) {
+  figure {
+    max-width: 100%;
+    margin: 1em 0 1em 0;
+  }
+}
+
 //
