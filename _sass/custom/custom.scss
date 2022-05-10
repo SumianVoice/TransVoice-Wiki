@@ -251,18 +251,10 @@ details[open] summary > h2::after {
 // figure related
 
 figure {
-  margin: 1em;
+  margin: 1em auto;
   width: fit-content;
   // background-color: #bbbbbb22;
   // padding: 5px;
-}
-
-figure.float-right {
-  margin-right: 0em;
-}
-
-figure.float-left {
-  margin-left: 0em;
 }
 
 figcaption {
@@ -278,9 +270,18 @@ figure > img {
 
 @media (max-width: 31.25rem) {
   figure {
-    max-width: 100%;
-    margin: 1em 0 1em 0;
+    max-width: 100% !important;
   }
 }
+@media (min-width: 31.25rem) {
+  figure.float-right {
+    margin: 1em;
+    margin-right: 0em;
+  }
 
+  figure.float-left {
+    margin: 1em;
+    margin-left: 0em;
+  }
+}
 //
