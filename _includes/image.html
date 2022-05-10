@@ -1,10 +1,10 @@
-<figure class="{{ include.class }}">
+<figure class="{{ include.class }}" style="max-width: {{ include.max-width }};">
    
    {% if include.url %}
    <a href="{{ include.url }}">
    {% endif %}
       
-   <img src="{{ include.file }}" style="max-width: {{ include.max-width }};" alt="{{ include.alt }}"/>
+   <img src="{{ include.file }}" alt="{{ include.alt }}"/>
    
    {% if include.url %}
    </a>
