@@ -5,15 +5,16 @@ nav_order: 18
 has_children: false
 ---
 {% include og.html %}
-# Voice Examples
 <details closed markdown="block">
-<summary>
-  Table of contents
-</summary>
+  <summary>
+    Table of contents
+  </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
+
+# Voice Examples
 
 <details open markdown="block">
 <summary markdown="block">
