@@ -284,4 +284,10 @@ figure > img {
     margin-left: 0em;
   }
 }
+@media (min-width: 50rem) {
+  .main-content summary > h2 > .anchor-heading {
+    left: auto;
+    right: 0rem;
+  }
+}
 //
