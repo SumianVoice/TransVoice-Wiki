@@ -172,7 +172,8 @@ h2 + h3 {
   margin-top: 1em !important;
 }
 
-h4, .text-delta {
+//.text-delta,
+h4 { 
   font-size:15px !important;
   font-weight:500 !important;
   text-transform:none;
@@ -180,7 +181,8 @@ h4, .text-delta {
   display:inline-block !important;
 }
 @media (min-width: 31.25rem) {
-  h4, .text-delta {
+  //.text-delta,
+  h4 {
     font-size:16px !important 
   }
 }
