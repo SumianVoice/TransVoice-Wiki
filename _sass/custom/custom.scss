@@ -292,4 +292,14 @@ figure > img {
     right: 0rem;
   }
 }
+summary.text-delta::after {
+  content:' ►';
+  font-size:7px;
+  margin-left:3px;
+  vertical-align:middle;
+  display:inline-block
+}
+details[open] summary.text-delta::after {
+  content:" ▼"
+}
 //
