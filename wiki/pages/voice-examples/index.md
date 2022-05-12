@@ -18,7 +18,7 @@ has_children: false
 
 <details open markdown="block">
 <summary markdown="block">
-## ♀️ Feminine Voice List
+## ♀️ Feminine Voices
 </summary>
 
 ### Drawing With Waffles
