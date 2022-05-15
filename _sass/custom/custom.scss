@@ -260,6 +260,59 @@ details[open] summary > h2::after {
     right: 0rem;
   }
 }
+
+// rules for h3 wrapped in <summary>
+
+summary > h3 {
+ display:inline-block;
+ width:100%;
+ margin-top:1.5em !important;
+}
+
+details > summary {
+ list-style:none;
+}
+summary::-webkit-details-marker {
+ display:none;
+}
+summary > h3::after {
+ content:' ►';
+ font-size:6px;
+ margin-left:3px;
+ vertical-align:middle;
+ display:inline-block;
+}
+details[open] summary > h3::after {
+ content:" ▼";
+}
+@media (min-width: 50rem) {
+ summary > h3::after {
+  display:none;
+ }
+ summary > h3::before {
+  content:' ►';
+  margin-left:-20px;
+  font-size:8px;
+  width:14px;
+  vertical-align:middle;
+  display:inline-block;
+ }
+ details[open] summary > h3::before {
+  content:" ▼";
+ }
+}
+
+// move anchor link for summary > h3
+
+@media (min-width: 50rem) {
+ .main-content summary> h3 >.anchor-heading {
+  left:auto;
+  right:0rem
+ }
+}
+
+// add summary arrow for toc
+
 summary.text-delta::after {
   content:' ►';
   font-size:7px;
