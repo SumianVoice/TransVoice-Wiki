@@ -1,6 +1,6 @@
 ---
 layout: default
-title: List of Bad Exercises
+title: Questionable Exercises
 parent: Other Resources
 nav_order: 12
 has_children: false
