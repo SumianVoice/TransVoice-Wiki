@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Questionable Terminology
+title: Questionable Terms
 parent: Other Resources
 nav_order: 12
 has_children: false
