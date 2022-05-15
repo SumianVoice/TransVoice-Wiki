@@ -17,8 +17,7 @@ has_children: false
 # Glossary
 Below is a list of voice related words and the concepts relating to them, links and definitions where available.
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Sound Production Related
 </summary>
 ### Glottal Behaviour
@@ -44,8 +43,7 @@ Below is a list of voice related words and the concepts relating to them, links 
 - how long in each glottal cycle (each flap of the folds) the folds are closing
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Pitch and Range Related
 </summary>
 ### Pitch
@@ -89,8 +87,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - a component of "shouting posture"
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Resonance Related
 </summary>
 ### [Resonance](/wiki/pages/resonance)
@@ -125,8 +122,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - F4 is from the same but lips
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Clarity Related
 </summary>
 ### FVF, False Vocal Folds and constriction
@@ -152,8 +148,7 @@ Primary sources of low Harmonic to Noise ratio:
 ・vocal fry and creak
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Exercise and Training Related
 </summary>
 ### SOVTEs, VFEs
@@ -169,8 +164,7 @@ Primary sources of low Harmonic to Noise ratio:
 - M2 and quiet voices tend to be low in support without training
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Cover Related
 </summary>
 ### Cover
@@ -192,8 +186,7 @@ Primary sources of low Harmonic to Noise ratio:
 - too little passage of air through the nose when phonating
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Speech Pattern Related
 </summary>
 ### Intonation
@@ -218,8 +211,7 @@ Primary sources of low Harmonic to Noise ratio:
 
 </details>
 <!-- ======================================================================================================= -->
-<details open markdown="block">
-<summary markdown="block">
+<details open markdown="block"><summary markdown="block">
 ## Anatomy Related
 </summary>
 ### Vocal Tract
