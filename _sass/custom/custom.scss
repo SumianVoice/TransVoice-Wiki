@@ -215,6 +215,8 @@ h5, .text-epsilon {
   vertical-align: text-bottom;
 }
 
+// rules for when h2 is wrapped with <summary>
+
 summary > h2 {
   display: inline-block;
   width: 100%;
@@ -254,6 +256,25 @@ details[open] summary > h2::after {
   }
 }
 
+// move anchor link to end when a h2 heading is wrapped with <summary>
+
+@media (min-width: 50rem) {
+  .main-content summary > h2 > .anchor-heading {
+    left: auto;
+    right: 0rem;
+  }
+}
+summary.text-delta::after {
+  content:' ►';
+  font-size:7px;
+  margin-left:3px;
+  vertical-align:middle;
+  display:inline-block
+}
+details[open] summary.text-delta::after {
+  content:" ▼"
+}
+
 // figure related
 
 figure {
@@ -289,22 +310,5 @@ figure > img {
     margin: 1em;
     margin-left: 0em;
   }
-}
-
-@media (min-width: 50rem) {
-  .main-content summary > h2 > .anchor-heading {
-    left: auto;
-    right: 0rem;
-  }
-}
-summary.text-delta::after {
-  content:' ►';
-  font-size:7px;
-  margin-left:3px;
-  vertical-align:middle;
-  display:inline-block
-}
-details[open] summary.text-delta::after {
-  content:" ▼"
 }
 //
