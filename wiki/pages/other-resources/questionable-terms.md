@@ -15,7 +15,7 @@ has_children: false
 {:toc}
 </details>
 
-# List of Bad Terminology
+# Questionable Terminology
 {: .no_toc }
 
 These are terms that are commonly used in vague ways. They are not all inherently bad, but just present issues, either because of word use pollution (people using the word in too many different ways) or because they are always involved in risky or ineffective techniques like seen above.
