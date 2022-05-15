@@ -20,7 +20,10 @@ Below is a very incomplete list of just some of the vocal training methods that 
 
 This is an evolving document like most of the site, so we're always looking for more info.
 
+
+<details open markdown="block"><summary markdown="block">
 ## Risky, dangerous or ineffective exercises
+</summary>
 
 ### Swallow and hold
 {: .d-inline-block }
@@ -47,3 +50,5 @@ This is an evolving document like most of the site, so we're always looking for 
   - don't add more pressure
   - use extremely light [glottal taps](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) to gain understanding of unconstricted true fold closure
 - don't do it
+
+</details>

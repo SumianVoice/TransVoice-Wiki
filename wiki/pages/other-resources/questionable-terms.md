@@ -14,6 +14,7 @@ has_children: false
 1. TOC
 {:toc}
 </details>
+
 # List of Bad Terminology
 {: .no_toc }
 
@@ -21,8 +22,11 @@ These are terms that are commonly used in vague ways. They are not all inherentl
 
 This is an evolving document like most of the site, so we're always looking for more info.
 
+
+<details open markdown="block"><summary markdown="block">
 ## Sound Production Terms
-  
+</summary>
+
 ### Chest voice, Head voice
 {: .d-inline-block }
 <div>confusing</div>{: .label .label-red }
@@ -55,7 +59,12 @@ Although the term is usually a good description of a few sound qualities, and is
 - heavy
 - describe vocal weight as a clear undercurrent "rumble" to avoid conflation with other factors
 
+</details>
+
+
+<details open markdown="block"><summary markdown="block">
 ## Resonance Terms
+</summary>
 
 ### Forward / Throat / Head resonance
 {: .d-inline-block }
@@ -90,10 +99,17 @@ Although it's useful to talk about formant values numerically at times, **this i
 - high / low resonance
 - vocal tract size
 
+</details>
+
+
+<details open markdown="block"><summary markdown="block">
 ## Other
+</summary>
 
 ### Breath Support (specific)
 {: .d-inline-block }
 <div>overused</div>{: .label .label-blue }
 
 **This relates to its overuse in the singing world**. Although breath support is important, and a prerequisite to almost anything voice related, most people do it automatically. It doesn't really solve any problems on it's own, but having breath support just means the voice isn't unstable and hard to control. In other words, **although breath support is important to voice, so is opening your mouth**. It's not common you need to tell people to do either, but for certain techniques it can be important enough to mention.
+
+</details>
