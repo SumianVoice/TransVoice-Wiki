@@ -28,6 +28,7 @@ This is an evolving document like most of the site, so we're always looking for 
 </summary>
 
 ### Chest voice, Head voice
+
 {: .d-inline-block }
 <div>confusing</div>{: .label .label-red }
 
@@ -38,6 +39,7 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 - modal voice, M2 / light M2
 
 ### Falsetto
+
 {: .d-inline-block }
 <div>polluted</div>{: .label .label-grey }
 
@@ -48,6 +50,7 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 - light M2
 
 ### Buzziness (specific)
+
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
 
@@ -67,18 +70,20 @@ Although the term is usually a good description of a few sound qualities, and is
 </summary>
 
 ### Forward / Throat / Head resonance
+
 {: .d-inline-block }
 <div>confusing</div>{: .label .label-red }
 
 Though these words on their own mean something, it gets very vague when talking about "where the resonance is". Not only is it subjective and perceived differently person to person but it's based on the assumption that sound can be moved to different parts of the body. This is different from the very real concept of vowel position. In normal phonation, the source of the sound is always at the vocal folds, in the larynx. We can affect how the voice *resonates* within our bodies, but not where the sound emits.
 
-The problem is when people chase certain feelings instead of sound qualities. Basing practice on "where the resonance" is will often result in nothing at all, or doing extraneous things in an effort to affect that feeling. 
+The problem is when people chase certain feelings instead of sound qualities. Basing practice on "where the resonance" is will often result in nothing at all, or doing extraneous things in an effort to affect that feeling.
 
 **Alternatives**:
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
 
 ### R1 / R2 (specific)
+
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
 
@@ -90,6 +95,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 - F1, F2
 
 ### Bright (specific)
+
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
 
@@ -107,6 +113,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 </summary>
 
 ### Breath Support (specific)
+
 {: .d-inline-block }
 <div>overused</div>{: .label .label-blue }
 
