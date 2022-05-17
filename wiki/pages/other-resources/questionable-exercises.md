@@ -26,6 +26,7 @@ This is an evolving document like most of the site, so we're always looking for 
 </summary>
 
 ### Swallow and hold
+
 {: .d-inline-block }
 <div>dangerous</div>{: .label .label-red }
 
@@ -39,6 +40,7 @@ This is an evolving document like most of the site, so we're always looking for 
 - swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
 ### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
+
 {: .d-inline-block }
 <div>risky</div>{: .label .label-yellow }
 
