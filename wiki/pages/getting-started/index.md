@@ -19,7 +19,8 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 - [Pitch is not that important!](pitch) It's useful for training, intonation and a few other things, but it's not a gender factor.
 - It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
 - Sometimes, knowing voice anatomy or reading research papers or watching videos about voice pedagogy is useful for background, but if you're reading or theorising more than you're practising, it's not helping!
-- Practice doesn't mean doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
+- Drills and exercises are for inducing exploration. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
+- Practice doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
   1. speaking in the presence of voices you want to sound like
   2. just talking in VC or in person
   3. doing a drill and reading a passage
@@ -27,6 +28,7 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
 
 ## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch
 - the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already
+- using "awwww" as if talking to a cute puppy is a good behavioural trigger for getting light vocal weight
 - avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [M2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
 
 ## Raise [resonance](/wiki/pages/resonance) as needed
