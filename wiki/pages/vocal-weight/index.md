@@ -75,6 +75,12 @@ These can be isolated or removed from the equation. You can get loud without goi
 
 
 # Exercises
+## The "awww" Trigger
+There are some behavioural triggers that encourage light vocal weight. One of these is to say "awww" as if talking to a cute puppy. We can then pitch down to where we can speak more comfortably. We need to make sure the pitch is high enough to get lighter weight (220hz or higher, usually) and low enough that we can actually speak.
+
+After saying "awww" 1-3 times we can go into speaking in that configuration, either a passage or just narrating to ourselves.
+
+
 ## Pitch Slides
 Pitch slides are a good way to reduce vocal weight. As we go up in pitch, the folds want to thin and vibrate at a higher rate, which decreases the amount of force involved in phonation. You can use pitch then to induce low vocal weight and then eventually learn to control it independently of pitch.
 
