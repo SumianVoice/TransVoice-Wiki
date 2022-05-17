@@ -14,21 +14,21 @@ has_children: false
 {:toc}
 </details>
 
-# ♀️ Feminine Voice List ♀️
-<details open markdown="block">
-  <summary>
-    Expand / Hide
-  </summary>
+# Voice Examples
 
-## Drawing With Waffles
+<details open markdown="block">
+<summary markdown="block">
+## ♀️ Feminine Voices
+</summary>
+
+### Drawing With Waffles
+{: .d-inline-block }
+<div>dynamic</div>{: .label .label-green }
+<div>medium pitch</div>{: .label .label-yellow }
+<div>medium high resonance</div>{: .label .label-blue }
+
 Good for learning more varied speech patterns, and for training medium pitch brightness.
 
-dynamic
-{: .label .label-green }
-medium pitch
-{: .label .label-yellow }
-medium high resonance
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
@@ -42,15 +42,14 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitc
 <!--  -->
 
 <!--  -->
-## imawonder
+### imawonder
+{: .d-inline-block }
+<div>very bright</div>{: .label .label-yellow }
+<div>slightly heavy</div>{: .label .label-blue }
+<div>low pitch</div>{: .label .label-red }
+
 Really good for learning brightness despite a very low pitch
 
-very bright
-{: .label .label-yellow }
-slightly heavy
-{: .label .label-blue }
-low pitch
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
@@ -64,17 +63,15 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
 <!--  -->
 
 <!--  -->
-## Nurse
+### Nurse
+{: .d-inline-block }
+<div>very low pitch</div>{: .label .label-red }
+<div>smooth</div>{: .label .label-blue }
+<div>deep fem</div>{: .label .label-grey }
+<div>low resonance</div>{: .label .label-blue }
+
 Perfect for learning a deep feminine voice at very (120hz) low pitch.
 
-very low pitch
-{: .label .label-red }
-smooth
-{: .label .label-blue }
-deep fem
-{: .label .label-grey }
-low resonance
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
@@ -88,19 +85,16 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 <!--  -->
 
 <!--  -->
-## Moriah Elizabeth
+### Moriah Elizabeth
+{: .d-inline-block }
+<div>typical feminine</div>{: .label .label-pink }
+<div>creak</div>{: .label .label-grey }
+<div>low pitch</div>{: .label .label-blue }
+<div>high intonation</div>{: .label .label-red }
+<div>high volume</div>{: .label .label-white }
+
 Good for learning high pitch brightness and getting out of a low volume configuration.
 
-typical feminine
-{: .label .label-pink }
-creak
-{: .label .label-grey }
-low pitch
-{: .label .label-blue }
-high intonation
-{: .label .label-red }
-high volume
-{: .label .label-white }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low w/ twang sometimes
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -114,17 +108,15 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 <!--  -->
 
 <!--  -->
-## Jimena Reno
+### Jimena Reno
+{: .d-inline-block }
+<div>medium pitch</div>{: .label .label-green }
+<div>low intonation</div>{: .label .label-blue }
+<div>low volume</div>{: .label .label-grey }
+<div>high resonance</div>{: .label .label-red }
+
 Good for low volume brightness and a good entry level mimicry source.
 
-medium pitch
-{: .label .label-green }
-low intonation
-{: .label .label-blue }
-low volume
-{: .label .label-grey }
-high resonance
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟤 🟤 🟤 🟤 very low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -138,17 +130,15 @@ difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 <!--  -->
 
 <!--  -->
-## Karina Singh
+### Karina Singh
+{: .d-inline-block }
+<div>low pitch</div>{: .label .label-green }
+<div>low intonation</div>{: .label .label-blue }
+<div>intonation spikes</div>{: .label .label-red }
+<div>lowish resonance</div>{: .label .label-grey }
+
 Good example of low resonance and pitch but maintaining feminine qualities and brightness.
 
-low pitch
-{: .label .label-green }
-low intonation
-{: .label .label-blue }
-intonation spikes
-{: .label .label-red }
-lowish resonance
-{: .label .label-grey }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium-low
@@ -162,15 +152,14 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 <!--  -->
 
 <!--  -->
-## Jackie Liu
+### Jackie Liu
+{: .d-inline-block }
+<div>low pitch</div>{: .label .label-blue }
+<div>high intonation</div>{: .label .label-green }
+<div>dynamic</div>{: .label .label-red }
+
 Very soft and high resonance, good for learning brightness at low pitch
 
-low pitch
-{: .label .label-blue }
-high intonation
-{: .label .label-green }
-dynamic
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -184,15 +173,14 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 <!--  -->
 
 <!--  -->
-## PearlescentMoon
+### PearlescentMoon
+{: .d-inline-block }
+<div>high pitch intonation</div>{: .label .label-red }
+<div>medium low vocal weight</div>{: .label .label-green }
+<div>🇳🇿 Australian accent</div>{: .label .label-blue }
+
 Good for super high intonation
 
-high pitch intonation
-{: .label .label-red }
-medium low vocal weight
-{: .label .label-green }
-🇳🇿 Australian accent
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -206,15 +194,14 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
 <!--  -->
 
 <!--  -->
-## Shohreh Aghdashloo
+### Shohreh Aghdashloo
+{: .d-inline-block }
+<div>very low pitch</div>{: .label .label-grey }
+<div>FVF constriction</div>{: .label .label-red }
+<div>vocal fry</div>{: .label .label-blue }
+
 A quite out of the ordinary voice that's really interesting and beautiful
 
-very low pitch
-{: .label .label-grey }
-FVF constriction
-{: .label .label-red }
-vocal fry
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-high
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -228,17 +215,15 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
 <!--  -->
 
 <!--  -->
-## 39daph
+### 39daph
+{: .d-inline-block }
+<div>lowish resonance</div>{: .label .label-grey }
+<div>heavier weight</div>{: .label .label-grey }
+<div>bright</div>{: .label .label-blue }
+<div>very dynamic</div>{: .label .label-red }
+
 Good for low pitch brightness and dynamic resonance and weight.
 
-lowish resonance
-{: .label .label-grey }
-heavier weight
-{: .label .label-grey }
-bright
-{: .label .label-blue }
-very dynamic
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium-high
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
@@ -252,15 +237,14 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
 <!--  -->
 
 <!--  -->
-## Mijinko
+### Mijinko
+{: .d-inline-block }
+<div>hyperfem</div>{: .label .label-green }
+<div>ludicrous</div>{: .label .label-blue }
+<div>absolutely insane resonance</div>{: .label .label-red }
+
 Ridiculous hyperfem trained afab voice
 
-hyperfem
-{: .label .label-green }
-ludicrous
-{: .label .label-blue }
-absolutely insane resonance
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 quite low
 resonance      🎻 🟡 🟡 🟡 🟡 🟡 very high (1200hz F1 /a/)
@@ -274,15 +258,13 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟡 ridiculous hard
 <!--  -->
 
 <!--  -->
-## pikat
+### pikat
+{: .d-inline-block }
+<div>low pitch</div>{: .label .label-red }
+<div>low resonance</div>{: .label .label-green }
+<div>deep</div>{: .label .label-blue }
 Low pitch deep fem voice with ludicrous glottal behaviour
 
-low pitch
-{: .label .label-red }
-low resonance
-{: .label .label-green }
-deep
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
@@ -296,15 +278,14 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is ver
 <!--  -->
 
 <!--  -->
-## Gazes
+### Gazes
+{: .d-inline-block }
+<div>quiet</div>{: .label .label-grey }
+<div>high resonance</div>{: .label .label-green }
+<div>slightly breathy</div>{: .label .label-blue }
+  
 Good for high resonance at low volume
 
-quiet
-{: .label .label-grey }
-high resonance
-{: .label .label-green }
-slightly breathy
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
@@ -318,15 +299,14 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
 <!--  -->
 
 <!--  -->
-## Rainbow 6 video
+### Rainbow 6 video
+{: .d-inline-block }
+<div>low pitch</div>{: .label .label-green }
+<div>slightly breathy</div>{: .label .label-blue }
+<div>Japanese</div>{: .label .label-red }
+
 Good for voice acting deep feminine voices
 
-low pitch
-{: .label .label-green }
-slightly breathy
-{: .label .label-blue }
-Japanese
-{: .label .label-red }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
@@ -340,17 +320,15 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 <!--  -->
 
 <!--  -->
-## The Narrator (Baldur's Gate)
+### The Narrator (Baldur's Gate)
+{: .d-inline-block }
+<div>extreme low pitch</div>{: .label .label-red }
+<div>bright voice</div>{: .label .label-yellow }
+<div>vocal fry</div>{: .label .label-grey }
+<div>deep fem</div>{: .label .label-blue }
+  
 Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
 
-extreme low pitch
-{: .label .label-red }
-bright voice
-{: .label .label-yellow }
-vocal fry
-{: .label .label-grey }
-deep fem
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
@@ -364,15 +342,14 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 <!--  -->
 
 <!--  -->
-## GeminiTay
+### GeminiTay
+{: .d-inline-block }
+<div>bright voice</div>{: .label .label-yellow }
+<div>loud</div>{: .label .label-grey }
+<div>high intonation</div>{: .label .label-blue }
+
 Bright, loud medium pitch voice with a fair bit of intonation range.
 
-bright voice
-{: .label .label-yellow }
-loud
-{: .label .label-grey }
-high intonation
-{: .label .label-blue }
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high - 900-1200 F1 (~1200 /æ/)
@@ -390,23 +367,21 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resona
 <!-- End of fem voices! -->
 
 <!-- Start of masc voices! -->
-# ♂️ Masculine Voices ♂️
-<details open markdown="block">
-  <summary>
-    Expand / Hide
-  </summary>
-<!-- voice block -->
-## Frank Proto
-Dynamic, mostly high pitch, lots of intonation, fast tempo
 
-medium high pitch
-{: .label .label-blue }
-heavy
-{: .label .label-yellow }
-vocal fry
-{: .label .label-grey }
-roughness
-{: .label .label-red }
+<details open markdown="block">
+<summary markdown="block">
+## ♂️ Masculine Voices
+</summary>
+<!-- voice block -->
+
+### Frank Proto
+{: .d-inline-block }
+<div>medium high pitch</div>{: .label .label-blue }
+<div>heavy</div>{: .label .label-yellow }
+<div>vocal fry</div>{: .label .label-grey }
+<div>roughness</div>{: .label .label-red }
+
+Dynamic, mostly high pitch, lots of intonation, fast tempo
 ```
 vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium high
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium

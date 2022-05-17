@@ -145,5 +145,219 @@ body {
   max-height: 360px;
 }
 
+// ---------------------------------
 
+hr {
+  background-color: #5b5b68;
+}
+.main-content hr + * {
+  margin-top: 0 !important
+}
+
+h2, .text-beta {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #5b5b68;
+}
+
+h3, .text-gamma {
+  font-size:18px !important
+}
+@media (min-width: 31.25rem) {
+  h3, .text-gamma {
+    font-size:20px !important;
+  }
+}
+
+h2 + h3 {
+  margin-top: 1em !important;
+}
+
+//.text-delta,
+h4 { 
+  font-size:16px !important;
+  font-weight:600;
+  text-transform:none;
+  letter-spacing:inherit;
+  display:inline-block !important;
+}
+@media (min-width: 31.25rem) {
+  //.text-delta,
+  h4 {
+    font-size:18px !important
+  }
+}
+
+h5, .text-epsilon {
+  font-size:12px !important;
+  color:#f5f6fa;
+}
+@media (min-width: 31.25rem) {
+  h5, .text-epsilon {
+    font-size:14px !important
+  }
+}
+
+.main-content h1+p,
+.main-content h2+p,
+.main-content h3+p,
+.main-content h4+p,
+.main-content h5+p,
+.main-content h6+p {
+  margin-top:0.8em;
+}
+
+.label {
+  margin-right: 0;
+  vertical-align: text-bottom;
+}
+
+// rules for when h2 is wrapped with <summary>
+
+summary > h2 {
+  display: inline-block;
+  width: 100%;
+  margin-top: 1.5em !important;
+}
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+summary > h2::after {
+  content: ' ►';
+  font-size:8px;
+  margin-left:3px;
+  vertical-align: middle;
+  display:inline-block;
+}
+details[open] summary > h2::after {
+  content: " ▼";
+}
+@media (min-width: 50rem) {
+  summary > h2::after {
+    display:none;
+  }
+  summary > h2::before {
+    content: ' ►';
+    margin-left:-20px;
+    font-size:10px;
+    width:14px;
+    vertical-align: middle;
+    display:inline-block;
+  }
+  details[open] summary > h2::before {
+    content: " ▼";
+  }
+}
+
+// move anchor link to end when a h2 heading is wrapped with <summary>
+
+@media (min-width: 50rem) {
+  .main-content summary > h2 > .anchor-heading {
+    left: auto;
+    right: 0rem;
+  }
+}
+
+// rules for h3 wrapped in <summary>
+
+summary > h3 {
+ display:inline-block;
+ width:100%;
+ margin-top:1.5em !important;
+}
+
+details > summary {
+ list-style:none;
+}
+summary::-webkit-details-marker {
+ display:none;
+}
+summary > h3::after {
+ content:' ►';
+ font-size:6px;
+ margin-left:3px;
+ vertical-align:middle;
+ display:inline-block;
+}
+details[open] summary > h3::after {
+ content:" ▼";
+}
+@media (min-width: 50rem) {
+ summary > h3::after {
+  display:none;
+ }
+ summary > h3::before {
+  content:' ►';
+  margin-left:-20px;
+  font-size:8px;
+  width:14px;
+  vertical-align:middle;
+  display:inline-block;
+ }
+ details[open] summary > h3::before {
+  content:" ▼";
+ }
+}
+
+// move anchor link for summary > h3
+
+@media (min-width: 50rem) {
+ .main-content summary> h3 >.anchor-heading {
+  left:auto;
+  right:0rem
+ }
+}
+
+// add summary arrow for toc
+
+summary.text-delta::after {
+  content:' ►';
+  font-size:7px;
+  margin-left:3px;
+  vertical-align:middle;
+  display:inline-block
+}
+details[open] summary.text-delta::after {
+  content:" ▼"
+}
+
+// figure related
+
+figure {
+  margin: 1em auto;
+  width: fit-content;
+  // background-color: #bbbbbb22;
+  // padding: 5px;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
+
+figure > img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #777;
+}
+
+@media (max-width: 31.25rem) {
+  figure {
+    max-width: 100% !important;
+  }
+}
+@media (min-width: 31.25rem) {
+  figure.float-right {
+    margin: 1em;
+    margin-right: 0em;
+  }
+
+  figure.float-left {
+    margin: 1em;
+    margin-left: 0em;
+  }
+}
 //
