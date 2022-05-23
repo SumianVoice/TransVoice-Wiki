@@ -14,9 +14,8 @@ has_children: true
 {:toc}
 </details>
 # Getting Started
-
-Below is a typical plan assuming a typical masculine voice trained to be feminine. This isn't always accurate because everyone's different but it can give some direction to start. However, before we get into that, let's get some things straight.
-- [Pitch is not that important!](pitch) It's useful for training, intonation and a few other things, but it's not a gender factor.
+Before we get into a typical plan for voice feminisation, let's get some things straight.
+- [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
 - It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
 - Sometimes, knowing voice anatomy or reading research papers or watching videos about voice pedagogy is useful for background, but if you're reading or theorising more than you're practising, it's not helping!
 - Drills and exercises are for inducing exploration. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
@@ -25,6 +24,9 @@ Below is a typical plan assuming a typical masculine voice trained to be feminin
   2. just talking in VC or in person
   3. doing a drill and reading a passage
   4. doing SOVTEs
+
+# A typical plan
+Below is a typical plan assuming an average masculine voice trained to be feminine. This isn't always accurate because everyone is different but it can give some direction to start. Adjustments will likely and should be made based on personal circumstances.
 
 ## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch
 - the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already

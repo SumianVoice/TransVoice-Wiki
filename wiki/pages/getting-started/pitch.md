@@ -27,6 +27,10 @@ Put simply, a lot of exercises use pitch as a method of changing other factors. 
 
 A good pitch that is usually not too high for most people, but still gets the benefits of lowering vocal weight and often resonance too, is 200hz or G3. For most people this is the sweetspot. Too much higher is straining or flipping into [M2 / falsetto](/wiki/pages/other-resources/mechanisms), too much lower risks becoming heavier in vocal weight and darker in [resonance](/wiki/pages/resonance).
 
+For this reason, it's recommended that most people start at a pitch around 200hz in order to most effectively train, even if the target pitch is much higher or much lower. Learning vocal weight without going above 150hz is nearly impossible, or at least difficult enough that it's not worth avoiding going to a higher pitch to begin with.
+
+Pitch, like most voice characteristics can be an extremely powerful and important tool. 
+
 ## Why low pitch voices are hard
 So if pitch isn't important, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how.
 
