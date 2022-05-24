@@ -72,10 +72,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
-<div id="v-nurse" onclick="buildiframe_yt('v-nurse','3u6snmQNTRQ')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/3u6snmQNTRQ/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-nurse" ytid="3u6snmQNTRQ" %}
 <!--  -->
 
 <!--  -->
@@ -95,10 +92,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 ```
-<div id="v-moriah" onclick="buildiframe_yt('v-moriah','UzvqPVx0Jd4')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/UzvqPVx0Jd4/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-moriah" ytid="UzvqPVx0Jd4" %}
 <!--  -->
 
 <!--  -->
@@ -117,10 +111,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~300hz peaks)
 difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 ```
-<div id="v-jimena" onclick="buildiframe_yt('v-jimena','lQWcnKb3BdI?start=89')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/lQWcnKb3BdI/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-jimena" ytid="lQWcnKb3BdI" start_time="89" %}
 <!--  -->
 
 <!--  -->
@@ -139,10 +130,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium-low
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonation, ~340hz peaks)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 ```
-<div id="v-karina" onclick="buildiframe_yt('v-karina','DYGBmB04SVo?start=20')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/DYGBmB04SVo/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-karina" ytid="DYGBmB04SVo" start_time="20" %}
 <!--  -->
 
 <!--  -->
@@ -159,11 +147,8 @@ vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟤 🟤 🟤 low-high (140hz - 350hz intonation)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
-````
-<div id="v-jackie" onclick="buildiframe_yt('v-jackie','oOXXuwTPJYQ?start=393')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/oOXXuwTPJYQ/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+```
+{% include youtube.html id="v-jackie" ytid="oOXXuwTPJYQ" start_time="393" %}
 <!--  -->
 
 <!--  -->
@@ -181,10 +166,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟡 🟡 🟤 170hz- 400hz
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
 ```
-<div id="v-pearlescentmoon" onclick="buildiframe_yt('v-pearlescentmoon','Ke9RcVSdWkg')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/Ke9RcVSdWkg/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-pearlescentmoon" ytid="Ke9RcVSdWkg" %}
 <!--  -->
 
 <!--  -->
@@ -202,10 +184,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low 65 - 150hz
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
 ```
-<div id="v-shohreh" onclick="buildiframe_yt('v-shohreh','DGcUB55muSw?start=18')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/DGcUB55muSw/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-shohreh" ytid="DGcUB55muSw" start_time="18" %}
 <!--  -->
 
 <!--  -->
@@ -224,10 +203,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium with high intonation (140hz - 270hz, 350hz highs)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
 ```
-<div id="v-daph" onclick="buildiframe_yt('v-daph','EpM3nWRUqXE')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/EpM3nWRUqXE/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-daph" ytid="EpM3nWRUqXE" %}
 <!--  -->
 
 <!--  -->
@@ -245,10 +221,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟡 very high (1200hz F1 /a/)
 pitch          🎵 🟡 🟡 🟡 🟡 🟤 very high (230 - 500hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 ridiculous hard
 ```
-<div id="v-mijinko" onclick="buildiframe_yt('v-mijinko','PUbMSqi7F68')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/PUbMSqi7F68/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-mijinko" ytid="PUbMSqi7F68" %}
 <!--  -->
 
 <!--  -->
@@ -265,10 +238,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
 ```
-<div id="v-pikat" onclick="buildiframe_yt('v-pikat','IjVd6VdJf2M')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/IjVd6VdJf2M/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-pikat" ytid="IjVd6VdJf2M" %}
 <!--  -->
 
 <!--  -->
@@ -286,10 +256,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 -250hz)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
 ```
-<div id="v-gazes" onclick="buildiframe_yt('v-gazes','1SqetzLJ4Es')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/1SqetzLJ4Es/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-gazes" ytid="1SqetzLJ4Es" %}
 <!--  -->
 
 <!--  -->
@@ -307,10 +274,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (180-300hz)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 ```
-<div id="v-rainbow6" onclick="buildiframe_yt('v-rainbow6','lgk9WQsg5xU')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/lgk9WQsg5xU/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-rainbow6" ytid="lgk9WQsg5xU" %}
 <!--  -->
 
 <!--  -->
@@ -329,10 +293,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
-<div id="v-baldurs" onclick="buildiframe_yt('v-baldurs','BcdezgUEnLM')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/BcdezgUEnLM/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-baldurs" ytid="BcdezgUEnLM" %}
 <!--  -->
 
 <!--  -->
@@ -350,10 +311,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high - 900-1200 F1 (~1200 /�
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 - 350hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resonance)
 ```
-<div id="v-geminitay" onclick="buildiframe_yt('v-geminitay','l-OHb50BzzQ')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/l-OHb50BzzQ/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-geminitay" ytid="l-OHb50BzzQ" %}
 <!--  -->
 
 
@@ -382,10 +340,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 250hz, base ~150hz)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (heavy vocal weight)
 ```
-<div id="v-frankproto" onclick="buildiframe_yt('v-frankproto','I-mWa_GqIEg')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/I-mWa_GqIEg/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-frankproto" ytid="I-mWa_GqIEg" %}
 <!--  -->
 
 
