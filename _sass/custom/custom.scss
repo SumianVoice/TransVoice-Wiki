@@ -118,7 +118,11 @@ body {
   box-shadow: 4px 4px 20px rgba(40,40,40,0.9);
 }
 
-
+.yt-embed {
+  width: 100%;
+  aspect-ratio: 16/9;
+  max-width: 560px;
+}
 .imghover {
   filter: brightness(100%);
   transition: all 0.2s ease;
