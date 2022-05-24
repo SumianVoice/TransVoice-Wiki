@@ -8,15 +8,6 @@ has_children: false
 # List of Voice Communities
 This is of course not exhaustive! Help us fill this out and add more information about the servers. Contact sumianvoice (gmail) to provide more info or servers or make a pull request. Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first.
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ## Voice Art Project
 <span class="fs-2"> [join on Discord](https://discord.gg/ahc5hb9zSk){: .btn .btn-green } </span>
 
