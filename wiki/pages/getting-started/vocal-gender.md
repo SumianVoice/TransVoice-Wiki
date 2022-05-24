@@ -4,15 +4,6 @@ title: What is Vocal Gender
 parent: Getting Started
 nav_order: 5
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Differences between masculine and feminine voices
 There are many differences between masculine voices and feminine voices.
 There's also a huge spectrum of voice types and modifications, which makes comparing them generally almost untenable. However, some generalisations can be made, and we can look at specific voice features and their effect on vocal gender.

@@ -4,15 +4,6 @@ title: Strong M2
 parent: Pitch Range Expansion
 nav_order: 2
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Strong M2
 Usually when going into M2 (aka _falsetto_), we find a fairly passive, hollow, hooty sound. This is partially because of the [mechanism](/wiki/pages/other-resources/mechanisms) itself and partly because the thyroarytenoid (TA) muscles tend to lose some activation resulting in very low vocal weight, and often we lose [closure](/wiki/pages/clarity/breathiness) too. All these features combined lead to the previously described hooty and hollow sound.
 

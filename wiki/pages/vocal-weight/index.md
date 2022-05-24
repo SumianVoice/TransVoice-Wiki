@@ -4,15 +4,6 @@ title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 <!-- ```
 need more on exercises and more visual aids to break up the wall of text
 needs to be cleaned up and redrafted

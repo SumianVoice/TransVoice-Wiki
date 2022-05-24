@@ -6,15 +6,6 @@ nav_order: 2
 has_children: false
 nav_exclude: true
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Covert Practice
 At times, we may be in an environment where we can't do all the usual exercises, but still want to work on our voice. Here are some alternatives that are either quiet or don't sound like we're changing vocal gender.
 

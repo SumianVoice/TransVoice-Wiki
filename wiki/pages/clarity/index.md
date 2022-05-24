@@ -4,15 +4,6 @@ title: Clarity
 nav_order: 7
 has_children: true
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Clarity
 Clarity is described as a multi-variable scale from clear and consistent to rough or noisy tone. For example, a voice with lots of abduction and FVF constriction is considered low in clarity, whereas a voice that is bright and FVF retracted or neutral is considered high in clarity. This concept overlaps a lot with harmonic to noise ratio.
 

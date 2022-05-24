@@ -4,15 +4,6 @@ title: Mimicry
 parent: Microbehaviours
 nav_order: 2
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Mimicry
 Some parts of the voice are so small and hard to consciously modify that mimicry is the only way we know of.
 Mimicry is a good way to learn new microbehaviours, speech patterns and can also eventually modify your voiceprint. It breaks down the barrier of the subconscious wanting to keep the voice confined to what it's used to and allows for new tweaks to happen.

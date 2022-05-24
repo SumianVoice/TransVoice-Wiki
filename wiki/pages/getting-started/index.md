@@ -4,15 +4,6 @@ title: Getting Started
 nav_order: 2
 has_children: true
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Getting Started
 Before we get into a typical plan for voice feminisation, let's get some things straight.
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.

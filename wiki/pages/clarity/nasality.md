@@ -4,15 +4,6 @@ title: Nasality
 parent: Clarity
 nav_order: 4
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Nasality
 When a voice has too much air going through the nasal passage when speaking, we call it hypernasality or just nasality.
 

@@ -4,15 +4,6 @@ title: Voice Examples
 nav_order: 18
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 # Voice Examples
 

@@ -4,15 +4,6 @@ title: Onsets
 parent: Clarity
 nav_order: 2
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Onsets
 Onsets are the attack of the sound, and when the attack is harsh it's called a hard onset. A soft onset is when there is less of a _burst_ on the start of phonation and the volume is consistent across the whole sound. Aspirate onsets instead start breathy and slide into phonation.
 

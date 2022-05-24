@@ -6,15 +6,6 @@ nav_order: 4
 has_children: false
 nav_exclude: true
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 ```
 more info on each category needed
 ```

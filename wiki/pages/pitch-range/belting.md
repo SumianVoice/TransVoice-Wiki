@@ -4,15 +4,6 @@ title: Belting
 parent: Pitch Range Expansion
 nav_order: 2
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Belting
 Belting is the technique of adding weight and volume to high pitches to force the voice to stay in [M1](/wiki/pages/other-resources/mechanisms). It can be thought of as the opposite approach to adding range as [strong M2](/wiki/pages/pitch-range/strong-m2). Instead of making M1 lighter so we can transition into M2, we're making it heavier so we don't transition into M2 at all.
 

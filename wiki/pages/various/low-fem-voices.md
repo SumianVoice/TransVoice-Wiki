@@ -6,15 +6,6 @@ nav_order: 8
 has_children: false
 nav_exclude: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # How to do Low Fem Voices
 ## Why low pitch is difficult
 While pitch is not a gendered factor there are several hurdles to overcome in order to achieve a low pitch feminine voice.

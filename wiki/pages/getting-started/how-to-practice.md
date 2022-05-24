@@ -5,15 +5,6 @@ parent: Getting Started
 nav_order: 10
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # How to Practice
 Training is a very individual circumstance dependent thing, and some people might practice more or less, in different ways or be working on different things. Ask the question _"is what I'm doing in the direction of the the thing I want to be doing more of in the future"_. If the answer is yes, keep doing it.
 

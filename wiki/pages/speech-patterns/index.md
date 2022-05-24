@@ -4,15 +4,6 @@ title: Speech Patterns
 nav_order: 8
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Speech Patterns
 ## Gendered patterns
 Typical behaviours associated with feminine voices:

@@ -4,15 +4,6 @@ title: FVF
 parent: Clarity
 nav_order: 1
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # FVF
 
 {% include image.html file="/img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"

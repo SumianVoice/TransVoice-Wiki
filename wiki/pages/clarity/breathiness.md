@@ -4,15 +4,6 @@ title: Breathiness
 parent: Clarity
 nav_order: 2
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Breathiness
 When the vocal folds come apart (abduction) and air is able to rush through without helping the folds vibrate, we get some turbulence, and that is expressed as noise - breathiness. Adduction is the opposite, where the folds are pressed more together.
 

@@ -5,15 +5,6 @@ parent: Other Resources
 nav_order: 1
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Glossary
 Below is a list of voice related words and the concepts relating to them, links and definitions where available.
 <!-- ======================================================================================================= -->

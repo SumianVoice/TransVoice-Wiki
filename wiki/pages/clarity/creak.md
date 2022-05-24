@@ -4,15 +4,6 @@ title: Creak
 parent: Clarity
 nav_order: 3
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Creak
 Creak, sometimes called [fry](/wiki/pages/other-resources/mechanisms.html#m0) is a similar sounding rough, a-periodic noise. It happens when we have too much closure for the amount of airflow, and so the folds don't vibrate in a periodic wave, being interrupted occasionally.
 

@@ -5,15 +5,6 @@ parent: Other Resources
 nav_order: 11
 has_children: false
 ---
-{% include og.html %}
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-{: .text-delta }
-1. TOC
-{:toc}
-</details>
 # Voice Anatomy
 While usually unnecessary to train our voices, being aware of the physical changes happening in the vocal tract can provide useful context. 
 
