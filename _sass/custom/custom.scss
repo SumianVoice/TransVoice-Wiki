@@ -127,22 +127,22 @@ body {
   filter: brightness(40%);
 }
 .imgcenter {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(calc(240px - 50%), calc(50% + 100px));
-  font-size: 30px;
+  font-size: 20px;
   color: #eee;
   background: #333;
   padding: 2px 8px 2px 8px;
   border-radius: 8px;
-  font-family: arial;
   opacity: 0.8;
 }
 .yt-thumb {
-  position: relative;
-  max-width: 480px;
-  max-height: 360px;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 100%;
+  aspect-ratio: 4/3;
+  max-width:480px;
+  cursor:pointer;
 }
 
 // ---------------------------------
