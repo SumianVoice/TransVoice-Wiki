@@ -2,7 +2,7 @@
 {% unless page.no_toc %}
 <details closed>
   <summary class="text-delta">Table of contents </summary>
-  {% include toc.html html=content ordered=true %}
+  {% include toc.html html=content ordered=true sanitize=true %}
 </details>
 {% endunless %}
 {%- comment -%}
