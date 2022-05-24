@@ -35,10 +35,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (150hz - 330hz intonation, 500hz highest)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitch is hard)
 ```
-<div id="v-waffles" onclick="buildiframe_yt('v-waffles','qjC30KkyLLU')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/qjC30KkyLLU/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-waffles" ytid="qjC30KkyLLU" %}
 <!--  -->
 
 <!--  -->
@@ -56,10 +53,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
 pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500hz peaks)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
 ```
-<div id="v-imawonder" onclick="buildiframe_yt('v-imawonder','fmgoaFjsqt4?start=4409')" class="yt-thumb imghover">
-  <img src="https://img.youtube.com/vi/fmgoaFjsqt4/0.jpg" alt="click for iframe" class="">
-  <p class="imgcenter">click to load video</p>
-</div>
+{% include youtube.html id="v-imawonder" ytid="fmgoaFjsqt4" start_time="4409" %}
 <!--  -->
 
 <!--  -->
