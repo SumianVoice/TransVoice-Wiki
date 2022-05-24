@@ -118,10 +118,11 @@ body {
   box-shadow: 4px 4px 20px rgba(40,40,40,0.9);
 }
 
-.yt-embed {
-  width: 100%;
-  aspect-ratio: 16/9;
-  max-width: 560px;
+iframe[title="YouTube video player"] {
+  width:100%;
+  aspect-ratio:16/9;
+  max-width:560px;
+  height:auto;
 }
 .imghover {
   filter: brightness(100%);

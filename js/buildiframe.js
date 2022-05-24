@@ -5,7 +5,6 @@ function buildiframe_yt(id="null",src="https://wiki.sumianvoice.com/404") {
   x.outerHTML = `
   <p align="left">
       <iframe
-      class="yt-embed"
       src="https://www.youtube.com/embed/${src}"
       title="YouTube video player"
       frameborder="0"
