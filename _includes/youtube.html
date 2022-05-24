@@ -1,5 +1,5 @@
 {% if include.start_time %}
-{% assign yturl = include.ytid | append: "?start=" | append: include.start_time %}
+{% assign yturl = include.ytid | append: "?start=" | append: include.start %}
 {% else %}
 {% assign yturl = include.ytid %}
 {% endif %}
