@@ -1,8 +1,10 @@
 {% include og.html %}
+{% unless page.no_toc %}
 <details closed>
   <summary class="text-delta">Table of contents </summary>
   {% include toc.html html=content ordered=true %}
 </details>
+{% endunless %}
 {%- comment -%}
 {% if page.title %}
 <h1>{{ page.title }}</h1>

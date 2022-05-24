@@ -3,6 +3,7 @@ layout: default
 title: Legal Disclaimer
 nav_order: 200
 has_children: false
+no_toc: true
 ---
 
 # Disclaimer
