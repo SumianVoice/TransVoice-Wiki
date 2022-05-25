@@ -271,7 +271,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
 ```
-<div id="v-pikat" onclick="buildiframe_yt('v-pikat','IjVd6VdJf2M')" class="yt-thumb imghover">
+<div id="v-pikat" onclick="buildiframe_yt('v-pikat','IjVd6VdJf2M?start=8017')" class="yt-thumb imghover">
   <img src="https://img.youtube.com/vi/IjVd6VdJf2M/0.jpg" alt="click for iframe" class="">
   <p class="imgcenter">click to load video</p>
 </div>
@@ -283,7 +283,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is ver
 <div>quiet</div>{: .label .label-grey }
 <div>high resonance</div>{: .label .label-green }
 <div>slightly breathy</div>{: .label .label-blue }
-  
+
 Good for high resonance at low volume
 
 ```
@@ -326,7 +326,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 <div>bright voice</div>{: .label .label-yellow }
 <div>vocal fry</div>{: .label .label-grey }
 <div>deep fem</div>{: .label .label-blue }
-  
+
 Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
 
 ```
