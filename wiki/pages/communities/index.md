@@ -42,7 +42,7 @@ Discord server associated with the [r/TransVoice](http://reddit.com/r/transvoice
 - no official voice teachers
 
 ## Voice Training Emporium
-<span class="fs-2"> [join on Discord](https://discord.gg/rxksqd62Yu){: .btn .btn-green } </span>
+<span class="fs-2"> [join on Discord](https://discord.gg/TZwMeg57jR){: .btn .btn-green } </span>
 
 Large, active voice community, no dedicated teachers.
 
