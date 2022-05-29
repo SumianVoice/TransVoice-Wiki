@@ -1,0 +1,8 @@
+{% if include.start %}
+{% assign yturl = include.ytid | append: "?start=" | append: include.start %}
+{% else %}
+{% assign yturl = include.ytid %}
+{% endif %}
+<div id="{{ include.id }}" onclick="buildiframe_yt('{{- include.id -}}','{{- yturl -}}')" class="yt-thumb imghover" style="background-image: url(https://img.youtube.com/vi/{{- include.ytid -}}/0.jpg);">
+  <div class="imgcenter">click to load video</div>
+</div>
