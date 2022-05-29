@@ -118,7 +118,12 @@ body {
   box-shadow: 4px 4px 20px rgba(40,40,40,0.9);
 }
 
-
+iframe[title="YouTube video player"] {
+  width:100%;
+  aspect-ratio:16/9;
+  max-width:560px;
+  height:auto;
+}
 .imghover {
   filter: brightness(100%);
   transition: all 0.2s ease;
@@ -127,22 +132,22 @@ body {
   filter: brightness(40%);
 }
 .imgcenter {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translate(calc(240px - 50%), calc(50% + 100px));
-  font-size: 30px;
+  font-size: 20px;
   color: #eee;
   background: #333;
   padding: 2px 8px 2px 8px;
   border-radius: 8px;
-  font-family: arial;
   opacity: 0.8;
 }
 .yt-thumb {
-  position: relative;
-  max-width: 480px;
-  max-height: 360px;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: 100%;
+  aspect-ratio: 4/3;
+  max-width:480px;
+  cursor:pointer;
 }
 
 // ---------------------------------
