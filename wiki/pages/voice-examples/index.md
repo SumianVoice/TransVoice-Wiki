@@ -247,7 +247,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is ver
 <div>quiet</div>{: .label .label-grey }
 <div>high resonance</div>{: .label .label-green }
 <div>slightly breathy</div>{: .label .label-blue }
-  
+
 Good for high resonance at low volume
 
 ```
@@ -284,7 +284,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 <div>bright voice</div>{: .label .label-yellow }
 <div>vocal fry</div>{: .label .label-grey }
 <div>deep fem</div>{: .label .label-blue }
-  
+
 Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
 
 ```
