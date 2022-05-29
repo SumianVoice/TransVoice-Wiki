@@ -4,7 +4,7 @@ title: Non-Speech Features
 nav_order: 27
 has_children: false
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

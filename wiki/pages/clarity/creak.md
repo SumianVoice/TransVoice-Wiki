@@ -4,7 +4,7 @@ title: Creak
 parent: Clarity
 nav_order: 3
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

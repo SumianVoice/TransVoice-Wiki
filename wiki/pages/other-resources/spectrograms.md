@@ -5,7 +5,7 @@ parent: Other Resources
 nav_order: 3
 has_children: false
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

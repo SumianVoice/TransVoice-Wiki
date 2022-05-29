@@ -4,7 +4,7 @@ title: Getting Started
 nav_order: 2
 has_children: true
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

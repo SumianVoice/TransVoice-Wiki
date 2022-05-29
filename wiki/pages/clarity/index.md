@@ -4,7 +4,7 @@ title: Clarity
 nav_order: 7
 has_children: true
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

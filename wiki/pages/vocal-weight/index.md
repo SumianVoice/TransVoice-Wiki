@@ -4,7 +4,7 @@ title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
@@ -80,7 +80,7 @@ There are some behavioural triggers that encourage light vocal weight. One of th
 
 After saying "awww" 1-3 times we can go into speaking in that configuration, either a passage or just narrating to ourselves.
 
-This exercise is usually very effective if done at the right pitch and in a relaxed way. Unlike pitch slides we don't have as much of a tendency to keep the weight high accidentally which makes it a very good exercise for if we tend to belt instead of lighten when going to high pitches. 
+This exercise is usually very effective if done at the right pitch and in a relaxed way. Unlike pitch slides we don't have as much of a tendency to keep the weight high accidentally which makes it a very good exercise for if we tend to belt instead of lighten when going to high pitches.
 
 
 ## Pitch Slides

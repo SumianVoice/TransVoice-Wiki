@@ -4,7 +4,7 @@ title: Belting
 parent: Pitch Range Expansion
 nav_order: 2
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

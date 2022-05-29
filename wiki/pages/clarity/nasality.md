@@ -4,7 +4,7 @@ title: Nasality
 parent: Clarity
 nav_order: 4
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

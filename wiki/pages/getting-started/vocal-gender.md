@@ -4,7 +4,7 @@ title: What is Vocal Gender
 parent: Getting Started
 nav_order: 5
 ---
-{% include og.html %}
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
