@@ -80,8 +80,8 @@ Below is a list of voice related words and the concepts relating to them, links 
 ### TA Muscles
 The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
 - thyroarytenoid muscles, running the length of the vocal folds
-- more activation = more weight and then we typically into pressed phonation when pushed too far (but this isn't from TA)
-- can make M2 not sound like M2 and be more stable and bright rather than the "too thin" or hollow quality M2 usually has
+- more activation = more weight and then we typically go into pressed phonation when pushed too far (but this isn't from TA)
+- can make M2 sound more full and be more stable and bright rather than the "too thin" or hollow quality M2 often has
 - can help with more general (not breath specifically) support to the voice to make it more robust
 - can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
 - a component of "shouting posture"
@@ -133,9 +133,9 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 
 ### Subharmonics
 - rough quality similar to creak/fry
-- extra harmonics appear, one in between each other harmonic, essentially making it as if the pitch was halved
+- extra harmonics appear; one in between each harmonic, essentially making it as if the pitch was halved
 - can be a sign of slight FVF constriction interfering
-- https://youtu.be/DbKJ2E7YCNg?t=274
+- [on subharmonics](https://youtu.be/DbKJ2E7YCNg?t=274)
 
 ### Harmonic to Noise Ratio (HNR)
 HNR is the description of essentially how noisy a voice is. We have harmonics - which are the horizontal lines in the image - and then there's noise in between, either from constriction, breathiness or a combination. You can see in the image how there is a clean looking pattern on the left, and a noisy one on the right. This could be called the 'clarity' of the voice, though it refers specifically to noise and not things like nasality or knodel effects which might make a voice sound 'out of place'.
