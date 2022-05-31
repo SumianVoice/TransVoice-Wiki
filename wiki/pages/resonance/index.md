@@ -120,7 +120,7 @@ Pitfalls:
 ### Kyo Kya
 This is mostly for learning OPC
 
-Kyo Kya is a voiced resonance exercise where we start on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
+Kyo Kya is a voiced resonance exercise where we start with low resonance on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
 
 
 ## Note on TH and SH Muscles
