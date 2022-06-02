@@ -1,4 +1,5 @@
-// add label classes
+
+// add some extra label classes
 .label-grey {
   background-color: $grey-dk-000;
   color: $grey-dk-200;
@@ -11,7 +12,7 @@
   color: $grey-dk-200;
 }
 
-// make the link to theme page invisible
+// make the link to Docs theme page invisible (no other way to remove it)
 .site-footer {
   visibility: hidden;
 }
@@ -19,28 +20,6 @@
 // make no border for the icon at the top of nav
 .site-header {
   border: none;
-}
-
-
-// this broke the responsive layout so it's commented out
-// .side-bar {
-//   width: calc((100% - 1364px) / 2 + 264px);
-// }
-// #top {
-//   margin-left: calc( (100% - 1364px) / 2 + 264px );
-// }
-
-
-
-.nogap > * {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding-top: 0px;
-  padding-bottom: 0px;
-}
-// for some reason, doesn't work with the jekyll generated lists
-.nolist * {
-  list-style: none;
 }
 
 // defines highlight class for use in <b> or <i> tags
@@ -54,14 +33,12 @@
   color: #afc;
 }
 
-
-// adds a background to the top of the page
-html {
-  // background: $grey-dk-300;
-}
+//
 body {
   background: $body-background-color;
 }
+
+// add background image to the top of the page
 #top {
   // background: rgba(60, 60, 70, 0.9);
   max-width: 100%;
@@ -69,19 +46,23 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
 }
+// make it so the text doesn't fill the entire right side
 #main-content {
-  max-width: 800px;
+  max-width: max(800px, 80%);
 }
+// make the search bar section transparent
 #main-header {
   background: transparent;
 }
+// make the search bar input box transparent
 #main-header > .search {
   background: transparent;
 }
-#main-header > .search > .search-input {
+#main-header > .search > .search-input-wrap {
   background: transparent;
 }
 // ---------------------------------
+// make the search bar transparent when there's nothing in it and give it a box shadow
 #search-input:empty {
   // background: rgba(100, 100, 100, 0.7);
   background: transparentize($search-background-color, 0.7);
@@ -89,17 +70,17 @@ body {
   box-shadow: 4px 4px 5px rgba(40,40,40,0.5);
   transition: all 0.5s ease-in-out;
 }
+// when you click on it, the search bar becomes solid and square
 #search-input:focus {
   background: $search-background-color;
   border-radius: 0px 0px 0px 0px;
   transition: all 0.5s ease-in-out;
 }
+// this is just so the search-input box shadow shows and doesn't get cut off by its container
 .main-header * {
   overflow: visible;
 }
-#main-header > .search {
-  background-color: transparent;
-}
+// the buttons on the top left, make them a bit transparent and have rounded corners
 .aux-nav-list > .aux-nav-list-item > .site-button {
   // background-color: rgba(10, 10, 11, 0.2);
   background-color: transparentize($base-button-color, 0.2);
@@ -108,22 +89,19 @@ body {
   height: 40px;
   margin-top: 10px;
 }
+// set the text color of those buttons
 .aux-nav-list > .aux-nav-list-item > .site-button {
   color: #7ae;
 }
 
-
-// box shadow (doesn't work because can't add divs in markdown without things breaking)
-.box-shadow {
-  box-shadow: 4px 4px 20px rgba(40,40,40,0.9);
-}
-
+// sets up iframe
 iframe[title="YouTube video player"] {
   width:100%;
   aspect-ratio:16/9;
   max-width:560px;
   height:auto;
 }
+// this is for the youtube thumbnails, to highlight them when we mouseover
 .imghover {
   filter: brightness(100%);
   transition: all 0.2s ease;
@@ -178,7 +156,7 @@ h2 + h3 {
 }
 
 //.text-delta,
-h4 { 
+h4 {
   font-size:16px !important;
   font-weight:600;
   text-transform:none;
