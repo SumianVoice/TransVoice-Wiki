@@ -18,6 +18,7 @@ It is best to make a pull request:
 Additions or changes should take these principles into account. Changes should do at least one of the following things:
 - make voice resources more complete and accessible to the average viewer
 - improve readability of pages for the public
+- make code simpler and easier to make additions to
 - fix errors or outdated information<br>
     _**OR**_
 - make wiki pages more stylistically consistent
