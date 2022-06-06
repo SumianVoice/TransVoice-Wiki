@@ -26,7 +26,7 @@ There isn't a whole lot of information out there about masculinisation so this w
 
 ## Contributors
 ### Sumi
-Sumyjkl#7352 (Discord ID: 340353849414123523) [website](https://sumianvoice.com)
+Sumi#7352 (Discord ID: 340353849414123523) [website](https://sumianvoice.com)
 - Creator of [Voice Art Project](/wiki/pages/communities/#voice-art-project) and main maintainer of this site.
 
 ### Emma
