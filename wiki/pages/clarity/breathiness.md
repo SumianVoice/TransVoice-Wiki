@@ -68,7 +68,14 @@ We can go into a hum, then make it light, then come out of the hum into speech. 
 ## The "more and less" Method
 This is a common way to change any behaviour. We can start in our neutral position or trying to go the way we want slightly, then intentionally make a voice more breathy for example, then slide it back the way we came. Often we can end up less breathy than when we started.
 
-If we repeat this process many times, we can add _layers_ of decreased breathiness.
+If we repeat this process many times, we can add _layers_ of decreased breathiness. The goal is to develop enough control to modify it during speech at will, so it's a good idea to say a word or phrase in three steps and then speak:
+1. at default (which will probably be slightly breathy)
+2. very breathy
+3. non-breathy
+4. go into speech
+
+We can also practice doing this mid-sentence by saying something like this: (*breathy* non-breathy)
+- The quick brown *fox jumps over the* lazy dog to fetch its dinner.
 
 ## Using Creak
 Since creak (not fry / M0) is a relaxed, adducted, low airflow configuration, we can use it to start non breathy and then add the slightest bit of air to come out of creak into flow phonation.
