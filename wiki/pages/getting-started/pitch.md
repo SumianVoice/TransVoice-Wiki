@@ -25,16 +25,16 @@ Pitch is not a gendered factor. On its own it does not modify the gender present
 ## So in what way _is_ pitch important?
 Put simply, a lot of exercises use pitch as a method of changing other factors. When we go up in pitch we usually lower [vocal weight](/wiki/pages/vocal-weight), which is useful in a pitch slide. So in essence, while pitch is not important to the way a voice is perceived, it _is_ important to the way we train our voices.
 
-A good pitch that is usually not too high for most people, but still gets the benefits of lowering vocal weight and often resonance too, is 200hz or G3. For most people this is the sweetspot. Too much higher is straining or flipping into [M2 / falsetto](/wiki/pages/other-resources/mechanisms), too much lower risks becoming heavier in vocal weight and darker in [resonance](/wiki/pages/resonance).
+A good pitch that is usually not too high for most people, but still gets the benefits of lowering vocal weight and often raising resonance too, is 200hz or G3. For most people this is the sweetspot. Too much higher is straining or flipping into [M2 / falsetto](/wiki/pages/other-resources/mechanisms), too much lower risks becoming heavier in vocal weight and darker in [resonance](/wiki/pages/resonance).
 
 For this reason, it's recommended that most people start at a pitch around 200hz in order to most effectively train, even if the target pitch is much higher or much lower. Learning vocal weight without going above 150hz is nearly impossible, or at least difficult enough that it's not worth avoiding going to a higher pitch to begin with.
 
 Pitch, like most voice characteristics can be an extremely powerful and important tool.
 
-## Why low pitch voices are hard
-So if pitch isn't important, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how.
+## Why low pitch feminine voices are hard
+So if pitch isn't important, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch feminine configuration, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how.
 
-Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when we're already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns), the microbehaviours / glottal behaviours fall apart.
+Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when we're already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns), the microbehaviours / glottal behaviours can fall apart.
 
 We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
 

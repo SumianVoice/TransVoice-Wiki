@@ -94,13 +94,28 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - changes the timbre or non-pitch qualities of a voice
 - is dependent on the size and shape of the vocal tract
 
+### Brightness
+1. the amount of high frequency harmonic information in the voice
+  - a perceptual quality caused by the amount of high frequency harmonic information
+  - a high resonance voice can sound dark due to muting effects like nasality and breathiness
+  - clarity, vocal weight and twang are the main factors that allow resonance to highlight upper frequencies, allowing for brighter tone
+2. the frequency of formants, particularly F1, essentially resonance (outdated)
+
 ### Larynx
 - houses the vocal folds
 - can be raised to get a brighter sound
 - the 'adam's apple' is outside of the thyroid cartilage, part of the larynx
 
 ### Embouchure
-- loosely describes resonance changes in the mouth
+- loosely describes how resonance changes in the mouth
+- affected by macrovowel
+
+### Macrovowel
+- the use of a vowel shape to color speech
+- keeping the mouth in the same position / posture as a certain vowel when speaking
+
+### Microvowel
+- to modify individual vowels to be darker or brighter
 
 ### OPC, Oropharyngeal Closure
 - raises resonance by decreasing the width of the back of the mouth
