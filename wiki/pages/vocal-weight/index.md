@@ -25,7 +25,6 @@ This is also referred to as:
 - OQ/CQ open and closed quotient
 - vocal fold mass
 - thickness and thinness of the folds
-- buzziness
 
 It is essentially a way of describing the sound quality caused by the amount of mass with which the vocal folds interact among other things. Think of it like clapping your hands together. You can vary the speed your hands travel and this causes the sound to increase in volume. You could also tense the muscles in your hands so that when they do hit they have a more sudden and thus louder interaction. But, we can also use either only the tips of your fingers or the whole palm. The vocal folds are doing a similar thing. Since it's one of the most important and fundamental aspects of voice it's super useful to have good control over it.
 
@@ -82,7 +81,7 @@ After saying "awww" 1-3 times we can go into speaking in that configuration, eit
 
 This exercise is usually very effective if done at the right pitch and in a relaxed way. Unlike pitch slides we don't have as much of a tendency to keep the weight high accidentally which makes it a very good exercise for if we tend to belt instead of lighten when going to high pitches.
 
-It's very important to imagine something cute, and get "into the character" of this, or else it won't work at all. 
+It's very important to imagine something cute, and get "into the character" of this, or else it won't work at all.
 
 {% include youtube.html id="v-awww" ytid="F6Kbi6M5vec" %}
 
