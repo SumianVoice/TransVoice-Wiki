@@ -17,6 +17,7 @@ has_children: false
 ## Gendered patterns
 Typical behaviours associated with feminine voices:
 - higher range of intonation
+- more frequent intonation
 - use of tempo to vary speech
 - emphasis with high pitch intonation
 - (not always) vocal creak (not fry) at the end of speech segments
@@ -24,6 +25,7 @@ Typical behaviours associated with feminine voices:
 
 Typical behaviours associated with masculine voices:
 - intonation is more stable and less range
+- less frequent intonation
 - not much tempo change
 - use of vocal weight and volume for emphasis
 - sometimes downward intonation often into vocal fry
