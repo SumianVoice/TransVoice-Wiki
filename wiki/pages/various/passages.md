@@ -16,7 +16,7 @@ nav_exclude: false
 {:toc}
 </details>
 # Example Passages
-Speaking is an important part of training voice. In addition to it being the main focus of vocal training for voice feminization (and masculization), attempting speech *during training* also gives us an insight as to how well we can maintain control of our vocal parameters in more complicated scenarios. We do this, usually, by reading passages.
+Here are some things to read! Getting actual conversation practice is important, but sometimes we just want a script to try things out during a practice.
 
 You can benefit from reading any passage you like, but there are some passages that are better at helping us discover potential weakness than others.
 
@@ -24,7 +24,7 @@ You can benefit from reading any passage you like, but there are some passages t
 
 ### The rainbow passage
 
-This passage is very common and useful for starting out.
+This passage is very common and useful for starting out. The rainbow passage is a good example of a passage that can be read both as speech and as a script.
 
 <details closed markdown="block">
   <summary>
@@ -36,34 +36,34 @@ This passage is very common and useful for starting out.
 
 ### The crate passage
 
-This passage is a bit difficult, but that makes it very useful for finding where what we need to work on.
+The phrases in this passage are shorter, which can help when trying small modifications over and over.
 
 <details closed markdown="block">
   <summary>
     Click/tap to toggle visibility
   </summary>
 
-> **Open the crate but don't break the glass.**
+> Open the crate but don't break the glass.
 >
-> *Oak is strong and also gives shade.*
+> Oak is strong and also gives shade.
 >
-> **Cats and dogs each hate the other.**
+> Cats and dogs each hate the other.
 >
-> *The pipe began to rust while new.*
+> The pipe began to rust while new.
 >
-> **Add the sum to the product of these three.**
+> Add the sum to the product of these three.
 >
-> *The ripe taste of cheese improves with age.*
+> The ripe taste of cheese improves with age.
 >
-> **Act on these orders with great speed.**
+> Act on these orders with great speed.
 >
-> *The hog crawled under the high fence.*
+> The hog crawled under the high fence.
 >
-> **Move the vat over the hot fire.**
+> Move the vat over the hot fire.
 </details>
 
-### Harder passages
-These are some harder passages for more complex speech.
+### Nasality tests
+We can use these to test nasality. If we block the nose by pinching it and read the non-nasal passages, it should sound exactly the same as if we didn't block the nose.
 
 <details closed markdown="block">
   <summary>
