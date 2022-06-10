@@ -66,10 +66,12 @@ We can use these to test nasality. If we block the nose by pinching it and read 
 > Finding nothing in front they muttered to themselves about something inane.
 </details>
 
-<details closed markdown="block"><summary markdown="block">
-### Speech-like passages
-</summary>
+## Speech-like passages
 Speech-like passages are more realistic. These sound closer to something you might say when talking with a friend. These are helpful for testing intonation and other complex qualities of speech.
+
+<details closed markdown="block"><summary markdown="block">
+### Speech-Like
+</summary>
 
 > 1. Wait so they went anyway? I thought the weather was going to be bad so I cancelled it all on my end. How are they even going to get there aren't the bridges closed?
 > 2. Well yes, but also no. I haven't been there so I don't know if they still sell it. All I know is they don't ship internationally unless you pay like, 100 bucks.
