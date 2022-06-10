@@ -71,13 +71,13 @@ We can use these to test nasality. If we block the nose by pinching it and read 
 </summary>
 Speech-like passages are more realistic. These sound closer to something you might say when talking with a friend. These are helpful for testing intonation and other complex qualities of speech.
 
-1. Wait so they went anyway? I thought the weather was going to be bad so I cancelled it all on my end. How are they even going to get there aren't the bridges closed?
-2. Well yes, but also no. I haven't been there so I don't know if they still sell it. All I know is they don't ship internationally unless you pay like, 100 bucks.
-3. What the hell was that!? They just spawnsniped the whole damn team like 5 times in a row all with headshots. This has gotta be hacks.
-4. So I haven't introduced you two yet have I. I'll have to invite you both on the weekend, you've got tons in common, I reckon you'll get on great.
-5. Did you ever get that flashlight I told you about? Mine's so powerful I used it to cook a bit of beef haha. It's so bright, I think like 4000 lumens or something crazy like that. Gotta make sure you get the right batteries though otherwise they'll burn it out.
-6. I couldn't sleep last night... I ended up getting up and having a cup of tea. I don't know why, I don't usually have trouble sleeping but for some reason my eyes were just wired open. You ever get that?
-7. Oh my god the dinner last night was so amazing! You had the tacos too right? That sauce on it was incredible I just want like 100 liters of the stuff so I can put it on everything.
+> 1. Wait so they went anyway? I thought the weather was going to be bad so I cancelled it all on my end. How are they even going to get there aren't the bridges closed?
+> 2. Well yes, but also no. I haven't been there so I don't know if they still sell it. All I know is they don't ship internationally unless you pay like, 100 bucks.
+> 3. What the hell was that!? They just spawnsniped the whole damn team like 5 times in a row all with headshots. This has gotta be hacks.
+> 4. So I haven't introduced you two yet have I. I'll have to invite you both on the weekend, you've got tons in common, I reckon you'll get on great.
+> 5. Did you ever get that flashlight I told you about? Mine's so powerful I used it to cook a bit of beef haha. It's so bright, I think like 4000 lumens or something crazy like that. Gotta make sure you get the right batteries though otherwise they'll burn it out.
+> 6. I couldn't sleep last night... I ended up getting up and having a cup of tea. I don't know why, I don't usually have trouble sleeping but for some reason my eyes were just wired open. You ever get that?
+> 7. Oh my god the dinner last night was so amazing! You had the tacos too right? That sauce on it was incredible I just want like 100 liters of the stuff so I can put it on everything.
 </details>
 
 ## Weird passages
