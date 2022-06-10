@@ -8,7 +8,7 @@ nav_exclude: false
 ---
 {% include global.html %}
 <details closed markdown="block">
-  <summary markdown="block">
+  <summary>
     Table of contents
   </summary>
 {: .text-delta }
@@ -21,6 +21,7 @@ Here are some things to read! Getting actual conversation practice is important,
 You can benefit from reading any passage you like, but there are some passages that are better at helping us discover potential weakness than others.
 
 ## Non-speech-like passages
+These are read somewhat like a script, and as such are less speechlike.
 
 <details closed markdown="block"><summary markdown="block">
 ### The rainbow passage
