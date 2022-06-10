@@ -36,15 +36,15 @@ This passage is very common and useful for starting out. The rainbow passage is 
 </summary>
 
 The phrases in this passage are shorter, which can help when trying small modifications many times.
-> Open the crate but don't break the glass.
-> Oak is strong and also gives shade.
-> Cats and dogs each hate the other.
-> The pipe began to rust while new.
-> Add the sum to the product of these three.
-> The ripe taste of cheese improves with age.
-> Act on these orders with great speed.
-> The hog crawled under the high fence.
-> Move the vat over the hot fire.
+- Open the crate but don't break the glass.
+- Oak is strong and also gives shade.
+- Cats and dogs each hate the other.
+- The pipe began to rust while new.
+- Add the sum to the product of these three.
+- The ripe taste of cheese improves with age.
+- Act on these orders with great speed.
+- The hog crawled under the high fence.
+- Move the vat over the hot fire.
 
 </details>
 
@@ -55,16 +55,16 @@ The phrases in this passage are shorter, which can help when trying small modifi
 We can use these to test nasality. If we block the nose by pinching it and read the non-nasal passages, it should sound exactly the same as if we didn't block the nose.
 
 **Non-nasal:**
-> Please take these glasses with the plates to be washed below the tap.
-> The sea was as rough as it was dark.
-> The lights of the city glowed brightly below us.
-> You could be surprised at that aspect of his character.
+- Please take these glasses with the plates to be washed below the tap.
+- The sea was as rough as it was dark.
+- The lights of the city glowed brightly below us.
+- You could be surprised at that aspect of his character.
 
 **Nasal:**
-> The wind blew strongly and bent trees over in a show of staggering natural strength.
-> Many, but not all plants, flower in spring.
-> She longed to dance beneath the moonlight.
-> Finding nothing in front they muttered to themselves about something inane.
+- The wind blew strongly and bent trees over in a show of staggering natural strength.
+- Many, but not all plants, flower in spring.
+- She longed to dance beneath the moonlight.
+- Finding nothing in front they muttered to themselves about something inane.
 </details>
 
 ## Speech-like passages
