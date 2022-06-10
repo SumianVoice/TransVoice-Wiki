@@ -8,7 +8,7 @@ nav_exclude: false
 ---
 {% include global.html %}
 <details closed markdown="block">
-  <summary> markdown="block"
+  <summary markdown="block">
     Table of contents
   </summary>
 {: .text-delta }
@@ -22,7 +22,7 @@ You can benefit from reading any passage you like, but there are some passages t
 
 ## Non-speech-like passages
 
-<details closed markdown="block"><summary> markdown="block"
+<details closed markdown="block"><summary markdown="block">
 ### The rainbow passage
 </summary>
 This passage is very common and useful for starting out. The rainbow passage is a good example of a passage that can be read both as speech and as a script.
@@ -30,7 +30,7 @@ This passage is very common and useful for starting out. The rainbow passage is 
 > When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it. When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
 </details>
 
-<details closed markdown="block"><summary> markdown="block"
+<details closed markdown="block"><summary markdown="block">
 ### The crate passage
 </summary>
 
@@ -48,7 +48,7 @@ The phrases in this passage are shorter, which can help when trying small modifi
 </details>
 
 <details closed markdown="block">
-<summary> markdown="block"
+<summary markdown="block">
 ### Nasality Tests
 </summary>
 We can use these to test nasality. If we block the nose by pinching it and read the non-nasal passages, it should sound exactly the same as if we didn't block the nose.
@@ -66,7 +66,7 @@ We can use these to test nasality. If we block the nose by pinching it and read 
 > Finding nothing in front they muttered to themselves about something inane.
 </details>
 
-<details closed markdown="block"><summary> markdown="block"
+<details closed markdown="block"><summary markdown="block">
 ### Speech-like passages
 </summary>
 Speech-like passages are more realistic. These sound closer to something you might say when talking with a friend. These are helpful for testing intonation and other complex qualities of speech.
@@ -83,7 +83,7 @@ Speech-like passages are more realistic. These sound closer to something you mig
 ## Weird passages
 These passages are fun, confusing, or just plain weird. You can use these if you'd like to spice up your practices!
 
-<details closed markdown="block"><summary> markdown="block"
+<details closed markdown="block"><summary markdown="block">
 ### Turbo Encabulator
 </summary>
 [Source](https://www.youtube.com/watch?v=Ac7G7xOG2Ag)
