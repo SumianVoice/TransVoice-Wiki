@@ -69,7 +69,7 @@ Although the term is usually a good description of a few sound qualities, and is
 ## Resonance Terms
 </summary>
 
-### Forward / Throat / Head resonance
+### *Forward* Resonance, *Throat / Chest / Head* Resonance
 
 {: .d-inline-block }
 <div>confusing</div>{: .label .label-red }
@@ -82,7 +82,7 @@ The problem is when people chase certain feelings instead of sound qualities. Ba
 - just describe the actual method to get the "forward" or other resonance
 - too vague to even offer alternatives
 
-### R1 / R2 (specific)
+### R1 / R2 (in specific uses)
 
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
@@ -94,7 +94,18 @@ Although it's useful to talk about formant values numerically at times, **this i
 - vocal tract size
 - F1, F2
 
-### Bright (specific)
+### Size
+
+{: .d-inline-block }
+<div>conflation</div>{: .label .label-white }
+
+**This entry is only in regard to where the term "vocal size" is used as just "size"** or if people **intuitively try to make their voices "smaller"** because they have not yet had actual guidance or seen the proper knowledge. Size, or *vocal size* is a perceptual quality of voice, similar to how vocal weight is perceptual.
+
+If we try to make our voices *smaller* without the proper knowledge or exercises, it will *almost always* result in constriction and if not false fold constriction then primary **muscle tension dysphonia** - where extraneous muscles are tensed. However, this risk only applies to people who *see the term spoken about* but **do not see any actual resources**. Normally, constriction is warned against, but not all people are warned before intuitively attempting resonance modifications.
+
+**Do not tell people to make their voices smaller!** Instead, tell them to do an actual exercise which results in smaller vocal size, or tell them to change *vocal size* not just *size*. The risk imposed by the misunderstanding of the term will only really be felt when the term becomes ubiquitous.
+
+### Bright (in specific uses)
 
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
@@ -112,7 +123,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 ## Other
 </summary>
 
-### Breath Support (specific)
+### Breath Support (in specific uses)
 
 {: .d-inline-block }
 <div>overused</div>{: .label .label-blue }
