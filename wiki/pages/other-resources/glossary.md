@@ -93,6 +93,12 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 ### [Resonance](/wiki/pages/resonance)
 - changes the timbre or non-pitch qualities of a voice
 - is dependent on the size and shape of the vocal tract
+- the size of a container is its external volume, space is the internal volume and resonance is how sound is affected by the volume and shape of that space
+
+### Vocal Size
+- **[do not](/wiki/pages/other-resources/questionable-terms.html#size) try to change the size of your voice intuitively or without proper exercises / guidance**
+- a perceptual quality of voice, which describes the total effect of all resonance modifications
+- doesn't include brightness
 
 ### Brightness
 1. the amount of high frequency harmonic information in the voice
