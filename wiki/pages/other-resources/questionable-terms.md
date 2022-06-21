@@ -105,6 +105,11 @@ If we try to make our voices *smaller* without the proper knowledge or exercises
 
 **Do not tell people to make their voices smaller!** Instead, tell them to do an actual exercise which results in smaller vocal size, or tell them to change *vocal size* not just *size*. The risk imposed by the misunderstanding of the term will only really be felt when the term becomes ubiquitous.
 
+**Alternatives**:
+- vocal size
+- resonance
+- vocal space, small / large
+
 ### Bright (in specific uses)
 
 {: .d-inline-block }
