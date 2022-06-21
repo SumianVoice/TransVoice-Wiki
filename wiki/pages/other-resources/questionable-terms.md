@@ -99,7 +99,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
 
-**This entry is only in regard to where the term "vocal size" is used as just "size"** or if people **intuitively try to make their voices "smaller"** because they have not yet had actual guidance or seen the proper knowledge. Size, or *vocal size* is a perceptual quality of voice, similar to how vocal weight is perceptual.
+**This entry is only in regard to where the term "vocal size" is used as just "size"** or if people **intuitively try to make their voices "smaller"** because they have not had actual guidance or the proper knowledge yet. Size, or *vocal size* is a perceptual quality of voice, similar to how vocal weight is perceptual.
 
 If we try to make our voices *smaller* without the proper knowledge or exercises, it will *almost always* result in constriction and if not false fold constriction then primary **muscle tension dysphonia** - where extraneous muscles are tensed. However, this risk only applies to people who *see the term spoken about* but **do not see any actual resources**. Normally, constriction is warned against, but not all people are warned before intuitively attempting resonance modifications.
 
