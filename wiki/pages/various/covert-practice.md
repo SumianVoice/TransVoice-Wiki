@@ -18,7 +18,6 @@ nav_exclude: false
 # Covert Practice
 At times, we may be in an environment where we can't do all the usual exercises, but still want to work on our voice. Here are some alternatives that are either quiet or don't sound like we're changing vocal gender.
 
-# Exercises
 ## Humming
 Good for affecting:
 - vocal weight
