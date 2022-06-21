@@ -18,7 +18,7 @@ has_children: false
 # Questionable Terminology
 {: .no_toc }
 
-These are terms that are commonly used in vague ways. They are not all inherently bad, but just present issues, either because of word use pollution (people using the word in too many different ways) or because they are always involved in risky or ineffective techniques like seen above.
+These are terms that are commonly used in vague ways or present other problems. They may not be all inherently bad, but just present issues, either because of word use pollution (people using the word in too many different ways) or because they are always involved in risky or ineffective techniques.
 
 This is an evolving document like most of the site, so we're always looking for more info.
 
