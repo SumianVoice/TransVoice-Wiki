@@ -94,7 +94,7 @@ Although it's useful to talk about formant values numerically at times, **this i
 - vocal tract size
 - F1, F2
 
-### Size
+### Size (in specific circumstances)
 
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
