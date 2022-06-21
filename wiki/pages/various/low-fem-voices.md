@@ -24,6 +24,9 @@ This can be done by slowly creeping the pitch down while keeping an eye on the v
 
 It's best to do this in smooth steps, so start at 200hz, slide down to 180 and speak, then slide down to 160 and speak, then 140 and then 120. It's important to speak at each step because a solid tone like _"aaaa"_ can sound ambiguous, but speech contains much more intricacy.
 
+Bringing low vocal weight down in pitch:
+{% include youtube.html id="v-low-weight-down" ytid="OHxwSAAnj-Q" %}
+
 With appropriate microbehaviours and general vocal control, vocal weight or resonance can be in the androgynous range and the voice will still sound feminine.
 
 ## Resonance
@@ -41,6 +44,8 @@ In other words, while microbehaviours don't matter much in typically feminine vo
 
 Learning to do a low pitch feminine voice or a high vocal weight one can actually help significantly with getting a more natural configuration, because we are forced to learn more feminine speech patterns and microbehaviours.
 
+{% include youtube.html id="v-microbehaviours" ytid="gSr47pNAzeY" %}
+
 ## Voice examples
 ### imawonder
 Really good for learning brightness despite a very low pitch
@@ -57,9 +62,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
 pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500hz peaks)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
 ```
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fmgoaFjsqt4?start=4409" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html id="v-imawonder" ytid="fmgoaFjsqt4?start=4409" %}
 
 ### Nurse
 Perfect for learning a deep feminine voice at very (120hz) low pitch.
@@ -78,6 +81,4 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
 ```
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3u6snmQNTRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html id="v-nurse" ytid="3u6snmQNTRQ" %}
