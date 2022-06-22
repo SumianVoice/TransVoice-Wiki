@@ -14,12 +14,10 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-```
-placeholder: info about how to use spectrograms and read them and how they work to a small degree
-```
-
 # Spectrograms
-Spectrograms are cool!
+Spectrograms are cool! It's best not to rely on them. Use them to train your ears, but don't use them in place of your ears!
+
+The most common use of a spectrogram is to monitor pitch and sometimes formants.
 
 ## How To Read A Spectrogram
 
