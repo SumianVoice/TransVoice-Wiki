@@ -26,7 +26,7 @@ This is a big list of really interesting or amazing voices, in no particular ord
 ### June Banoon
 {% include youtube.html id="v-hercomes" ytid="KTlCIwsBQow" %}
 ### Shohreh Aghdashloo
-{% include youtube.html id="v-shohreh" ytid="KTlCIwsBQow" %}
+{% include youtube.html id="v-shohreh" ytid="sG0lTiZHqMA" %}
 ### annapantsu
 {% include youtube.html id="v-annapantsu" ytid="buhxqbrY-Do" %}
 
