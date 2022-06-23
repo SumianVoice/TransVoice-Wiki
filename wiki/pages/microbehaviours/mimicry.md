@@ -28,6 +28,7 @@ Mimicry is a good way to learn new microbehaviours, speech patterns and can also
   - sibilants
   - tempo fluctuation
 - consistency
+
 ## What Mimicry can't help with
 This is assuming we're not going to spend years doing it, since it is *technically* possible to learn these somewhat through mimicry at an extremely slow rate unless we've been predisposed to learning them already.
 - vocal weight
