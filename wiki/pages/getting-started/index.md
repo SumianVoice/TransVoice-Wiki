@@ -18,12 +18,12 @@ Before we get into a typical plan for voice feminisation, let's get some things 
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
 - It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
 - Sometimes, knowing voice anatomy or reading research papers or watching videos about voice pedagogy is useful for background, but if you're reading or theorising more than you're practising, it's not helping!
-- Drills and exercises are for inducing exploration. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
+- Drills and exercises are for exploration and to induce a change in some vocal characteristic before using your voice. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
 - Practice doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
   1. speaking in the presence of voices you want to sound like
   2. just talking in VC or in person
   3. doing a drill and reading a passage
-  4. doing SOVTEs
+  4. doing SOVTEs or VFEs
 
 # A typical plan
 Below is a typical plan assuming an average masculine voice trained to be feminine. This isn't always accurate because everyone is different but it can give some direction to start. Adjustments will likely and should be made based on personal circumstances.
