@@ -6,7 +6,9 @@ has_children: false
 ---
 {% include global.html %}
 # In-Site Spectrogram
-There is a js based spectrogram made by Sumi included in the site. It can be found below:
+There is a js based spectrogram made by Sumi included in the site. It can be found below.
+
+This has been updated, and you can find the old version at: [oldspec.sumianvoice.com](https://oldspec.sumianvoice.com/)
 
 <span class="fs-8">
 [Open the spectrogram](https://spec.sumianvoice.com/){: .btn .btn-green }
