@@ -37,8 +37,7 @@ While creak is pretty normal it can be annoying to not be able to get rid of it.
 ## Lip Trills
 Lip trills require balanced airflow, which means we can use this to get a consistent airflow habit and therefore avoid creak.
 
-Madeline Harvey's video covers this. The lip trills are at 4:38 but the breath support information in the beginning is very useful too.
+Madeline Harvey's video covers this. The lip trills are at 4:38 but the breath support information in the beginning is very useful too for airflow consistency.
 
-<p align="left">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PQUo7eimhWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+{% include youtube.html id="v-harvey-warmup" ytid="PQUo7eimhWA" %}
+
