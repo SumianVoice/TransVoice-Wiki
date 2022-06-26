@@ -75,34 +75,6 @@ Comparing loudness from airflow with loudness from twang:
 
 ## Exercises
 To raise resonance in general, using a combination of modifications.
-### Big Dog Small Dog
-1. Imitate a big dog panting
-2. Try to imitate a smaller and smaller dog, raising the 'pitch' (it's not actually pitch) of the whisper
-3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
-  - avoid going too high in pitch
-
-Pitfalls:
-1. using FVF constriction to get louder breaths
-  - make it light and quiet but very airy, don't sacrifice airflow to make it quiet
-2. raising pitch as well as resonance
-  - since they are usually linked, this is common, and it might be worth using the voiced resonance slides or steps exercise
-
-### Whisper Sirens
-These are the same as big dog small dog, but without panting, just a constant stream of air going from low resonance to high or vice versa.
-
-Pitfalls:
-1. even more likely to become FVF constricted especially at high resonance
-
-{% include youtube.html id="v-whisper" ytid="asxOJaDI0wE " %}
-
-### Voiced Resonance Slide
-Related: kyo kya
-
-A voiced resonance slide can be difficult because we'll want to change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
-
-With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
-
-How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the larynx, and then when some control is achieved, try and try again to move the larynx without moving pitch. Focus on the pitch sound.
 
 ### Voiced Resonance Stepping
 In this exercise we start at a medium or high pitch, then:
@@ -119,6 +91,41 @@ Pitfalls:
 
 {% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc" %}
 
+### Whispers
+We can just whisper a word over and over, and change how high or low it is. This isn't pitch, but it's the equivalent for unvoiced sounds. What we're changing is resonance, and the level of resonance defines the 'pitch' of the whisper (again it's not pitch, but for most people, this analogy makes sense). We can then - very importantly - make it light and unconstricted. Best practice is to stop at this point and use voiced resonance stepping, but we can also go into speech from this point if that's not giving results.
+
+{% include youtube.html id="v-whisper" ytid="asxOJaDI0wE " %}
+
+### Speaking From 'iii'
+This is a simple exercise to get what's called a macrovowel. A macrovowel is when we keep the mouth in roughly the same shape as a vowel in order to have that vowel 'color' the rest of our speech. A dark vowel would be _uuu_ like in "boot", and a bright vowel would be either _.ae_ like in "hat" or in this case _iii_ as in "happ_y_". Although this doesn't have a _huge_ impact on overall resonance level (as in formants), it does have a quite noticeable impact on brightness.
+
+1. Say "uuu, speaking from uuu" and keep the mouth shape roughly in the "uuu" shape
+2. Say "iii, speaking from iii", stress the iii or eee sound and again, keep the mouth in roughly the "iii" shape
+3. Say a word at the end of each phrase to test brightness like "part" or "hi" or "apple"
+4. Apply it to a longer phrase by doing the exercise and then speaking the phrase
+
+{% include youtube.html id="v-res-stepping" ytid="qTsD9loplzM" %}
+
+### Big Dog Small Dog
+1. Imitate a big dog panting
+2. Try to imitate a smaller and smaller dog, raising the 'pitch' (it's not actually pitch) of the whisper
+3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
+  - avoid going too high in pitch
+
+Pitfalls:
+1. using FVF constriction to get louder breaths
+  - make it light and quiet but very airy, don't sacrifice airflow to make it quiet
+2. raising pitch as well as resonance
+  - since they are usually linked, this is common, and it might be worth using the voiced resonance slides or steps exercise
+
+### Voiced Resonance Slide
+Related: kyo kya
+
+A voiced resonance slide can be difficult because we'll want to change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
+
+With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
+
+How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the larynx, and then when some control is achieved, try and try again to move the larynx without moving pitch. Focus on the pitch sound.
 
 ### Kyo Kya
 This is mostly for learning OPC
