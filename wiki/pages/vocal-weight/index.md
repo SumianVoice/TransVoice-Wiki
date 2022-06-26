@@ -34,6 +34,10 @@ Normally we might not affect vocal weight consciously at all, but there are ways
 
 It's important however to be aware that pitch is not the only way to affect weight. You can isolate it and get low weight at a low pitch for example or high weight at a high pitch. This extra control is very useful - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
 
+Here are some examples of vocal weight in action:
+
+{% include youtube.html id="v-res-stepping" ytid="ar_r3qDbmoU" %}
+
 ## Things vocal weight is not
 Here's a list of things that are not vocal weight, although they do affect it marginally in some cases.
 - pressed phonation or hyperadduction

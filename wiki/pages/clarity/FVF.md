@@ -48,6 +48,23 @@ This is where the voice constantly sound rough and hoarse. We can check for pass
 <!-- ```
 video/audio example of fvf constriction
 ``` -->
+### Using Quiet Breathing to Reduce FVF constriction
+We can use quiet breathing as a way to reduce false fold constriction because the loudness of a breath is directly tied to the amount of restriction in the throat; which is what adding false folds does.
+
+It is very important that we stay relaxed in this exercise. If we add effort in any way it could encourage some things we definitely don't want.
+
+1. Breathe in and out normally
+2. Breathe in and out again, but make it silent and airy
+  - this is similar to when blowing out a candle
+3. Breathe out again
+  - in the middle of the out breath say "ah"
+  - don't try to change pitch
+  - leave the "ah" as the default position with no effort
+  - this is similar to a sigh
+4. Breathe out again
+  - this time change the pitch to the target pitch
+
+{% include youtube.html id="v-res-stepping" ytid="_k_gFcMACrw" %}
 
 ### Using light phonation
 1. use a very light humming sound

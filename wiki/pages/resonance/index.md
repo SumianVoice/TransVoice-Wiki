@@ -117,7 +117,7 @@ Pitfalls:
   - have a pause between each step, don't slide
   - picture the pitch when you speak
 
-{% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc  " %}
+{% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc" %}
 
 
 ### Kyo Kya
