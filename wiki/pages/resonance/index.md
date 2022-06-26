@@ -93,6 +93,8 @@ These are the same as big dog small dog, but without panting, just a constant st
 Pitfalls:
 1. even more likely to become FVF constricted especially at high resonance
 
+{% include youtube.html id="v-whisper" ytid="asxOJaDI0wE " %}
+
 ### Voiced Resonance Slide
 Related: kyo kya
 
@@ -114,6 +116,9 @@ Pitfalls:
 1. changing pitch too much
   - have a pause between each step, don't slide
   - picture the pitch when you speak
+
+{% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc  " %}
+
 
 ### Kyo Kya
 This is mostly for learning OPC
