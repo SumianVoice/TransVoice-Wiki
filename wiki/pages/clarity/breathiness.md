@@ -65,7 +65,7 @@ Humming tends to very slightly encourage less breathiness when left to become re
 
 We can go into a hum, then make it light, then come out of the hum into speech. Often, this will help when the breathiness is not yet a strong habit.
 
-## The "more and less" Method
+## Breathiness Stepping
 This is a common way to change any behaviour. We can start in our neutral position or trying to go the way we want slightly, then intentionally make a voice more breathy for example, then slide it back the way we came. Often we can end up less breathy than when we started.
 
 If we repeat this process many times, we can add _layers_ of decreased breathiness. The goal is to develop enough control to modify it during speech at will, so it's a good idea to say a word or phrase in three steps and then speak:
@@ -74,8 +74,12 @@ If we repeat this process many times, we can add _layers_ of decreased breathine
 3. non-breathy
 4. go into speech
 
-We can also practice doing this mid-sentence by saying something like this: (*breathy* non-breathy)
-- The quick brown *fox jumps over the* lazy dog to fetch its dinner.
+We can also practice doing this mid-sentence by saying something like this: (<b class="hlyellow">breathy</b> non-breathy)
+- The quick brown <b class="hlyellow">fox jumps over</b> the lazy dog to fetch its dinner.
+
+It's very important, as with any exercise but especially when dealing with closure, to not add effort in this exercise.
+
+{% include youtube.html id="v-res-stepping" ytid="BwkRSomEg74" %}
 
 ## Using Creak
 Since creak (not fry / M0) is a relaxed, adducted, low airflow configuration, we can use it to start non breathy and then add the slightest bit of air to come out of creak into flow phonation.
