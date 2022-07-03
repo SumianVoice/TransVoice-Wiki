@@ -28,7 +28,7 @@ This is also referred to as:
 
 It is essentially a way of describing the sound quality caused by the amount of mass with which the vocal folds interact among other things. Think of it like clapping your hands together. You can vary the speed your hands travel and this causes the sound to increase in volume. You could also tense the muscles in your hands so that when they do hit they have a more sudden and thus louder interaction. But, we can also use either only the tips of your fingers or the whole palm. The vocal folds are doing a similar thing. Since it's one of the most important and fundamental aspects of voice it's super useful to have good control over it.
 
-Normally we might not affect vocal weight consciously at all, but there are ways to induce a change in it. Imagine you're clapping slowly as we described earlier. Now increase the rate with which we clap - as we go faster and faster we can't put as much force into each clap and so the force of each clap is lower. This is similar to the effect of low vocal weight when going to a high pitch. When we go up in pitch, the vocal folds are vibrating with a higher frequency, so of course, it's natural that the vocal weight tends to decrease when going to higher pitches, particularly when we don't try to force it and instead stay relaxed. Similarly, when we go down in pitch, the vocal folds are vibrating slower and so tend to have more mass involved in that vibration. This is the reason why pitch slides are such a great exercise for vocal weight.
+Normally we might not affect vocal weight consciously at all, but there are ways to induce a change in it. Imagine you're clapping slowly as we described earlier. Now increase the rate with which we clap - as we go faster and faster we can't put as much force into each clap and so the volume and weight of each clap is lower. This is similar to the effect of low vocal weight when going to a high pitch. When we go up in pitch, the vocal folds are vibrating with a higher frequency, so of course, it's natural that the vocal weight tends to decrease when going to higher pitches, particularly when we don't try to force it and instead stay relaxed. Similarly, when we go down in pitch, the vocal folds are vibrating slower and so tend to have more mass involved in that vibration. This is the reason why pitch slides are such a great exercise for vocal weight.
 
 ![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
 
@@ -36,7 +36,7 @@ It's important however to be aware that pitch is not the only way to affect weig
 
 Here are some examples of vocal weight in action:
 
-{% include youtube.html id="v-res-stepping" ytid="ar_r3qDbmoU" %}
+{% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" %}
 
 ## Things vocal weight is not
 Here's a list of things that are not vocal weight, although they do affect it marginally in some cases.
