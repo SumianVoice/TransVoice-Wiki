@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Legal Disclaimer
 nav_order: 200
 has_children: false
 ---
-{% include global.html %}
 
 # Disclaimer
 All information provided on this site is from community additions. It is provided without warranty, guarantee or liability. By viewing this or any page under wiki.sumianvoice.com, you agree to absolve the site maintainers and contributors of all liability for the content hosted on those pages.

@@ -1,11 +1,9 @@
 ---
-layout: default
 title: Subharmonics
 parent: Clarity
 nav_order: 9
 nav_exclude: true
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

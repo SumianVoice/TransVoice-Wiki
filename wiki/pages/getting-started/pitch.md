@@ -1,10 +1,8 @@
 ---
-layout: default
 title: How Important is Pitch?
 parent: Getting Started
 nav_order: 5
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

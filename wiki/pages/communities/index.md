@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Voice Communities
 nav_order: 40
 has_children: false
 ---
-{% include global.html %}
 
 # List of Voice Communities
 This is of course not exhaustive! Help us fill this out and add more information about the servers. Contact sumianvoice (gmail) to provide more info or servers or make a pull request. Be sure to add a description of what they do, don't send private servers or servers that don't want to be publicly listed. It is best to ask permission first.

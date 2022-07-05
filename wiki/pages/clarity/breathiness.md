@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Breathiness
 parent: Clarity
 nav_order: 2
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
