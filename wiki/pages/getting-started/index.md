@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Getting Started
 nav_order: 2
 has_children: true
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

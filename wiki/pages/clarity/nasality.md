@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Nasality
 parent: Clarity
 nav_order: 4
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

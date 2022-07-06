@@ -1,8 +1,10 @@
 ---
+layout: default
 title: "\nVocal Weight"
 nav_order: 5
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

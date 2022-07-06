@@ -1,9 +1,11 @@
 ---
+layout: default
 title: Hyperadduction
 parent: Big List of Stuff
 nav_order: 12
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

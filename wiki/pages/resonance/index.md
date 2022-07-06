@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Resonance
 nav_order: 6
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

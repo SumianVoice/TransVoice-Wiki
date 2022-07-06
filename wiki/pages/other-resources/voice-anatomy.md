@@ -1,9 +1,11 @@
 ---
+layout: default
 title: Voice Anatomy
 parent: Other Resources
 nav_order: 11
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

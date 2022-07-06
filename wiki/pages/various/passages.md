@@ -1,10 +1,12 @@
 ---
+layout: default
 title: Example Passages
 parent: Big List of Stuff
 nav_order: 10
 has_children: false
 nav_exclude: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Testing Grounds
 has_children: false
 nav_exclude: true
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

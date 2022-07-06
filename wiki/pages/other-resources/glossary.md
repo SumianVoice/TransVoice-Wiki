@@ -1,9 +1,11 @@
 ---
+layout: default
 title: Glossary
 parent: Other Resources
 nav_order: 1
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

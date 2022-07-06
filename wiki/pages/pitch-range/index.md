@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Pitch Range Expansion
 nav_order: 25
 has_children: true
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

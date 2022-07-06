@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Speech Patterns
 nav_order: 8
 has_children: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

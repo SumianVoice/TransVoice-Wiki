@@ -1,10 +1,12 @@
 ---
+layout: default
 title: Hall of Fame
 parent: Big List of Stuff
 nav_order: 99
 has_children: false
 nav_exclude: false
 ---
+{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
