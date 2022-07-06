@@ -1,12 +1,10 @@
 ---
-layout: default
 title: Acoustic Resonance
 parent: Big List of Stuff
 nav_order: 19
 has_children: false
 nav_exclude: true
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

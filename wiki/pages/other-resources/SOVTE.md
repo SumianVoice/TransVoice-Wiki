@@ -1,12 +1,10 @@
 ---
-layout: default
 title: SOVTEs
 parent: Other Resources
 nav_order: 3
 has_children: false
 nav_exclude: true
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
