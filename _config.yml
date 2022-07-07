@@ -38,7 +38,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "**/*.md" # an empty string here means all files in the project
       type: "pages" # previously `post` in Jekyll 2.2.
     values:
       layout: "page"
