@@ -1,10 +1,8 @@
 ---
-layout: default
 title: List of Microbehaviours
 parent: Microbehaviours
 nav_order: 2
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
