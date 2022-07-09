@@ -77,13 +77,11 @@ Pitfalls:
   - since they are usually linked, this is common, and it might be worth using the voiced resonance slides or steps exercise
 
 ### Voiced Resonance Slide
-Related: kyo kya
-
 A voiced resonance slide can be difficult because we'll want to change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
 
 With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
 
-How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the larynx, and then when some control is achieved, try and try again to move the larynx without moving pitch. Focus on the pitch sound.
+How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the resonance, and then when some control is achieved, try and try again to change the resonance without moving pitch. Focus on keeping the pitch consistent.
 
 ### Kyo Kya
 This is mostly for learning OPC
