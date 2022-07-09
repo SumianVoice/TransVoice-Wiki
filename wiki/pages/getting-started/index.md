@@ -59,11 +59,6 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - using [M2 and making it stronger](/wiki/pages/pitch-range/strong-m2) (sometimes called mix voice) is a good quick way to get tons of extra range
 - practice intonating progressively higher
 
-## Learn [belting](/wiki/pages/pitch-range/belting) to be able to shout
-- know what pressed phonation / hyperaduction sounds like and DON'T DO IT.
-- don't just do an ah vowel, do harder ones like eh
-- slowly reduce weight at your highest note in order to go even higher (will probably break at first)
-
 ## Start [mimicry](/wiki/pages/microbehaviours/mimicry) and learn [microbehaviours](/wiki/pages/microbehaviours)
 - find a clip of a voice such as from [voice examples](/wiki/pages/voice-examples) that is not outside your pitch or resonance range
 - put a beep sound at the beginning for timing
