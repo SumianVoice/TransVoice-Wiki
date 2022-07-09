@@ -19,7 +19,7 @@ Before we get into a typical plan for voice feminisation, let's get some things 
 - Drills and exercises are for exploration and to induce a change in some vocal characteristic before using your voice. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
 - Practice doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
   1. speaking in the presence of voices you want to sound like
-  2. just talking in VC or in person
+  2. just talking in voice chat or in person
   3. doing a drill and reading a passage
   4. doing SOVTEs or VFEs
 
@@ -28,13 +28,15 @@ Below is a typical plan assuming an average masculine voice trained to be femini
 
 ## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch
 - the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already
+- a relaxed high pitch will usually be light in vocal weight
 - using "awwww" as if talking to a cute puppy is a good behavioural trigger for getting light vocal weight
 - avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [M2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
 
 ## Raise [resonance](/wiki/pages/resonance) as needed
+- try to think of resonance as just a type of sound, don't focus on physical aspects like raising the larynx except for context
 - people often raise their larynx (and thus, resonance) when going to a high pitch, so you might not need to do this step
 - avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
-- when going out of an unvoiced slide, do so fluidly, avoid pauses that can let you reset to a lower larynx position
+- avoid unvoiced / whisper slides if you can, or prioritise doing voiced ones. If you do unvoiced slides, make sure they are not constricted or rough
 - clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
 
 ## Clean up the voice
