@@ -1,11 +1,9 @@
 ---
-layout: default
 title: How to Practice
 parent: Getting Started
 nav_order: 10
 has_children: false
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents

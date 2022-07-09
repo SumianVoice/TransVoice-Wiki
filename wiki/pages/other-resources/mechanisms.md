@@ -1,11 +1,9 @@
 ---
-layout: default
 title: Vocal Mechanisms
 parent: Other Resources
 nav_order: 7
 has_children: false
 ---
-{% include global.html %}
 <details closed markdown="block">
   <summary>
     Table of contents
