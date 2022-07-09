@@ -14,17 +14,17 @@ has_children: true
 # Getting Started
 Before we get into a typical plan for voice feminisation, let's get some things straight.
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
-- It's important to be aware at every stage of the possibility of falling into bad habits so keep in mind what can go wrong in each exercise.
+- It's important to be aware at every stage of the possibility of falling into bad habits so be aware of what can go wrong in each exercise. You don't need to worry about it, just know that it *can* happen and then it won't.
 - Sometimes, knowing voice anatomy or reading research papers or watching videos about voice pedagogy is useful for background, but if you're reading or theorising more than you're practising, it's not helping!
 - Drills and exercises are for exploration and to induce a change in some vocal characteristic before using your voice. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
-- Practice doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
+- *Practice* doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
   1. speaking in the presence of voices you want to sound like
   2. just talking in voice chat or in person
   3. doing a drill and reading a passage
   4. doing SOVTEs or VFEs
 
 # A typical plan
-Below is a typical plan assuming an average masculine voice trained to be feminine. This isn't always accurate because everyone is different but it can give some direction to start. Adjustments will likely and should be made based on personal circumstances.
+Below is a typical plan assuming an average masculine voice trained to be feminine. This isn't always accurate because everyone is different but it can give some direction to start. Adjustments will likely and should be made based on personal circumstances. You can do any of these things at any time, it's more a generalisation. Often it's most effective to be trying several things while working on one main concept.
 
 ## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch
 - the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already
@@ -60,6 +60,7 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - practice intonating progressively higher
 
 ## Start [mimicry](/wiki/pages/microbehaviours/mimicry) and learn [microbehaviours](/wiki/pages/microbehaviours)
+- you can do this at any time, but make sure you can hit the pitch and resonance of the voice you're mimicking or else it might be quite difficult
 - find a clip of a voice such as from [voice examples](/wiki/pages/voice-examples) that is not outside your pitch or resonance range
 - put a beep sound at the beginning for timing
 - practice speaking over it as it plays and also listening and copying
