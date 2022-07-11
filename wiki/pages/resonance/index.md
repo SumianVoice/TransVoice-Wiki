@@ -16,15 +16,20 @@ has_children: false
 ## What is Resonance
 The space in a container is it's internal volume, like the air in a pipe. Resonance is how sound is affected by the shape and amount of that space. We hear this quality as low and high resonance. A low resonance sound will seem darker and booming, where as a high resonance sound will be bright or even buzzy. Think of cartoon characters; a giant will have a booming, low resonance voice, whereas a goblin for example might have a high resonance voice.
 
-Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of the space are highlighted. You can hear a resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) is in the bottle, the higher the whistle sound produced. Your vocal tract is similar to this, though much more complex of course.
+Low resonance sound:
+<audio controls> <source src="/audio/tone-highpitch-lowresonance.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+High resonance sound:
+<audio controls> <source src="/audio/tone-highpitch-highresonance.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+
+Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of that space are filtered to be louder. You can hear a resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) is in the bottle, the higher the whistle sound produced. Your vocal tract is similar to this, though much more complex of course.
 
 However, this is all just context. It's best not to think about resonance as formants or physical space changes but just as how the voice sounds. We're much better equipped to change sound color than we are to change physical aspects of our vocal tract.
 
 Here's a 32 second video explaining resonance:
-{% include youtube.html id="v-resonance-30s" ytid="h9oHUOMLmQo" %}
+{% include youtube.html id="v-resonance-30s" ytid="h9oHUOMLmQo" yttitle="Resonance Explained in 30 seconds" %}
 
 And here's a more in-depth video on it:
-{% include youtube.html id="v-resonance-intro" ytid="sxowishWgwI" %}
+{% include youtube.html id="v-resonance-intro" ytid="sxowishWgwI" yttitle="Introduction to how resonance works" %}
 
 ## Exercises
 To raise resonance in general, using a combination of modifications.
@@ -42,7 +47,7 @@ Pitfalls:
   - have a pause between each step, don't slide
   - picture the pitch when you speak
 
-{% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc" %}
+{% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc" yttitle="The voiced resonance stepping exercise" %}
 
 ### Whispers
 We can just whisper a word over and over, and change how high or low it is. This isn't pitch, but it's the equivalent for unvoiced sounds. What we're changing is resonance, and the level of resonance defines the 'pitch' of the whisper (again it's not pitch, but for most people, this analogy makes sense). We can then - very importantly - make it light and unconstricted. Best practice is to stop at this point and use voiced resonance stepping, but we can also go into speech from this point if that's not giving results.
@@ -52,7 +57,7 @@ Pitfalls:
   - make the high resonance position light and airy
   - alternatively, avoid going from unvoiced / whisper to voiced directly, instead go to the voiced resonance stepping exercise
 
-{% include youtube.html id="v-whisper" ytid="asxOJaDI0wE " %}
+{% include youtube.html id="v-whisper" ytid="asxOJaDI0wE" yttitle="Whisper slides for higher resonance range" %}
 
 ### Speaking From 'iii'
 This is a simple exercise to get what's called a macrovowel. A macrovowel is when we keep the mouth in roughly the same shape as a vowel in order to have that vowel 'color' the rest of our speech. A dark vowel would be _uuu_ like in "boot", and a bright vowel would be either _.ae_ like in "hat" or in this case _iii_ as in "happ_y_". Although this doesn't have a _huge_ impact on overall resonance level (as in formants), it does have a quite noticeable impact on brightness.
@@ -62,7 +67,7 @@ This is a simple exercise to get what's called a macrovowel. A macrovowel is whe
 3. Say a word at the end of each phrase to test brightness like "part" or "hi" or "apple"
 4. Apply it to a longer phrase by doing the exercise and then speaking the phrase
 
-{% include youtube.html id="v-speak-from-iii" ytid="qTsD9loplzM" %}
+{% include youtube.html id="v-speak-from-iii" ytid="qTsD9loplzM" yttitle="Macrovowel with 'iii speaking from iii'" %}
 
 ### Big Dog Small Dog
 1. Imitate a big dog panting
