@@ -34,7 +34,7 @@ It's important however to be aware that pitch is not the only way to affect weig
 
 Here are some examples of vocal weight in action:
 
-{% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" %}
+{% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" yttitle="Examples Of Vocal Weight" %}
 
 ## Things vocal weight is not
 Here's a list of things that are not vocal weight, although they do affect it marginally in some cases.
@@ -52,7 +52,7 @@ Here's a list of things that are not vocal weight, although they do affect it ma
 ## Breathiness
 [Breathiness](/wiki/pages/clarity/breathiness) can hide the _buzziness_ effect of a high vocal weight voice and make it harder to hear. This is not lowering vocal weight at all, only making the high vocal weight voice softer. It's best to avoid breathiness especially in exercises that modify vocal weight.
 
-If we make a habit of using breathiness to hide high vocal weight and talking at a high pitch with that heavy vocal weight for too long, we can make that comfortable to the point that we cannot use normal techniques like pitch slides to reduce weight, as the comfortable thing to do is stay heavy, rather than relax into light vocal weight like most exercises rely on. 
+If we make a habit of using breathiness to hide high vocal weight and talking at a high pitch with that heavy vocal weight for too long, we can make that comfortable to the point that we cannot use normal techniques like pitch slides to reduce weight, as the comfortable thing to do is stay heavy, rather than relax into light vocal weight like most exercises rely on.
 
 Using glottal strikes or [medium hard onsets](/wiki/pages/clarity/onsets) and offsets can help avoid this when doing vocal weight exercises.
 
@@ -93,7 +93,7 @@ This exercise is usually very effective if done at the right pitch and in a rela
 
 It's very important to imagine something cute, and get "into the character" of this, or else it won't work at all.
 
-{% include youtube.html id="v-awww" ytid="F6Kbi6M5vec" %}
+{% include youtube.html id="v-awww" ytid="F6Kbi6M5vec" yttitle="The Awww Trigger for Light Vocal Weight"%}
 
 
 ## Pitch Slides

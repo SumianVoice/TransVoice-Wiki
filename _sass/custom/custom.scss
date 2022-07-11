@@ -127,7 +127,21 @@ iframe[title="YouTube video player"] {
   max-width:480px;
   cursor:pointer;
 }
-
+.yt-thumb > p{
+  position: fixed;
+  margin-left: 5px;
+}
+.yt-thumb > div{
+  position: absolute;
+  margin-top: 160px;
+  margin-left: 140px;
+  width: 200px;
+  text-align: center;
+}
+.yt-thumb{
+  display: block;
+  height: 360px;
+}
 // ---------------------------------
 
 hr {
