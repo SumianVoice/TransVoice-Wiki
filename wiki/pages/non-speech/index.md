@@ -2,6 +2,7 @@
 title: Non-Speech Features
 nav_order: 27
 has_children: false
+nav_exclude: true
 ---
 <details closed markdown="block">
   <summary>
