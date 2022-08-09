@@ -24,7 +24,7 @@ Nasal:
 <audio controls> <source src="/audio/nasality-with.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 ## Checking Nasality
-The main method of checking for nasality is to say a non nasal phrase (one without any N or M or NG sounds) with and then without the nose pinched. If there's a difference, there is nasality. The degree of nasality is how "honky" the sound is. We can then reduce the honky-ness intuitively or use other methods.
+The main method of checking for nasality is to say a non nasal phrase (one without any N or M or NG sounds) with and then without the nose pinched. If there's a difference, there is nasality. The degree of nasality is how "honky" the sound is when we pinch the nose to block the airflow. We can then reduce the honky-ness intuitively or use other methods.
 
 ### Non Nasal Phrases
 - Pick up the crate, be careful of the glass.
