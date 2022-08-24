@@ -18,6 +18,85 @@ has_children: false
 
 If you wish to verify this signature, use the plaintext version in the new_terminology.md file on GitHub. Otherwise, some of the characters used in markdown will not be present and you will get a bad verify.
 
+Current draft (intentionally not signed yet)
+
+---------------------
+# Prekt
+Prekt is the frequency of the first (zero-th) harmonic in the voice, NOT including subharmonics. It is the cycles per second of the true vocal folds (vocal ligament) vibrating. If the vocal folds complete 148 cycles (open and close) in one second, the prekt is 148 or 148hz.
+
+- Higher frequency of the first harmonic > higher in prekt / higher prekt
+
+- More completed vocal fold open and close cycles per second > higher in prekt
+
+Prekt can be referred to with musical notation or subjectively as high / low prekt, but is defined as the vibratory (or completed open and close) cycles per second of the true vocal folds / HZ of the fundamental.
+
+
+
+# Welit
+Vocal fold vibratory mass is the amount of the true vocal folds that vibrates when making a voice.
+Welit is the estimated amount of vocal fold vibratory mass (VFVM). Low prekt encourages more welit. Relaxed high prekt encourages less welit.
+
+Since VFVM cannot be easily measured, we estimate welit based on the sound qualities we exclusively associate with VFVM. If some quality of voice is known to be caused by factors other than VFVM or is not directly caused by VFVM then it does not affect welit.
+
+- The sound appears to have more vocal fold vibratory mass > more welit.
+
+- Higher prekt with low effort voice > encourages lower welit
+
+Does not include any other factor such as adduction, twang, volume, creak / fry. It is only the perceived effect of estimated vocal fold vibratory mass specifically. Lendis on its own does not affect welit, but people often add the two simultaneously due to conflation.
+
+
+# Rezion
+Resonant frequencies of the vocal tract filter similar frequencies to be louder and others quieter. The resultant effect on the voice is the formation of formants, which highlight some part of the voice, usually around the resonant frequencies of the vocal tract.   
+Rezion is the assumed level of F1 and F2 (the first and second formants above the fundamental) on average. If measured precisely, it is measured by the frequency of F1 on an /a/ vowel (UK “bath”).
+
+- Higher frequency F1 without changing vowel > higher rezion
+
+- A sound that seems to have a high F1 frequency > higher rezion
+
+Rezion tends to raise and lower in relation to prekt, but the concepts are separate. Rezion is only the formant values in the voice and the resulting subjective perception of that. When used subjectively as just 'high rezion' or 'low rezion' we assume that the F1 is high or low respectively. We don't add other factors to the determination of rezion that affect the overall perception of brint and dern for example. It is anchored to the F1, and is overridden by measurements of the F1 and F2.
+
+
+# Sezion
+Similar to rezion. When we hear a voice we intuitively assume the physical size / stature of the speaker. If the voice sounds lun (more sezion) we expect the speaker to be large like a giant.If the voice sounds sul (less sezion), we expect the speaker to be like a small pixie or a goblin. Lun and sul are ends of the spectrum of sezion.
+
+Sezion then gives an impression of the physical size of the speaker, even if there is no actual correlation to physical stature of the character (a large character might have a sul voice). Lun and sul are descriptions then of a voice, and how it indicates - correctly or not - the size of the speaker.
+
+In use, this is essentially rezion, high rezion being typically sul and low rezion typically being lun. This has a minor, secondary relationship with prekt because higher prekt voices usually sound more sul and lower prekt voices sound more lun.
+
+- You hear a voice and think the character whose voice it was is small > the voice is more sul
+
+- You hear a voice and think the character whose voice it was is large > the voice is more lun
+
+
+# Brint and Dern
+Overly brint voices can sound buzzy, as a result of somewhat high rezion and sufficient tone clarity (less noise, breathiness or false fold activity). Dern voices can be a result of low lendis, too much air being directed through the nose (hypernasality) or too low rezion or any number of other factors.
+
+Brint and dern are sound qualities that are heard and subjectively described as per these observations.
+
+- The voice sounds buzzy and bright > more brint
+
+- The voice sounds dull and dark > more dern
+
+- The voice sounds not dern and also moderately high rezion > probably brint
+
+- The voice has high rezion but something is making the voice ‘dull’ > more dern
+
+- The voice sounds muffled and muddy > probably dern
+
+# Lendis
+The effect of amount of airflow and closure on overall amplitude. Higher airflow and balanced / flow phonation closure of the vocal folds will result in higher lendis. This is only the effect of airflow and closure, and is irrelevant of welit or rezion or other sound filter modifications. It is an additive relationship between adduction and subglottal pressure that result in lendis. However, higher closure (adduction) than flow phonation / normal speech levels will not increase lendis. This would be considered prefol.
+
+- More airflow and same closure (more adduction to balance increased airflow) > more lendis
+
+- Less airflow and less closure (breathy) > less lendis
+
+- Less closure, same airflow > less lendis
+---------------------
+
+
+
+
+Previous signed message (this is only authoritative until the same PGP key signs the next draft):
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
