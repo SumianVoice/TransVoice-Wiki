@@ -22,7 +22,7 @@ If you wish to verify this signature, use the plaintext version in the `new_term
 This below message is the authoritative final version. You can check this because the date of the signature is after the original, and git keeps a record of all these changes.
 
 # Final Version
-
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
