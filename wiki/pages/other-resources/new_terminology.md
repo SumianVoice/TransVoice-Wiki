@@ -21,6 +21,8 @@ If you wish to verify this signature, use the plaintext version in the `new_term
 
 This below message is the authoritative final version. You can check this because the date of the signature is after the original, and git keeps a record of all these changes.
 
+# Final Version
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -102,11 +104,13 @@ eGU7zOPJmEbUol1yo4cjJ78DA4bwo8GQiQzMAdJsKh45fWi4YMN+oZE2xFTmBNer
 zO+rH/KYno9kXzwrrRj3BzydBuld+g==
 =+edR
 -----END PGP SIGNATURE-----
+```
 
-
-
-
+<details open markdown="block"><summary markdown="block">
+# Old versions
+</summary>
 Previous signed message (this is only authoritative until the same PGP key signs the next draft):
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -198,7 +202,7 @@ xlPNoS3XaXtuQucmD6qIvIt2ziCUMw==
 =BOEa
 -----END PGP SIGNATURE-----
 
-
+</details>
 
 
 
