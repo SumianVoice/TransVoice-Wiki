@@ -23,7 +23,6 @@ This below message is the authoritative final version. You can check this becaus
 
 # Final Version
 <pre>
-<code style="white-space:pre-wrap;">
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -105,7 +104,6 @@ eGU7zOPJmEbUol1yo4cjJ78DA4bwo8GQiQzMAdJsKh45fWi4YMN+oZE2xFTmBNer
 zO+rH/KYno9kXzwrrRj3BzydBuld+g==
 =+edR
 -----END PGP SIGNATURE-----
-</code>
 </pre>
 
 <details closed markdown="block"><summary markdown="block">
