@@ -106,7 +106,7 @@ zO+rH/KYno9kXzwrrRj3BzydBuld+g==
 -----END PGP SIGNATURE-----
 ```
 
-<details open markdown="block"><summary markdown="block">
+<details closed markdown="block"><summary markdown="block">
 # Old versions
 </summary>
 Previous signed message (this is only authoritative until the same PGP key signs the next draft):
