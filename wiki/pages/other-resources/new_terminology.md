@@ -22,6 +22,7 @@ If you wish to verify this signature, use the plaintext version in the `new_term
 This below message is the authoritative final version. You can check this because the date of the signature is after the original, and git keeps a record of all these changes.
 
 # Final Version
+<pre>
 <code style="white-space:pre-wrap;">
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
@@ -105,6 +106,7 @@ zO+rH/KYno9kXzwrrRj3BzydBuld+g==
 =+edR
 -----END PGP SIGNATURE-----
 </code>
+</pre>
 
 <details closed markdown="block"><summary markdown="block">
 # Old versions
