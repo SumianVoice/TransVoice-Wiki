@@ -11,11 +11,15 @@ has_children: true
 1. TOC
 {:toc}
 </details>
+
 # Getting Started
 Before we get into a typical plan for voice feminisation, let's get some things straight.
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
 - It's important to be aware at every stage of the possibility of falling into bad habits so be aware of what can go wrong in each exercise. You don't need to worry about it, just know that it *can* happen and then it won't.
+- Finding a [voice example](/wiki/pages/voice-examples) you think is an improvement on your current voice, or in other words is closer to your goal is **really helpful** for having a sense of direction. If you find you're getting lost and aren't sure what to do, this might help.
+- Break large goals down into smaller steps! If you have a huge goal, it can demotivate you and make it harder to see the progress you're getting. Instead of having a goal like "pass as X", it's a good idea to break it down into smaller steps like "change pitch to Y" and "learn vocal weight control to Z degree".
 - Sometimes, knowing voice anatomy or reading research papers or watching videos about voice pedagogy is useful for background, but if you're reading or theorising more than you're practising, it's not helping!
+- Avoid all kinds of effort or strain. If you can do a low pitch voice, and you can do a high pitch falsetto / hollow voice, then you should be able to do everything in between without strain! Keep it lazy and relaxed.
 - Drills and exercises are for exploration and to induce a change in some vocal characteristic before using your voice. Exploration is one of the most important parts of voice because most of voice is determined by coordination and habit.
 - *Practice* doesn't mean just doing drills. Good practice is drilling only when needed, then speaking freely. Here's a biased ranking of practice methods:
   1. speaking in the presence of voices you want to sound like
@@ -37,7 +41,7 @@ Below is a typical plan assuming an average masculine voice trained to be femini
 - people often raise their larynx (and thus, resonance) when going to a high pitch, so you might not need to do this step
 - avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
 - avoid unvoiced / whisper slides if you can, or prioritise doing voiced ones. If you do unvoiced slides, make sure they are not constricted or rough
-- clean the sound up before using it. Don't use a configuration that is rough, make it smooth first even at the cost of lowering resonance slightly
+- clean the sound up before using it. Don't use a configuration that is rough or efforful, make it smooth first even at the cost of lowering resonance slightly
 
 ## Clean up the voice
 If you're at this stage and you have any roughness in your voice, now's the time to sort it out. Going further will make it extremely difficult to unlearn later
