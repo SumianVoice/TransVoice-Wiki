@@ -99,14 +99,14 @@ Although it's useful to talk about formant values numerically at times, **this i
 
 **This entry is only in regard to where the term "vocal size" is used as just "size"** or if people **intuitively try to make their voices "smaller"** because they have not had actual guidance or the proper knowledge yet, and without understanding that it is not a literal physical property. Size, or *vocal size* is a perceptual quality of voice, similar to how vocal weight is perceptual.
 
-If we try to make our voices *smaller* without the proper knowledge or exercises, it will *almost always* result in constriction and if not false fold constriction then primary **muscle tension dysphonia** - where extraneous muscles are tensed. However, this risk only applies to people who *see the term spoken about* but **do not see any actual resources**. Normally, constriction is warned against, but not all people are warned before intuitively attempting resonance modifications.
+If we try to make our voices *smaller* without the proper knowledge or exercises, it will *almost always* result in constriction and if not false fold constriction then extraneous **muscle tension** and fatigue habits. However, this risk only applies to people who *see the term "size" spoken about* but **do not see any actual resources**. Normally, constriction is warned against, but not all people are warned before intuitively attempting resonance modifications.
 
-**Do not tell people to make their voices smaller!** Instead, tell them to do an actual exercise which results in smaller vocal size, or tell them to change *vocal size* not just *size*. The risk imposed by the misunderstanding of the term will only really be felt when the term becomes ubiquitous.
+**Do not tell people to make their voices smaller!** Instead, tell them to do an actual exercise which results in smaller vocal size, or tell them to change *vocal size* not just *size*. The risk imposed by the misunderstanding of the term would only really be felt if the term were to become ubiquitous.
 
 **Alternatives**:
 - vocal size
 - resonance
-- vocal space, small / large
+- small / large vocal space
 
 ### Bright (in specific uses)
 
