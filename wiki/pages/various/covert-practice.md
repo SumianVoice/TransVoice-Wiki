@@ -40,7 +40,9 @@ Good for affecting:
 - speech patterns
 - mouth space resonance
 - microbehaviours
+
 Note:
+
 - should only be done for a few minutes a day
 - should only be quiet and light, not constricted
 - should be avoided if having FVF issues
