@@ -31,8 +31,12 @@ Here's a 32 second video explaining resonance:
 And here's a more in-depth video on it:
 {% include youtube.html id="v-resonance-intro" ytid="sxowishWgwI" yttitle="Introduction to how resonance works" %}
 
-## Exercises
+## Brighter Resonance
 To raise resonance in general, using a combination of modifications.
+<details closed markdown="block">
+<summary>
+Expand / Collapse
+</summary>
 
 ### Voiced Resonance Stepping
 In this exercise we start at a medium or high pitch, then:
@@ -71,18 +75,21 @@ This is a simple exercise to get what's called a macrovowel. A macrovowel is whe
 
 ### Big Dog Small Dog
 1. Imitate a big dog panting
-2. Try to imitate a smaller and smaller dog, raising the 'pitch' (it's not actually pitch) of the whisper
-3. Make a normal voiced sound (not a whisper) at a set pitch like 200hz or G3 or whatever you like
-  - avoid going too high in pitch
+2. Imitate a smaller and smaller dog, raising the whisper 'higher'
+  - you don't want a loud sound or an easy to hear sound; it should be very relaxed and unconstricted and free flowing
+3. Make the breath light and airy and free flowing if it isn't already
+  - the more the air is slowed down and restricted, the more constriction there will be
+4. Make a normal voiced "wa" sound (not a whisper) at a set pitch like 200hz / G3 or whatever pitch you want to speak at
+  - avoid going too high in pitch, or bring the voice down to your speaking level if you go too high
 
 Pitfalls:
 1. using FVF constriction to get louder breaths
-  - make it light and quiet but very airy, don't sacrifice airflow to make it quiet
+  - make it light and quiet but very airy, don't reduce airflow to make it quiet, make it very open and unrestricted
 2. raising pitch as well as resonance
-  - since they are usually linked, this is common, and it might be worth using the voiced resonance slides or steps exercise
+  - since they are usually linked, this is common, and it might be more worth using the voiced resonance slides or steps exercise if this happens
 
 ### Voiced Resonance Slide
-A voiced resonance slide can be difficult because we'll want to change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
+A voiced resonance slide can be difficult because we'll often change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
 
 With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
 
@@ -93,9 +100,33 @@ This is mostly for learning OPC
 
 Kyo Kya is a voiced resonance exercise where we start with low resonance on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
 
+</details>
+
+## Darker Resonance
+For making the voice darker and lowering resonance.
+
+<details closed markdown="block">
+<summary markdown="block">
+__**Expand / Collapse**__
+</summary>
+
+### Yawn
+Most people yawn with a dark low resonance and so this can be a good behavioral trigger.
+1. yawn like normal
+2. yawn again, maximising how dark the sound is
+
+### Macrovowel
+Macrovowel can help change mouth shape and space to get a darker sound. This works by having a dark vowel color the rest of your vowels. The goal is to have the mouth stay in mostly the same shape as the vowel, or even accentuate it.
+1. say "iii, speaking from iii" (like in happ**y**)
+  - as usual keep the mouth in the same shape as the iii throughout
+2. say "uhh, speaking from uhh"
+  - again make sure the mouth shape stays in the "uhh" shape
+3. try saying other words in order to generalise it
+
+</details>
 
 ## Formants
-Formants are areas of the voice that are highlighted because of the shape of the vocal tract. If a resonance is a property of the container, or space, then a formant is a property of the *sound*. There are three formants we really care about.
+Formants are frequencies of the voice that are highlighted because of the shape of the vocal tract. If a resonance is a property of the container, or space, then a formant is a property of the *sound*. There are two formants we really care about.
 
 0. First, and while it isn't a formant itself, F0. F0 is your pitch, and it's the fundamental frequency of your voice at any time.
 1. F1 is the lowest formant by frequency
@@ -127,7 +158,7 @@ The back of the mouth, the palatopharyngeal arch can constrict to become a tight
 Likewise, it can be expanded to lower resonance.
 
 ### Mouth Space
-By changing tension in a few places in the mouth we can achieve a brighter or darker sound. Imagine pulling the corners of the mouth back for an <b class="hlgreen">A</b> vowel like in <b class="hlgreen">HAD</b>, then keep the inward pressure from the cheeks but remove the expression. This when done properly with enough practice causes a fairly significant shift in brightness. A common way to achieve smaller mouth space is to use macrovowels to get the overall small shape and keep that decrease in space when speaking.
+By changing tension in a few places in the mouth we can achieve a brighter or darker sound. Imagine pulling the corners of the mouth back for an <b class="hlgreen">A</b> vowel like in <b class="hlgreen">HAD</b>, then keep the inward pressure from the cheeks but remove the expression. This when done properly with enough practice causes a fairly significant shift in brightness. A common way to achieve smaller mouth space is to use macrovowels to get the overall small or large shape and keep that chape and space when speaking.
 
 Large mouth space, dark:
 <audio controls> <source src="/audio/mouthspace-large.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>

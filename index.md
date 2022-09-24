@@ -12,14 +12,12 @@ This project was started by Sumi and Emma. This is an open resource so if you ha
 The main purpose of the collection is to provide approachable information and where possible, direction, so that people have what they need to at least get started on changing their voice. It's also designed to be used as a reference centre for if people need to provide context or help or definitions to people.
 Basically, we want something a beginner can use as a guide to change their voice, and a reference material for students and teachers, to be as complete as possible and open to new information. The information provided should be the best we have available, and as with all information, should be questioned and updated over time to reflect that.
 
-This resource is feminisation oriented, which means most of the resources assume you want to make your voice more feminine, but there are plenty of resources that are not specific to feminisation (such as [clarity](/wiki/pages/clarity)) and many of the exercises listed work in reverse with some minor alterations.
+This resource is still mostly feminisation oriented, which means most of the resources assume you want to make your voice more feminine, but there is work being done to make the resources mostly agnostic of your goals. There are also plenty of resources that are not specific to gendered voice but play a secondary part (such as [clarity](/wiki/pages/clarity)) and many of the exercises listed work in reverse with some minor alterations.
 
 Overall, the project aims to be an approachable yet informative source, and to be as complete as possible and open to new information. We want something a beginner can use as a guide to change their voice, and a reference material for students and teachers.
 
 ## What About Masculinisation Resources?
-There are no definitive plans to add masculinisation resources, but it is definitely possible, as long as the resources are still simple to use for both masculinisation and feminisation and doesn't add confusion. There's also potential for adding a new section specifically for masculinisation or splitting it into categories. This, if it happens will be a long term goal.
-
-There isn't a whole lot of information out there about masculinisation so this would be a good addition if it does end up happening.
+Masculinisation resources are in the works, and we would love more input. The format we want is that for each gendered component of voice, we have a "getting more of this" header and a "getting less of this" header. This way, it doesn't matter if you're masculinising or feminising your voice, you can access the resources relevant for that goal. 
 
 
 ## Contributors
@@ -44,6 +42,6 @@ Contact us or make a pull request.
 
 _I don't know how pull requests work_ - Sumi, 2022
 
-Pull requests are pretty easy. [Here's an article↗](https://opensource.com/article/19/7/create-pull-request-github) about making changes with a pull request.
+Pull requests are actually pretty easy. [Here's a slightly more complicated than it even needs to be article↗](https://opensource.com/article/19/7/create-pull-request-github) about making changes with a pull request. Essentially, fork the repo, clone it (download it), make a new branch, make changes on the new branch and then go to the wiki page and make a new pull request using that branch.
 
 If you seem to know what you're doing and don't want to impose your particular pedagogy onto the site, then we'll just give you permissions to modify and add pages.
