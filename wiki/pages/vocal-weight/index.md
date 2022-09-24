@@ -54,7 +54,7 @@ Here are some examples of vocal weight in action:
 Exercises for reducing vocal weight / achieving a lighter voice. This is geared toward feminisation vaguely, though how far you take each exercise is up to you!
 <details closed markdown="block">
 <summary>
-Expand / Collapse
+<u>Expand / Collapse</u>
 </summary>
 
 ### The "awww" Trigger
@@ -98,7 +98,7 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
 Exercises for getting a heavier vocal weight. These are masculinising, but can be applied in any degree to achieve masculine or androgynous vocal weight levels.
 <details closed markdown="block">
 <summary>
-Expand / Collapse
+<u>Expand / Collapse</u>
 </summary>
 
 ### Pitch Slide Vocal Weight 'Layering'
@@ -118,7 +118,7 @@ In this exercise we start at a neutral pitch and slide down, layering on progres
 Contains information about things like the vocal weight and closure relationship, things to avoid when training and so on.
 <details closed markdown="block">
 <summary>
-Expand / Collapse
+<u>Expand / Collapse</u>
 </summary>
 
 ### Vocal Weight and Airflow
