@@ -35,7 +35,7 @@ And here's a more in-depth video on it:
 To raise resonance in general, using a combination of modifications.
 <details closed markdown="block">
 <summary>
-Expand / Collapse
+<u>Expand / Collapse</u>
 </summary>
 
 ### Voiced Resonance Stepping
@@ -106,8 +106,8 @@ Kyo Kya is a voiced resonance exercise where we start with low resonance on "kyo
 For making the voice darker and lowering resonance.
 
 <details closed markdown="block">
-<summary markdown="block">
-__**Expand / Collapse**__
+<summary>
+<u>Expand / Collapse</u>
 </summary>
 
 ### Yawn
