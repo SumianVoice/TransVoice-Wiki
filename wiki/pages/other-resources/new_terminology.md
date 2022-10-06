@@ -17,17 +17,17 @@ has_children: false
 
 The following is a set of definitions for new, completely invented terminology.
 
-The goal of this document is to provide a static, **unchangeable base** for terminology which does not have significant connotations with human language and cannot be misunderstood *or have its definitions changed or muddied*.
+The goal of this document is to provide a static, **unchangeable base** for terminology which does not have significant connotations with human language and cannot be misunderstood or have its definitions changed or muddied.
 
 Goals of this project
 - to provide a timeless and **absolute** definition for voice terminology as a base
 - to remove connotations from voice terminology by not using existing words in human language
-- to prevent meaning from being _changed and misinterpreted_
+- to prevent meaning from being _changed or misinterpreted_
 - to, as a result of being exact and immutable, prevent disagreements about the meaning of words
 
 These are to be linked to this page if needed to be specific, in case someone claims to have a definition that does not fit these definitions. You may prefix the terms with `sts22-` such as `sts22-Welit` to provide an absolute reference to this document's definitions. Do not distribute modified versions of these definitions. Do not claim different definitions supercede these definitions.
 
-Any attempt to change these definitions should be responded to by linking to this page or providing the _original signed document_. There may exist at some time individuals who wish to change the definitions either to suit their own pedagogy or to make these terms *less useful* in order to replace them with their own definitions or sabotage voice resources. This is **fundamentally opposed to free access to voice resources** and highly immoral. Call this out if it ever happens (not that anyone would be that evil, of course). If you don't like these definitions or terms, **don't use them** and instead **leave them alone** for people who do find them useful to use.
+Any attempt to change these definitions should be responded to by linking to this page or providing the _original signed document_. If you don't like these definitions or terms, **don't use them** and instead **leave them alone** for people who do find them useful to use. Don't let people change them to fit their own pedagogy or pollute them simply because they don't like them! This sort of thing has happened a lot in the singing world and thus the concern for it happening in trans voice as well.
 
 ## IMPORTANT
 
