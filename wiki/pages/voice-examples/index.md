@@ -85,8 +85,8 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 Good for learning high pitch brightness and getting out of a low volume configuration.
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low w/ twang sometimes
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
+resonance      🎻 🟡 🟡 🟡 🟡 🟤 high w/ twang sometimes
 pitch          🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 ```
@@ -101,7 +101,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 <div>low volume</div>{: .label .label-grey }
 <div>high resonance</div>{: .label .label-red }
 
-Good for low volume brightness and a good entry level mimicry source.
+Good for low volume brightness and a good entry level mimicry source. Slightly breathy at times.
 
 ```
 vocal weight   🥁 🟡 🟤 🟤 🟤 🟤 very low
@@ -109,7 +109,7 @@ resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~300hz peaks)
 difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 ```
-{% include youtube.html id="v-jimena" ytid="lQWcnKb3BdI" start="89" %}
+{% include youtube.html id="v-jimena" ytid="eZqOHmWViUQ" start="55" %}
 <!--  -->
 
 <!--  -->
