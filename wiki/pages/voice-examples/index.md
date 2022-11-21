@@ -19,7 +19,7 @@ has_children: false
 ## ♀️ Feminine Voices
 </summary>
 
-### Drawing With Waffles
+### Drawing Wiff Waffles
 {: .d-inline-block }
 <div>dynamic</div>{: .label .label-green }
 <div>medium pitch</div>{: .label .label-yellow }
@@ -154,7 +154,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 {: .d-inline-block }
 <div>high pitch intonation</div>{: .label .label-red }
 <div>medium low vocal weight</div>{: .label .label-green }
-<div>🇳🇿 Australian accent</div>{: .label .label-blue }
+<div>🇦🇺 Australian accent</div>{: .label .label-blue }
 
 Good for super high intonation
 
