@@ -15,7 +15,7 @@ has_children: true
 
 ## Voice Feminisation
 To achieve a lighter, brighter and sweeter voice in general.
-<details closed markdown="block">
+<details open markdown="block">
 <summary>
 <u>Expand / Collapse</u>
 </summary>
