@@ -44,14 +44,6 @@ Discord server associated with the [r/TransVoice](http://reddit.com/r/transvoice
 
 Large, active voice community, no dedicated teachers.
 
-## Online vocal coach
-<span class="fs-2"> [join on Discord](https://discord.gg/2cst4Yr){: .btn .btn-green } </span>
-
-Server where Hearth (wellingtonofthejungle) and apprentice teacher Hazel teach
-- workshops every month
-- auditable/public lessons every week
-- offers private paid lessons
-
 ## Scientifically Augmented Voice
 <span class="fs-2"> [join on Discord](https://discord.gg/dbwrQMV){: .btn .btn-green } </span>
 

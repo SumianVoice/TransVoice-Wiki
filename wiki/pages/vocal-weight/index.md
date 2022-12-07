@@ -88,10 +88,6 @@ Yawning typically induces lower vocal weight so we can sometimes use this to our
 3. each time, go down to a higher pitch, working your way up to about 220hz or A3
 4. each time, make sure you check that when you go to higher resonance, it doesn't go too heavy
 
-### More info and general exercises
-
-{% include youtube.html id="v-slides-z" ytid="1PNnBRBfOVY" %}
-
 </details>
 
 ## Heavier Vocal Weight
