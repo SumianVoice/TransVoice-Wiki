@@ -98,7 +98,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - a perceptual quality of voice, which describes the total effect of all resonance modifications
 - doesn't include brightness
 
-### Brightness<sub>1</sub>
+### Brightness
 1. the amount of high frequency harmonic information in the voice
   - a perceptual quality caused by the amount of high frequency harmonic information
   - a high resonance voice can sound dark due to muting effects like nasality and breathiness
