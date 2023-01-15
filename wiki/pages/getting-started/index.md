@@ -72,7 +72,7 @@ If you're at this stage and you have any roughness in your voice, now's the time
 
 ## Get more [pitch range](/wiki/pages/pitch-range)
 - at first this means just using the voice at a higher pitch sometimes to stretch your range. Fatigue is normal, but strain is to be avoided. If tension in neck persists for more than a few seconds after stopping speech, then you should rest and reevaluate your methods
-- using [M2 and making it stronger](/wiki/pages/pitch-range/strong-m2) (sometimes called mix voice) is a good quick way to get tons of extra range
+- blending into m2/falsetto and making it sound more full
 - practice intonating progressively higher
 
 ## Start [mimicry](/wiki/pages/microbehaviours/mimicry) and learn [microbehaviours](/wiki/pages/microbehaviours)

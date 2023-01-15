@@ -32,4 +32,4 @@ Covers are anything that 'covers up' or disguises a part of a voice or acts to m
 Common covers:
 - nasality
 - tongue root retraction (stitch voice)
-- M2 or [TA deactivation](/wiki/pages/pitch-range/strong-m2.html#ta-deactivation)
+- M2 or too low weight

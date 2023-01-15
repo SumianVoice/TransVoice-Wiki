@@ -32,7 +32,7 @@ For **reducing** vocal weight, we can start low and heavy then go up in pitch, l
 
 For **adding** vocal weight, we can start moderately low, slide down letting the voice get heavier to the lowest note we can do before going into fry / M0. At this point, we can 'layer' on more vocal weight by going up again without letting the voice become lighter and repeat the process. It's important to not make the voice intentionally louder in this process, since we want vocal weight to naturally get heavier rather than going into pressed phonation.
 
-Another approach is to **hold a note** for a while, making it less strained / effortful over time. This helps with both vocal weight and just generally reducing the tendency to strain at that pitch. We can do different pitches or scale up or down. We can also listen out for signs of constriction or breathiness. Both have a noisy quality that interrupts the light, hollow, 'sinewave' type sound. These feel completely different so it's worth trying constricted and unconstricted humming to get a feel for the difference. Be careful not to slip into M2 or [vocal weight deactivation](/wiki/pages/pitch-range/strong-m2.html#vocal-weight-deactivation).
+Another approach is to **hold a note** for a while, making it less strained / effortful over time. This helps with both vocal weight and just generally reducing the tendency to strain at that pitch. We can do different pitches or scale up or down. We can also listen out for signs of constriction or breathiness. Both have a noisy quality that interrupts the light, hollow, 'sinewave' type sound. These feel completely different so it's worth trying constricted and unconstricted humming to get a feel for the difference.
 
 ## Whispering
 Good for affecting:

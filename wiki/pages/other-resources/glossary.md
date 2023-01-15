@@ -70,7 +70,7 @@ Below is a list of voice related words and the concepts relating to them, links 
 
 #### M2 - Falsetto / Head Voice
 - high pitch, often hollow register
-- can be made less hollow with [strong M2](/wiki/pages/pitch-range/strong-m2)
+- can be made less hollow with with slightly adding vocal weight
 
 #### M3
 - whistle register

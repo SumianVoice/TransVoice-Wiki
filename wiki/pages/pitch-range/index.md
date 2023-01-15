@@ -13,7 +13,6 @@ has_children: true
 </details>
 # Pitch Range
 ```
-placeholder: explains both m1 and m2 range expansion and the use of mixed/strong m2
+placeholder: explains both m1 and m2 range expansion and the use of mixed or M2 blending
 ```
 
-see strong M2

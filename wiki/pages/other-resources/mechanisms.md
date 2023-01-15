@@ -66,7 +66,7 @@ head voice
 M2 is a usually hollow, very high pitch register.
 - sometimes has a gap between folds / lack of closure
 - very high pitch
-- usually the TA muscles deactivate except in [strong m2](/wiki/pages/pitch-range/strong-m2) practice
+- the TA muscles deactivate somewhat
 - mostly just mucosa of the folds vibrates
 
 ![modal voice](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vocal_fold_falsett_animated.gif)
