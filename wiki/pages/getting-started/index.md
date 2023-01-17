@@ -21,6 +21,7 @@ To achieve a lighter, brighter and sweeter voice in general.
 </summary>
 
 Before we get into a typical plan for voice feminisation, let's get some things straight
+
 {: .spaced_list }
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
 - It's important to be aware at every stage of the possibility of falling into bad habits so be aware of what can go wrong in each exercise. You don't need to worry about it, just know that it *can* happen **and then it won't**.
