@@ -362,4 +362,12 @@ code {
   white-space: pre-wrap;
 }
 
+.spaced_list > li {
+  margin: 1em 0;
+  background-color:#3e3e4e;
+  border-radius: 20px;
+  padding: 10px;
+  list-style: none;
+}
+
 //
