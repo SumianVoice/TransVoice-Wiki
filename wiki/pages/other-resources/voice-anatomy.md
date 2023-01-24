@@ -47,7 +47,7 @@ This video is a really good resource for anatomy information. It's recommended t
 - **CT**: The cricothyroid muscle tilts the thyroid forward, increasing pitch.
 - **TA**: The thyroarytenoid muscles tilts the thyroid backward, decreasing pitch. (also responsible for heavier vocal weight(?))
 - The arytenoid muscles adduct (bring together) the vocal folds along with the lateral cricoarytenoid muscles.
-- The posterior cricoarytenoid muscles abduct (pull apart) the vocal folds, causing a breathy quality in voice.
+- The posterior cricoarytenoid muscles abduct (pull apart) the vocal folds. Note: these are only used for breathing, not speech.
 - The epiglottis helps encourage food and so on not to pass through the airway (but the vocal folds close as well when swallowing in order to be sure).
 - The lateral cricoarytenoid muscles adduct the folds
 
