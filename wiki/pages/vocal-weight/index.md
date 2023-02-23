@@ -14,15 +14,21 @@ has_children: false
 
 # Vocal Weight
 ## What is vocal weight?
-Vocal weight is a perceived quality of voice. It describes a heaviness or rumble that is present in most masculine voices. It's a substantial part of changing the gender of the voice and plays a role in pitch range too. Although it doesn't directly describe a physical modification, it does allude to one. It can be thought of as an educated guess at the amount of Vocal Fold Vibratory mass or "how much of the vocal folds is moving".
+Vocal weight is a perceived quality of voice. It describes a heaviness or rumble that is present in most masculine voices. It's a substantial part of changing the gender of the voice and plays a role in pitch range too. Although it doesn't directly describe a physical modification, it does allude to one. It can be thought of as an educated guess at the amount of Vocal Fold Vibratory Mass or "how much of the vocal folds is moving". 
 
-This is also referred to as:
+### Main notes
+- lighter vocal weight is considered more feminine, and heavier vocal weight is considered more masculine
+- heavy vocal weight is encouraged by low pitches and becomes more straining at high pitches
+- is a guess at the amount of the vocal folds that is vibrating
+- breathiness, unless we're making vocal weight heavier, is to be avoided
+
+This is also known as:
 - OQ/CQ open and closed quotient
 - vocal fold vibratory mass
 - thickness and thinness of the folds
 
 
-## How it works
+## Explanation
 It is essentially a way of describing the sound quality caused by the amount of mass with which the vocal folds interact. When we have more mass involved in the vibration of the vocal folds, we get a heavier, more rumbly sound. The muscles that control lowering pitch are largely thought to be responsible for this. When we have high vocal weight at a high pitch, it becomes difficult and effortful or even straining because these muscles are fighting against eachother. This means that high pitches that are relaxed are also most likely light in vocal weight. Breathiness - and some other usually undesired features - can hide this, which is why it's very important to avoid breathiness when training vocal weight.
 
 Under normal circumstances:
@@ -41,13 +47,6 @@ Here are some examples of vocal weight in action:
 
 {% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" yttitle="Examples Of Vocal Weight" %}
 
-
-## Summary
-1. vocal weight is a subjective estimate of how much of the vocal folds is vibrating
-2. heavy vocal weight is more masculine
-3. light vocal weight is more feminine
-4. vocal weight is connected to pitch, high pitches should usually be light or else they will be tense, low pitches tend to be heavier
-5. breathiness, unless we're making vocal weight heavier, is to be avoided 
 
 
 ## Lighter Vocal Weight
