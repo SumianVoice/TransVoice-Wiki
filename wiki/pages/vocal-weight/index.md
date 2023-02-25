@@ -71,8 +71,8 @@ The idea is to start speaking at whatever is your natural relaxed pitch, with a 
 - lean toward less airflow but moderately loud
 - going up in pitch should be extremely easy, suspiciously so; if not, spend more time letting it naturalise it here or start again
 - pitch naturalisation is called that because at each pitch, the voice sounds natural as if it's always been at this pitch and this is your "natural voice"
-{% include youtube.html id="v-low-weight-down" ytid="FrQQQLOmfrc" yttitle="Bringing Low vocal weight down in pitch" %}
-{% include youtube.html id="v-low-weight-down" ytid="x4O7hkC2zN8" yttitle="Bringing Low vocal weight down in pitch" %}
+{% include youtube.html id="v-pipmintro" ytid="FrQQQLOmfrc" yttitle="PIPM Intro" %}
+{% include youtube.html id="v-pipmexample" ytid="x4O7hkC2zN8" yttitle="Example of the pitch naturalisation exercise" %}
 
 
 ### The "awww" Trigger
