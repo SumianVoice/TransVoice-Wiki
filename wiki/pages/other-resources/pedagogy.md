@@ -13,7 +13,7 @@ has_children: false
 {:toc}
 </details>
 # Pedagogy
-Pedagogy is how we describe different methods, beliefs and attitudes towards teaching and learning. It could be what terms we use or which exercises we recommend or even the order in which we recommend them. It could be as fundamental as how vocal mechanisms physically work. This site aims to be fairly neutral. Additions to the site should stay consistent with that and the other resources.
+Pedagogy is how we describe different methods, beliefs and attitudes towards teaching and learning. It could be what terms we use or which exercises we recommend or even the order in which we recommend them. It could be as fundamental as how vocal mechanisms physically work. This site aims to be fairly neutral. Additions to the site should stay consistent with that and the other resources. The goal is to offer the most effective, varied and safe information.
 
 
 ## What is the pedagogy of the resources found here?
