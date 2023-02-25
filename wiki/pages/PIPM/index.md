@@ -58,8 +58,8 @@ The idea is to start speaking at whatever is your natural relaxed pitch, with a 
 - going up in pitch should be extremely easy, suspiciously so; if not, spend more time letting it naturalise it here or start again
 - pitch naturalisation is called that because at each pitch, the voice sounds natural as if it's always been at this pitch and this is your "natural voice"
 
-{% include youtube.html id="v-low-weight-down" ytid="FrQQQLOmfrc" yttitle="Bringing Low vocal weight down in pitch" %}
-{% include youtube.html id="v-low-weight-down" ytid="x4O7hkC2zN8" yttitle="Bringing Low vocal weight down in pitch" %}
+{% include youtube.html id="v-pipmintro" ytid="FrQQQLOmfrc" yttitle="PIPM Intro" %}
+{% include youtube.html id="v-pipmexample" ytid="x4O7hkC2zN8" yttitle="Example of the pitch naturalisation exercise" %}
 
 ### Pitch naturalisation at a set pitch
 This is slightly more advanced, so it is best to use it only if we either get stuck on the floating method, or have already achieved some changes through that exercise. This can also be used to bring a lighter voice down low in pitch for deep feminine voices, once enough skill is learned.
