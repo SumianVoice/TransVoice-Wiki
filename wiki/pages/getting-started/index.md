@@ -14,13 +14,14 @@ has_children: true
 
 
 ## Voice Feminisation
-To achieve a lighter, brighter and sweeter voice in general.
+To achieve a lighter, brighter and more feminine voice in general.
 <details open markdown="block">
 <summary>
 <u>Expand / Collapse</u>
 </summary>
 
-Before we get into a typical plan for voice feminisation, let's get some things straight
+# Introduction
+Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's  of voice training.
 
 {: .spaced_list }
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
@@ -41,7 +42,8 @@ Before we get into a typical plan for voice feminisation, let's get some things 
 # A typical plan
 Below is a typical plan assuming an average masculine voice trained to be feminine. This isn't always accurate because everyone is different but it can give some direction to start. Adjustments will likely and should be made based on personal circumstances. You can do any of these things at any time, it's more a generalisation. Often it's most effective to be trying several things while working on one main concept.
 
-## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch
+## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch using [pitch naturalisation](/wiki/pages/PIPM)
+- **PIPM** or Pitch Intuitive Practice Methodology is a good start; it can achieve better results than typical exercises if you don't yet have strong habits or issues
 - the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already
 - a relaxed high pitch will usually be light in vocal weight provided it isn't forced in some other way (i.e. breathiness)
 - using "awwww" as if talking to a cute puppy is a good behavioural trigger for getting light vocal weight
