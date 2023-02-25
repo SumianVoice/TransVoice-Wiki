@@ -21,7 +21,7 @@ To achieve a lighter, brighter and more feminine voice in general.
 </summary>
 
 # Introduction
-Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's  of voice training.
+Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. If you don't have existing habits, this should be far more effective and get better results than most other exercises. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's of voice training. 
 
 {: .spaced_list }
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
@@ -44,14 +44,13 @@ Below is a typical plan assuming an average masculine voice trained to be femini
 
 ## Lower [vocal weight](/wiki/pages/vocal-weight) and raise pitch using [pitch naturalisation](/wiki/pages/PIPM)
 - **PIPM** or Pitch Intuitive Practice Methodology is a good start; it can achieve better results than typical exercises if you don't yet have strong habits or issues
-- the recommendation is to start by lowering vocal weight. Getting to a higher pitch with lower weight makes a significant difference already
 - a relaxed high pitch will usually be light in vocal weight provided it isn't forced in some other way (i.e. breathiness)
 - using "awwww" as if talking to a cute puppy is a good behavioural trigger for getting light vocal weight
-- just sliding up to a higher pitch and then down half as far (e.g. C3 to C4 to G3) will help a lot with this
-- even just speaking at a slightly higher pitch than normal for a while will help, provided it is done naturally and not forced
+- just sliding up to a higher pitch and then down half as far (e.g. C3 to C4 to G3) will help a lot with this too
+- even just speaking at a slightly higher pitch than normal for a while will help, provided it is done naturally and not forced (see [pitch naturalisation](/wiki/pages/PIPM))
 - avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [M2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
 
-## Raise [resonance](/wiki/pages/resonance) as needed
+## Raise [resonance](/wiki/pages/resonance) and brighten as needed
 - try to think of resonance as just an **aspect of sound**, don't focus on physical aspects like raising the larynx except for context
 - people often raise their larynx (and thus, resonance) when going to a high pitch, so you might not even need to do this step
 - avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
