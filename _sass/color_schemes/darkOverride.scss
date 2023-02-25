@@ -25,9 +25,9 @@ $feedback-color: darken($sidebar-color, 3%);
 // ============================================================================
 // set nave borders to break up categories
 #site-nav > ul > li:nth-child(1),
+#site-nav > ul > li:nth-child(6),
 #site-nav > ul > li:nth-child(9),
-#site-nav > ul > li:nth-child(13),
-#site-nav > ul > li:nth-child(5) {
+#site-nav > ul > li:nth-child(13) {
   border-bottom: 5px dotted #504050;
   margin-bottom: 5px;
   padding-bottom: 5px;
