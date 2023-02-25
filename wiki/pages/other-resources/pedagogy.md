@@ -22,7 +22,7 @@ The way we vet resources is by asking these questions:
 1. does the method work and do what we claim it does most of the time and have a fairly long track record?
   * if yes:
 2. does it have risks of learning bad vocal health or behaviour?
-  * if yes, are there reliable methods of avoiding these risks that are simple and able to be done by complete beginners?
+  * if yes, are there reliable methods of avoiding these risks that are simple and able to be done by complete beginners, and is it unreasonable that someone would forgo these things or not be told about them?
     * if yes, we preface the method with how to avoid the risks, else we scrap it
 
 Essentially, we want information and methods that work, and as long as there aren't any risks associated with it, then that's useful information.
