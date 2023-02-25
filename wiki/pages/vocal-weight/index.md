@@ -56,6 +56,25 @@ Exercises for reducing vocal weight / achieving a lighter voice. This is geared 
 <u>Expand / Collapse</u>
 </summary>
 
+### [PIPM](/wiki/pages/PIPM) / Pitch Naturalisation
+
+See [the main page](/wiki/pages/PIPM) for a more detailed introduction and other exercises!
+
+The idea is to start speaking at whatever is your natural relaxed pitch, with a strong tone. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer and stay on the same note. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
+- speak at your relaxed, not-doing-anything pitch
+- make sure to start strong, possibly a little bit louder and heavier than normal
+- make **the last word of each phrase held longer** and monotone as it rests on the **base pitch** which helps keep the base pitch consistent
+- base pitch is the pitch your voice returns to after intonation, and it's what is raising the entire voice up to that "anchor"
+- once you feel comfortable here, let that last word and note float up a tiny bit, raising the whole voice
+- repeat, but don't push the pitch too high - the goal is to naturalize all of your range, not raise pitch
+- be extremely patient; if you rush or try too hard to control things, it won't work
+- lean toward less airflow but moderately loud
+- going up in pitch should be extremely easy, suspiciously so; if not, spend more time letting it naturalise it here or start again
+- pitch naturalisation is called that because at each pitch, the voice sounds natural as if it's always been at this pitch and this is your "natural voice"
+{% include youtube.html id="v-low-weight-down" ytid="FrQQQLOmfrc" yttitle="Bringing Low vocal weight down in pitch" %}
+{% include youtube.html id="v-low-weight-down" ytid="x4O7hkC2zN8" yttitle="Bringing Low vocal weight down in pitch" %}
+
+
 ### The "awww" Trigger
 There are some behavioural triggers that encourage light vocal weight. One of these is to say "awww" as if talking to a cute puppy. We can then pitch down to where we can speak more comfortably. We need to make sure the pitch is high enough to get lighter weight (200hz or higher, usually) and low enough that we can actually speak.
 

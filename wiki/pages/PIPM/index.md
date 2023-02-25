@@ -1,5 +1,5 @@
 ---
-title: PIPM
+title: PIPM Naturalisation
 nav_order: 3
 has_children: true
 ---
@@ -46,7 +46,7 @@ Glottal behavior is simply the small scale ways in which the voice is produced, 
 ### Pitch naturalization using pitch "floating"
 This is the main exercise, and should be the first one we do. It mostly preserves our speech patterns and clarity, while letting only the gendered aspects of our voice change.
 
-The idea is to start speaking at whatever is your natural relaxed pitch, with a strong tone. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer and stay on the same note. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel very comfortable here, let it float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
+The idea is to start speaking at whatever is your natural relaxed pitch, with a strong tone. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer and stay on the same note. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
 - speak at your relaxed, not-doing-anything pitch
 - make sure to start strong, possibly a little bit louder and heavier than normal
 - make **the last word of each phrase held longer** and monotone as it rests on the **base pitch** which helps keep the base pitch consistent
