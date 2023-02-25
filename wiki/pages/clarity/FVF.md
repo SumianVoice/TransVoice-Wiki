@@ -2,6 +2,7 @@
 title: FVF
 parent: Clarity
 nav_order: 1
+nav_exclude: true
 ---
 <details closed markdown="block">
   <summary>
