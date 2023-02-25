@@ -1,6 +1,6 @@
 ---
 title: PIPM
-nav_order: 0
+nav_order: 3
 has_children: true
 ---
 <details closed markdown="block">
@@ -19,11 +19,15 @@ A method for reducing vocal weight and achieving overall more consistent and cle
 Forget singular aspects such as vocal weight, resonance etc. The more you focus on one aspect and try to achieve it, the less this method will work. Be patient! Sometimes results are vague and don’t feel like you have control but there are results regardless, and if we focus on individual aspects or try to do much at all then we won’t get results. Your conscious mind will ruin it, so instead, let your voice naturally and automatically adjust and naturalise. The only parts that are consciously controlled are the very beginning and the times we change pitch intentionally, the rest should be on autopilot.
 
 ## How it works technically
-Ideally, how this method works shouldn't matter to any student; if we follow the rules of the exercises and do them to how they are described, we should get results without needing to consciously make changes, and getting results relies on not doing conscious control of the voice anyway, so read on only if with the understanding that this is background information, or skip this part.
-
+Ideally, how this method works shouldn't matter to any student; if we follow the rules of the exercises and do them to how they are described, we should get results without needing to consciously make changes, and getting results relies on not doing conscious control of the voice anyway, so read on only if with the understanding that this is background information, or skip this part:
+<details closed markdown="block">
+<summary>
+<u>Show / Hide</u>
+</summary>
 How it works is fairly simple. Our voices have certain conflations, meaning when you try to do X, you do Y as well. Sometimes these conflations are harmful, but sometimes they represent a natural balance of sorts. Pitch happens to be conflated positively with almost every aspect of voice feminization to a small degree, and our ability to modulate pitch without effort and without compromising other aspects represents a substantial portion of the skills and behaviors needed for voice feminisation and general vocal ability. The skills that are possible to learn through these methods can represent what normally takes years to develop through day to day practice.
 
 These skills once learned are useful at any pitch, meaning we can also achieve lower pitches while maintaining the feminine characteristics and other general skills we learned through these methods. It's important to note that pitch itself is mostly irrelevant to the "quality" or the gender of the voice. Instead it is a powerful tool to be used to make the changes we want. The goal is not to 'raise pitch', but to improve the voice at every pitch. Eventually, we might gain the skills needed to semi-consciously modify vocal weight, but this takes a very large amount of practice.
+</details>
 
 ## Goals
 Your goal is a sound! Only focus on “does this sound closer to my goal”. Physical feelings only happen when there's a problem such as constriction or pressing, so avoid trying to make physical movements; if we do, we'll expect sensations as feedback and make those happen even though that means adding tension or constriction. Singular aspects are mostly irrelevant unless we're troubleshooting some specific problem, so it's best to ignore things like "vocal weight" and "resonance" or any specific aspect of voice. Focus on vague ideas like "clarity" and "naturalization" instead which allow the subconscious to do the work for you. It's much better at this than your conscious mind will ever be!

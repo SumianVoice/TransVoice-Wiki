@@ -20,28 +20,28 @@ In a very basic matter of speaking, when people hear a voice they subconsciously
 # Effects of testosterone
 The primary effects of testosterone on the voice are:
 - slight elongation of the vocal tract
-- expansion of the oropharynx (mouth)
+- expansion of the oropharynx (mouth and top of throat)
 - expansion of the larynx and lengthening \[need verification\] of vocal folds (lowering in pitch)
-- slight thickening of the vocal fold ligament (vocal weight)
+- slight thickening of the vocal fold ligament (vocal fold mass which affects vocal weight)
 
 ## Typical features of feminine voices
 - low in vocal weight
 - high in resonance
 - bright, clear tone
 - high in pitch with a high pitch ceiling
-- use of M2 or mix for some things
-- high intonation range and frequency
-- lots of tempo changes through speech
+- use of M2 or mix for intonation and other speech features
+- high intonation range and frequency of inflection
+- more tempo changes through speech
 - pitch used as emphasis
 
 ## Typical features of masculine voices
 - heavy in vocal weight
 - low to medium in resonance
 - rumbly, heavy tone
-- sometimes dipping into M0/fry
+- some voices dipping into M0/fry at bottom of pitch range
 - low intonation range and very low intonation frequency
-- barely any tempo changes
-- weight used as emphasis
+- less tempo changes
+- weight and volume used as emphasis
 
 # Gendered factors
 In very (very) rough order of their effect on vocal gender (when isolated). In-exhaustive.

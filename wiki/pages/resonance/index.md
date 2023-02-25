@@ -14,14 +14,14 @@ has_children: false
 
 # Resonance
 ## What is Resonance
-The space in a container is it's internal volume, like the air in a pipe. Resonance is how sound is affected by the shape and amount of that space. We hear this quality as low and high resonance. A low resonance sound will seem darker and booming, where as a high resonance sound will be bright or even buzzy. Think of cartoon characters; a giant will have a booming, low resonance voice, whereas a goblin for example might have a high resonance voice.
+The space in a container is it's internal volume, like the air in a pipe. Resonance is how sound is affected by the shape and amount of that space. We hear this quality as low and high resonance or as brightness, which is the more perceptual equivalent. A low resonance sound will seem darker and booming, where as a high resonance sound will be bright or even buzzy in the extreme. Think of cartoon characters; a giant will have a booming, low resonance voice, whereas a goblin for example might have a high resonance voice.
 
 Low resonance sound:
 <audio controls> <source src="/audio/tone-highpitch-lowresonance.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 High resonance sound:
 <audio controls> <source src="/audio/tone-highpitch-highresonance.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
-Every space has resonance frequencies. When a sound passes through that space, frequencies in the sound near the resonance frequencies of that space are filtered to be louder. You can hear a resonance frequency when you blow air across the lip of a bottle. The more water (and thus less air) is in the bottle, the higher the whistle sound produced. Your vocal tract is similar to this, though much more complex of course.
+Every space has resonant frequencies. When a sound passes through that space, frequencies in the sound near the resonant frequencies of that space are filtered to be louder compared to the rest of the sound. You can hear a resonant frequency when you blow air across the lip of a bottle. The more water (and thus less air) in the bottle, the higher the whistle sound produced. Your vocal tract is similar to this fundamentally, though much more complex of course.
 
 However, this is all just context. It's best not to think about resonance as formants or physical space changes but just as how the voice sounds. We're much better equipped to change sound color than we are to change physical aspects of our vocal tract.
 
@@ -32,7 +32,7 @@ And here's a more in-depth video on it:
 {% include youtube.html id="v-resonance-intro" ytid="sxowishWgwI" yttitle="Introduction to how resonance works" %}
 
 ## Brighter Resonance
-To raise resonance in general, using a combination of modifications.
+To raise resonance and brighten the voice in general, using a combination of modifications.
 <details closed markdown="block">
 <summary>
 <u>Expand / Collapse</u>
@@ -40,65 +40,49 @@ To raise resonance in general, using a combination of modifications.
 
 ### Voiced Resonance Stepping
 In this exercise we start at a medium or high pitch, then:
-1. speak some words at neutral resonance
-2. speak the same words at low resonance
-3. speak the same words at high resonance
+- start at a low resonance yawn-like position and say a phrase or word like "one two three"
+- relax and go to a neutral, not trying position and say the same thing
+- get even brighter and say the same thing
+- go into speaking a passage or speak naturally, letting it go from a darker sound to become brighter over the course of speech
+- this will help you eventually "graduate" to being able to change resonance on the fly
 
 This helps avoid pitch conflation (going up in pitch when changing resonance) and might be more natural and less constricted for some people.
 
-Pitfalls:
+#### Pitfalls
 1. changing pitch too much
   - have a pause between each step, don't slide
   - picture the pitch when you speak
+2. going "buzzy" or overbright
+  - once you get to the brightest part, tone it back to a more balanced position
+  - **don't** smooth it over or add breathiness
 
 {% include youtube.html id="v-res-stepping" ytid="J3ttxDu--Zc" yttitle="The voiced resonance stepping exercise" %}
 
 ### Whispers
-We can just whisper a word over and over, and change how high or low it is. This isn't pitch, but it's the equivalent for unvoiced sounds. What we're changing is resonance, and the level of resonance defines the 'pitch' of the whisper (again it's not pitch, but for most people, this analogy makes sense). We can then - very importantly - make it light and unconstricted. Best practice is to stop at this point and use voiced resonance stepping, but we can also go into speech from this point if that's not giving results.
+We can just whisper a word over and over, and change how high or low it is. This isn't pitch, but it's the equivalent for unvoiced sounds. What we're changing is resonance, and the level of resonance defines the 'pitch' of the whisper (again it's not pitch, but for most people, this analogy makes sense). We go from a low, deep whisper to a higher whisper while repeating the word or phrase. We can then - very importantly - make it light and unconstricted. Best practice is to stop at this point and use voiced resonance stepping, but we can also go into speech from this point after a pause if that's not giving results, but use "la" instead of "ha".
 
-Pitfalls:
-1. FVF constriction
+#### Whisper for introduction to resonance
+- whisper a word, like "whisper"
+- make it lower and deeper
+- make it higher and higher
+- this should feel like normal breathing, so make sure it's not tense or constricted, but instead, light and airy
+- this can give you the basic ability to change resonance, and then you can use voiced resonance exercises to actually train it
+
+#### Vampire slides
+- make sure it's not constricted; more air and less sound is good. It should feel like normal breathing
+- once you're at the top, pause and then say voiced "wa" or "la"
+- the "la" and "wa" sounds reduce the roughness that could come in otherwise
+- avoid using this for going into speech, do voiced exercises (like stepping) instead
+
+#### Pitfalls
+1. constriction and tension
   - make the high resonance position light and airy
-  - alternatively, avoid going from unvoiced / whisper to voiced directly, instead go to the voiced resonance stepping exercise
+  - avoid going from unvoiced / whisper to voiced directly, instead go to the voiced resonance stepping exercise
+2. pitch conflation
+  - never do whisper based exercises on their own; do voiced ones at a set pitch immediately after
+  - this will help to reduce how much you change pitch when changing resonance and give you more range!
 
 {% include youtube.html id="v-whisper" ytid="asxOJaDI0wE" yttitle="Whisper slides for higher resonance range" %}
-
-### Speaking From 'iii'
-This is a simple exercise to get what's called a macrovowel. A macrovowel is when we keep the mouth in roughly the same shape as a vowel in order to have that vowel 'color' the rest of our speech. A dark vowel would be _uuu_ like in "boot", and a bright vowel would be either _.ae_ like in "hat" or in this case _iii_ as in "happ_y_". Although this doesn't have a _huge_ impact on overall resonance level (as in formants), it does have a quite noticeable impact on brightness.
-
-1. Say "uuu, speaking from uuu" and keep the mouth shape roughly in the "uuu" shape
-2. Say "iii, speaking from iii", stress the iii or eee sound and again, keep the mouth in roughly the "iii" shape
-3. Say a word at the end of each phrase to test brightness like "part" or "hi" or "apple"
-4. Apply it to a longer phrase by doing the exercise and then speaking the phrase
-
-{% include youtube.html id="v-speak-from-iii" ytid="qTsD9loplzM" yttitle="Macrovowel with 'iii speaking from iii'" %}
-
-### Big Dog Small Dog
-1. Imitate a big dog panting
-2. Imitate a smaller and smaller dog, raising the whisper 'higher'
-  - you don't want a loud sound or an easy to hear sound; it should be very relaxed and unconstricted and free flowing
-3. Make the breath light and airy and free flowing if it isn't already
-  - the more the air is slowed down and restricted, the more constriction there will be
-4. Make a normal voiced "wa" sound (not a whisper) at a set pitch like 200hz / G3 or whatever pitch you want to speak at
-  - avoid going too high in pitch, or bring the voice down to your speaking level if you go too high
-
-Pitfalls:
-1. using FVF constriction to get louder breaths
-  - make it light and quiet but very airy, don't reduce airflow to make it quiet, make it very open and unrestricted
-2. raising pitch as well as resonance
-  - since they are usually linked, this is common, and it might be more worth using the voiced resonance slides or steps exercise if this happens
-
-### Voiced Resonance Slide
-A voiced resonance slide can be difficult because we'll often change pitch as well. A reverse yawn can actually be a fairly good way to get an idea of how this happens. If we leave the pitch to do what it wants and then raise the larynx, pitch will raise too, probably by a lot.
-
-With more practice it is possible to change resonance without affecting pitch, and this can be very useful, since we would not need to stop speaking to redrill resonance.
-
-How to learn it is essentially to first do voiced resonance slides, and drag the pitch down without dropping the resonance, and then when some control is achieved, try and try again to change the resonance without moving pitch. Focus on keeping the pitch consistent.
-
-### Kyo Kya
-This is mostly for learning OPC
-
-Kyo Kya is a voiced resonance exercise where we start with low resonance on "kyo" and repeat the sound while raising the larynx, then when we can't add more larynx height, we go to "kya" and try to add OPC. Listen to OPC sounds in order to get an idea. Mimicking cartoon voices that have OPC in them can be a good way to learn the movement.
 
 </details>
 
@@ -121,7 +105,8 @@ Macrovowel can help change mouth shape and space to get a darker sound. This wor
   - as usual keep the mouth in the same shape as the iii throughout
 2. say "uhh, speaking from uhh"
   - again make sure the mouth shape stays in the "uhh" shape
-3. try saying other words in order to generalise it
+3. notice the smaller mouth shape in iii and the larger more lax mouth shape in uhh
+4. try saying other words in order to generalise it
 
 </details>
 
