@@ -38,6 +38,14 @@ body {
   background: $body-background-color;
 }
 
+// links and nav bar V shape
+a {
+  color: #e3cc83;
+}
+.nav-list .nav-list-item .nav-list-expander {
+  color: #785ab9;
+}
+
 // add background image to the top of the page
 #top {
   // background: rgba(60, 60, 70, 0.9);
