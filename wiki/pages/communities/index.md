@@ -22,7 +22,7 @@ This is of course not exhaustive! Help us fill this out and add more information
 The main maintainers of this site, open voice community run by Sumi
 - has events and practice sessions
 - anyone can teach or hold events there
-- server maintainer (Sumyjkl#7352) offers paid lessons and two free lessons a week randomly selected from an open pool
+- server maintainer (Sumi#7352) offers paid lessons and two free lessons a week randomly selected from an open pool
 - allows voice related advertising
 
 ## Scinguistics
@@ -42,7 +42,8 @@ Discord server associated with the [r/TransVoice](http://reddit.com/r/transvoice
 ## Voice Training Emporium
 <span class="fs-2"> [join on Discord](https://discord.gg/TZwMeg57jR){: .btn .btn-green } </span>
 
-Large, active voice community, no dedicated teachers.
+- large voice community
+- no dedicated teachers
 
 ## Scientifically Augmented Voice
 <span class="fs-2"> [join on Discord](https://discord.gg/dbwrQMV){: .btn .btn-green } </span>
@@ -70,6 +71,7 @@ Community server where Dusty Nebula teaches with apprentice teacher Finch.
 <span class="fs-2"> [join on Discord](https://discord.gg/KQFHYveFry){: .btn .btn-green } </span>
 
 - offers free and paid lessons
+- weekly free drop-in events on Sundays
 
 
 <!--  -->
