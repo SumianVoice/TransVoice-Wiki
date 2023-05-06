@@ -94,19 +94,29 @@ For making the voice darker and lowering resonance.
 <u>Expand / Collapse</u>
 </summary>
 
-### Yawn
-Most people yawn with a dark low resonance and so this can be a good behavioral trigger.
-1. yawn like normal
-2. yawn again, maximising how dark the sound is
+### uhh and iii
+- say "iii" as in happ**y** and notice the mouth is tight and the tongue is raised
+- say "uhh" and notice the mouth is slack, open and everything is "spread out"
+- this makes the mouth space a little bit larger and so reduces brightness
+- it also reduces sibilants (S sounds etc); if you have bright **sss**ibilant**sss** instead then it's a sign of small mouth space and is more feminine
+- you can then practice having this color the rest of your speech:
+  - say a phrase like "oak is strong" with the same sort of shape as the "uhh"
+  - say a phrase like "cats and dogs" with the "iii" shape
+  - notice the difference, then apply to general speech and notice how your mouth will be less "tight" when doing the darker "uhh" shape
+- be sure to keep the larynx in vaguely the same position, since otherwise you might drop the larynx instead of making a large mouth space!
 
-### Macrovowel
-Macrovowel can help change mouth shape and space to get a darker sound. This works by having a dark vowel color the rest of your vowels. The goal is to have the mouth stay in mostly the same shape as the vowel, or even accentuate it.
-1. say "iii, speaking from iii" (like in happ**y**)
-  - as usual keep the mouth in the same shape as the iii throughout
-2. say "uhh, speaking from uhh"
-  - again make sure the mouth shape stays in the "uhh" shape
-3. notice the smaller mouth shape in iii and the larger more lax mouth shape in uhh
-4. try saying other words in order to generalise it
+### Haah and Haww
+- say "haah" like normal, or bright
+- say "haww" and let it become darker (think halfway between hot and hoot, with a relaxed / slack mouth posture)
+- the more you keep the mouth in roughly this haww shape, the darker your overall speech will be
+- experiment with the extremes, try extremely dark haww and bright haah
+
+### Compare dark vowels with bright vowels
+- Bright: UK hack heat hut
+- Dark: UK hurt hoot goal
+- Bright: *Access is granted in this easy hack*
+- Dark: *Who hurt those old boots whose holes were sewn*
+- you can also do these mumbled and then overarticulated (hint: valley girl voice is usually overarticulated) to show small and large mouth space
 
 </details>
 

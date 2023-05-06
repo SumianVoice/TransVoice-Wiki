@@ -84,3 +84,27 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - put a beep sound at the beginning for timing if needed
 - practice speaking over it as it plays and also listening and copying
 </details>
+
+## Voice Masculinisation
+To achieve a heavier, darker and more masculine voice in general. (under construction)
+<details open markdown="block">
+<summary>
+<u>Expand / Collapse</u>
+</summary>
+
+## Expand your lower range
+- low pitch and heavy vocal weight are linked, and to achieve one you need the other
+- [Vocal Weight Layering slides](wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) are a good exercise to start with
+- avoid fry and pressed phonation, as they don't help but can sound lower in pitch
+
+## Develop a lower resonance and darker voice
+- mouth space is important, so look at some methods for that like [hah/haw](/wiki/pages/resonance/#haah-and-haww)
+- it may be needed to lower overall resonance too, not just mouth space; whispering high to low as a guide, or doing a yawn, can make that happen
+
+## Practice speech patterns
+- find an [example](/wiki/pages/voice-examples) of a voice you like
+- you don't need to be monotone to sound masculine, but you do need to keep the voice heavy if you do intonate
+- masculine voices typically have less intonation frequency, meaning they may intonate up once and let it slowly drop, rather than going up and down for every word (but, again it's not always the case)
+
+
+</details>
