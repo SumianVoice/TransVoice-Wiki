@@ -94,7 +94,7 @@ To achieve a heavier, darker and more masculine voice in general. (under constru
 
 ## Expand your lower range
 - low pitch and heavy vocal weight are linked, and to achieve one you need the other
-- [Vocal Weight Layering slides](wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) are a good exercise to start with
+- [Vocal Weight Layering slides](/wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) are a good exercise to start with
 - avoid fry and pressed phonation, as they don't help but can sound lower in pitch
 
 ## Develop a lower resonance and darker voice
