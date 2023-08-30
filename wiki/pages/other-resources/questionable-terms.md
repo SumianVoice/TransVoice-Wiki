@@ -41,11 +41,11 @@ Chest and head voice are often very confusing in the world of singing pedagogy a
 {: .d-inline-block }
 <div>polluted</div>{: .label .label-grey }
 
-Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy. The term is classically used to refer to male M2 of any kind that is not convincingly full, but has been more recently used for all light M2.
+Falsetto refers to a light and hollow M2 sound. The term is classically used to refer to "male head voice", but has been more recently used for all light M2. The description itself is useful as a reference to a hollow voice quality involving M2, but some who use it still define it as "male head voice".
 
 **Alternatives**:
 - M2
-- light M2
+- falsetto (where it is a known common definition)
 
 ### Buzziness (specific)
 
