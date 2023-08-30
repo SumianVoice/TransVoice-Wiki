@@ -54,7 +54,7 @@ Falsetto refers to a light M2 sound, often hollow and sometimes slightly breathy
 
 **This only applies to its use as an interchangeable term for vocal weight.**
 
-Although the term is usually a good description of a few sound qualities, and is useful for describing overfull bright voices, it is sometimes used as an interchangeable term pointing to vocal weight / vocal fold mass. There are other sounds that sound buzzy, such as hyperadduction, pressed M0 / fry, twang, some forms of constriction. If trying to make a voice less buzzy in an attempt to make it more feminine, we'll likely sacrifice clarity and brightness in exchange for a dark, smooth, breathy voice. It's even more dangerous to base practice on this term when it comes to masculinisation. If we assume vocal weight is what "buzzy" refers to, then we may become hyperadducted or add any number of other factors while chasing a "buzzy" sound.
+Although the term is usually a good description of a few sound qualities, and is useful for describing overfull bright voices, it is sometimes used as an interchangeable term pointing to vocal weight / vocal fold vibratory mass. There are other sounds that sound buzzy, such as hyperadduction, pressed M0 / fry, twang, some forms of constriction. If trying to make a voice less buzzy in an attempt to make it more feminine, we'll likely sacrifice clarity and brightness in exchange for a dark, smooth, breathy voice. It's even more dangerous to base practice on this term when it comes to masculinisation. If we assume vocal weight is what "buzzy" refers to, then we may become hyperadducted or add any number of other factors while chasing a "buzzy" sound.
 
 **Alternatives**:
 - heavy
