@@ -113,7 +113,9 @@ If we try to make our voices *smaller* without the proper knowledge or exercises
 {: .d-inline-block }
 <div>conflation</div>{: .label .label-white }
 
-**This is only in regard to its use as a description of resonance frequency / size regardless of other factors**. A voice that is high in resonance can sound dark, and a voice that is low in resonance can sound bright, so using it to describe level of resonance / size is going to miss those cases. Brightness is a multivariable sound quality that can come from many things.
+**This is only in regard to its use as a description of resonance frequency / size regardless of other factors**. A voice that is high in resonance can sound dark, and a voice that is low in resonance can sound bright, so using it to describe resonance directly is going to miss those cases. Brightness is a multivariable sound quality that can come from many things.
+
+Brightness is predominantly from resonance multiplied by tone clarity; closure for example. Just increasing closure or pressing will cause a brighter sound for any voice. Likewise, a voice can be made darker by becoming breathy. All of this can be achieved without changing resonance, e.g. through larynx height.
 
 **Alternatives**:
 - high / low resonance
