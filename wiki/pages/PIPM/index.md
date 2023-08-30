@@ -35,8 +35,8 @@ Your goal is a sound! Only focus on “does this sound closer to my goal”. Phy
 
 
 
-# Stage One
-In stage one we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
+# Tone
+In this we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
 
 Glottal behavior is simply the small scale ways in which the voice is produced, such as the clarity and lightness.
 
@@ -72,8 +72,8 @@ This is slightly more advanced, so it is best to use it only if we either get st
 - if you can let the intonation naturally go quite high, then you'll get a little more results faster but again don't 'try' to do so
 
 
-# Stage Two
-In stage two we focus on brightness. Brightness comes from many sources but the main source is that resonance and clarity interact to make a voice brighter. We can approach these things in a similar manner to the pitch naturalisation. If we get stuck, it may be necessary to do some basic resonance training just to get the ability to shift it at all first and then come back to this exercise, but it is worth attempting. If you've gone through the previous exercises and naturalised your voice to F3 or above, then this is a good time to try this exercise.
+# Brightness
+Brightness comes from many sources but the main source is that resonance and clarity interact to make a voice brighter. We can approach these things in a similar manner to the pitch naturalisation. If we get stuck, it may be necessary to do some basic resonance training just to get the ability to shift it at all first and then come back to this exercise, but it is worth attempting. If you've gone through the previous exercises and naturalised your voice to F3 or above, then this is a good time to try this exercise.
 ### Dark to bright naturalisation
 - start at a medium pitch with a deep, dark, yawn-like voice
 - speak a passage and let it adjust, becoming brighter
