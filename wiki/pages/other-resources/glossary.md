@@ -32,6 +32,11 @@ Below is a list of voice related words and the concepts relating to them, links 
 - the loudness of a voice
 - usually from airflow-closure more than vocal weight or pressed phonation
 
+### Quotient
+- measurement of how long it takes for the vocal folds to open vs how long it takes for them to close
+- used in research because it's objective and it's a good but not perfect correlation to vocal fold vibratory mass / vocal weight
+- usually measured using EGG / electroglottography
+
 ### Open Quotient
 - related to low [vocal weight](/wiki/pages/vocal-weight)
 - how long in each glottal cycle (each flap of the folds) the folds are opening

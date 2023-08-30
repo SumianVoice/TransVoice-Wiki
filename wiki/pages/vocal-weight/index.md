@@ -14,13 +14,14 @@ has_children: false
 
 # Vocal Weight
 ## What is vocal weight?
-Vocal weight is a perceived quality of voice. It describes a heaviness or rumble that is present in most masculine voices. It's a substantial part of changing the gender of the voice and plays a role in pitch range too. Although it doesn't directly describe a physical modification, it does allude to one. It can be thought of as an educated guess at the amount of Vocal Fold Vibratory Mass or "how much of the vocal folds is moving". 
+Vocal weight is a perceived quality of voice. It describes a heaviness or rumble that is present in most masculine voices. It's a substantial part of changing the gender of the voice and plays a role in pitch range too. Although it doesn't directly describe a physical modification, it does allude to one. It can be thought of as an educated guess at the amount of Vocal Fold Vibratory Mass or "how much of the vocal folds is moving".
 
 ### Main notes
 - lighter vocal weight is considered more feminine, and heavier vocal weight is considered more masculine
 - heavy vocal weight is encouraged by low pitches and becomes more straining at high pitches
 - is a guess at the amount of the vocal folds that is vibrating
 - breathiness, unless we're making vocal weight heavier, is to be avoided
+- higher airflow and pressure encourages more vocal weight
 
 This is also known as:
 - OQ/CQ open and closed quotient
@@ -35,13 +36,15 @@ Under normal circumstances:
 - High pitch + heavy vocal weight = tension and effort
 - High pitch, relaxed and non-breathy = probably light vocal weight
 
-Sliding up in pitch can encourage 'belting' or keeping high vocal weight, so it's important to stay relaxed and even let the voice transition into M2. Sliding down in pitch tends to release this somewhat, if we do it relaxed and semi-quietly. 
+If we raise pitch and it's extremely easy or feels exactly the same as any other voice we use, it's light. If we raise pitch and it feels like we need to push the voice to go higher, then it's heavy.
 
-For increasing vocal weight, we need to be careful to not go into [pressed phonation](/wiki/pages/various/hyperadduction). Generally the heaviest vocal weight we can do is going to be the lowest note we can do before we go into vocal fry. Lowering pitch tends to increase vocal weight, and so getting heavier often uses downward slides to the lowest note in order to slowly build up vocal weight. Sliding down slightly loudly but without high closure (so, staying normal or slightly breathy) will tend to increase vocal weight. Breathiness can be used provided we don't rely on it at any point or use it in a speaking voice. 
+Sliding up in pitch can encourage 'belting' or keeping high vocal weight, so it's important to stay relaxed and even let the voice transition into M2. Sliding down in pitch tends to release this somewhat, if we do it relaxed and semi-quietly.
+
+For increasing vocal weight, we need to be careful to not go into [pressed phonation](/wiki/pages/various/hyperadduction). Generally the heaviest vocal weight we can do is going to be the lowest note we can do before we go into vocal fry. Lowering pitch tends to increase vocal weight, and so getting heavier often uses downward slides to the lowest note in order to slowly build up vocal weight. Sliding down slightly loudly but without high closure (so, staying normal or slightly breathy) will tend to increase vocal weight. Breathiness can be used provided we don't rely on it at any point or use it in a speaking voice.
 
 ![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
 
-It's important however to be aware that pitch is not the only way to affect weight. You can isolate it and get low weight at a low pitch for example or high weight at a high pitch. This extra control is very useful - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
+It's important however to be aware that pitch is not the only way to affect weight. We can isolate it and get light weight at a low pitch for example or heavy weight at a high pitch. This extra control is very useful - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
 
 Here are some examples of vocal weight in action:
 
@@ -116,7 +119,7 @@ Exercises for getting a heavier vocal weight. These are masculinising, but can b
 </summary>
 
 ### Pitch Slide Vocal Weight 'Layering'
-In this exercise we start at a neutral pitch and slide down, layering on progressively heavier vocal weight. It's important as usual to avoid [hyperadduction](/wiki/pages/various/hyperadduction). 
+In this exercise we start at a neutral pitch and slide down, layering on progressively heavier vocal weight. It's important as usual to avoid [hyperadduction](/wiki/pages/various/hyperadduction).
 1. start at a neutral pitch saying a vowel like "ahh" or "iii"
 2. let the pitch fall down to the lowest note you can do comfortably
   - don't go into fry; fry sounds like a series of 'pops' and is somewhat rough
