@@ -56,9 +56,10 @@ Community server where Savvy teaches.
 ## Fluid Voice Studio
 <span class="fs-2"> [join on Discord](https://discord.gg/ThrvmTy24q){: .btn .btn-green } </span>
 
-Community server where Dusty Nebula teaches with apprentice teacher Finch.
-- offers workshops/group lessons
-- offers private paid lessons
+A volunteer-run educational support space focused on voice modification.
+- affiliate studio offers private paid lessons
+- the discord server is dedicated to peer support and mutual aid
+- fosters a safe learning environment for plural, neurodivergent and gender non-conforming students
 
 ## Adi's Nook
 <span class="fs-2"> [join on Discord](https://discord.gg/GSvbGGp2eR){: .btn .btn-green } </span>
