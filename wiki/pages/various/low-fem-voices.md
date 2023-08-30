@@ -13,14 +13,15 @@ nav_exclude: false
 1. TOC
 {:toc}
 </details>
+
 # How to do Low Fem Voices
 ## Why low pitch is difficult
-While pitch is not a gendered factor there are several hurdles to overcome in order to achieve a low pitch feminine voice.
+While pitch itself is not a gendered factor there are several things that are conflated with it that we need to control to achieve a low pitch feminine voice.
 ## Vocal weight
 Vocal weight is much harder to keep light at a low pitch. To achieve a low pitch feminine voice, we need a very high level of control over vocal weight.
 This can be done by slowly creeping the pitch down while keeping an eye on the vocal weight.
 
-It's best to do this in smooth steps, so start at 200hz, slide down to 180 and speak, then slide down to 160 and speak, then 140 and then 120. It's important to speak at each step because a solid tone like _"aaaa"_ can sound ambiguous, but speech contains much more intricacy.
+It's best to do this in smooth steps, so start at 200hz, slide down to 180 and speak, then slide down to 160 and speak, then 140 and then 120. It's important to speak at each step because a solid tone like _"aaaa"_ can sound ambiguous, but speech contains much more intricacy and will be more obvious if we were to get heavier.
 
 Bringing low vocal weight down in pitch:
 {% include youtube.html id="v-low-weight-down" ytid="OHxwSAAnj-Q" %}
