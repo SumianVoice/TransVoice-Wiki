@@ -31,10 +31,10 @@ This is an evolving document like most of the site, so we're always looking for 
 - often used to raise the larynx
 - risks extreme constriction of muscles not associated with phonation including [FVF](/wiki/pages/clarity/FVF)
 - strain, loss of vocal control, loss of [closure](/wiki/pages/clarity/breathiness), pain can result
-- recommended by some very old resources and occasionally SLPs
+- was recommended by some very old resources and occasionally SLPs
 
 **To avoid risks**:
-- don't do it at all
+- don't do it at all, ever
 - swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
 
 ### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
