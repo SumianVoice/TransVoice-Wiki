@@ -20,13 +20,18 @@ Below is a list of voice related words and the concepts relating to them, links 
 </summary>
 ### Glottal Behaviour
 - covers all behaviours to do with phonation / sound production
-- vocal weight, pitch, closure, FVF, subglottal pressure, onsets, and microbehaviours are all under this umbrella
+- vocal weight, pitch, closure, FVF, subglottal pressure, onsets, and even some microbehaviours are all under this umbrella
 - a catch all term for how the voice is produced and how 'cleanly' it is produced
-- has a lot to do with [clarity](/wiki/pages/clarity) and tone purity / [HNR](#harmonic-to-noise-ratio-hnr)
+- has a lot to do with [clarity](/wiki/pages/clarity) and tone purity or [HNR](#harmonic-to-noise-ratio-hnr)
 
 ### [Vocal Weight](/wiki/pages/vocal-weight)
 - how 'heavy' the voice sounds
 - doesn't take into account volume, pressed phonation, breathiness
+- Vocal Fold Vibratory Mass is likely the underlying cause of the sound
+
+### Vocal Fold Vibratory Mass (VFVM)
+- how much of the vocal folds are actually vibrating during phonation
+- when more vibratory mass is involved, we get more surface area creating sound waves, and likely this will increase closed quotient
 
 ### Volume
 - the loudness of a voice
@@ -83,8 +88,8 @@ Below is a list of voice related words and the concepts relating to them, links 
 ### TA Muscles
 The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
 - thyroarytenoid muscles, running the length of the vocal folds
-- more activation = more weight and then we typically go into pressed phonation when pushed too far (but this isn't from TA)
-- can make M2 sound more full and be more stable and bright rather than the "too thin" or hollow quality M2 often has
+- more activation ~= more weight
+- can make M2 sound more full and be more stable and bright rather than the "too thin" or hollow quality M2 often has, when used with sufficient closure
 - can help with more general (not breath specifically) support to the voice to make it more robust
 - can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
 - a component of "shouting posture"
@@ -94,6 +99,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 ## Resonance Related
 </summary>
 ### [Resonance](/wiki/pages/resonance)
+- is a filter, which highlights frequencies in the voice
 - changes the timbre or non-pitch qualities of a voice
 - is dependent on the size and shape of the vocal tract
 - the size of a container is its external volume, space is the internal volume and resonance is how sound is affected by the volume and shape of that space
@@ -101,7 +107,6 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 ### Vocal Size
 - **[do not](/wiki/pages/other-resources/questionable-terms.html#size) try to change the size of your voice intuitively or without proper exercises / guidance** unless you know not to constrict or use extraneous muscles!
 - a perceptual quality of voice, which describes the total effect of all resonance modifications
-- doesn't include brightness
 
 ### Brightness
 1. the amount of high frequency harmonic information in the voice
@@ -124,7 +129,7 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 - keeping the mouth in the same position / posture as a certain vowel when speaking
 
 ### Microvowel
-- to modify individual vowels to be darker or brighter
+- to modify individual vowels to be darker or brighter without changing how the vowel is interpreted
 
 ### OPC, Oropharyngeal Closure
 - raises resonance by decreasing the width of the back of the mouth
@@ -158,6 +163,9 @@ The following is assuming TA muscle is the thing responsible for what we see, bu
 ### Subharmonics
 - rough quality similar to creak/fry
 - extra harmonics appear; one in between each harmonic, essentially making it as if the pitch was halved
+- this is due to every 2nd cycle of the vocal folds being interrupted
+- it's also possible for it to cancel out every 3rd cycle instead, leading to two extra harmonics instead of just one
+- theoretically there's no limit to the fraction of cycles interrupted as long as it's consistent
 - can be a sign of slight FVF constriction interfering
 - [on subharmonics](https://youtu.be/DbKJ2E7YCNg?t=274)
 
@@ -233,6 +241,12 @@ Primary sources of low Harmonic to Noise ratio:
 - more resonance fluctuation is more dynamic and sometimes sounds out of place
 - no resonance fluctuation can sound unnatural
 
+### Articulation
+- how and how much the mouth moves in order to form vowel sounds
+- under vs overarticulated can sound like the difference between "uh muh guhd" and "ouw maiy gaud"
+- this can be used to emphasize things, or for generally making the voice more expressive
+- since it deals with how the mouth moving, a subset of this is mouth space as a resonance and brightness modifier
+
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
@@ -268,5 +282,6 @@ Primary sources of low Harmonic to Noise ratio:
 ### AES/Aryepiglottic Sphincter
 - associated with twang
 - when the epiglottis is moved to make the passage in the throat smaller and cause a high frequency filter
+- it being responsible for twang is contested, but generally high closure plus AES constriction does result in the twang sound quality
 </details>
 <!-- ======================================================================================================= -->
