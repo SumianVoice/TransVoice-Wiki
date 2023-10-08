@@ -57,6 +57,11 @@ Below is a list of voice related words and the concepts relating to them, links 
 ### Pitch
 - the fundamental (F0) frequency of the voice
 
+### Base Pitch
+- the pitch a voice naturally returns to after intonation
+- defined by vocal weight / fold mass due to the connection between fold mass and pitch
+- the common return to point or anchor or home position for a voice
+
 ### Phonate
 - verb: to produce a tone / pitch by making the vocal folds vibrate
 - requires both closure (adduction) and airflow
