@@ -236,7 +236,7 @@ resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
 ```
-{% include youtube.html id="v-pikat" ytid="IjVd6VdJf2M" start="8017" %}
+{% include youtube.html id="v-pikat" ytid="q-30doxX9Yo" start="0" %}
 <!--  -->
 
 <!--  -->
