@@ -205,24 +205,6 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
 <!--  -->
 
 <!--  -->
-### Mijinko
-{: .d-inline-block }
-<div>hyperfem</div>{: .label .label-green }
-<div>ludicrous</div>{: .label .label-blue }
-<div>absolutely insane resonance</div>{: .label .label-red }
-
-Ridiculous hyperfem trained afab voice
-
-```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 quite low
-resonance      🎻 🟡 🟡 🟡 🟡 🟡 very high (1200hz F1 /a/)
-pitch          🎵 🟡 🟡 🟡 🟡 🟤 very high (230 - 500hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟡 ridiculous hard
-```
-{% include youtube.html id="v-mijinko" ytid="PUbMSqi7F68" %}
-<!--  -->
-
-<!--  -->
 ### pikat
 {: .d-inline-block }
 <div>low pitch</div>{: .label .label-red }
