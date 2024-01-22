@@ -132,7 +132,7 @@ In this exercise we start at a neutral pitch and slide down, layering on progres
 
 
 ## Other Info
-Contains information about things like the vocal weight and closure relationship, things to avoid when training and so on.
+Contains information about things like the vocal weight and [closure](/wiki/pages/clarity/breathiness.html#breathiness) relationship, things to avoid when training and so on.
 <details closed markdown="block">
 <summary>
 <u>Expand / Collapse</u>
@@ -141,12 +141,12 @@ Contains information about things like the vocal weight and closure relationship
 ### Vocal Weight and Airflow
 Higher vocal weight requires more subglottal pressure, but not more airflow. This can seem a little counter intuitive, but we can increase air pressure without increasing airflow, since that airflow pressure is resisted by the folds. This extra resistance by the folds is what allows them to vibrate with more mass. If the airflow skipped over the folds, then they wouldn't have the energy to move in the high vocal fold mass configuration.
 - more vocal weight requires more pressure but not airflow
-- you can get louder without increasing airflow by adding vocal weight and pressure
-- pressed phonation ([hyperadduction](/wiki/pages/various/hyperadduction)) is another example of adding force to the folds to get a louder sound
+- you can get louder without increasing weight or pressure by using higher [closure](/wiki/pages/clarity/breathiness.html#breathiness)
+- pressed phonation ([hyperadduction](/wiki/pages/various/hyperadduction)) is when you add too much [closure](/wiki/pages/clarity/breathiness.html#breathiness), getting to harmful levels
 
 
 ### Closure Relationship
-Adding more closure, like in yelling (loud at a high pitch) or barking (loud at a low pitch) does not necessarily add weight. Often, we hear more adduction like in [hyperadduction](/wiki/pages/various/hyperadduction) as _heavier_ when it's actually just louder. It's important to be careful not to assume that because a sound is more buzzy or louder, that it is from vocal weight.
+Adding more [closure](/wiki/pages/clarity/breathiness.html#breathiness), like in yelling (loud at a high pitch) or barking (loud at a low pitch) does not necessarily add weight. Often, we hear more adduction like in [hyperadduction](/wiki/pages/various/hyperadduction) as _heavier_ when it's actually just louder. It's important to be careful not to assume that because a sound is more buzzy or louder, that it is from vocal weight.
 
 
 ### Things vocal weight is not
@@ -190,7 +190,7 @@ These are very much generalisations and might not be accurate in everyone's case
 A lot of people conflate the volume of our speech with vocal weight. Vocal weight is louder, but that doesn't mean all loud things are high in vocal weight. Yelling or shouting (rather than just speaking loudly) typically induces three things:
 
 * raise in pitch
-* increased airflow (and increased closure to balance)
+* increased airflow (and increased [closure](/wiki/pages/clarity/breathiness.html#breathiness) to balance)
 * increased vocal weight
 
 These can be isolated or removed from the equation. You can get loud without going up in pitch, or without increasing airflow or any combination. Some people go quiet when trying to achieve low vocal weight and then never learn control over it properly. It's important to 'stretch' in every direction (within reason) and to avoid relying on something for our voice to work!
