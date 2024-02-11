@@ -21,8 +21,8 @@ Forget singular aspects such as vocal weight, resonance etc. The more you focus 
 ## How it works technically
 Ideally, how this method works shouldn't matter to any student; if we follow the rules of the exercises and do them to how they are described, we should get results without needing to consciously make changes, and getting results relies on not doing conscious control of the voice anyway, so read on only if with the understanding that this is background information, or skip this part:
 <details closed markdown="block">
-<summary>
-<u>Show / Hide</u>
+<summary markdown="block">
+## Expand / Collapse
 </summary>
 How it works is fairly simple. Our voices have certain conflations, meaning when you try to do X, you do Y as well. Sometimes these conflations are harmful, but sometimes they represent a natural balance of sorts. Pitch happens to be conflated positively with almost every aspect of voice feminization to a small degree, and our ability to modulate pitch without effort and without compromising other aspects represents a substantial portion of the skills and behaviors needed for voice feminisation and general vocal ability. The skills that are possible to learn through these methods can represent what normally takes years to develop through day to day practice.
 

@@ -16,12 +16,12 @@ has_children: true
 ## Voice Feminisation
 To achieve a lighter, brighter and more feminine voice in general.
 <details open markdown="block">
-<summary>
-<u>Expand / Collapse</u>
+<summary markdown="block">
+## Expand / Collapse
 </summary>
 
 # Introduction
-Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. If you don't have existing habits, this should be far more effective and get better results than most other exercises. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's of voice training. 
+Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. If you don't have existing habits, this should be far more effective and get better results than most other exercises. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's of voice training.
 
 {: .spaced_list }
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.
@@ -88,8 +88,8 @@ If you're at this stage and you have any roughness in your voice, now's the time
 ## Voice Masculinisation
 To achieve a heavier, darker and more masculine voice in general. (under construction)
 <details open markdown="block">
-<summary>
-<u>Expand / Collapse</u>
+<summary markdown="block">
+## Expand / Collapse
 </summary>
 
 ## Expand your lower range
