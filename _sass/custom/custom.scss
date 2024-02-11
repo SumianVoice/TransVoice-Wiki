@@ -216,12 +216,26 @@ h5, .text-epsilon {
   vertical-align: text-bottom;
 }
 
+
+details {
+  background: #33333e50;
+  border-radius: 10px;
+  margin: 0 -20px;
+  padding: 6px 20px;
+}
+summary > * {
+  margin: 0 8px;
+  padding: 0px;
+  text-decoration-line: underline;
+}
+
+
 // rules for when p is wrapped with <summary>
 
 summary > p {
   display: inline-block;
   width: 100%;
-  margin-top: 1.5em !important;
+  // margin-top: 1.5em !important;
 }
 
 details > summary {
