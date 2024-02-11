@@ -35,7 +35,7 @@ And here's a more in-depth video on it:
 To raise resonance and brighten the voice in general, using a combination of modifications.
 <details closed markdown="block">
 <summary>
-<u>## Expand / Collapse</u>
+<u>Expand / Collapse</u>
 </summary>
 
 ### Voiced Resonance Stepping
@@ -91,7 +91,7 @@ For making the voice darker and lowering resonance.
 
 <details closed markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 
 ### uhh and iii

@@ -17,7 +17,7 @@ has_children: true
 To achieve a lighter, brighter and more feminine voice in general.
 <details open markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 
 # Introduction
@@ -89,7 +89,7 @@ If you're at this stage and you have any roughness in your voice, now's the time
 To achieve a heavier, darker and more masculine voice in general. (under construction)
 <details open markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 
 ## Expand your lower range

@@ -18,7 +18,7 @@ While usually unnecessary to train our voices, being aware of the physical chang
 # Sam Webster's video
 <details open markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 This video is a really good resource for anatomy information. It's recommended to watch the entire thing if you wish to know more about the anatomy of the voice. This is only about the larynx mind you. There are some notes and bookmarks below.
 <p align="left">

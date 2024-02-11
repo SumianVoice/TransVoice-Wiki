@@ -216,6 +216,47 @@ h5, .text-epsilon {
   vertical-align: text-bottom;
 }
 
+// rules for when p is wrapped with <summary>
+
+summary > p {
+  display: inline-block;
+  width: 100%;
+  margin-top: 1.5em !important;
+}
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none
+}
+summary > p::after {
+  content: ' ►';
+  font-size:8px;
+  margin-left:3px;
+  vertical-align: middle;
+  display:inline-block;
+}
+details[open] summary > p::after {
+  content: " ▼";
+}
+@media (min-width: 50rem) {
+  summary > p::after {
+    display:none;
+  }
+  summary > p::before {
+    content: ' ►';
+    margin-left:-20px;
+    font-size:10px;
+    width:14px;
+    vertical-align: middle;
+    display:inline-block;
+  }
+  details[open] summary > p::before {
+    content: " ▼";
+  }
+}
+
 // rules for when h2 is wrapped with <summary>
 
 summary > h2 {

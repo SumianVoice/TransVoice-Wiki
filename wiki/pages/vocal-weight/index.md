@@ -56,7 +56,7 @@ Here are some examples of vocal weight in action:
 Exercises for reducing vocal weight / achieving a lighter voice. This is geared toward feminisation vaguely, though how far you take each exercise is up to you!
 <details closed markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 
 ### [PIPM](/wiki/pages/PIPM) / Pitch Naturalisation
@@ -135,7 +135,7 @@ In this exercise we start at a neutral pitch and slide down, layering on progres
 Contains information about things like the vocal weight and [closure](/wiki/pages/clarity/breathiness.html#breathiness) relationship, things to avoid when training and so on.
 <details closed markdown="block">
 <summary markdown="block">
-## Expand / Collapse
+Expand / Collapse
 </summary>
 
 ### Vocal Weight and Airflow
