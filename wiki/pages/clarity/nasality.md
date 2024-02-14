@@ -23,8 +23,11 @@ Non-nasal:
 Nasal:
 <audio controls> <source src="/audio/nasality-with.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
-## Checking Nasality
-The main method of checking for nasality is to say a non nasal phrase (one without any N or M or NG sounds) with and then without the nose pinched. If there's a difference, there is nasality. The degree of nasality is how "honky" the sound is when we pinch the nose to block the airflow. We can then reduce the honky-ness intuitively or use other methods.
+# Hyp**er**nasality
+This is when the voice lets air through the nose even when it's not doing nasal sounds like N, M, NG. This makes the voice "dull" because some of the resonance features of it are now missing.
+
+## Testing Hyp**er**nasality
+The main method of checking for nasality is to say a non nasal phrase (one without any N or M or NG sounds) without and then with the nose pinched. If there's a difference, there is nasality. The degree of nasality is how "honky" the sound is when we pinch the nose. We can then reduce the honky-ness intuitively or use other methods.
 
 ### Non Nasal Phrases
 - Pick up the crate, be careful of the glass.
@@ -32,17 +35,32 @@ The main method of checking for nasality is to say a non nasal phrase (one witho
 - That black cat attacked the plastic bag.
 - The elevator stopped for us at the third floor.
 
+## Exercises
+Practice nasality and check it
+- say a ?non-nasal phrase
+- e.g. "pick up the crate but be careful of the glass"
+- pinch your nose and say it again
+- the amount it is different by is how much hyp**er**nasality is in the voice
+- you can try to breathe through the nose or mouth to force it to be nasal or non-nasal as well
+- breathing out through the mouth and trying to hum at the same time is a good way to get nasality
+- a breathy sigh through the mouth can help getting non-nasal
+- get used to the difference in sound and feeling between the two and notice it as much as possible
+- notice the dull or muted quality of nasality and the brighter more open quality of non-nasal voice
+- practice making it more nasal and then less, both in normal voice and in the pinched nose state
 
-## Hyponasality
-If you've done the above nasality test and it sounds 'honky' both times, whether the nose is blocked or not, then there's a good chance that there's actually some hyponasality mixed with your body being in the nasal configuration. That means we need to change the configuration to not be nasal, but in the process we will need to remove the hyponasality if possible. If it's a blockage in the nose, this won't help, but we'll notice soon enough if that's the case, because we won't be able to hum lightly.
+## Testing hyp**er**nasality
+- say a non-nasal phrase
+- pinch the nose and say it again
+- if it sounds honky when pinched, we have hyp**er**nasality
 
-### Reducing Hyponasality
-**1.** Start breathing out of the nose, going into a hum
-**2.** From the hum open the mouth but don't push air out of the mouth yet - keep it going through the nose.
-**3.** We can then try the nasality test again (hold nose and speak non-nasal phrase) and it should be honky.
+# Hyp**o**nasality
+Hyponasality is when the voice cannot go through the nose. We can test that by saying a non-nasal phrase and then a nasal one. If it sounds like the nose is blocked in the nasal passage, we have some form of hyp**o**nasality. This can also come with hyp**er*nasality; it can be that we're letting air through the nose when we shouldn't, but then also the nose is blocking that air, so that all of the voice is honky / blocked.
 
-**4.** The next step is to try to reduce that honky sound with the nose pinched by slowly returning to having air go through the mouth instead of the nose.
-**5.** Go slightly breathy to push some air out of the mouth to get things started
-**6.** Then go back to non-breathy but keep it non nasal / not honky
+### Nasal Phrases
+- my momma makes lemon jam
 
-
+## Testing hyp**o**nasality
+- say a non-nasal phrase
+- say a nasal phrase
+- if only the nasal phrase sounds honky, we have hyponasality
+- if both sound honky, we have hyponasality and hypernasality simultaneously
