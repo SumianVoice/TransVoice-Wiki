@@ -12,7 +12,7 @@ has_children: true
 {:toc}
 </details>
 # Clarity
-Clarity is described as a multi-variable scale from clear and consistent to rough or noisy tone. For example, a voice with lots of abduction and FVF constriction is considered low in clarity, whereas a voice that is bright and FVF retracted or neutral is considered high in clarity. This concept overlaps a lot with harmonic to noise ratio.
+Clarity is described as a multi-variable scale from clear and consistent to rough or noisy tone. For example, a voice with lots of breathiness or creak is considered low in clarity, whereas a voice that has a clear tone is considered high in clarity. This concept overlaps a lot with harmonic to noise ratio.
 
 ## Harmonic to Noise Ratio
 Harmonic to Noise Ratio (HNR) is the description of essentially how noisy a voice is.
