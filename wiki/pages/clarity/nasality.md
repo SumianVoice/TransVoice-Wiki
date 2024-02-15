@@ -48,11 +48,6 @@ Practice nasality and check it
 - notice the dull or muted quality of nasality and the brighter more open quality of non-nasal voice
 - practice making it more nasal and then less, both in normal voice and in the pinched nose state
 
-## Testing hyp**er**nasality
-- say a non-nasal phrase
-- pinch the nose and say it again
-- if it sounds honky when pinched, we have hyp**er**nasality
-
 # Hyp**o**nasality
 Hyponasality is when the voice cannot go through the nose. We can test that by saying a non-nasal phrase and then a nasal one. If it sounds like the nose is blocked in the nasal passage, we have some form of hyp**o**nasality. This can also come with hyp**er*nasality; it can be that we're letting air through the nose when we shouldn't, but then also the nose is blocking that air, so that all of the voice is honky / blocked.
 
