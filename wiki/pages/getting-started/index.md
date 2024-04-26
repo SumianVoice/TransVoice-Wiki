@@ -98,7 +98,7 @@ Expand / Collapse
 - avoid fry and pressed phonation, as they don't help but can sound lower in pitch
 
 ## Develop a lower resonance and darker voice
-- mouth space is important, so look at some methods for that like [hah/haw](/wiki/pages/resonance/#haah-and-haww)
+- mouth space and articulation are extremely important, so look at some methods that focus on that like [hah/haw](/wiki/pages/resonance/#haah-and-haww)
 - it may be needed to lower overall resonance too, not just mouth space; whispering high to low as a guide, or doing a yawn, can make that happen
 
 ## Practice speech patterns
