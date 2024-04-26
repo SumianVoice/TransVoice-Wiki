@@ -74,7 +74,7 @@ If you're at this stage and you have any roughness in your voice, now's the time
 - intonation doesn't need to be super high, but it's worth practicing
 
 ## Get more [pitch range](/wiki/pages/pitch-range)
-- at first this means just using the voice at a higher pitch sometimes to stretch your range. Fatigue is normal, but strain is to be avoided. If tension in neck persists for more than a few seconds after stopping speech, then you should rest and reevaluate your methods
+- at first this means just using the voice at a slightly higher pitch sometimes to stretch your range over time. Fatigue or strain is to be avoided entirely; if you feel tension in the neck you are trying too hard or are too high
 - blending into m2/falsetto and making it sound more full
 - practice intonating progressively higher
 
