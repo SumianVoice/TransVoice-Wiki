@@ -6,7 +6,7 @@ logo: "/img/icon.png"
 color_scheme: darkOverride
 
 title: Voice Resource Project
-description: Resources for vocal feminisation
+description: Resources for transvoice students
 # baseurl: "wiki.sumianvoice.com" # the subpath of your site, e.g. /blog
 url: "https://wiki.sumianvoice.com" # the base hostname & protocol for your site, e.g. http://example.com
 
