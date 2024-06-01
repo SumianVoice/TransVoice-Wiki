@@ -33,7 +33,7 @@ Huge community with regular events
 - server maintainers offer paid lessons
 
 ## TransVoice
-<span class="fs-2"> [join on Discord](https://discord.gg/BPPMkDu){: .btn .btn-green } </span>
+<span class="fs-2"> [join on Discord](https://discord.gg/xhh7meUzXp){: .btn .btn-green } </span>
 
 Discord server associated with the [r/TransVoice](http://reddit.com/r/transvoice/) community.
 - fairly active community
