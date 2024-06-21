@@ -60,9 +60,9 @@ Below is a typical plan assuming an average masculine voice trained to be femini
 ## Clean up the voice
 If you're at this stage and you have any roughness in your voice, now's the time to sort it out. Going further will make it extremely difficult to unlearn later
 
-- reduce [breathiness](/wiki/pages/clarity/breathiness)
+- reduce any [breathiness](/wiki/pages/clarity/breathiness)
 - practice lighter onsets with glottal strikes
-- learn [FVF](/wiki/pages/clarity/FVF) retraction
+- reduce [FVF](/wiki/pages/clarity/FVF) or roughness if present
 - identify sources of tension and eliminate them
 - find or create your strategically lazy configuration
 
