@@ -21,7 +21,7 @@ Expand / Collapse
 </summary>
 
 # Introduction
-Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [PIPM](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. If you don't have existing habits, this should be far more effective and get better results than most other exercises. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's of voice training.
+Hi there! If you're new to voice feminisation voice training, the recommendation is to learn using [Pitch Naturalisation](/wiki/pages/PIPM), which is an intuitive method to get you the foundation and probably 70% of the skills and changes you will need to learn. If you don't have existing habits, this should be far more effective and get better results than most other exercises. Go take a look, try out the exercises and come back, or read on for some info about the do's and dont's of voice training.
 
 {: .spaced_list }
 - [Pitch is not that important!](pitch) Well, it's actually _really important_ but not in the way you might think. It's very useful for training, intonation and a few other things, but it's not a gender factor _in and of itself_.

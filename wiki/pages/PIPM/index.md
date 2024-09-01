@@ -1,7 +1,7 @@
 ---
 title: Pitch Naturalisation
-nav_order: 3
-has_children: false
+nav_order: 1
+has_children: true
 ---
 <details closed markdown="block">
   <summary>
@@ -12,7 +12,7 @@ has_children: false
 {:toc}
 </details>
 
-# Pitch Intuitive Practice Methodology
+# Pitch Naturalisation
 A method for reducing vocal weight and achieving overall more consistent and clear glottal behavior.
 
 ## Forget everything you know
@@ -30,12 +30,11 @@ These skills once learned are useful at any pitch, meaning we can also achieve l
 </details>
 
 ## Goals
-Your goal is a sound! Only focus on “does this sound closer to my goal”. Physical feelings only happen when there's a problem such as constriction or pressing, so avoid trying to make physical movements; if we do, we'll expect sensations as feedback and make those happen even though that means adding tension or constriction. Singular aspects are mostly irrelevant unless we're troubleshooting some specific problem, so it's best to ignore things like "vocal weight" and "resonance" or any specific aspect of voice. Focus on vague ideas like "clarity" and "naturalization" instead which allow the subconscious to do the work for you. It's much better at this than your conscious mind will ever be!
+Your goal is a sound! Only focus on “does this sound closer to my goal”. Physical feelings only happen when there's a problem such as constriction or pressing, so avoid trying to make physical movements; if we do, we'll expect sensations as feedback and make those happen even though that means adding tension or constriction. Instead, it should feel no different to your untrained voice except that it might vibrate throughout your body differently. Singular aspects are mostly irrelevant unless we're troubleshooting some specific problem, so it's best to ignore things like "vocal weight" and "resonance" or any specific aspect of voice. Focus on vague ideas like "clarity" and "naturalisation" instead which allow the subconscious to do the work for you. It's much better at this than your conscious mind will ever be!
 
 
 
-
-# Tone
+# Part One - Tone
 In this we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
 
 Glottal behavior is simply the small scale ways in which the voice is produced, such as the clarity and lightness.
@@ -43,10 +42,10 @@ Glottal behavior is simply the small scale ways in which the voice is produced, 
 
 ## Exercises
 
-### Pitch naturalization using pitch "floating"
+### Pitch Naturalisation using pitch "floating"
 This is the main exercise, and should be the first one we do. It mostly preserves our speech patterns and clarity, while letting only the gendered aspects of our voice change.
 
-The idea is to start speaking at whatever is your natural relaxed pitch, with a strong tone. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer and stay on the same note. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
+The idea is to start speaking at whatever is your natural relaxed pitch, with a slightly louder voice if possible. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer so it's easier to tell what the pitch is doing. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
 - speak at your relaxed, not-doing-anything pitch
 - make sure to start strong, possibly a little bit louder and heavier than normal
 - make **the last word of each phrase held longer** and monotone as it rests on the **base pitch** which helps keep the base pitch consistent
@@ -72,8 +71,8 @@ This is slightly more advanced, so it is best to use it only if we either get st
 - if you can let the intonation naturally go quite high, then you'll get a little more results faster but again don't 'try' to do so
 
 
-# Brightness
-Brightness comes from many sources but the main source is that resonance and clarity interact to make a voice brighter. We can approach these things in a similar manner to the pitch naturalisation. If we get stuck, it may be necessary to do some basic resonance training just to get the ability to shift it at all first and then come back to this exercise, but it is worth attempting. If you've gone through the previous exercises and naturalised your voice to F3 or above, then this is a good time to try this exercise.
+# Part Two - Brightness
+Brightness comes from many sources but the main source is that resonance and clarity interact to make a voice brighter. We can approach these things in a similar manner to the pitch naturalisation. If we get stuck, it may be necessary to do some basic [resonance](/wiki/pages/resonance) training just to get the ability to shift it at all first and then come back to this exercise, but it is worth attempting first. If you've gone through the previous exercises and naturalised your voice to F3 or above, then this is a good time to try this exercise.
 ### Dark to bright naturalisation
 - start at a medium pitch with a deep, dark, yawn-like voice
 - speak a passage and let it adjust, becoming brighter
