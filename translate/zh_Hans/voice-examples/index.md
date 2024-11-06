@@ -25,7 +25,7 @@ has_children: false
 <div>medium pitch</div>{: .label .label-yellow }
 <div>medium high resonance</div>{: .label .label-blue }
 
-Good for learning more varied speech patterns, and for training medium pitch brightness.
+适于训练多种语音模式，以及中声部的明亮音色。
 
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
