@@ -18,7 +18,7 @@ When normally speaking, the voice will raise for intonation and then eventually 
 Heavier vocal weight --> lower base pitch
 Lighter weight --> can maintain higher base pitch
 
-In other words, base pitch is the pitch the voice naturally returns to after intonation (inflection). If you draw out the last word in the following phrases, that will tell you your current base pitch, provided you do it "naturally" without forcing the voice to stay high.
+换句话说，基础音高便是在语调变化后声音会回归的那个原点。假如你将下列句子的最后一个字长读，你就能了解你目前的基础音高了（前提是你在“自然”地发声，而非刻意提高声音）。
 
 > Open the crate but don't break the *glass*.
 
