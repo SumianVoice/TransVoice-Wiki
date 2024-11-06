@@ -65,7 +65,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
 Perfect for learning a deep feminine voice at very (120hz) low pitch.
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
 resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
@@ -124,7 +124,7 @@ Good example of low resonance and pitch but maintaining feminine qualities and b
 
 ```
 vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium-low
+resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonation, ~340hz peaks)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 ```
@@ -196,7 +196,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
 Good for low pitch brightness and dynamic resonance and weight.
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium-high
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium with high intonation (140hz - 270hz, 350hz highs)
 difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
@@ -268,7 +268,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
+vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
 pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
@@ -286,7 +286,7 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 Bright, loud medium pitch voice with a fair bit of intonation range.
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
+vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 very low
 resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high - 900-1200 F1 (~1200 /æ/)
 pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 - 350hz)
 difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resonance)
