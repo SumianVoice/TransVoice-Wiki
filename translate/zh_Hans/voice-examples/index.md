@@ -1,22 +1,22 @@
 ---
-title: Voice Examples
+title: 语音样例
 nav_order: 18
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
 
-# Voice Examples
+# 语音样例
 
 <details open markdown="block">
 <summary markdown="block">
-## ♀️ Feminine Voices
+## ♀️ 女性化语音
 </summary>
 
 ### Drawing Wiff Waffles

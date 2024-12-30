@@ -1,7 +1,7 @@
 ---
-title: Big List of Stuff
+title: 杂项
 nav_order: 70
 has_children: true
 ---
 
-Contained within this category is everything that doesn't need to be in the main categories but is still useful information.
+此目录下包含各种主目录未涵盖，但仍有用的资讯。

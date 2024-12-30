@@ -1,46 +1,46 @@
 ---
-title: Pitch Naturalisation
+title: 音高自然化
 nav_order: 3
 has_children: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
 
-# Pitch Naturalisation
-A method for reducing vocal weight and achieving overall more consistent and clear glottal behavior.
+# 音高自然化
+一种用于减少声音重量并达到更加可持续的，清晰的声门发音技巧的方法。
 
-## Forget everything you know
+## 忘记你知道的一切
 Forget singular aspects such as vocal weight, resonance etc. The more you focus on one aspect and try to achieve it, the less this method will work. Be patient! Sometimes results are vague and don’t feel like you have control but there are results regardless, and if we focus on individual aspects or try to do much at all then we won’t get results. Your conscious mind will ruin it, so instead, let your voice naturally and automatically adjust and naturalise. The only parts that are consciously controlled are the very beginning and the times we change pitch intentionally, the rest should be on autopilot.
 
-## How it works technically
-Ideally, how this method works shouldn't matter to any student; if we follow the rules of the exercises and do them to how they are described, we should get results without needing to consciously make changes, and getting results relies on not doing conscious control of the voice anyway, so read on only if with the understanding that this is background information, or skip this part:
+## 工作原理
+理想情况下，这种方法如何运作对学习者来说并不重要；倘若我们遵循练习规则，并按描述来完成，我们理应在不需要刻意进行调整的情况下就得到练习效果，且练习的效果本就需要避免刻意控制声音, 所以请以将这一部分作为背景知识来了解，否则请跳过：
 <details closed markdown="block">
 <summary markdown="block">
-Expand / Collapse
+展开 / 收起
 </summary>
-How it works is fairly simple. Our voices have certain conflations, meaning when you try to do X, you do Y as well. Sometimes these conflations are harmful, but sometimes they represent a natural balance of sorts. Pitch happens to be conflated positively with almost every aspect of voice feminization to a small degree, and our ability to modulate pitch without effort and without compromising other aspects represents a substantial portion of the skills and behaviors needed for voice feminisation and general vocal ability. The skills that are possible to learn through these methods can represent what normally takes years to develop through day to day practice.
+工作原理十分简单。 我们的声音存在着复合性，或者说当你试图达到某个目的时，也会同时达成另一个目的。有时候这种复合性会影响我们, 但有时候也代表了某种层面上的自然平衡。 音高在声音女性化的几乎每个要点上都存在着少量的正向复合性， 且我们在不费力也不牺牲其他要点的前提下调节音高的能力代表了声音女性化与更广义的发声能力中非常关键的一项技能。通过这些方法习得的能力等效于在数年来通过每日的练习所取得的成果。
 
-These skills once learned are useful at any pitch, meaning we can also achieve lower pitches while maintaining the feminine characteristics and other general skills we learned through these methods. It's important to note that pitch itself is mostly irrelevant to the "quality" or the gender of the voice. Instead it is a powerful tool to be used to make the changes we want. The goal is not to 'raise pitch', but to improve the voice at every pitch. Eventually, we might gain the skills needed to semi-consciously modify vocal weight, but this takes a very large amount of practice.
+一旦学会，这些技能对任何音高都有帮助, 也就是说我们可以在较低的音高下维持女性化的声音特征以及我们通过这些方法习得的其他通用技能。需要格外注意的是音高本身对声音的“质量”以及性别影响甚微，却是可以用来达到我们想要的改变的有力工具。 我们的目标并非“提高音高”，而是在每种音高下改进声音。最终，我们可以获得在下意识中控制声音重量的能力，但这需要大量的练习。
 </details>
 
-## Goals
-Your goal is a sound! Only focus on “does this sound closer to my goal”. Physical feelings only happen when there's a problem such as constriction or pressing, so avoid trying to make physical movements; if we do, we'll expect sensations as feedback and make those happen even though that means adding tension or constriction. Instead, it should feel no different to your untrained voice except that it might vibrate throughout your body differently. Singular aspects are mostly irrelevant unless we're troubleshooting some specific problem, so it's best to ignore things like "vocal weight" and "resonance" or any specific aspect of voice. Focus on vague ideas like "clarity" and "naturalisation" instead which allow the subconscious to do the work for you. It's much better at this than your conscious mind will ever be!
+## 目标
+你的目标只是一种声音! 请致力于在 “这个声音是否与我的目标更相似”上努力。 物理上的不适感只在遇到收缩或受压迫等情况时发生，所以尽量减少物理动作；否则，我们会将这些感受当做一种反馈，并刻意促成这种感受，即使这会带来更多的紧绷感以及压缩感。 这种声音理应在物理感觉上与你未受训练的声音一致，除了对全身的振动有变。 个别要点在大部分时候不会造成影响，除非我们在排查一些具体的问题，所以最好忽略掉“声音重量”或是“共鸣”以及其他构成声音的要素。专心达成“清晰度”或是“自然化”等不那么具体的概念反而能让你的潜意识帮助你达成目标。 在声音训练上，你的潜意识比你的清醒意识要好用多了！
 
 
 
 # Part One - Tone
 In this we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
 
-Glottal behavior is simply the small scale ways in which the voice is produced, such as the clarity and lightness.
+声门行为指的仅仅是那些帮助发音的小技巧，如清晰度与明亮度。
 
 
-## Exercises
+## 练习
 
 ### Pitch Naturalisation using pitch "floating"
 This is the main exercise, and should be the first one we do. It mostly preserves our speech patterns and clarity, while letting only the gendered aspects of our voice change.

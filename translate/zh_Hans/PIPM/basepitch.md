@@ -12,24 +12,24 @@ nav_order: 2
 {:toc}
 </details>
 
-# Base Pitch
-When normally speaking, the voice will raise for intonation and then eventually come back down to rest on the same pitch over and over. This pitch the voice naturally wants to return to is called the Base Pitch, and is determined mostly by vocal weight. 
+# 基础音高
+当正常说话时，为了保持音调，嗓音会提高，而最后会降回来并反复停留在同一音高上。嗓音想要自然回到的音高称为基础音高，它主要由发声的轻重决定。 
 
-Heavier vocal weight --> lower base pitch
-Lighter weight --> can maintain higher base pitch
+较重的发声程度 --> 更低的音高
+较轻的发声程度 --> 可以保持较高的基础音高
 
 换句话说，基础音高便是在语调变化后声音会回归的那个原点。假如你将下列句子的最后一个字长读，你就能了解你目前的基础音高了（前提是你在“自然”地发声，而非刻意提高声音）。
 
-> Open the crate but don't break the *glass*.
+> 掀开盖子，但是注意不要打碎 *玻璃*。
 
-> Oak is strong and also gives *shade*.
+> 树木既坚韧，又能 *遮荫*。
 
 
 ![Base Pitch Example](/img/base_pitch.png)
 
 
-## Pitch Matching and Control
-If you find it hard to keep a base pitch, it might be that you don't have much awareness or control over pitch. Pitch matching is a good way to fix this, so be sure to use that if you get stuck. Not everyone *starts* with an ability to match and control pitch, but almost everyone can learn it, usually quite rapidly too.
+## 音高的匹配与控制
+如果你发现很难保持基本音高，那可能是因为你对音高没有太多的感知或控制。音高匹配是解决它的好办法，所以确保你在遇到困难时使用它。并不是每个人*在刚开始*都具备匹配和控制音高的能力，但几乎人人都能学会，并且通常学得很快。
 
 
 ## Exercises

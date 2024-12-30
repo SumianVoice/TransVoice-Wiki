@@ -1,8 +1,8 @@
 
-![siteimage](/img/site-image01.jpg)
+![站点内部图片](/img/site-image01.jpg)
 
 ## Voice Resource Project
-This project intends to provide as much actionable information about transvoice as possible, and act as a reference material.
+本项目旨在提供尽可能多的有关**跨儿语音训练**的训练方法与参考资料。
 
 Created 2022 03 09
 
@@ -34,33 +34,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一种轻量且易用的文本语法，包含：
 
 ```markdown
-Syntax highlighted code block
+带有语法高亮的代码块
 
-# Header 1
-## Header 2
-### Header 3
-#### This header is really small
+# 1 级标题
+## 2 级标题
+### 3 级标题
+#### 4 级标题（字体会非常小）
 
-- Bulleted
-- List
-* you can use * as well
+- 点状列表
+- 列表
+* 同样可以使用 *
 
-1. Numbered
-2. List
+1. 有序列表
+2. 无序列表
 
-**Bold** and _Italic_ and `Code` text
+**粗体** 、 _斜体_（不建议应用在中文） 以及 `代码`。
 
 codeblock
 with multiple lines
 can be added with three `backticks` either side.
 
-[Link](url) and ![Image](src)
+[超链接](url) 与 ![图片](src)
 
-<button>You can also add HTML inline</button>
-<p>...But most markdown **inside** will break</p>
+<button>您也可以添加 inline HTML</button>
+<p>...但其 **内部** 的大多数 markdown 将会被破坏</p>
 
 You can also give elements classes like:
 {: .someCSS-class .and-this-one-too }
@@ -71,10 +71,10 @@ Or <div class="something">
 
 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SumianVoice/Voice-Art-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+此 Pages 网站将使用 [repository settings](https://github.com/SumianVoice/Voice-Art-Project/settings/pages) 中选择的 Jekyll 布局和主题。主题的名称保存在 Jekyll `_config.yml` 配置文件中。
 
-### Support or Contact
+### 支持与联系我们
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+使用 Pages 时遇到问题？请查看Github的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [Github 客户服务](https://support.github.com/contact) 。
