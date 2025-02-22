@@ -1,5 +1,5 @@
 ---
-title: Clarity
+title: 清晰度
 nav_order: 7
 has_children: true
 ---
@@ -11,25 +11,25 @@ has_children: true
 1. TOC
 {:toc}
 </details>
-# Clarity
-Clarity is described as a multi-variable scale from clear and consistent to rough or noisy tone. For example, a voice with lots of breathiness or creak is considered low in clarity, whereas a voice that has a clear tone is considered high in clarity. This concept overlaps a lot with harmonic to noise ratio.
+# 清晰度（Clarity）
+清晰度是一个多变量的尺度，从清晰稳定到粗糙或嘈杂的音调。例如，带有大量气声或低频喉音的声音被认为清晰度较低，而音色清晰的声音则被认为清晰度较高。这个概念与谐噪比（Harmonic to Noise Ratio, HNR）很相似。
 
-## Harmonic to Noise Ratio
-Harmonic to Noise Ratio (HNR) is the description of essentially how noisy a voice is.
+## 谐噪比（Harmonic to Noise Ratio）
+谐噪比（HNR）主要用于描述声音的嘈杂程度。
 
-We have harmonics - which are the horizontal lines in the image - and then there's noise in between, either from constriction, [breathiness](/wiki/pages/clarity/breathiness.html) or a combination. You can see in the image how there is a clean looking pattern on the left, and a noisy one on the right. This can be called the 'clarity' of the voice, though it refers specifically to noise and not things like nasality or knodel (tongue root retraction) effects which might also make a voice sound 'out of place'.
+声音由谐波（harmonics）和噪声（noise）组成。谐波在频谱图上表现为水平线，而噪声则出现在谐波之间，可能由声门收缩、[气声](/wiki/pages/clarity/breathiness.html) 或其他因素引起。下图展示了左侧的清晰模式和右侧的嘈杂模式。这被称为声音的清晰度，但它主要指噪声成分，而不包括鼻音或舌根收缩（tongue root retraction）等影响音色的因素——这些可能会让声音有点怪。
 
-![HNR](/img/hnr.png)
+![谐噪比, HNR](/img/hnr.png)
 
-Primary sources of low Harmonic to Noise ratio:
-- abduction ([breathiness](/wiki/pages/clarity/breathiness.html))
-- [FVF](/wiki/pages/clarity/FVF.html) constriction
-- [vocal fry](/wiki/pages/other-resources/mechanisms.html#m0) and creak
+导致谐噪比低的主要原因：
+- 声门外展 ([气声](/wiki/pages/clarity/breathiness.html))
+- [假声带收缩 (FVF)](/wiki/pages/clarity/FVF.html) constriction
+- [低频喉音](/wiki/pages/other-resources/mechanisms.html#m0) 以及 喉音震颤 (creak)
 
-## Covers
-Covers are anything that 'covers up' or disguises a part of a voice or acts to modify the overall quality of the voice. An example is nasality.
+## 掩盖因素（Covers）
+掩盖因素指任何能掩盖、改变或伪装声音整体音质的因素。例如，鼻音就是一种掩盖因素。
 
-Common covers:
-- nasality
-- tongue root retraction (stitch voice)
-- M2 or too low weight
+常见的掩盖因素：
+- 鼻音（Nasality）
+- 舌根收缩（Stitch Voice）
+- M2（假声）或音重过低

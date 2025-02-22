@@ -1,5 +1,5 @@
 ---
-title: Pitch Range Expansion
+title: 音域扩展
 nav_order: 25
 has_children: true
 ---
@@ -11,7 +11,7 @@ has_children: true
 1. TOC
 {:toc}
 </details>
-# Pitch Range
+# 音域 (Pitch Range)
 ```
 placeholder: explains both m1 and m2 range expansion and the use of mixed or M2 blending
 ```

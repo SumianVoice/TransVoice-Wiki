@@ -1,5 +1,5 @@
 ---
-title: Covert Practice
+title: 隐蔽练习
 parent: Big List of Stuff
 nav_order: 2
 has_children: false
@@ -13,45 +13,45 @@ nav_exclude: false
 1. TOC
 {:toc}
 </details>
-# Covert Practice
-At times, we may be in an environment where we can't do all the usual exercises, but still want to work on our voice. Here are some alternatives that are either quiet or don't sound like we're changing vocal gender.
+# 隐蔽练习（Covert Practice，不引人注意的练习）
+有时，我们可能处于一个无法进行所有常规练习的环境，但仍然想要训练声音。这里是一些较安静的替代方案，或者听起来不会让人觉得我们在改变声音的性别表达。
 
-## Humming
-Good for affecting:
-- vocal weight
-- clarity  
-  - breathiness
-  - FVF constriction
-  - stability
-- pitch range
-- reducing strain
+## 哼鸣（Humming）
+会影响到：
+- 音重
+- 清晰度
+- 气息感
+- FVF（假声带）收缩
+- 稳定性
+- 音高范围
+- 降低声带紧张感
 
-In general, we can just replace a pitch slide with a humming pitch slide.
+通常，我们可以用哼鸣的音高滑动/滑音来替代普通的音高滑动/滑音。
 
-For **reducing** vocal weight, we can start low and heavy then go up in pitch, letting the voice become lighter. This can let us train vocal weight without doing so obviously.
+对于**降低音重**，我们可以从低沉、较重的声音开始，然后逐渐升高音高，让声音变得轻盈一些。这样可以训练音重而不会过于明显。
 
-For **adding** vocal weight, we can start moderately low, slide down letting the voice get heavier to the lowest note we can do before going into fry / M0. At this point, we can 'layer' on more vocal weight by going up again without letting the voice become lighter and repeat the process. It's important to not make the voice intentionally louder in this process, since we want vocal weight to naturally get heavier rather than going into pressed phonation.
+对于**增加音重**，我们可以从适度较低的音高开始，向下滑音，让声音变得更沉重，直到进入低频喉音（M0）之前的最低音。在这个点上，我们可以再次往上滑音，同时保持音重不变，并重复这个过程。过程中**不要刻意增加音量**，因为我们的目标是让音重自然增加，而不是进入紧张/受迫的发声模式。
 
-Another approach is to **hold a note** for a while, making it less strained / effortful over time. This helps with both vocal weight and just generally reducing the tendency to strain at that pitch. We can do different pitches or scale up or down. We can also listen out for signs of constriction or breathiness. Both have a noisy quality that interrupts the light, hollow, 'sinewave' type sound. These feel completely different so it's worth trying constricted and unconstricted humming to get a feel for the difference.
+另一种方法是 **保持一个音** 一段时间，使其逐渐变得不那么紧绷或费力。这不仅有助于调整音重，还能整体上减少在该音高上的紧张感。可以选择不同的音高或进行音阶练习。我们还可以留意声音是否有喉部收紧或气息过重的迹象，这两者都会产生噪音，破坏轻盈、空灵、接近「正弦波」的声音特质。这两种感觉完全不同，因此尝试对比收紧和放松的哼鸣（humming）有助于更好地理解差异。
 
-## Whispering
-Good for affecting:
-- larynx height / resonance
-- speech patterns
-- mouth space resonance
-- microbehaviours
+## 低语（Whispering）
+低语训练有助于调整：
+- 喉位 / 共鸣
+- 语音模式
+- 口腔共鸣
+- 微行为（microbehaviours）
 
-Note:
+注意事项：
 
-- should only be done for a few minutes a day
-- should only be quiet and light, not constricted
-- should be avoided if having FVF issues
+- 每天仅应练习几分钟
+- 低语时应轻柔且带有气息，而非紧绷或用力
+- 练习中避免假声带（FVF）问题
 
-This is great for speech patterns, mouth space and larynx height. It can be quite hard to change the gender of a whisper since it misses components like vocal weight, meaning we rely on other markers like speech patterns and different resonance components (i.e. mouth space) to gender the sound. It's likely we'll notice a huge difference in the sound of a normal voiced sound and a whisper, due to these factors.
+这对语音模式、口腔空间和喉位调整非常有帮助。由于低语缺少音重等成分，因此调整声音的性别特征会依赖于语音模式和不同的共鸣因素（如口腔空间）。受这些因素影响，我们很可能会注意到普通发声与低语之间存在明显的差异。
 
-Practically, we can just speak random words or read something, narrate what we're doing in order to practice this, and try to intuitively modify the gender of the voice. Sometimes this will mean raising the larynx or making the mouth smaller.
+在实际练习中，我们可以随意说一些词语、朗读文本，或者叙述自己正在做的事情，并尝试直觉性地调整声音的性别特征。有时，这可能意味着抬高喉位或缩小口腔空间。
 
-It's **very important** not to use this too much. Whispering engages the false folds slightly, and engages them more if we make the whisper louder. This is why it's important to use a quiet, light, airy whisper. Be careful not to restrict airflow to make it quieter. Another issue is that it will dry out the vocal folds. It's generally safe to whisper for *a few minutes a day* however, especially if we're doing so **quietly** by **retracting the false folds**. However, it does show a lot of really important qualities, so it's worth doing in small amounts.
+**低语训练不宜过度**。低语练习会轻微地激活假声带（FVF），如果低语音量增加，假声带的参与度也会提升。因此，练习时应保持安静、轻柔、带有空气感的低语，避免通过限制气流来降低音量。另外，低语会使声带干燥，因此一般来说，每天 *仅适量练习几分钟* 是安全的，尤其是在通过 **收回假声带**（retracting the false folds）来控制音量的情况下。然而，由于低语训练能展现许多关键的语音特性，因此适量练习仍然是值得的。
 
 
 

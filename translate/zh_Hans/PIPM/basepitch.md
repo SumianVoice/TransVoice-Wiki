@@ -1,5 +1,5 @@
 ---
-title: Base Pitch
+title: 基频音高
 parent: Pitch Naturalisation
 nav_order: 2
 ---
@@ -15,45 +15,45 @@ nav_order: 2
 # 基础音高
 当正常说话时，为了保持音调，嗓音会提高，而最后会降回来并反复停留在同一音高上。嗓音想要自然回到的音高称为基础音高，它主要由发声的轻重决定。 
 
-较重的发声程度 --> 更低的音高
-较轻的发声程度 --> 可以保持较高的基础音高
+较重的音重 --> 更低的音高
+较轻的音重 --> 可以保持较高的基频音高
 
 换句话说，基础音高便是在语调变化后声音会回归的那个原点。假如你将下列句子的最后一个字长读，你就能了解你目前的基础音高了（前提是你在“自然”地发声，而非刻意提高声音）。
 
-> 掀开盖子，但是注意不要打碎 *玻璃*。
+> Open the crate but don't break the *glass*.
 
-> 树木既坚韧，又能 *遮荫*。
+> Oak is strong and also gives *shade*.
 
 
-![Base Pitch Example](/img/base_pitch.png)
+![基频音高范例](/img/base_pitch.png)
 
 
 ## 音高的匹配与控制
 如果你发现很难保持基本音高，那可能是因为你对音高没有太多的感知或控制。音高匹配是解决它的好办法，所以确保你在遇到困难时使用它。并不是每个人*在刚开始*都具备匹配和控制音高的能力，但几乎人人都能学会，并且通常学得很快。
 
 
-## Exercises
-As in [Pitch Naturalisation](/wiki/pages/PIPM), we can use base pitch to change parts of the voice, notably [vocal weight](/wiki/pages/vocal-weight). Below are some methods to change the base pitch.
+## 练习
+就像在[音高自然化](/wiki/pages/PIPM)中一样, 我们可以通过基础音高部分改变声音, 尤其是 [音重](/wiki/pages/vocal-weight) 。下文将介绍一些改变基频音高的方法。
 
-### Intuitive base pitch
-This is the main method for changing the base pitch. Importantly, it isn't tightly controlled or forced; we need the voice to naturally want to stay here, and forcing it to do so will not achieve that.
-- base pitch is the pitch that you always come back down to after inflection / intonation; it's almost always the lowest note in speech
-- play the note or hum the note of where you want to speak
-- use a phrase that starts at the base pitch like "the north wind and the sun had a quarrel"
-- the voice will immediately go up for intonation and that's a good thing
-- when you intonate up and it starts coming down again, make sure it hits the base pitch
-- the more "hesitant" it is to fall down, the less likely it is to drop below the intended base pitch, so it's good to bias the voice higher in pitch for the intonation
-- gradually start to just speak naturally instead of control the pitch, but whenever your voice hits that base pitch, just notice that and draw attention to it
-- likewise pay attention to if your voice drops below the base pitch
-- you can also draw out the base pitch note longer if you need to (e.g. on "quarrel"), but prioritise just noticing it passively
-- eventually you'll memorise and keep the base pitch subconsciously without needing to drill for it
+### 直觉性基频音高
+这是改变基频音高的主要方法。其重点在于不进行刻意的控制或用力；我们需要声音自然而然的保持在一个音高，而刻意控制无法达到这种效果。
+- 基频音高是你的声音起伏波动后回到的音高；其几乎总是说话声中最低的音节。
+- 播放或是哼出你想要的说话时的音高
+- 使用一个从基础音高开始的句子来练习，比如"the north wind and the sun had a quarrel"
+- 在句子中，声音会立刻从基频音高开始提升，这对我们来说是好消息
+- 当你的声音提升后再度回落时，确保它落在基频音高上
+- 回落的过程越是“缓慢”，便越不易低于想要的基频音高，所以最好在声音起伏时让音高提升更多
+- 逐步开始不通过控制音高而是自然发声来进行训练，但当你的声音回落到基频音高时，要对其保持注意力
+- 同时，也要注意你的声音回落至低于基频音高的时候
+- 如有需要，你也可以延长基频音高的发音时间，但请优先练习被动注意基频音高
+- 最终，你能够记住并下意识保持基频音高，而非通过努力练习达到
 
-### Singing base pitch (contrived)
-This more or less "forces" a base pitch if you have trouble with the more intuitive methods. Keep in mind if the pitch is too high it will be straining and achieve nothing, so only use this for getting used to controlling the base pitch at all, not for doing a higher and higher pitch.
-- pick a pitch, and some other pitch that is a bit higher
-- say "one" at the high one, and "two" at the low one, as if singing those notes
-- say some phrase like `?crate` or `?northwind`, where it starts at the high note, and only at the very end comes down to the low note
-- e.g. "**[high]** open the crate but don't break the **[low]** glass"
-- this is very contrived of course but it can be made more natural by doing less of the "singing" quality
+### 吟唱式基频音高 (刻意)
+假如你在使用更加直觉性的训练方法时受挫，可以通过这种方式“强制”达到一个基频音高。 要注意在音高过高时这种方法会十分费嗓子并且毫无效果, 所以请只使用这种方法训练控制音高本身，而非达到越来越高的音高。
+- 选定一个音高，和一些其它较之更高的音高
+- 用更高的音高说 “one”，用更低的音高说 “two”， 就像唱出来两个音符
+- 说一些短语，像`?crate`和`?northwind`。这些短语从高音符开始，直到最后才回落至低音
+- e.g. "**[高音]** open the crate but don't break the **[低音]** glass"
+- 这种方法十分刻意，但是可以通过减弱“吟唱”的成分来变得更为自然
 
 <!-  -->

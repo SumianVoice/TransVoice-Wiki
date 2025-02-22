@@ -1,5 +1,5 @@
 ---
-title: Example Passages
+title: 示例文本段落
 parent: Big List of Stuff
 nav_order: 10
 has_children: false
@@ -13,16 +13,16 @@ nav_exclude: false
 1. TOC
 {:toc}
 </details>
-# Example Passages
-Here are some things to read! Getting actual conversation practice is important, but sometimes we just want a script to try things out during a practice.
+# 示例文本段落
+这里有一些可以朗读的内容！虽然实际的对话练习很重要，但有时我们只是想在练习时试着读一段文字。因原文基于英文，因而许多引用的段落翻译后可能会失去或减少练习效果。中文相关资料待研究、更新。
 
-You can benefit from reading any passage you like, but there are some passages that are better at helping us discover potential weakness than others.
+你可以阅读任何你喜欢的文字，但有些文字更适合帮助我们发现潜在的弱点。
 
-## Speech-like passages
-Speech-like passages are more realistic. These sound closer to something you might say when talking with a friend. They are helpful for testing intonation and other complex qualities of speech.
+## 近似口语的文本段落
+这些段落更接近现实对话，听起来更像你和朋友交流时可能会说的话。它们有助于测试语调以及其他复杂的语音特性。
 
 <details closed markdown="block"><summary markdown="block">
-### Speech-Like
+### 近似口语的文本
 </summary>
 
 1. Wait so they went anyway? I thought the weather was going to be bad so I cancelled it all on my end. How are they even going to get there aren't the bridges closed?
@@ -34,8 +34,8 @@ Speech-like passages are more realistic. These sound closer to something you mig
 7. Oh my god the dinner last night was so amazing! You had the tacos too right? That sauce on it was incredible I just want like 100 liters of the stuff so I can put it on everything.
 </details>
 
-## Non-speech-like passages
-These are read somewhat like a script, and as such are less speechlike.
+## 正式的文本
+这些文本更正式和书面语一些，因此不太口语化。
 
 <details closed markdown="block"><summary markdown="block">
 ### The rainbow passage
@@ -46,7 +46,7 @@ This passage is very common and useful for starting out. It's a good example of 
 </details>
 
 <details closed markdown="block"><summary markdown="block">
-### The crate passage
+### 短句
 </summary>
 
 The phrases in this passage are shorter, which can help when trying small modifications many times.
@@ -64,25 +64,25 @@ The phrases in this passage are shorter, which can help when trying small modifi
 
 <details closed markdown="block">
 <summary markdown="block">
-### Nasality Tests
+### 鼻音
 </summary>
-We can use these to test nasality. If we block the nose by pinching it and read the non-nasal passages, it should sound exactly the same as if we didn't block the nose.
+我们可以用这些测试鼻音。如果捏住鼻子朗读非鼻音段落，听起来应该与不捏鼻子时完全相同。
 
-**Non-nasal:**
+**非鼻音段落：**
 - Please take these glasses with the plates to be washed below the tap.
 - The sea was as rough as it was dark.
 - The lights of the city glowed brightly below us.
 - You could be surprised at that aspect of his character.
 
-**Nasal:**
+**鼻音段落：**
 - The wind blew strongly and bent trees over in a show of staggering natural strength.
 - Many, but not all plants, flower in spring.
 - She longed to dance beneath the moonlight.
 - Finding nothing in front they muttered to themselves about something inane.
 </details>
 
-## Weird passages
-These passages are fun, confusing, or just plain weird. You can use these if you'd like to spice up your practices!
+## 奇怪的文本
+这些段落有趣、令人困惑，或者只是单纯的奇怪。如果你想让练习更有趣，可以试试看！
 
 <details closed markdown="block"><summary markdown="block">
 ### Turbo Encabulator
@@ -100,6 +100,6 @@ These passages are fun, confusing, or just plain weird. You can use these if you
 > The turbo-encabulator has now reached a high level of development, and it’s being successfully used in the operation of novertrunnions. Moreover, whenever a forescent skor motion is required, it may also be employed in conjunction with a drawn reciprocation dingle arm, to reduce sinusoidal repleneration.
 </details>
 
-## Other resources
+## 其他资源
 
-- [Simple English Wikipedia](https://simple.wikipedia.org/wiki/Simple_English_Wikipedia) has many articles that might contain some interesting passages you can use.
+- [简单英语 (in English) - Wikipedia](https://simple.wikipedia.org/wiki/Simple_English_Wikipedia) 有很多文章可能包含一些您可以使用的有趣段落。

@@ -1,5 +1,5 @@
 ---
-title: How to do Low Fem Voices
+title: 发出低沉的女性化语音
 parent: Big List of Stuff
 nav_order: 8
 has_children: false
@@ -10,74 +10,74 @@ nav_exclude: false
     Table of contents
   </summary>
 {: .text-delta }
-1. TOC
+1. 目录
 {:toc}
 </details>
 
-# How to do Low Fem Voices
-## Why low pitch is difficult
-While pitch itself is not a gendered factor there are several things that are conflated with it that we need to control to achieve a low pitch feminine voice.
-## Vocal weight
-Vocal weight is much harder to keep light at a low pitch. To achieve a low pitch feminine voice, we need a very high level of control over vocal weight.
-This can be done by slowly creeping the pitch down while keeping an eye on the vocal weight.
+# 发出低沉的女性化语音
+## 为什么低音很难掌握
+虽然音高本身并不决定性别特征，但有几个与音高混淆的因素需要我们控制，才能实现低音女性嗓音。
+## 音重（Vocal weight）
+在低音情况下，保持声音轻盈要困难得多。为了做到低音女性语音，我们需要对音重有极高的控制能力。
+可以通过逐渐降低音高，同时注意保持音重来实现这一点。
 
-It's best to do this in smooth steps, so start at 200hz, slide down to 180 and speak, then slide down to 160 and speak, then 140 and then 120. It's important to speak at each step because a solid tone like _"aaaa"_ can sound ambiguous, but speech contains much more intricacy and will be more obvious if we were to get heavier.
+最好方法来练习是平稳地分阶段进行：比如从 200Hz 开始，下滑到 180Hz 说话，然后滑到 160Hz 说话，再降到 140Hz，最后到 120Hz。每个阶段都要进行基于文本或对话的说话练习，因为简单的音调（如_"啊啊啊啊"_）可能听起来不明确，而真正的语言中包含更多细节，能更明显地察觉到声音是否变重。
 
-Bringing low vocal weight down in pitch:
+降低你的低音的音重：
 {% include youtube.html id="v-low-weight-down" ytid="OHxwSAAnj-Q" %}
 
-With appropriate microbehaviours and general vocal control, vocal weight or resonance can be in the androgynous range and the voice will still sound feminine.
+通过适当的微行为（microbehaviours）和整体的语音控制，即使音重或共鸣处于中性范围，整体的语音仍然可以听起来更女性化。
 
-## Resonance
-Resonance is somewhat linked to pitch naturally, but it is often the case that when coming down to a low pitch, we go too low in resonance as well - the larynx drops down.
-A good way to combat this is to simply redrill resonance at the low pitch, and try to keep the larynx fairly high when dropping in pitch.
+## 共鸣（Resonance）
+共鸣在自然状态下与音高有一定联系，但在降低音高时，我们往往会使共鸣也降得太低 —— 因为喉头（larynx）会下降。
+应对这个情况的一个好方法是：在低音高情况下重新训练共鸣，并在降低音高时尽量保持喉头的位置较高。
 
-Redrilling at a low pitch can be difficult when doing an unvoiced resonance slide, as we have a tendency to raise in pitch (without _expressing_ a pitch) during the unvoiced slide, and then find that we are now back to a high pitch and need to slide down again. For this reason it can be best to redrill resonance voiced. Normally increasing resonance voiced is quite difficult so learning to do so at a medium pitch may be necessary.
+在进行无声共鸣滑音（unvoiced resonance slide）训练时，保持低音共鸣可能较难，因为我们往往会在滑动过程中不自觉地提高音高（即使没有真正_表达_出音高），然后发现自己又回到了较高音高，需要再次下滑。因此，最好在发声时练习共鸣。但由于在发声状态下增加共鸣本身就较难，或许可以先在中等音高上学习这一技巧。
 
-Another note is that some people link resonance with vocal weight as well, meaning that when we add resonance at a low pitch we're more likely to add vocal weight as well. Pay attention to vocal weight when raising pitch in order to combat this over the course of training.
+在进行无声共鸣滑动（unvoiced resonance slide）练习时，保持低音共鸣可能较难，因为我们往往会在滑动过程中不自觉地提高音高（即使没有真正_表达_出音高），然后发现自己又回到了较高音高，需要再次下滑。因此，最好在发声时练习共鸣。但由于在发声状态下增加共鸣本身就较难，或许可以先在中等音高上学习这一技巧。
 
-## Microbehaviours
-At a high pitch, things like microbehaviours and speech patterns are slightly less important because all the other large scale components of voice, like vocal weight and resonance are easier to maintain and somewhat cover up any inconsistencies. That is to say, a typically feminine low vocal weight high resonance voice at a high pitch with _masculine_ speech patterns and microbehaviours, and inconsistent glottal behaviours, will still pass as feminine. The more stress on the configuration we add, by going low in pitch or higher in vocal weight or lower in resonance, the more these features (like speech patterns and microbehaviours) matter.
+## 微行为（Microbehaviours）
+在高音时，微行为和语音模式的重要性较低，因为声音的其他主要组成部分（如音重和共鸣）较容易保持，并能掩盖一些瑕疵（如不一致之处）。也就是，一个典型的女性语音（即低声音重量、高共鸣、高音高），即使带有一些_男性化_的语音模式和微行为，甚至喉头控制不稳定，仍然能被认为是女性嗓音。但如果音高降低、音重增加或共鸣降低，语音模式和微行为的影响就会更加明显。
 
-In other words, while microbehaviours don't matter much in typically feminine voices, they _do_ matter a lot in atypical voices.
+换句话说，在典型女性嗓音中，微行为的影响不大，但在非典型嗓音中，微行为就至关重要。
 
-Learning to do a low pitch feminine voice or a high vocal weight one can actually help significantly with getting a more natural configuration, because we are forced to learn more feminine speech patterns and microbehaviours.
+学习低音女性语音 或 高音重的女性嗓音 实际上可以显著提高自然性，因为这样会迫使我们掌握更多女性化的语音模式和微行为。
 
 {% include youtube.html id="v-microbehaviours" ytid="gSr47pNAzeY" %}
 
-## Voice examples
+## 语音样例
 ### imawonder
-Really good for learning brightness despite a very low pitch
+非常适合学习如何在极低音高下保持明亮的语音
 
-very bright
+非常明亮
 {: .label .label-yellow }
-slightly heavy
+比较低沉
 {: .label .label-blue }
-low pitch
+低音高
 {: .label .label-red }
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500hz peaks)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
+音重   🥁 🟡 🟡 🟡 🟡 🟤 低沉
+共鸣      🎻 🟡 🟡 🟡 🟤 🟤 中高
+音高          🎵 🟡 🟡 🟤 🟤 🟤 低 （150Hz - 250Hz 语调变化，~500Hz 峰值）
+难度     💔 🟡 🟡 🟡 🟤 🟤 中等较难（明亮、震动感强、语调峰值高）
 ```
 {% include youtube.html id="v-imawonder" ytid="fmgoaFjsqt4?start=4409" %}
 
 ### Nurse
-Perfect for learning a deep feminine voice at very (120hz) low pitch.
+非常适合在极低音高（120Hz）下学习低沉女性化语音。
 
-very low pitch
+非常低的音高
 {: .label .label-red }
-smooth
+顺滑
 {: .label .label-blue }
-deep fem
+低沉的女性化语音
 {: .label .label-grey }
-low resonance
+低共鸣
 {: .label .label-blue }
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium heavy
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
-pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
+音重  🥁 🟡 🟡 🟡 🟤 🟤 中等偏低沉
+共鸣      🎻 🟡 🟡 🟡 🟡 🟤 中高
+音高          🎵 🟡 🟤 🟤 🟤 🟤 非常低(120 - 200hz)
+难度     💔 🟡 🟡 🟡 🟡 🟤 难（在极低音高下保持良好的喉头控制）
 ```
 {% include youtube.html id="v-nurse" ytid="3u6snmQNTRQ" %}

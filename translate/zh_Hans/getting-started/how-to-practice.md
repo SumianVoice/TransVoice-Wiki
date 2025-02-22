@@ -1,5 +1,5 @@
 ---
-title: How to Practice
+title: 练习方法
 parent: Getting Started
 nav_order: 10
 has_children: false
@@ -12,37 +12,37 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# How to Practice
-Training is a very _individual circumstance_ dependent thing, and some people might practice more or less, in different ways or be working on different things. Ask the question _"is what I'm doing in the direction of the the thing I want to be doing more of in the future"_. If the answer is yes, keep doing it.
+# 练习方法
+训练是一个高度依赖个人情况的过程，有些人可能练习的时间多一些或少一些，方式也各不相同，专注的内容也可能有所不同。问自己一个问题：「我正在做的事情是否朝着我未来想做更多的方向前进？」如果答案是肯定的，那就继续做下去。
 
-In general, focus on practice more than exercises. That is, don't spend all your time doing pitch slides or resonance exercises and not speaking. Fundamentally, speaking is what you want to be able to do, and you get good at the things you do. You don't get good at the things you don't do or avoid.
+总体而言，比起单纯做练习，更应注重实际的训练。也就是说，不要把所有时间都用在音高滑动/滑音（Pitch Slide）练习或共鸣（Resonance）练习上，而忽略了真正的发声。毕竟，你最终想要做的是说话，而你擅长的东西取决于你经常做的事情。
 
-Pay attention to the sound of your voice, listen back to recordings regularly, and listen to voices you like or are in the direction you want your own voice to go as often as possible.
+关注自己声音的音色，定期回听录音，并尽可能多地聆听你喜欢的声音，或是与你希望自己声音发展方向相近的声音。
 
-Practising more regularly for less time is sometimes ideal. Burnout can happen, and it's common to get stuck doing the same things and expecting different results. If something is consistently not working, it might be time to take a break and try something else.
+相比一次性练习很长时间，更频繁地进行短时间练习有时是更理想的选择。倦怠是可能发生的，而且很常见的情况是，人们会陷入重复做相同的事情却期待不同的结果。如果某个练习持续不起作用，可能是时候暂停一下，尝试其他方法了。
 
-## The fundamental laws of voice training
-1. The more you use a configuration the more consistent it will become
-2. The further you train a part of your voice, the more you will be able to let it rest almost as far as you trained it
-3. Almost everything is exploratory, and most of the rest is habit, so the more things you try to do, the more things you will be able to do
-4. The more you do something, the better you can do it and the more you will tend to do it subconsciously in future
-5. more effort means less results in most cases, so trying less hard is better
+## 声音训练的基本法则
+1. 你使用某种发声配置（configuration）的次数越多，它就会变得越稳定。
+2. 你训练某个声区的程度越深，它在放松时就能维持接近你训练过的状态。
+3. 几乎所有的训练都是探索性的，而剩下的大部分是习惯。因此，你尝试的东西越多，你能做到的事情也就越多。
+4. 你做某件事情的次数越多，你就能做得越好，并且未来你更可能会下意识地使用它。
+5. 在大多数情况下，越努力并不意味着越好的结果，所以放松一些，效果可能更佳
 
-So the most tenable strategy is:
+因此，最稳妥的策略是：
 
-1. Do practice in the direction of the things you want
-2. Develop things slightly past where you want them to be so they become comfortable where you want them to be
-3. Explore things in opposite directions to where you want to be, to get more mastery
+1. 进行朝着你想要目标的练习。
+2. 训练的程度略微超出你期望的水平，以便当你回到目标水平时能感到更舒适。
+3. 探索与你目标方向相反的声音，以获得更好的掌控力
 
-As well, there is this process which can be used to do more or less of a certain voice modification. This is particularly useful when other methods aren't working how we want or there are no exercises for something:
+此外，有一个方法可以帮助你在某种声音调整上做得更多或更少。当其他方法无法达到预期效果，或是针对某些特定问题没有合适的练习时，这个方法尤其有用：
 
-1. Try to do less of it
-2. Try to do more of it
-3. Try to isolate it so you don't change anything else
-4. Find a balance you like
+1. 试着减少某种声音特性。
+2. 试着增加这种声音特性。
+3. 试着将其隔离，以便不影响其他方面。
+4. 找到你喜欢的平衡点
 
-## Time
-A good balance is to practice exercises for 5-10 minutes, and use your trained voice for a max of a few hours per day. This is very much dependent on your level and the particular things that are occurring in your voice. The most important thing to keep in mind is not to strain or add effort at any time for any reason. If we don't feel strain or fatigue, then we can practice for as long as we like, but it's best not to overdo training and get burned out *mentally*, just as it is important not to strain things *physically*.
+## 时长
+一个良好的平衡方式是，每次练习专门的发声技巧 5-10 分钟，并且每天使用你训练过的声音不超过几小时。这很大程度上取决于你的训练水平和你声音当前的具体情况。最重要的一点是，任何时候都不要让自己感到紧绷或刻意用力。如果我们没有感到紧张、疲劳或者厌倦等，那么我们可以练习更长的时间。但最好不要过度训练，以免在心理上产生倦怠，就像在生理上避免用力过度一样重要。
 
-## Frequency
-Doing short periods of exercises (2-5min) several times a day is a good method. It can be best to avoid spending all your time training, but also to not go more than a few days without at least using the voice you're working on.
+## 练习频率
+每天进行几次短时（2-5 分钟）的练习是一个不错的方法。避免把所有时间都花在训练上，同时也不要几天都不使用你正在训练的声音。

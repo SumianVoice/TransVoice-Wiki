@@ -4,33 +4,33 @@
 ## Voice Resource Project
 本项目旨在提供尽可能多的有关**跨儿语音训练**的训练方法与参考资料。
 
-Created 2022 03 09
+创建于 2022 03 09
 
 
-## How to Contribute
-It is best to make a pull request:
-- Sign in to GitHub
-- Fork the project and clone
-- Make a new branch in that project and set the upstream to `https://github.com/SumianVoice/TransVoice-Wiki`
-- Come back to this page `https://github.com/SumianVoice/TransVoice-Wiki` and open a pull request
-- Describe what you're changing and why
+## 如何贡献
+建议通过提交 pull request 进行贡献：
+- 登录 GitHub
+- Fork 本项目并 clone 到本地
+- 在该项目中创建一个新分支，并将上游（upstream）设置为 `https://github.com/trans-archive/TransVoice-Wiki` （或使用 ssh）
+- 返回 `https://github.com/trans-archive/TransVoice-Wiki` 并创建一个 pull request
+- 描述你的更改/添加内容及其原因
 
-Additions or changes should take these principles into account. Changes should do at least one of the following things:
-- make voice resources more complete and accessible to the average viewer
-- improve readability of pages for the public
-- make code simpler and easier to make additions to
-- fix errors or outdated information<br>
-    _**OR**_
-- make wiki pages more stylistically consistent
+添加或修改内容时，请遵循以下原则。改动应至少符合以下一项要求：
+- 使语音资源更加完整，并提高普通用户的可访问性
+- 提高页面的可读性，使其更易理解
+- 简化代码，使其更易于扩展和维护
+- 修正错误或过时信息
+    _**或者**_
+- 使 Wiki 页面在风格上更加一致
 
-There are times when adding more information to a page will make it less accessible and more confusing, in which case we should ask if perhaps compartmentalising that topic into a new page such as under `https://wiki.sumianvoice.com/wiki/pages/various/` and linking to it would be better. Again, apply the above principles.
+有时，向页面添加过多信息可能会降低可访问性并增加理解难度。在这种情况下，我们应该考虑是否将该内容拆分到一个新的页面，例如对原文的增添可以对原地址 `https://wiki.sumianvoice.com/wiki/pages/various/` 提交，中文可添加至 `https://github.com/trans-archive/TransVoice-Wiki/pages/various/`，并通过链接指向它。同时，仍需遵循上述原则。
 
 
 ## GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SumianVoice/Voice-Art-Project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [GitHub 内建编辑器](https://github.com/trans-archive/TransVoice-Wiki/edit/main/README.md) 来维护和预览你的 Markdown 文件，以更新网站内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每次向此存储库提交更改时, GitHub Pages 都会运行 [Jekyll](https://jekyllrb.com/) 来重新构建网站，使其反映最新的内容。
 
 ### Markdown
 
@@ -53,23 +53,23 @@ Markdown 是一种轻量且易用的文本语法，包含：
 
 **粗体** 、 _斜体_（不建议应用在中文） 以及 `代码`。
 
-codeblock
-with multiple lines
-can be added with three `backticks` either side.
+代码块k
+多行代码块
+可以在起始和结束处使用三个 `反引号`来使用。
 
 [超链接](url) 与 ![图片](src)
 
 <button>您也可以添加 inline HTML</button>
 <p>...但其 **内部** 的大多数 markdown 将会被破坏</p>
 
-You can also give elements classes like:
+您也可以为网页元素 (element) 指定类 (classes）：
 {: .someCSS-class .and-this-one-too }
 
-Or <div class="something">
+或 <div class="something">
 
 ```
 
-[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[基本写作和格式化语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
 ### Jekyll 主题
 

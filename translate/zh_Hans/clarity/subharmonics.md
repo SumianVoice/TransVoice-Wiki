@@ -1,5 +1,5 @@
 ---
-title: Subharmonics
+title: 次谐波
 parent: Clarity
 nav_order: 9
 nav_exclude: true

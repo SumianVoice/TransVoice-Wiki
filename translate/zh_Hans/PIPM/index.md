@@ -16,7 +16,7 @@ has_children: true
 一种用于减少声音重量并达到更加可持续的，清晰的声门发音技巧的方法。
 
 ## 忘记你知道的一切
-Forget singular aspects such as vocal weight, resonance etc. The more you focus on one aspect and try to achieve it, the less this method will work. Be patient! Sometimes results are vague and don’t feel like you have control but there are results regardless, and if we focus on individual aspects or try to do much at all then we won’t get results. Your conscious mind will ruin it, so instead, let your voice naturally and automatically adjust and naturalise. The only parts that are consciously controlled are the very beginning and the times we change pitch intentionally, the rest should be on autopilot.
+忘掉每个单独的因素，如音重、共鸣等。你越专注于某个单独的方面并试图刻意调整，效果就会越差。要有耐心！有时候，结果可能不太明显，你可能觉得自己无法完全掌控，但事实上变化已经发生了。如果我们过度关注单个特征，或者尝试去做得太多，反而不会有好的效果。你的**意识**会妨碍这一过程，因此，应该让你的声音自然调整和适应。唯一需要有意识控制的部分是练习开始时，以及我们有意改变音高的时刻，其余部分都应交给身体的自动调节机制。
 
 ## 工作原理
 理想情况下，这种方法如何运作对学习者来说并不重要；倘若我们遵循练习规则，并按描述来完成，我们理应在不需要刻意进行调整的情况下就得到练习效果，且练习的效果本就需要避免刻意控制声音, 所以请以将这一部分作为背景知识来了解，否则请跳过：
@@ -34,50 +34,50 @@ Forget singular aspects such as vocal weight, resonance etc. The more you focus 
 
 
 
-# Part One - Tone
-In this we learn to achieve a basic voice coordination which has high pitch mobility, meaning we can modulate pitch without effort and without compromising other qualities we want in our voice such as clarity and volume. It doesn't necessarily make our voices significantly feminine yet, though some people find this is all they need to achieve a feminine voice. What it does do is provide a solid but flexible and stable coordination. What we learn in this process is what most people take years to develop: clear, stable and robust glottal behavior
+# 第一节 - 音色调整
+在这一过程中，我们学习如何建立基础的语音协调能力，使音高具有高度的灵活性，这意味着我们可以毫不费力地调整音高，而不会影响语音的其他关键特质，如清晰度和响度。虽然这一训练本身并不会立即使声音变得显著女性化，但对一些人来说，仅靠这一方法已经足够实现女性化语音。更重要的是，它能够提供一种既稳固又灵活的语音控制能力。通过这一过程，我们能够掌握清晰、稳定且强健的声门行为，而这通常需要数年时间才能自然培养出来
 
 声门行为指的仅仅是那些帮助发音的小技巧，如清晰度与明亮度。
 
 
 ## 练习
 
-### Pitch Naturalisation using pitch "floating"
-This is the main exercise, and should be the first one we do. It mostly preserves our speech patterns and clarity, while letting only the gendered aspects of our voice change.
+### 通过音高「上扬」进行音高自然化
+这是核心练习，也是我们应该首先进行的练习。它在保持语音模式和清晰度的同时，仅调整语音的性别相关特征。
 
-The idea is to start speaking at whatever is your natural relaxed pitch, with a slightly louder voice if possible. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer so it's easier to tell what the pitch is doing. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
-- speak at your relaxed, not-doing-anything pitch
-- make sure to start strong, possibly a little bit louder and heavier than normal
-- make **the last word of each phrase held longer** and monotone as it rests on the **base pitch** which helps keep the base pitch consistent
-- base pitch is the pitch your voice returns to after intonation, and it's what is raising the entire voice up to that "anchor"
-- once you feel comfortable here, let that last word and note float up a tiny bit, raising the whole voice
-- repeat, but don't push the pitch too high - the goal is to naturalize all of your range, not raise pitch
-- be extremely patient; if you rush or try too hard to control things, it won't work
-- lean toward less airflow but moderately loud
-- going up in pitch should be extremely easy, suspiciously so; if not, spend more time letting it naturalise it here or start again
-- pitch naturalisation is called that because at each pitch, the voice sounds natural as if it's always been at this pitch and this is your "natural voice"
+这个练习的核心思想是从你最自然、最放松的音高开始说话，如果可能的话，可以稍微提高音量。不要使用气声或刻意压低音量，而是保持声音的强度和自然性。朗读一段文本，让语调自然变化，并延长每个短语或句子的最后一个音，这样可以更容易感知音高的变化。这将成为你的基础音高。然后，逐渐让基础音高稍微升高，这样每个短语结束时的音高也会略微提高。当你在这个音高上感觉非常舒适时，进一步让基础音高和整个语音系统稍微升高，同时让语调继续自由上扬。仅仅是提高最后一个音，就能带动整个声音的调整，而整个声音的调整又会促使你的声音逐渐自然适应这个变化。 你可以上升到任何已自然化的音高，具体高度取决于你当前已经适应的音高范围。
+- 以你最自然、最放松的音高开始说话。
+- 确保从较有力的声音开始，可能比平时稍微响亮和厚重一些。
+- 延长每个短语的最后一个词，并让其保持单一音高（基础音高），这有助于稳定基础音高。
+- 基础音高是你的声音在语调变化后回归的音高，同时也是抬升整个声音的「锚点」。
+- 当你感觉舒适后，让最后一个音稍微上浮一点，进而提高整个声音。
+- 重复此过程，但不要过度推高音高——目标是让整个音高范围自然化，而不是单纯提高音高。
+- 保持极大的耐心，如果过于急躁或试图强行控制，反而不会起作用。
+- 减少气流，但保持适中的音量。
+- 提高音高的过程应该是极其轻松的，甚至让你觉得“太容易了”才对。如果不是这样，说明你需要更多时间让它自然化，或者需要重新开始。
+- 音高自然化的本质在于，无论在哪个音高，你的声音都能听起来自然而不刻意，就像它一直以来就是这样
 
-{% include youtube.html id="v-pipmintro" ytid="FrQQQLOmfrc" yttitle="PIPM Intro" %}
-{% include youtube.html id="v-pipmexample" ytid="x4O7hkC2zN8" yttitle="Example of the pitch naturalisation exercise" %}
+{% include youtube.html id="v-pipmintro" ytid="FrQQQLOmfrc" yttitle="PIPM 简介" %}
+{% include youtube.html id="v-pipmexample" ytid="x4O7hkC2zN8" yttitle="音高自然化样例" %}
 
-### Pitch naturalisation at a set pitch
-This is slightly more advanced, so it is best to use it only if we either get stuck on the floating method, or have already achieved some changes through that exercise. This can also be used to bring a lighter voice down low in pitch for deep feminine voices, once enough skill is learned.
-- pick a pitch to use as a base pitch; make sure it's not too high, it should be easy to do in your heavier, more masculine voice
-- slide up to this pitch and speak one phrase monotone, keeping it loud and strong
-- start the second phrase a little higher, but have it come down to the base pitch again by the end, making it easier to add intonation
-- at no point in this exercise should you 'try' to do anything, and it's best to avoid focusing on any individual aspects. Instead, is the overall voice getting more natural and easy to use?
-- at each pitch step your goal is to become more lazy and relaxed over time and to get used to speaking at this level; your body wants to do certain things to the voice at each pitch and so you should let it.
-- when you're very very comfortable and it feels natural and not 'pushed' to speak here, go to the next pitch or start again
-- if you can let the intonation naturally go quite high, then you'll get a little more results faster but again don't 'try' to do so
+### 在固定音高的音高自然化
+这一练习相对更高级，因此建议在「上扬」法遇到瓶颈，或已经通过该练习取得一定进展后再尝试。该方法还可用于在掌握足够技能后，将较轻的声音降至较低音高，以适应较深沉的女性化声音。
+- 选择一个基础音高，确保它不会太高，应该能够轻松用较厚重、较男性化的声音发出。
+- 滑动到该音高，并用单一音高朗读一个短语，保持响亮且有力的发声。
+- 让第二个短语的起始音高略高一些，但在结尾回落到基础音高，这样可以更容易加入语调变化。
+- 在整个练习过程中，不要刻意「尝试」去做任何调整，避免专注于某个具体特征。相反，要关注整体语音是否变得更自然、更易使用。
+- 在每个音高阶段，你的目标是逐渐变得更放松、更自在，并习惯在该音高下讲话。你的身体在每个音高下都会有自然的调整倾向，因此应顺其自然。
+- 当你在该音高下感觉**非常非常**自然，且没有任何压力时，可以尝试下一个音高，或重新开始整个过程。
+- 如果你能让语调自然上扬，可能会获得更快的效果，但同样不要刻意去做到这一点
 
 
-# Part Two - Brightness
-Brightness comes from many sources but the main source is that resonance and clarity interact to make a voice brighter. We can approach these things in a similar manner to the pitch naturalisation. If we get stuck, it may be necessary to do some basic [resonance](/wiki/pages/resonance) training just to get the ability to shift it at all first and then come back to this exercise, but it is worth attempting first. If you've gone through the previous exercises and naturalised your voice to F3 or above, then this is a good time to try this exercise.
-### Dark to bright naturalisation
-- start at a medium pitch with a deep, dark, yawn-like voice
-- speak a passage and let it adjust, becoming brighter
-- this means high resonance
-- find a good balance for this
-- if you find you have not enough range or don't get any changes, try the unvoiced and then the voiced resonance exercises
-- make sure to start very very deep and low resonance, otherwise you will find it harder to make changes
-- making changes slowly is better than having it jump suddenly
+第二部分 - 明亮度
+明亮度来源于多个因素，但最主要的来源是共鸣和清晰度的交互作用，它们共同使声音变得更加明亮。我们可以使用类似于音高自然化的方法来调整这些特性。如果在过程中遇到困难，可能需要先进行一些基础的 [共鸣](/wiki/pages/resonance)训练，以获得调整共鸣的能力，然后再回到这个练习。但首先尝试直接进行这个练习仍然是值得的。如果你已经完成了前面的练习，并且让你的声音自然化到 F3 或更高，那么现在是一个很好的时机来尝试这一练习。
+### 从低沉音色到明亮音色的自然化
+- 从中等音高开始，使用深沉、低共鸣、类似打哈欠的声音。
+- 朗读一段文本，让声音逐渐调整，变得更加明亮。
+- 明亮的声音通常意味着更高的共鸣。
+- 找到适合自己的平衡点。
+- 如果发现自己的共鸣变化范围不够，或者没有明显的变化，可以先进行无振动练习，然后再尝试有振动共鸣练习。
+- 确保从非常低沉、低共鸣的状态开始，否则后续的调整会变得更加困难。
+- 逐步调整比突然跳变更有效

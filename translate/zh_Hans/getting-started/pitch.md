@@ -1,5 +1,5 @@
 ---
-title: How Important is Pitch?
+title: 音高的重要性
 parent: Getting Started
 nav_order: 5
 ---
@@ -11,34 +11,34 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
-# How Important is Pitch?
-Very! But, not in the way you think.
+# 音高的重要性
+非常重要！但可能并不像你想的那样。
 
-There is a misconception that pitch is a big part or even the only reason masculine and feminine voices are different. There are a whole bunch of features that differ between a masculine and a feminine voice, and in fact, pitch isn't really in the equation at all.
+存在一种误解，认为音高是男性化和女性化语音的主要区别，甚至是唯一的区别。实际上，男性化语音和女性化语音之间存在许多不同的特征，而音高基本上并不是其中之一。
 
-Pitch is not a gendered factor. On its own it does not modify the gender presentation of a voice. In fact, there are plenty of voices as low as 120hz or even 90hz that are unmistakably feminine and voices as high as 250hz that are unmistakably masculine. Pitch as a part of your voice is basically not important.
+音高并不是决定语音性别的因素。单独来看，它并不会影响语音的性别表现。事实上，有些声音的音高低至 120Hz 甚至 90Hz，仍然明显是女性化的，而有些声音高达 250Hz，仍然明显是男性化的。因此，音高本身并不重要。
 
-![pitch comparison](/img/spectropitchcomparison.png)
+![音高比较](/img/spectropitchcomparison.png)
 
-## So in what way _is_ pitch important?
-Put simply, a lot of exercises use pitch as a method of changing other factors. When we go up in pitch we usually lower [vocal weight](/wiki/pages/vocal-weight), which is useful in a pitch slide. So in essence, while pitch is not important to the way a voice is perceived, it _is_ important to the way we train our voices.
+## 音高在什么方面重要
+简单来说，许多训练方法使用音高来改变其他因素。当我们升高音高时，通常会降低 [音重](/wiki/pages/vocal-weight)，这在 音高滑动/滑音 中很有用。因此，虽然音高本身不会影响语音的性别认知，但在训练语音时，音高确实很重要。
 
-A good pitch that is usually not too high for most people, but still gets the benefits of lowering vocal weight and often raising resonance too, is 200hz or G3. For most people this is the sweetspot. Too much higher is straining or flipping into [M2 / falsetto](/wiki/pages/other-resources/mechanisms), too much lower risks becoming heavier in vocal weight and darker in [resonance](/wiki/pages/resonance).
+通常来说，适合大多数人的理想音高大约是 200Hz（G3），它既不会太高以至于紧绷或进入 [M2 / 假声](/wiki/pages/other-resources/mechanisms)，也不会太低而导致音重加重或 [共鸣](/wiki/pages/resonance) 导致音色变低沉。
 
-For this reason, it's recommended that most people start at a pitch around 200hz in order to most effectively train, even if the target pitch is much higher or much lower. Learning vocal weight without going above 150hz is nearly impossible, or at least difficult enough that it's not worth avoiding going to a higher pitch to begin with.
+这就是为什么推荐大多数人从 200Hz 左右开始训练，即使目标音高比这高得多或低得多。若不超过 150Hz 就想学习音重控制几乎是不可能的，或者至少会难到不值得为了避免高音而坚持低音。
 
-Pitch, like most voice characteristics can be an extremely powerful and important tool.
+音高，和大多数语音特征一样，是一个极其强大且重要的工具。
 
-## Why low pitch feminine voices are hard
-So if pitch isn't important to the gendering of a voice, why are low pitch feminine voices so hard? Well the short answer is [microbehaviours](/wiki/pages/microbehaviours) (and vocal weight mastery). Microbehaviours are tiny subconscious things we do that make up the way we speak and produce tone. When we go to a lower pitch our configuration can be so fragile that it breaks up completely, or we could cover up the lack of coordination with things like [breathiness](/wiki/pages/clarity/breathiness). This is compounded if we don't have extremely good vocal weight control. Essentially, at a low pitch feminine configuration, we're doing things our voices really _don't want to do_ and so it takes a lot of coordination and practice to learn how.
+## 为什么低音高的女性化语音很难掌握
+既然音高本身不会影响语音性别，那为什么低音高的女性化语音如此难以掌握？简单来说，主要原因是 [微行为](/wiki/pages/microbehaviours)（以及音重控制）。微行为是我们在说话时下意识进行的微小调整，它些东方面共同塑造了我们的语音特质。当音高降低时，我们的语音配置可能会变得不稳定，导致整体崩溃，或者我们可能会用 [气声](/wiki/pages/clarity/breathiness) 来掩盖协调不足的问题。如果我们没有极强的音重控制能力，这种情况会更加严重。本质上，低音高的女性化语音是在做一些我们的声音「本不愿意做」的事情，因此需要大量的协调和练习才能掌握。
 
-Even if we manage to keep our configuration together, the subtle ways we make the voice bright and feminine will be harder to achieve when we're already trying so hard to keep things together. As soon as we add intonation, tempo changes and other [speech patterns](/wiki/pages/speech-patterns), the microbehaviours / glottal behaviours can fall apart.
+即使我们能保持语音配置稳定，在低音高情况下使语音明亮、女性化的微妙技巧也会变得更加难以实现。只要我们加入语调变化、语速变化以及其他 [语音模式](/wiki/pages/speech-patterns)，微行为和声门控制就容易崩溃。
 
-We can however, learn to adapt feminine microbehaviours to a low pitch. Here are some examples of low pitch, bright, feminine voices:
+不过，我们可以学习如何在低音高的情况下运用女性化的微行为。以下是一些低音高、明亮且女性化的语音示例：
 
-[voice example - Jackie Liu](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
+[样例 - Jackie Liu](/wiki/pages/voice-examples/#jackie-liu){: .btn .btn-green }
 
-[voice example - imawonder](/wiki/pages/voice-examples/#imawonder){: .btn .btn-green }
+[样例 - imawonder](/wiki/pages/voice-examples/#imawonder){: .btn .btn-green }
 
 
 

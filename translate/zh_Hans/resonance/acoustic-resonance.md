@@ -1,5 +1,5 @@
 ---
-title: Acoustic Resonance
+title: 声学共鸣（Acoustic Resonance）
 parent: Big List of Stuff
 nav_order: 19
 has_children: false
@@ -15,22 +15,22 @@ nav_exclude: true
 </details>
 <!-- remove nav_show: true when this is filled -->
 
-# Acoustic Resonance Details
-## Standing Waves
+# 声学共鸣（Acoustic Resonance）详解
+## 驻波（Standing Waves）
 
 {% include image.html file="/img/Waventerference.gif" alt="standing wave" max-width="300px"
-caption="The blue wave travels leftward while the green wave travels rightward, their interference creating the standing red wave"
+caption="蓝色波向左传播，绿色波向右传播，它们的干涉形成了静止的红色波"
 class="float-right" %}
 
-A standing wave is a wave with a fixed position. Whereas a sound wave propagates through space, a standing wave sits where it is. In the case of voice, a standing wave is created by the interference of two waves moving in opposite directions, as in this animation (courtesy of wikipedia).
+驻波是一种固定在特定位置的波动。相较于普通的声波在空间中传播，驻波则停留在固定的位置。在人声中，驻波是由两个方向相反的声波干涉而形成的，正如上方的动画所示（图片来自 Wikipedia）。
 
-The two waves in our case are the *incident wave*, the sound wave being produced by the vocal folds, and the *reflected wave*, which is created when the initial wave arrives at the exit of the vocal tract, and a portion of it is reflected back towards the glottis by the changing medium.
+声音传播过程中，涉及两个主要的波：由声带产生的声波入射波（incident wave），以及当入射波到达声道出口时产生的反射波（reflected wave），部分声波会因介质变化而反射回到声门（glottis），形成反射波。
 
-## Nodes and Antinodes
-In a standing wave, the points at which amplitude is at a minimum are called *nodes*, and the points at which amplitude is at a maximum are *anti-nodes*. In the context of voice, the amplitude we are referring to is as a measure of pressure, and of volume velocity. A pressure node (where pressure is at a minimum) will denote a volume velocity anti-node, and vise versa. In the vocal tract, there will always be a pressure node at the exit (where the greatest movement of air is possible), and a pressure anti-node at the glottis.
+## 波腹 与 波节（Nodes and Antinodes）
+在驻波中，振幅最小的位置称为波节（nodes），振幅最大的地方称为波腹（antinodes）。在声音的上下文中，我们所指的振幅可以表示气压或体积速度（volume velocity）。气压波节（最低压力点） 对应于 体积速度波腹（最大气流运动），反之亦然。在声道的出口（空气流动最强烈的地方），总是会有一个气压波节。在声门处（glottis），则总是会有一个气压波腹。
 
-## Interference
-When a sound wave travels through the vocal tract and meets its reflection (and therefore, the standing wave that the two are creating), it may be dampened or maintained depending on its characteristics. If the wavelength of a sound wave roughly matches the characteristics of the vocal tract with maximum volume velocity as it reaches the exit, it will be reinforced. The lowest frequency with such a wavelength is the first resonance frequency, which will have a wavelength four times the length of the vocal tract. The next lowest frequency will be the second resonance frequency, with a wavelength 3/4 the length of the vocal tract, and an additional node/anti-node pair, the former in the oropharynx, the latter in the anterior oral cavity.
+## 干涉（Interference）
+当声波在声道中传播并遇到其自身的反射波时（即驻波的形成过程），根据其特性，它可能会被削弱或增强。如果声波的波长与声道的共鸣特性匹配，并且在出口处具有最大的体积速度，则该波会被增强。最低频率的共鸣称为第一共振频率（First Resonance Frequency, F1），其波长约为声道长度的四倍。第二共振频率（Second Resonance Frequency, F2）的波长约为声道长度的 3/4，并且会在口咽（oropharynx）产生额外的波节/波腹对，其中波节位于前口腔（anterior oral cavity）。
 
-## Perturbation
-So far we have only discussed resonance as it is affected by the length of the vocal tract. While this is fine for a simple tube with equal diameter throughout its length, that is clearly not what the vocal tract is, and as discussed earlier on this page, resonance frequencies are affected by more than just length. A perturbation or constriction at or near a pressure anti-node will raise the frequency of the corresponding resonance, while a constriction at a pressure node will lower it. All resonance frequencies will therefore be raised and lowered respectively by constrictions at the glottis and lips. The second resonance frequency will be raised by a constriction in the front of the oral cavity (as in the vowel /i/), and lowered by constriction in the posterior oral cavity/oropharynx (as in the vowel /u/). As we examine progressively higher resonance frequencies, the number of nodes and anti-nodes increases, making it increasingly difficult to isolate them. This is why you will rarely see anyone discuss anything higher than R3/F3.
+## 扰动（Perturbation）
+目前为止，我们只讨论了声道长度对共鸣的影响。然而，实际上的声道并不是一个直径均匀的简单管道，因此，共鸣频率不仅受长度影响，还受不同部位的收缩或扩张影响。在气压波腹（压力最大的位置）附近发生的收缩，会提高相应的共鸣频率。在气压波节（压力最小的位置）附近发生的收缩，会降低相应的共鸣频率。所有共鸣频率都会因以下收缩部位而发生变化：喉部（glottis）和嘴唇（lips）的收缩会提高所有共鸣频率。前口腔（anterior oral cavity）的收缩（如 /i/ 元音）会提高第二共振频率（F2）。后口腔或口咽（posterior oral cavity/oropharynx）的收缩（如 /u/ 元音）会降低第二共振频率（F2）。随着共鸣频率的提高，波节和波腹的数量也会增加，使得单独调整某个特定共鸣频率变得更加困难。因此，在实际应用中，很少有人讨论第三共振频率（R3/F3）以上的频率。

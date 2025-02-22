@@ -1,5 +1,5 @@
 ---
-title: Glossary
+title: 术语表
 parent: Other Resources
 nav_order: 1
 has_children: false
@@ -12,281 +12,281 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Glossary
-Below is a list of voice related words and the concepts relating to them, links and definitions where available.
+# 术语表
+以下是与声音相关的术语列表，以及它们涉及的概念、链接和定义（如适用）。与英文原版会以旁注形式增加一点内容，以说明翻译来源或原因。
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Sound Production Related
+## 发声相关（Sound Production Related）
 </summary>
-### Glottal Behaviour
-- covers all behaviours to do with phonation / sound production
-- vocal weight, pitch, closure, FVF, subglottal pressure, onsets, and even some microbehaviours are all under this umbrella
-- a catch all term for how the voice is produced and how 'cleanly' it is produced
-- has a lot to do with [clarity](/wiki/pages/clarity) and tone purity or [HNR](#harmonic-to-noise-ratio-hnr)
+### 声门行为（Glottal Behaviour）
+- 包含所有与发声（Phonation）/ 声音产生相关的行为
+- 音重（Vocal Weight）、音高（Pitch）、闭合（Closure）、假声带（FVF）、声门下压力（Subglottal Pressure）、起音（Onsets），甚至某些微行为都属于这一范畴
+- 是一个概括性术语，描述声音是如何被产生的，以及它的「清晰度」如何
+- 与 [清晰度 (clarity)](/wiki/pages/clarity)、音色纯度 以及 [谐噪比 (HNR)](#harmonic-to-noise-ratio-hnr) 密切相关
 
-### [Vocal Weight](/wiki/pages/vocal-weight)
-- how 'heavy' the voice sounds
-- doesn't take into account volume, pressed phonation, breathiness
-- Vocal Fold Vibratory Mass is likely the underlying cause of the sound
+### [音重 Vocal Weight](/wiki/pages/vocal-weight)
+- 声音听起来有多「厚重」
+- 不涉及音量、受压发声（Pressed Phonation）或气息感（Breathiness）
+- 可能由声带振动质量（Vocal Fold Vibratory Mass, VFVM）决定
 
-### Vocal Fold Vibratory Mass (VFVM)
-- how much of the vocal folds are actually vibrating during phonation
-- when more vibratory mass is involved, we get more surface area creating sound waves, and likely this will increase closed quotient
+### 声带振动质量 Vocal Fold Vibratory Mass (VFVM)
+- 发声过程中真正参与振动的声带部分
+- 当更多的声带质量参与振动时，声带的表面积增大，从而产生更大的声波，并可能增加闭合系数（Closed Quotient）
 
-### Volume
-- the loudness of a voice
-- usually from airflow-closure more than vocal weight or pressed phonation
+### 响度/音量（Volume）
+- 声音的响度【与音量一词近乎同义，但在中文中音量的范畴稍宽且易与其他概念混淆，因而本文采用「响度」译法】
+- 通常由气流-闭合（Airflow-Closure）关系决定，而不是音重或受压发声
 
-### Quotient
-- measurement of how long it takes for the vocal folds to open vs how long it takes for them to close
-- used in research because it's objective and it's a good but not perfect correlation to vocal fold vibratory mass / vocal weight
-- usually measured using EGG / electroglottography
+### 系数（Quotient）
+- 量化声带打开时间与关闭时间的比例
+- 由于其客观性，在研究中被广泛使用，并且与声带振动质量 / 音重相关（但并非完全匹配）
+- 通常使用 EGG（电声门图 Electroglottography）进行测量
 
-### Open Quotient
-- related to low [vocal weight](/wiki/pages/vocal-weight)
-- how long in each glottal cycle (each flap of the folds) the folds are opening
+### 开放系数（Open Quotient）
+- 与 低[音重 vocal weight](/wiki/pages/vocal-weight) 相关
+- 表示每个声门周期（声带振动的每个循环）中，声带处于打开状态的时间比例
 
-### Closed Quotient
-- related to high [vocal weight](/wiki/pages/vocal-weight)
-- how long in each glottal cycle (each flap of the folds) the folds are closing
+### 闭合系数（Closed Quotient）
+- 与 高[音重 vocal weight](/wiki/pages/vocal-weight) 相关
+- 表示每个声门周期中，声带处于闭合状态的时间比例
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Pitch and Range Related
+## 音高与音域相关（Pitch and Range Related）
 </summary>
-### Pitch
-- the fundamental (F0) frequency of the voice
+### 音高（Pitch）
+- 声音的基频（F0）
 
-### Base Pitch
-- the pitch a voice naturally returns to after intonation
-- defined by vocal weight / fold mass due to the connection between fold mass and pitch
-- the common return to point or anchor or home position for a voice
+### 基频音高（Base Pitch）
+- 语音在语调变化后自然回归的音高
+- 由音重 / 声带质量决定，因为声带质量和音高存在相关性
+- 声音的常规回归点 / 锚定点 / 归位音高
 
-### Phonate
-- verb: to produce a tone / pitch by making the vocal folds vibrate
-- requires both closure (adduction) and airflow
+### 发声（Phonate）
+- 动词：通过声带振动产生音调 / 音高
+- 需要同时具备闭合（Adduction）和气流
 
-### Register
-- see below
+### 声区（Register）
+- 见下
 
-### [Laryngeal Vibratory Mechanism](/wiki/pages/other-resources/mechanisms)
-- describes how and how much of the vocal folds vibrates
+### [喉部振动机制（Laryngeal Vibratory Mechanism）](/wiki/pages/other-resources/mechanisms)
+- 描述声带如何振动以及振动的部分
 
-#### M0 - Vocal Fry
-- also known as
+#### M0 - 低频喉音（Vocal Fry）
+- 在英文中也称作：
   - pulse
   - strohbass
   - fry
-- is at the bottom of your range
-- sounds like an idling motorcycle
+- 处于声域的最低端
+- 听起来像怠速中的摩托车引擎（在中文语境下，往往与低音气泡音语义相似）
 
-#### M1 - Modal voice
-- your normal speaking register
+#### M1 - 模态语音
+- 你的正常语音声区
 
-#### M2 - Falsetto / Head Voice
-- high pitch, often hollow register
-- can be made less hollow with with slightly adding vocal weight
+#### M2 - 假声 / 头声（Falsetto / Head Voice）
+- 高音区，通常较空灵
+- 通过增加少量音重可以减少空灵感
 
 #### M3
-- whistle register
+- 哨音（Whistle Register）
 
-### TA Muscles
-The following is assuming TA muscle is the thing responsible for what we see, but it could be something else in which case replace TA with whatever is actually doing the work. TA seems to be involved though and it's unlikely to be anything else.
-- thyroarytenoid muscles, running the length of the vocal folds
-- more activation ~= more weight
-- can make M2 sound more full and be more stable and bright rather than the "too thin" or hollow quality M2 often has, when used with sufficient closure
-- can help with more general (not breath specifically) support to the voice to make it more robust
-- can blend m1 and M2 to avoid breaks and more reliably come back into m1 from a slide
-- a component of "shouting posture"
+### 甲杓肌（TA Muscles）
+以下内容假设 TA 肌肉是我们所观察到的关键因素，但也可能是其他结构在起作用。如果是其他结构，请用实际发挥作用的部分替换 TA。不过，TA 似乎确实参与其中，且可能性很高，不太可能是别的东西。
+- 甲杓肌（thyroarytenoid muscles），沿着声带长度分布。
+- 更多的激活 ~= 更多的音重（vocal weight）。
+- 当 TA 结合足够的闭合使用时，可以让 M2 听起来更饱满、更稳定、更明亮，而不是 M2 通常给人的「过薄」或空洞感。
+- 可以在整体上提供更多支持（并非专指呼吸支持），让声音更强韧。
+- 可以混合 M1 和 M2，避免声音断裂，并在音高滑动（pitch slide）后更稳定地回到 M1。
+- 是「喊叫姿态」（shouting posture）的一个组成部分。
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Resonance Related
+## 共鸣 (Resonance) 相关
 </summary>
-### [Resonance](/wiki/pages/resonance)
-- is a filter, which highlights frequencies in the voice
-- changes the timbre or non-pitch qualities of a voice
-- is dependent on the size and shape of the vocal tract
-- the size of a container is its external volume, space is the internal volume and resonance is how sound is affected by the volume and shape of that space
+### [共鸣 Resonance](/wiki/pages/resonance)
+- 充当滤波器，突出声音中的某些频率。
+- 改变声音的音色或非音高特性。
+- 依赖于声道的大小和形状。
+- 容器的大小是其外部体积，空间是其内部体积，而共鸣则描述了声音如何受该空间的体积和形状影响
 
-### Vocal Size
-- **[do not](/wiki/pages/other-resources/questionable-terms.html#size) try to change the size of your voice intuitively or without proper exercises / guidance** unless you know not to constrict or use extraneous muscles!
-- a perceptual quality of voice, which describes the total effect of all resonance modifications
+### 语音尺度/大小（Vocal Size，此翻译待商榷）
+- **[不要](/wiki/pages/other-resources/questionable-terms.html#size) 直觉地或在没有正确训练/指导的情况下尝试改变声音的大小**，除非你确定不会收紧喉部或使用多余的肌肉！
+- 声音的感知特性，它描述了所有共鸣修饰的总体效果
 
-### Brightness
-1. the amount of high frequency harmonic information in the voice
-  - a perceptual quality caused by the amount of high frequency harmonic information
-  - a high resonance voice can sound dark due to muting effects like nasality and breathiness
-  - clarity, vocal weight and twang are the main factors that allow resonance to highlight upper frequencies, allowing for brighter tone
-2. the frequency of formants, particularly F1, essentially resonance (outdated)
+### 明亮度（Brightness）
+1. 声音中的高频谐波信息量。
+  - 由高频谐波信息量引起的感知特性。
+  - 具有高共鸣的声音可能听起来依然暗淡，这是由于鼻音或气声等削弱效应的影响。
+  - 清晰度（clarity）、音重（vocal weight）和 twang（锐利度）是使共鸣能够突出高频的主要因素，从而使音色更明亮。
+2. 共振峰（formants）的频率，尤其是 F1，本质上是共鸣（已过时的定义）
 
-### Larynx
-- houses the vocal folds
-- can be raised to get a brighter sound
-- the 'adam's apple' is outside of the thyroid cartilage, part of the larynx
+### 喉头（Larynx）
+- 容纳声带的结构。
+- 提升喉头可以获得更明亮的声音。
+- 「喉结」（Adam’s apple）位于甲状软骨（thyroid cartilage）外侧，是喉头的一部分
 
-### Embouchure
-- loosely describes how resonance changes in the mouth
-- affected by macrovowel
+### 口型（Embouchure）
+- 宽泛地描述了口腔内的共鸣变化。
+- 受宏元音（macrovowel）的影响
 
-### Macrovowel
-- the use of a vowel shape to color speech
-- keeping the mouth in the same position / posture as a certain vowel when speaking
+### 宏元音（Macrovowel）
+- 通过元音的形态来影响语音的音色
+- 讲话时保持嘴部处于特定元音的相同位置/姿态
 
-### Microvowel
-- to modify individual vowels to be darker or brighter without changing how the vowel is interpreted
+### 微元音（Microvowel）
+- 调整单个元音，使其听起来更暗或更亮，但不改变元音的实际识别方式
 
-### OPC, Oropharyngeal Closure
-- raises resonance by decreasing the width of the back of the mouth
-- affects formants F1 and F2
-- associated with loli voice and some "anime" voices, hyperfem, "small" voices
+### OPC，口咽闭合（Oropharyngeal Closure）
+- 通过减少口腔后部的宽度来提升共鸣
+- 影响 F1 和 F2 这两个共振峰
+- 相关特征包括「萝莉音」、某些「动漫」声音、极端女性化（hyperfem）或「尺度意义上的小」声音
 
-### Twang, AES constriction
-- at the cost of buzziness (not vocal weight), adds the impression of high resonance
-- increases the impression of brightness
-- seen in some country singers, some Australian accents
-- often induces hypernasality
+### 鼻音（Twang），AES 收缩（Aryepiglottic Sphincter constriction）
+- 以牺牲音色的平滑度（而非音重）为代价，增加高共鸣的印象。
+- 增强声音的明亮度。
+- 出现在一些乡村歌手的嗓音和某些澳大利亚口音中。
+- 经常导致强鼻音（hypernasality）
 
-### Formant, F1 F2 or R1 R2 etc
-- these are resonance peaks in the voice, caused by the shape of your vocal tract
-- the ratio between F1 and F2 largely determines vowel
-- F1 is the first formant and is often altered through larynx height and OPC
-- F2 is the second formant and often altered through mouth space
-- F3 is from the difference in size between the mouth and the space between the teeth, mostly between the teeth and tongue
-- F4 is from the same but lips
+### 共振峰（Formants），F1、F2 或 R1、R2 等。
+- 这些是声音中的共鸣峰，由声道的形状决定。
+- F1 和 F2 之间的比率主要决定了元音的特征。
+- F1 是第一共振峰，通常受喉头高度和 OPC 影响。
+- F2 是第二共振峰，通常受口腔空间影响。
+- F3 由口腔大小与牙齿间空间大小的差异决定，主要由牙齿和舌头之间的空间控制。
+- F4 由相同的因素决定，但主要涉及嘴唇。
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Clarity Related
+## 与清晰度相关
 </summary>
-### FVF, False Vocal Folds and constriction
-- "white noise" quality in background is louder and may be present even when not breathy
-- increased subharmonics
-- sometimes a "rattle" like quality is heard, which is essentially really high frequency harmonics up around 10kHz
-- bad for vocal health in the long term
+### 假声带（FVF，False Vocal Folds）及收缩
+- 背景中的「白噪声」质量更强，即使没有气声也可能存在。
+- 产生更多次谐波（subharmonics）。
+- 可能会听到「咔哒」般的质感，本质上是极高频谐波（约 10kHz 以上）。
+- 长期来看对声带健康不利
 
-### Subharmonics
-- rough quality similar to creak/fry
-- extra harmonics appear; one in between each harmonic, essentially making it as if the pitch was halved
-- this is due to every 2nd cycle of the vocal folds being interrupted
-- it's also possible for it to cancel out every 3rd cycle instead, leading to two extra harmonics instead of just one
-- theoretically there's no limit to the fraction of cycles interrupted as long as it's consistent
-- can be a sign of slight FVF constriction interfering
-- [on subharmonics](https://youtu.be/DbKJ2E7YCNg?t=274)
+### 次谐波（Subharmonics）
+- 粗糙的音质，类似低频喉音（creak/fry）。
+- 额外的谐波出现，每个原始谐波之间会多出一个谐波，使音高听起来像是减半。
+- 这是因为声带的每两个振动周期中有一个被干扰。
+- 也可能每三个周期中有一个被干扰，从而产生两个额外的谐波，而非一个。
+- 理论上，只要干扰模式保持一致，就可以无限制地改变振动周期的比例。
+- 可能是轻微 FVF 收缩导致的干扰信号。
+- [关于次谐波](https://youtu.be/DbKJ2E7YCNg?t=274)
 
-### Harmonic to Noise Ratio (HNR)
-HNR is the description of essentially how noisy a voice is. We have harmonics - which are the horizontal lines in the image - and then there's noise in between, either from constriction, breathiness or a combination. You can see in the image how there is a clean looking pattern on the left, and a noisy one on the right. This could be called the 'clarity' of the voice, though it refers specifically to noise and not things like nasality or knodel effects which might make a voice sound 'out of place'.
+### 谐波-噪声比/谐噪比 (Harmonic to Noise Ratio, HNR)
+HNR 主要描述声音的噪声程度。在图像中，我们可以看到谐波——表现为水平线，而其间存在的噪声可能来自收缩（constriction）、气声（breathiness）或两者的结合。你可以在图像中看到，左侧的模式较为清晰，而右侧的模式则较为嘈杂。这可以被称为声音的「清晰度」，但 HNR 具体指的是噪声的影响，而不包括鼻音或 knodel 效应（可能使声音听起来不自然）。
 
-![HNR](/img/hnr.png)
+![谐噪比, HNR](/img/hnr.png)
 
-Primary sources of low Harmonic to Noise ratio:
-・abduction (breathiness)
-・FVF constriction
-・vocal fry and creak
+HNR 低的主要来源：
+- 声门外展（abduction，导致气声）
+- 假声带收缩（FVF constriction）
+- 低频喉音（vocal fry）及喉音颤振（creak）
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Exercise and Training Related
+## 练习与训练相关
 </summary>
-### SOVTEs, VFEs
-- **Semi Occluded Vocal Tract Exercise** and **Vocal Function Exercises**
-- helps give a baseline for airflow and glottal behaviour to an extent
-- helps warmup and warmdown the voice to help with vocal health and fatigue
-- can show if there are any voice related problems
+### SOVTEs，VFEs
+- **半封闭声道练习（Semi Occluded Vocal Tract Exercise）** 和 **声带功能练习（Vocal Function Exercises）**。
+- 有助于建立气流和声门行为的基本控制。
+- 通过热身和冷却嗓音，帮助维持声带健康并减少疲劳。
+- 可能揭示任何与声音相关的问题
 
-### Breath Support
-- low support voices are typically unstable and fluctuate in pitch uncontrollably, may flip between m1 and M2 unpredictably
-- high support voices are more robust
-- putting a fair bit of pressure into the /s/ sound can induce better support
-- M2 and quiet voices tend to be low in support without training
+### 呼吸支持（Breath Support）
+- 低支持的声音通常不稳定，音高难以控制，可能会在 M1 和 M2 之间意外转换。
+- 高支持的声音更强韧。
+- 施加适当的压力在 /s/ 音上可以促进更好的支持。
+- M2 和较安静的声音在没有训练的情况下通常支持较低
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Cover Related
+## 语音掩饰（Cover）相关
 </summary>
-### Cover
-- hides or restricts a certain aspect of voice, usually fullness or resonance
+### 语音掩饰
+- 隐藏或限制声音的某些特性，通常是音色的饱满度或共鸣
 
-### Tongue Root Retraction
-- has a goofy, dark sound
-- associated with Meatwad, Stitch
-- can sometimes happen unintentionally when doing OPC
+### 舌根回缩（Tongue Root Retraction）
+- 具有夸张、黑暗的音色。
+- 与 Meatwad（动画角色）和 Stitch（史迪奇）相关。
+- 在进行 OPC 时有时会无意发生
 
-### Hypernasality / Nasality
-- too much passage of air through the nose when phonating
-- darkens the sound and works as an antiformant
-- makes F1 and F2 almost nonexistant
-- can make vocal weight less prominent at higher pitches
-- nasal sounds should be the only muffled sounds when the nose is pinched, so you can read ?non-nasal passages to test for it
+### 强鼻音（Hypernasality / Nasality）
+- 发声时通过鼻腔的气流过多。
+- 使声音变暗，并起到反共振（antiformant）的作用。
+- 使 F1 和 F2 近乎消失。
+- 在高音区可能削弱音重（vocal weight）。
+- 当捏住鼻子时，正常情况下只有鼻音应该受到影响，因此可以通过朗读无鼻音段落来测试是否存在过度鼻音
 
-### Hyponasality
-- too little passage of air through the nose when phonating
+### 弱鼻音（Hyponasality）
+- 发声时通过鼻腔的气流过少。
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Speech Pattern Related
+## 语音模式相关
 </summary>
-### Intonation
-- the changing of pitch to add color to speech
-- intonation range is how far we intonate / change pitch in speech
-- intonation frequency is how often we change pitch in speech
+### 语调（Intonation）
+- 通过改变音高来增加语音的变化和观感。
+- 语调范围（intonation range）指在语音中音高变化的幅度。
+- 语调频率（intonation frequency）指在语音中音高变化的频率
 
-### Tempo
-- how much we change the speed of speech where some words are slowly spoken and some are rushed past
-- how fast in general the speech is
+### 语速/节奏（Tempo）
+- 指语音节奏上的变化，即某些词被拉长，而某些词则快速带过。
+- 也可指整体的语速快慢
 
-### Emphasis
-- making a single sound or word stand out in speech
-- this usually relates to the use of volume for emphasis but can also be used in other ways
-- emphasis can be from volume, intonation, tempo
+### 强调（Emphasis）
+- 使某个音或单词在语音中突出。
+- 通常通过音量变化实现，但也可以通过其他方式。
+- 强调可以通过音量、语调或语速实现
 
-### Resonance Fluctuation
-- how much the resonance changes through speech, or how much it is linked to pitch
-- some resonance fluctuation is normal
-- more resonance fluctuation is more dynamic and sometimes sounds out of place
-- no resonance fluctuation can sound unnatural
+### 共鸣波动（Resonance Fluctuation）
+- 指语音过程中共鸣的变化程度，或共鸣与音高的关联程度。
+- 适度的共鸣波动是正常的。
+- 更多的共鸣波动使声音更加动态，有时可能显得不自然。
+- 没有共鸣波动可能会导致声音听起来呆板、不自然
 
-### Articulation
-- how and how much the mouth moves in order to form vowel sounds
-- under vs overarticulated can sound like the difference between "uh muh guhd" and "ouw maiy gaud"
-- this can be used to emphasize things, or for generally making the voice more expressive
-- since it deals with how the mouth moving, a subset of this is mouth space as a resonance and brightness modifier
+### 清晰度（Articulation）
+- 口腔如何以及在多大程度上运动以形成元音。
+- 过度 vs 不足的清晰度可以表现为「uh muh guhd」和「ouw maiy gaud」之间的区别。
+- 这可以用于强调内容，或使声音整体上更具表现力。
+- 由于这与口腔运动相关，因此口腔空间也是共鸣和明亮度的修饰因素之一
 
 </details>
 <!-- ======================================================================================================= -->
 <details open markdown="block"><summary markdown="block">
-## Anatomy Related
+## 解剖学（Anatomy）相关
 </summary>
-### Vocal Tract
-- the mouth, nose, larynx and pharynx; everything from the larynx up
+### 声道（Vocal Tract）
+- 包括口腔、鼻腔、喉头和咽部，即喉头以上的所有结构
 
-### Thyroarytenoid muscles
-- lowers pitch
-- adds weight (probably)
-- can be used to make M2 more full sounding
-- if deactivated, results in a hollow, M2-like, dark sound
+### 甲杓肌（Thyroarytenoid muscles）
+- 降低音高。
+- 增加音重（可能）。
+- 可用于使 M2 听起来更饱满。
+- 若失活，则会导致空洞、类似 M2 的暗淡音色
 
-### Cricothyroid muscles
-- raises pitch
+### 环甲肌（Cricothyroid muscles）
+- 提高音高
 
-### Thyrohyoid muscles
-- raises the larynx to the hyoid bone
-- usually activates when raising pitch, resulting in pitch/resonance conflation
+### 甲状舌骨肌（Thyrohyoid muscles）
+- 提升喉头至舌骨。
+- 通常在提高音高时被激活，可能导致音高与共鸣混淆
 
-### Stylohyoid muscles
-- raise the hyoid bone (and therefore larynx) toward the base of the tongue
-- can be activated when consciously raising the larynx
+### 茎突舌骨肌（Stylohyoid muscles）
+- 提升舌骨（hyoid bone），从而提升喉头，使其靠近舌根。
+- 在有意识地提升喉头时可能被激活
 
-### Vocal Ligament
-- the vocal folds, without the muscles
+### 声带韧带（Vocal Ligament）
+- 声带，不包含肌肉的部分
 
-### Vocalis muscle
-- thyroarytenoid muscle
-- \[needs disambiguation\]
+### 声带肌（Vocalis Muscle）
+- 甲杓肌（thyroarytenoid muscle）。
+- \[需要进一步消歧义\]
 
-### AES/Aryepiglottic Sphincter
-- associated with twang
-- when the epiglottis is moved to make the passage in the throat smaller and cause a high frequency filter
-- it being responsible for twang is contested, but generally high closure plus AES constriction does result in the twang sound quality
+### AES / 杓状会厌襞（Aryepiglottic Sphincter）
+- 与 twang（锐利度）相关。
+- 当会厌（epiglottis）移动，使喉咙通道变窄，从而产生高频滤波效果。
+- AES 是否是 twang 的决定性因素仍有争议，但通常高闭合度（high closure）加上 AES 收缩会导致 twang 音色。
 </details>
 <!-- ======================================================================================================= -->

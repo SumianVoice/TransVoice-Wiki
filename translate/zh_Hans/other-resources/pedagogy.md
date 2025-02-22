@@ -1,5 +1,5 @@
 ---
-title: Pedagogy
+title: 教学法
 parent: Other Resources
 nav_order: 12
 has_children: false
@@ -12,19 +12,19 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Pedagogy
-Pedagogy is how we describe different methods, beliefs and attitudes towards teaching and learning. It could be what terms we use or which exercises we recommend or even the order in which we recommend them. It could be as fundamental as how vocal mechanisms physically work. This site aims to be fairly neutral. Additions to the site should stay consistent with that and the other resources. The goal is to offer the most effective, varied and safe information.
+# 教学法
+教学法是指我们描述不同教学和学习方法、理念以及态度的方式。这可能涉及使用的术语、推荐的练习，甚至是推荐它们的顺序。它也可以涉及更基础的内容，比如声音机制的物理运作方式。本网站旨在保持相对中立。网站上的补充内容应当与这一原则及其他资源保持一致。目标是提供最有效、多样化且安全的信息。
 
 
-## What is the pedagogy of the resources found here?
+## 本网站资源的教学法？
 
-The way we vet resources is by asking these questions:
-1. does the method work and do what we claim it does most of the time and have a fairly long track record?
-  * if yes:
-2. does it have risks of learning bad vocal health or behaviour?
-  * if yes, are there reliable methods of avoiding these risks that are simple and able to be done by complete beginners, and is it unreasonable that someone would forgo these things or not be told about them?
-    * if yes, we preface the method with how to avoid the risks, else we scrap it
+我们评估资源的方法是通过以下问题进行筛选：
+1. 该方法是否有效？它是否大多数情况下能达到我们声称的效果，并且有相对长期的实践记录？
+  * 若是：
+2. 该方法是否存在学习不良发声健康或习惯的风险？
+  * 若是：该风险是否可以通过简单且适用于初学者的方式可靠地避免？并且，是否可以合理地假定，大多数人不会忽略这些预防措施或未被告知这些信息？
+    * 若是：如果是，我们会在该方法前加入如何避免风险的说明，否则就会放弃它
 
-Essentially, we want information and methods that work, and as long as there aren't any risks associated with it, then that's useful information.
+基本上，我们希望提供既有效又安全的信息和方法，只要它们没有明显的风险，就值得收录。
 
-If you experience any problems with any methods whether listed on the site or not, there's a list [here](/wiki/pages/other-resources/questionable-exercises). We welcome any new information.
+如果你在使用任何方法时遇到问题（无论是否在本站列出），可以查看 [有争议的练习列表](/wiki/pages/other-resources/questionable-exercises) 。我们欢迎任何新的信息补充。

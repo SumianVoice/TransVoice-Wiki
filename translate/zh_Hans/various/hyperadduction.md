@@ -1,5 +1,5 @@
 ---
-title: Hyperadduction
+title: 过度内收（Hyperadduction）
 parent: Big List of Stuff
 nav_order: 12
 has_children: false
@@ -12,40 +12,40 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Hyperadduction
-Don't do hyperadduction.
+# 过度内收（Hyperadduction）
+不要使用过度内收。
 
-Hyperadduction is when the vocal folds are pressed too firmly together. The result is a damaging - when done for too long - and grating voice quality.
+过度内收指的是声带被过度紧密地挤压（如用力过大、尤其是技巧不正确时）。这种现象如果持续过长时间，会对声带造成损害，并导致语音质量降低。
 
-## What hyperadduction sounds like
-Hyperaduction has a very harsh and buzzy tone, similar to high resonance vocal weight. It's often mistaken for vocal weight.
-Non-hyperadducted heavy vocal weight:
-<audio controls> <source src="/audio/tone-masc-normal.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-Hyperadducted heavy vocal weight:
-<audio controls> <source src="/audio/tone-masc-hyperadducted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+## 过度内收的声音特征
+过度内收的声音会产生非常刺耳、震颤的音调，与高共鸣的音重相似，因此常常被误认为是低沉的音重。
+**未**发生过度内收的厚重音重：
+<audio controls> <source src="/audio/tone-masc-normal.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
+过度内收的厚重音重：
+<audio controls> <source src="/audio/tone-masc-hyperadducted.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
 
-## Causes
-Inexhaustive list.
-- trying to get higher than is comfortable in M2
-  - basically M2 screaming
-- belting with bad technique
-- yelling loudly
-- trying to artificially add vocal weight by pressed phonation (which is hyperadduction)
+## 可能的原因
+以下是部分可能导致过度内收的因素，或有更多：
+- 在 M2（假声区）内尝试发出过高的音高
+    - 也就是 M2 的尖叫发声
+- 采用错误的技巧进行高音区嘶吼（belting）
+- 大声喊叫
+- 试图通过挤压声带来人为增加音重（即过度内收）
 
-## Problems associated with hyperadduction
-These mostly come about in the long term. Doing hyperadduction for three seconds probably isn't going to destroy your voice.
-- nodules (you don't want this)
-- general hoarseness when not hyperadducted
-- voice pain
-- loss of closure after being hyperadducted leading to breathiness
+## 过度内收可能引发的问题
+这些问题通常在长期使用过度内收后出现，短暂（如 3 秒）的过度内收不太会破坏语音，但长期使用会导致：
+- 声带结节（不希望发生这个）
+- 即使在未过度内收时也会出现持续性的沙哑
+- 发声时疼痛
+- 过度内收后导致声带闭合能力下降，进而产生气声
 
-## Ways to avoid hyperadduction
-- don't push the voice, especially in M2 or vocal weight past the point of 'slightly fatiguing'
-- make sure you aren't starving your voice of air and then using hyperadduction to get louder
-- avoid vocal fry when going heavier in vocal weight
+## 如何避免过度内收
+- 不要强行推高音高，尤其是在 M2 或提高音重时，避免超过“稍微疲劳”的阈值
+- 确保你的声音不是因为缺乏气息支撑而不得不依靠过度内收来提高音量
+- 在增加音重时避免使用低频喉音（vocal fry）
 
-## If you have hyperadduction problems
-1. stop training immediately
-2. rest
-3. do very light SOVTEs such as humming, (light to the point of almost failing to maintain phonation) for at most 20 minutes a day until the hyperadduction habit is gone
-4. learn your limits and stay mostly within them - don't push your voice to be loud or high in pitch, don't do belting until the habit is gone
+## 如果你已经有过度内收的问题
+1. 立即停止训练
+2. 休息
+3. 进行极轻的 SOVTE（半封闭声道练习），如哼唱（轻到几乎无法维持发声的程度），每天最多 20 分钟，直到过度内收的习惯消失
+4. 学会了解自己的极限，并尽量在极限范围内训练 —— 不要强行提高音量或音高，避免高音嘶吼（belting），直到该习惯完全消失

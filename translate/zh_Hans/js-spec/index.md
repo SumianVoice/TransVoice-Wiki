@@ -1,22 +1,22 @@
 ---
-title: In-Site Spectrogram
+title: 站内频谱图
 nav_order: 100
 has_children: false
 ---
-# In-Site Spectrogram
-There is a js based spectrogram made by Sumi included in the site. It can be found below.
+# 站内频谱图
+本网站包含由 Sumi 制作的基于 JS 的频谱图，您可以在下方找到。
 
-This has been updated, and you can find the old version at: [oldspec.sumianvoice.com](https://oldspec.sumianvoice.com/)
+代码已更新，旧版本可在此处访问：[oldspec.sumianvoice.com](https://oldspec.sumianvoice.com/)
 
 <span class="fs-8">
-[Open the spectrogram](https://spec.sumianvoice.com/){: .btn .btn-green }
+[打开频谱图计算网站](https://spec.sumianvoice.com/){: .btn .btn-green }
 </span>
 
-## How To Read a Spectrogram
-[See explanation here](https://wiki.sumianvoice.com/wiki/pages/other-resources/spectrograms.html)
+## 如何阅读频谱图
+[点击此处查看解释](https://wiki.sumianvoice.com/wiki/pages/other-resources/spectrograms.html)
 
 
-## Pitch floor
-You can set a pitch floor by specifying a minimum pitch (in Hz) which will cause the program to beep annoyingly whenever the sound drops below the set value.
+## 音高下限
+您可以通过设定最低音高（单位 Hz）来设置音高下限。当声音低于设定值时，程序会发出蜂鸣声以示提醒。
 
-![Pitch Floor Setting](/img/pitch_floor.png)
+![音高下限设置](/img/pitch_floor.png)

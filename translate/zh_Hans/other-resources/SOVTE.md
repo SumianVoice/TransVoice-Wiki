@@ -1,5 +1,5 @@
 ---
-title: SOVTEs
+title: 半闭塞声带练习
 parent: Other Resources
 nav_order: 3
 has_children: false
@@ -13,8 +13,8 @@ nav_exclude: true
 1. TOC
 {:toc}
 </details>
-# SOVTEs
-Semi Occluded Vocal Tract Exercises.
+# 半闭塞声带练习 (SOVTEs)
+半闭塞声带练习 (Semi Occluded Vocal Tract Exercises)。
 ```
 add info about SOVTEs/VFEs and examples
 as well as what they are useful for (consistency)

@@ -1,5 +1,5 @@
 ---
-title: What is Vocal Gender
+title: 何为语音性别
 parent: Getting Started
 nav_order: 5
 ---
@@ -11,56 +11,56 @@ nav_order: 5
 1. TOC
 {:toc}
 </details>
-# Differences between masculine and feminine voices
-There are many differences between masculine voices and feminine voices.
-There's also a huge spectrum of voice types and modifications, which makes comparing them generally almost untenable. However, some generalisations can be made, and we can look at specific voice features and their effect on vocal gender.
+# 男性化语音与女性化语音的区别
+男性化语音与女性化语音存在许多差异。
+此外，语音类型的范围极其广泛，使得它们之间的比较几乎不可行。然而，我们可以进行一些概括，并分析特定的语音特征及其对语音性别的影响。
 
-In a very basic matter of speaking, when people hear a voice they subconsciously ask themselves <i class="hlblue">"what is the closest gender category that this falls in"</i>. There are no magic numbers or min/maxing, only vague descriptions.
+从最基本的角度来看（虽然这是基于刻板印象的），当人们听到一个声音时，他们会下意识地问自己<i class="hlblue">“这个声音最接近哪个性别类别？”</i>。并不存在某个普适性的数值或参数优化方案，只有模糊的描述。
 
-# Effects of testosterone
-The primary effects of testosterone on the voice are:
-- slight elongation of the vocal tract
-- expansion of the oropharynx (mouth and top of throat)
-- expansion of the larynx and lengthening \[need verification\] of vocal folds (lowering in pitch)
-- slight thickening of the vocal fold ligament (vocal fold mass which affects vocal weight)
+# 睾酮的影响
+睾酮对声音的主要影响包括：
+- 轻微延长声道
+- 口咽（口腔与喉顶部）的扩张
+- 喉部的扩大以及声带的加长 \[需要验证\]（导致音高降低）
+- 声带韧带的轻微增厚（声带质量，而这会影响音重）
 
-## Typical features of feminine voices
-- low in vocal weight
-- high in resonance
-- bright, clear tone
-- high in pitch with a high pitch ceiling
-- use of M2 or mix for intonation and other speech features
-- high intonation range and frequency of inflection
-- more tempo changes through speech
-- pitch used as emphasis
+## 女性化语音的典型特征
+- 低音重
+- 高共鸣
+- 明快、清晰的音色
+- 音高较高，且音高上限较高
+- 在语调和其他语音特征中使用 M2 或混合模式
+- 语调范围大，语调变化频率高
+- 语速变化较多
+- 通过音高变化来强调重点
 
-## Typical features of masculine voices
-- heavy in vocal weight
-- low to medium in resonance
-- rumbly, heavy tone
-- some voices dipping into M0/fry at bottom of pitch range
-- low intonation range and very low intonation frequency
-- less tempo changes
-- weight and volume used as emphasis
+## 男性化语音的典型特征
+- 高音重
+- 共鸣低至中等
+- 低沉、浑厚的音色
+- 某些声音在音高范围的最低处会进入 M0/低频喉音
+- 语调范围小，语调变化频率极低
+- 语速变化较少
+- 通过音重和响度来强调重点
 
-# Gendered factors
-In very (very) rough order of their effect on vocal gender (when isolated). In-exhaustive.
-1. vocal weight
-2. microbehaviours
-3. resonance
-4. speech patterns
-  - tempo fluctuation
-  - intonation frequency
-  - intonation range
+# 影响语音性别的因素
+以下因素按照其对语音性别的影响大致排序（当单独考虑时），但并不完整：
+1. 音重
+2. 微观行为
+3. 共鸣
+4. 语音模式
+   - 语速波动
+   - 语调变化频率
+   - 语调范围
 
-# Out-of-place factors
-These are not gendered but are uncommon to see and so make a voice more questionable or sound unnatural. In-exhaustive.
-1. hollowness (such as in M2 or TA deactivation)
-2. breathiness
-3. FVF constriction
-4. too much speech pattern/accent modification
-5. tongue root retraction
-6. nasality
+# 不协调因素
+这些因素本身不具有性别特征，但在语音中较为少见，因此可能会让语音听起来不自然或令人困惑（列表不完全）：
+1. 空洞感（例如 M2 或 TA 不显著参与语音发声时）
+2. 气声
+3. 假声带收缩
+4. 过度的语音模式/口音修饰
+5. 舌根回缩
+6. 强鼻音
 
 
 

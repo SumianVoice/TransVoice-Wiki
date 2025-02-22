@@ -1,5 +1,5 @@
 ---
-title: Non-Speech Features
+title: 非言语特征
 nav_order: 27
 has_children: false
 nav_exclude: true
@@ -15,12 +15,12 @@ nav_exclude: true
 ```
 placeholder: about how to modify the gender of various non-speech elements
 ```
-# Non-Speech Features
+# 非言语特征（Non-Speech Features）
 
-## Coughing
+## 咳嗽
 
-## Clearing throat
+## 清嗓
 
-## Laughing
+## 笑声
 
-## Burping
+## 打嗝

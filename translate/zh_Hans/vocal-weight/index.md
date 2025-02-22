@@ -1,5 +1,5 @@
 ---
-title: "\nVocal Weight"
+title: "\n音重"
 nav_order: 5
 has_children: false
 ---
@@ -12,188 +12,188 @@ has_children: false
 {:toc}
 </details>
 
-# Vocal Weight
-## What is vocal weight?
-Vocal weight is a perceived quality of voice. It describes a heaviness or rumble that is present in most masculine voices. It's a substantial part of changing the gender of the voice and plays a role in pitch range too. Although it doesn't directly describe a physical modification, it does allude to one. It can be thought of as an educated guess at the amount of Vocal Fold Vibratory Mass or "how much of the vocal folds is moving".
+# 音重 (Vocal Weight)
+## 何为音重？
+音重是一种对语音的感知特性。作为形容词时，该词描述的是一种沉重或低沉的震动，这种特性在大多数男性化语音中都存在。音重在改变语音的性别特征方面起着重要作用，同时也影响音高范围。尽管它并不直接指代物理上的变化，但却暗示了这种变化。可以将其视为对声带振动质量（Vocal Fold Vibratory Mass）的合理推测，或者说有「多少声带部分在运动」。
 
-### Main notes
-- lighter vocal weight is considered more feminine, and heavier vocal weight is considered more masculine
-- heavy vocal weight is encouraged by low pitches and becomes more straining at high pitches
-- is a guess at the amount of the vocal folds that is vibrating
-- breathiness, unless we're making vocal weight heavier, is to be avoided
-- higher airflow and pressure encourages more vocal weight
+### 主要说明
+- 轻音重 (lighter vocal weight) 通常被认为更具女性化，而重音重 (heavier vocal weight) 则更具男性化。
+- 低音高有助于增加音重，而在高音高时，较重的音重会变得更具紧张感。
+- 音重可以看作是对声带振动质量的推测。
+- 除非目的是增加音重，否则应尽量避免气声。
+- 更高的气流和气压有助于增加音重
 
-This is also known as:
-- OQ/CQ open and closed quotient
-- vocal fold vibratory mass
-- thickness and thinness of the folds
-
-
-## Explanation
-It is essentially a way of describing the sound quality caused by the amount of mass with which the vocal folds interact. When we have more mass involved in the vibration of the vocal folds, we get a heavier, more rumbly sound. The muscles that control lowering pitch are largely thought to be responsible for this. When we have high vocal weight at a high pitch, it becomes difficult and effortful or even straining because these muscles are fighting against eachother. This means that high pitches that are relaxed are also most likely light in vocal weight. Breathiness - and some other usually undesired features - can hide this, which is why it's very important to avoid breathiness when training vocal weight.
-
-Under normal circumstances:
-- High pitch + heavy vocal weight = tension and effort
-- High pitch, relaxed and non-breathy = probably light vocal weight
-
-If we raise pitch and it's extremely easy or feels exactly the same as any other voice we use, it's light. If we raise pitch and it feels like we need to push the voice to go higher, then it's heavy.
-
-Sliding up in pitch can encourage 'belting' or keeping high vocal weight, so it's important to stay relaxed and even let the voice transition into M2. Sliding down in pitch tends to release this somewhat, if we do it relaxed and semi-quietly.
-
-For increasing vocal weight, we need to be careful to not go into [pressed phonation](/wiki/pages/various/hyperadduction). Generally the heaviest vocal weight we can do is going to be the lowest note we can do before we go into vocal fry. Lowering pitch tends to increase vocal weight, and so getting heavier often uses downward slides to the lowest note in order to slowly build up vocal weight. Sliding down slightly loudly but without high closure (so, staying normal or slightly breathy) will tend to increase vocal weight. Breathiness can be used provided we don't rely on it at any point or use it in a speaking voice.
-
-![Vocal Weight on FFT Spectrogram](/img/weight_comparison.gif)
-
-It's important however to be aware that pitch is not the only way to affect weight. We can isolate it and get light weight at a low pitch for example or heavy weight at a high pitch. This extra control is very useful - not only does it prevent us from accidentally slipping into another configuration but it allows us to progress faster and expand our range for this aspect more.
-
-Here are some examples of vocal weight in action:
-
-{% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" yttitle="Examples Of Vocal Weight" %}
+其它名称：
+- OQ/CQ（开放与闭合系数, open and closed quotient）
+- 声带振动质量 (vocal fold vibratory mass)
+- 声带的厚度与薄度 (thickness and thinness of the folds)
 
 
+## 详细说明
+音重本质上是用于描述由声带质量影响的音色特征。当声带的振动质量较大时，声音会显得更沉重、更低沉。控制音高降低的肌肉被认为在这一过程中起着主要作用。当在高音高时保持较高的音重，会导致困难、费力，甚至紧绷的感觉，这是因为这些肌肉相互对抗。因此，放松的高音高通常意味着较轻的音重。气声以及一些通常不受欢迎的特性，可能会掩盖音重，这也是为什么在训练音重时，应尽量避免气声的原因。
 
-## Lighter Vocal Weight
-Exercises for reducing vocal weight / achieving a lighter voice. This is geared toward feminisation vaguely, though how far you take each exercise is up to you!
+正常情况下：
+- 高音高 + 重音重 = 紧绷和费力
+- 高音高 + 放松且无气声 = 可能是轻音重
+
+如果我们升高音高时，感觉非常轻松，或者声音听起来与平常无异，那么它就是轻音重。相反，如果升高音高时感觉需要用力推动声音，则说明音重较重。
+
+音高上滑（滑音）可能会增强「高音高保持重音重」（类似于**「高音吼唱」**的效果），因此应注意保持放松，甚至让声音自然过渡到 M2（头声区）。音高下滑则通常有助于释放音重，特别是在放松且较低音量的情况下。
+
+增加音重的方法 [受迫发声](/wiki/pages/various/hyperadduction) (pressed phonation)。通常情况下，音重最重的声音出现在进入低频喉音（Vocal Fry）之前的最低音高。降低音高往往会增加音重，因此，想要加重音重时，通常会采用下滑音（往最低音滑动）来逐步增强音重。通过稍大音量的下滑音练习（但不过度闭合，即保持正常或略带气声），可以有效增加音重。不过，虽然可以利用气声，但不应完全依赖它，尤其是在日常说话时不宜过度使用气声。
+
+![FFT 频谱上的音重](/img/weight_comparison.gif)
+
+需要注意的是，音高并不是影响音重的唯一因素。例如，我们可以在低音高下保持轻音重，或在高音高下保持重音重。这种独立控制能力十分重要，不仅可以防止不自觉地进入其他声音模式，还能加快训练进度，并拓展在这一方面的控制能力。
+
+音重的样例：
+
+{% include youtube.html id="v-weight-examples" ytid="ar_r3qDbmoU" yttitle="音重样例" %}
+
+
+
+## 轻音重训练
+针对降低音重/获得更轻柔声音的训练。这部分训练主要面向女性化音色，但具体训练程度取决于个人需求！
 <details closed markdown="block">
 <summary markdown="block">
 Expand / Collapse
 </summary>
 
-### [PIPM](/wiki/pages/PIPM) / Pitch Naturalisation
+### [PIPM](/wiki/pages/PIPM) / 音高自然化训练
 
-See [the main page](/wiki/pages/PIPM) for a more detailed introduction and other exercises!
+查看 [PIPM 主页面](/wiki/pages/PIPM) 以获取更详细的介绍和其他训练方法！
 
-The idea is to start speaking at whatever is your natural relaxed pitch, with a strong tone. Don't go breathy or quiet, keep it strong and natural. Speak a passage; let intonation be present, and make the last note of each phrase or sentence held longer and stay on the same note. This will be your base pitch. The base pitch will now rise just slightly, so the pitch you end each phrase on will be slightly higher too. Once you feel **very comfortable** here, let that base pitch and the whole voice float up a little further, still letting the voice rise for intonation as well. Just the act of raising the last note will shift the entire voice, and the fact that we shifted the entire voice will mean the voice will slowly and naturally adjust. How high you go is determined by which pitches are already relaxed and naturalized.
-- speak at your relaxed, not-doing-anything pitch
-- make sure to start strong, possibly a little bit louder and heavier than normal
-- make **the last word of each phrase held longer** and monotone as it rests on the **base pitch** which helps keep the base pitch consistent
-- base pitch is the pitch your voice returns to after intonation, and it's what is raising the entire voice up to that "anchor"
-- once you feel comfortable here, let that last word and note float up a tiny bit, raising the whole voice
-- repeat, but don't push the pitch too high - the goal is to naturalize all of your range, not raise pitch
-- be extremely patient; if you rush or try too hard to control things, it won't work
-- lean toward less airflow but moderately loud
-- going up in pitch should be extremely easy, suspiciously so; if not, spend more time letting it naturalise it here or start again
-- pitch naturalisation is called that because at each pitch, the voice sounds natural as if it's always been at this pitch and this is your "natural voice"
+这个训练的核心思想是从你自然放松的音高开始说话，并保持施力（即有力的音色）。不要让声音变得气息化或太轻，而是要保持自然且有力。朗读一段文字，让语调存在，并延长每个短语或句子的最后一个音节，确保它保持在相同的音高。这就是你的基准音高。接下来，基准音高将稍微上升，因此每个短语结尾的音高也会略微提高。当你在这个新音高感到非常舒适时，让整个基准音高和声音再上升一点，同时仍然保持语调的自然上升。单单提升最后的音节就会改变整个声音，而整个声音的变化也会使其自然调整。你能上升到多高，取决于哪些音高对你来说已经是放松且自然的。
+- 以自然放松的音高说话，不要刻意调整。
+- 确保开始时声音有力，可能比平时稍微更响亮、更有重量感。
+- 延长每个短语的最后一个词，并让其保持单一音高（基准音高），这样有助于保持基准音高的稳定性。
+- 基准音高是你的声音在语调变化后回归的音高，它决定了整个声音的「锚点」。
+- 当你感觉舒适时，让最后一个词和音高再稍微浮动向上，带动整个声音上升。
+- 重复这个过程，但不要强迫音高过度上升——目标是让整个音域都自然化，而不是单纯升高音高。
+- 保持耐心，如果操之过急或者过度控制，训练就不会奏效。
+- 减少气流，但保持中等音量，避免声音变得过于轻柔或气息化。
+- 上升音高应该是极其轻松的，甚至让人觉得过于轻松。如果感觉困难，就花更多时间让声音适应这个阶段，或者重新开始。
+- 这个训练叫「音高自然化」，是因为无论在哪个音高，你的声音都会听起来自然，就像它一直处于这个音高一样，这才是你的「自然声音」。
 {% include youtube.html id="v-pipmintro" ytid="FrQQQLOmfrc" yttitle="PIPM Intro" %}
 {% include youtube.html id="v-pipmexample" ytid="x4O7hkC2zN8" yttitle="Example of the pitch naturalisation exercise" %}
 
 
-### The "awww" Trigger
-There are some behavioural triggers that encourage light vocal weight. One of these is to say "awww" as if talking to a cute puppy. We can then pitch down to where we can speak more comfortably. We need to make sure the pitch is high enough to get lighter weight (200hz or higher, usually) and low enough that we can actually speak.
+### 「awww」触发法
+有些行为模式可以诱导较轻的音重。其中一种方法是像在对可爱的小狗说话一样（或者是说像小狼的狼嚎），说「啊喔喔~(awww)」。然后，我们可以将音高向下降至一个更舒适的说话音高。我们要确保音高足够高以保持较轻的音重（通常在 200Hz 以上），但又不至于太高以至于无法正常说话。
 
-After saying "awww" 1-3 times we can go into speaking in that configuration, either a passage or just narrating to ourselves.
+说「awww」 1-3 次后，我们可以用这种新的声音模式朗读一段文字，或者直接随意说话。
 
-This exercise is usually very effective if done at the right pitch and in a relaxed way. Unlike pitch slides we don't have as much of a tendency to keep the weight high accidentally which makes it a very good exercise for if we tend to belt instead of lighten when going to high pitches.
+若在正确的音高范围内，并且是放松进行的，这个训练通常会非常有效。 与音高滑音练习不同，这个方法不容易意外保持较重的音重，因此对于那些在高音高时容易不自觉地保持重音重的人来说是很好的练习。
 
-It's very important to imagine something cute, and get "into the character" of this, or else it won't work at all.
+重要的是要想象某种可爱的东西，并「进入这个情境」，即真正发出我们所说的「啊喔喔~ (awww~)」音，否则训练不会有效果。
 
-{% include youtube.html id="v-awww" ytid="F6Kbi6M5vec" yttitle="The Awww Trigger for Light Vocal Weight"%}
+{% include youtube.html id="v-awww" ytid="F6Kbi6M5vec" yttitle="轻音重的 awww 触发法"%}
 
 
-### Pitch Slides
-Pitch slides are a good way to reduce vocal weight. As we go up in pitch, the folds want to thin and vibrate at a higher rate, which decreases the amount of force and vocal weight involved in phonation. You can use pitch then to induce low vocal weight and then eventually learn to control it independently of pitch.
+### 音高滑动/滑音（Pitch Slides）
+音高滑动/滑音是减少音重的好方法。当我们升高音高时，声带会变薄并以更高的频率振动，这会减少发声时的力量和音重。因此，我们可以利用音高来诱导较轻的音重，最终学会在不依赖音高的情况下控制音重。
 
-The exercise itself looks like this:
+练习大概看起来是这样的：
 
-{% include youtube.html id="v-slides" ytid="s1PyFzG86Eo" yttitle="Pitch Slides for light vocal weight" %}
+{% include youtube.html id="v-slides" ytid="s1PyFzG86Eo" yttitle="音高滑动/滑音来达到较轻的音重" %}
 
-It can be very useful to bring the low vocal weight configuration down to a low pitch. Usually this is to either get more control over it in general or to access that lower range for low pitch feminine voices.
+一个可能很有用方法是：尝试将较轻的音重配置带到较低的音高。以在整体上获得更好的控制，或者是为了在低音高范围内获得更女性化的音色。
 
-{% include youtube.html id="v-low-weight-down" ytid="OHxwSAAnj-Q" yttitle="Bringing Low vocal weight down in pitch" %}
+{% include youtube.html id="v-low-weight-down" ytid="OHxwSAAnj-Q" yttitle="降低低音部分的音重" %}
 
-### Yawning Exercise
-Yawning typically induces lower vocal weight so we can sometimes use this to our advantage. Usually people yawn with low vocal weight and low resonance, so we can use this to see what low vocal weight sounds like for us. Some people have a tendency to abduct (go breathy) so it's important to be aware of this and reduce the breathiness if there is any.
+### 哈欠练习
+打哈欠通常会自然地诱导较轻的音重，因此我们可以利用这个现象进行训练。大多数人在打哈欠时，音重较轻，共鸣也较低，这使得它成为一个观察自己轻音重状态的好方法。但需要注意的是，有些人可能会不自觉地产生较多气声，因此要注意减少气息过多的情况。
 
-1. yawn down to a low pitch
-2. reverse the yawn to come back up
-3. each time, go down to a higher pitch, working your way up to about 220hz or A3
-4. each time, make sure you check that when you go to higher resonance, it doesn't go too heavy
+1. 用打哈欠的方式降低音高，感受声带的松弛。
+2. 反向打哈欠，让音高回升。
+3. 每次下滑时，目标音高逐渐升高，最终稳定在 220Hz 左右（A3）。
+4. 在音高升高时，检查是否无意间增加了音重，确保共鸣变高时音重不会过重
 
 </details>
 
-## Heavier Vocal Weight
-Exercises for getting a heavier vocal weight. These are masculinising, but can be applied in any degree to achieve masculine or androgynous vocal weight levels.
+## 重音重训练
+这些训练是为了获得更重的音重。它们通常用于强化男性化声音，但也可以用于任何程度的音重调整，以实现男性化或中性化的音重水平。
 <details closed markdown="block">
 <summary>
 <u>Expand / Collapse</u>
 </summary>
 
-### Pitch Slide Vocal Weight 'Layering'
-In this exercise we start at a neutral pitch and slide down, layering on progressively heavier vocal weight. It's important as usual to avoid [hyperadduction](/wiki/pages/various/hyperadduction).
-1. start at a neutral pitch saying a vowel like "ahh" or "iii"
-2. let the pitch fall down to the lowest note you can do comfortably
-  - don't go into fry; fry sounds like a series of 'pops' and is somewhat rough
-  - you will probably be fairly loud when doing this
-  - if you go 'buzzy' or 'brassy', add breathiness; if it reduces the buzziness, then you might have been doing hyperadduction or pressed fry (avoid this)
-3. slide back up, keeping the volume high
-4. slide back down again, still keeping the volume high and repeat 1-3 times
+### 音高滑动/滑音 与 音重叠加
+在这个练习中，我们从一个中性音高开始，并向下滑音，同时逐渐增加音重。与往常一样，需要避免 [过度内收](/wiki/pages/various/hyperadduction)。
+1. 以中性音高开始，说一个元音，如 「啊 (ahh)」 或 「咿 (iii)」。
+2. 缓慢降低音高，直到达到你能舒适发出的最低音。
+  - 避免进入低频喉音（Vocal Fry），因为低频喉音听起来像一系列「爆裂声」，并且通常较粗糙。
+  - 进行这个练习时，你的声音可能会比平时更响亮。
+  - 如果声音变得过于「刺耳」或「金属感」（buzzy/brassy），尝试增加一点气息。如果这减少了刺耳感，说明可能发生了过度内收，应当避免。
+3. 保持较高响度，并滑音回升。
+4. 再一次滑音下降，保持音量，并重复 1-3 次
 
 </details>
 
 
-## Other Info
-Contains information about things like the vocal weight and [closure](/wiki/pages/clarity/breathiness.html#breathiness) relationship, things to avoid when training and so on.
+## 其它信息
+包含有关音重与 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness) 的关系、训练时应避免的事项等内容。
 <details closed markdown="block">
 <summary markdown="block">
 Expand / Collapse
 </summary>
 
-### Vocal Weight and Airflow
-Higher vocal weight requires more subglottal pressure, but not more airflow. This can seem a little counter intuitive, but we can increase air pressure without increasing airflow, since that airflow pressure is resisted by the folds. This extra resistance by the folds is what allows them to vibrate with more mass. If the airflow skipped over the folds, then they wouldn't have the energy to move in the high vocal fold mass configuration.
-- more vocal weight requires more pressure but not airflow
-- you can get louder without increasing weight or pressure by using higher [closure](/wiki/pages/clarity/breathiness.html#breathiness)
-- pressed phonation ([hyperadduction](/wiki/pages/various/hyperadduction)) is when you add too much [closure](/wiki/pages/clarity/breathiness.html#breathiness), getting to harmful levels
+### 音重与气流
+较高的音重需要更多的下声门压力（subglottal pressure），但并不需要更多的气流。这可能看起来有些违反直觉，但实际上，我们可以增加气流压力而不增加气流量，因为声带会抵抗气流的通过。这种抵抗作用使声带能够以更大的质量振动。如果气流直接掠过声带而没有足够的阻力，声带将无法在高音重模式下产生足够的振动能量。
+- 增加音重需要更高的压力，但不需要更多的气流。
+-可以通过提高 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness) 来增大音量，而不增加音重或压力。
+- 受迫发声 ([过度内收](/wiki/pages/various/hyperadduction)) 是由于 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness)，造成负面的结果
 
 
-### Closure Relationship
-Adding more [closure](/wiki/pages/clarity/breathiness.html#breathiness), like in yelling (loud at a high pitch) or barking (loud at a low pitch) does not necessarily add weight. Often, we hear more adduction like in [hyperadduction](/wiki/pages/various/hyperadduction) as _heavier_ when it's actually just louder. It's important to be careful not to assume that because a sound is more buzzy or louder, that it is from vocal weight.
+### 闭合度与音重的关系
+增加 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness) （如在高音高大声喊叫或低音高吠叫时）不一定会增加音重。练习者可能会把 [过度内收](/wiki/pages/various/hyperadduction) 误认为是更重的音重，但实际上，它只是让声音变得更响亮。因此，不要因为声音更刺耳或更响亮，就误以为是音重增加了。
 
 
-### Things vocal weight is not
-Here's a list of things that are not vocal weight, although they do affect it marginally in some cases.
-- pressed phonation or hyperadduction
-- breathiness
-- buzziness - many things sound buzzy
-- FVF constriction (which can sound buzzy)
-- twang, which is a resonance effect
+### 音重并不等于...
+尽管以下因素在某些情况下可能会稍微影响音重，但它们本身并不等于音重。
+- 受迫发声或过度内收（hyperadduction）
+- 气声
+- 刺耳的声音（buzziness）——许多不同的声音都可能听起来刺耳
+- 假声带收缩（FVF constriction），这可能会让声音听起来刺耳
+- 鼻音（twang），这是一种共鸣效应，即鼻腔共鸣
 
 
-### Warning Against Hyperadduction
-[Hyperadduction](/wiki/pages/various/hyperadduction) or pressed phonation can sound similar to vocal weight to a beginner, and so if increasing weight we can accidentally use it instead. Usually this only happens when trying to add weight. Hyperadduction sounds very buzzy, whereas vocal weight is more of _rumble_ quality. Adding more pressure and forcing it through tightly is very bad for the vocal folds.
+### 警惕过度内收
+[过度内收](/wiki/pages/various/hyperadduction) 或受迫发声对初学者来说可能听起来像是音重增加，因此，在尝试增加音重时，有时会不自觉地进入这种状态。通常，这种情况仅在主动尝试增加音重时发生。过度内收的声音会显得非常刺耳，而音重增加的声音则更偏向「低沉共鸣」的特质。增加压力并强行挤压气流通过声门对声带是极其有害的，因此要特别注意避免这种情况。
 
 
-### Breathiness
-[Breathiness](/wiki/pages/clarity/breathiness) can hide the _buzziness_ effect of a high vocal weight voice and make it harder to hear. This is not lowering vocal weight at all, only making the high vocal weight voice softer. It's best to avoid breathiness especially in exercises that modify vocal weight.
+### 气声（Breathiness）
+[气声](/wiki/pages/clarity/breathiness) 可能会掩盖高音重的「刺耳感」，从而使其听起来更柔和。但这并不会降低音重，而只是让高音重的声音变得更柔和。因此，在训练音重时，最好避免使用气声。
 
-If we make a habit of using breathiness to hide high vocal weight and talking at a high pitch with that heavy vocal weight for too long, we can make that comfortable to the point that we cannot use normal techniques like pitch slides to reduce weight, as the comfortable thing to do is stay heavy, rather than relax into light vocal weight like most exercises rely on.
+如果习惯使用气声来掩盖高音重，并且长期以高音高 + 高音重的方式说话，就可能导致无法通过常规方法（如滑音）来减少音重。这会使得继续维持重音重变得更自然，而不是放松到轻音重的状态，这与大多数训练方法的目标相悖。
 
-Using glottal strikes or [medium hard onsets](/wiki/pages/clarity/onsets) and offsets can help avoid this when doing vocal weight exercises.
-
-
-## Gender perception of vocal weight
-* Low vocal weight ➡️ ♀️ more feminine
-* High vocal weight ➡️ ♂️ more masculine
-
-There are however, many female voices with medium or even heavy vocal weight relative to typical feminine levels. Some examples include [imawonder](/wiki/pages/voice-examples/#imawonder) and [39daph](/wiki/pages/voice-examples/#daph). The important thing that makes this possible is most likely [microbehaviours](/wiki/pages/microbehaviours/) and potentially different ways/mechanisms of affecting the perception of vocal weight.
-
-Even though it's possible to have a feminine voice with medium or high vocal weight and even at a low pitch, it's extremely difficult until we have more control.
+使用 声门冲击 或者 [中等硬度的起音](/wiki/pages/clarity/onsets) 与闭音可以帮助避免这种情况，在训练音重时应优先考虑这些方法。
 
 
-## Generalisations about vocal weight
-These are very much generalisations and might not be accurate in everyone's case. Generally, vocal weight requires more air pressure, but not flow rate.
+## 音重的性别感知
+* 低音重 -> 更轻，因而更明亮 -> 更女性化 ♀️
+* 高音重 -> 更重，因而更低沉 -> 更男性化 ♂️
 
-- When getting louder I drop in pitch and/or don't add air - heavier weight
-- When getting louder I raise in pitch and add air - lighter weight
+然而，许多女性的声音在典型女性音重范围内仍可能具有中等甚至较重的音重，例如 [imawonder](/wiki/pages/voice-examples/#imawonder) 以及 [39daph](/wiki/pages/voice-examples/#daph). 这之所以可能，可能与微行为 [microbehaviours](/wiki/pages/microbehaviours/) 等因素有关，同时也可能有其他机制影响了音重的感知方式。
+
+尽管在较低的音高下保留较高的音重仍然可以维持女性化的声音，但这通常需要更强的控制能力，初学者很难做到——可以设定多个小目标，这样更容易达到最终的理想效果。
 
 
-## Loudness vs vocal weight
-A lot of people conflate the volume of our speech with vocal weight. Vocal weight is louder, but that doesn't mean all loud things are high in vocal weight. Yelling or shouting (rather than just speaking loudly) typically induces three things:
+## 关于音重的一些普遍认知
+这些结论仅为普遍规律，可能并不适用于所有人。一般来说，音重的增加需要更高的压力作用于气体，但不需要增加气流量。
 
-* raise in pitch
-* increased airflow (and increased [closure](/wiki/pages/clarity/breathiness.html#breathiness) to balance)
-* increased vocal weight
+- 当音量增大时，如果音高下降或气流保持不变，通常音重会较重。
+- 当音量增大时，如果音高升高且气流增加，通常音重会较轻
 
-These can be isolated or removed from the equation. You can get loud without going up in pitch, or without increasing airflow or any combination. Some people go quiet when trying to achieve low vocal weight and then never learn control over it properly. It's important to 'stretch' in every direction (within reason) and to avoid relying on something for our voice to work!
+
+## 响度 (Loudness) 与 音重 (Vocal Weight)
+许多人错误地认为音量等同于音重。尽管音重的声音通常更响亮，但这并不意味着所有响亮的声音都具有较高的音重。 一般来说，喊叫（yelling）或大声喊话（shouting）（而不仅仅是提高音量的说话）通常会导致以下三种情况：
+
+* 音高升高
+* 气流增加 (同时也会增加 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness) 以保证平衡)
+* 音重增加
+
+这些因素可以被独立调整或去除。例如，我们可以在不提高音高的情况下增大音量，或者在不增加气流的情况下提高音量，甚至同时调整多个因素。有些人在尝试降低音重时，会不自觉地把声音变得很轻，从而失去对音重的掌控能力。因此，在训练音重时，需要在合理范围内进行基于主语音、延伸向一些可能区域的「语音拉伸」，避免依赖某种单一方法，以确保能够灵活地控制音重！
 
 </details>
 

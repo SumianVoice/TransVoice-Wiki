@@ -1,5 +1,5 @@
 ---
-title: Onsets
+title: 起音
 parent: Clarity
 nav_order: 2
 ---
@@ -11,42 +11,42 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
-# Onsets
-Onsets are the attack of the sound, and when the attack is harsh it's called a hard onset. A soft onset is when there is less of a _burst_ on the start of phonation and the volume is consistent across the whole sound. Aspirate onsets instead start breathy and slide into phonation.
+# 起音（Onsets）
+起音（onsets） 指的是声音的起始方式。如果起始部分非常突然且强烈，则称为硬起音（hard onset）。如果起始部分没有明显的爆发（burst），音量从一开始就保持稳定，则称为软起音（soft onset）。如果起音从气息开始，并逐渐滑入发声，则称为气音起音（aspirate onset）。
 
-There are three main types of onset.
-1. hard onset
-2. soft onset
-3. aspirate onset
+三种主要的起音类型，也有介于三者之间的一些半起音
+1. 硬起音（Hard Onset）
+2. 软起音（Soft Onset）
+3. 气音起音（Aspirate Onset）
 
-Hard onset:
+硬起音（Hard Onsets）
 <audio controls> <source src="/audio/onsets-hard.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-Soft onset:
+软起音（Soft Onset）
 <audio controls> <source src="/audio/onsets-soft.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-Aspirate onset:
+气音起音（Aspirate Onset）
 <audio controls> <source src="/audio/onsets-aspirate.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
-## Hard onsets
-Hard onsets have a sudden attack and often are slightly louder than the rest of the sound.
+## 硬起音（Hard Onsets）
+硬起音的特点是声音突然爆发，通常比后续音量稍大。
 
-These can sound harsh, and also have a tendency to bring out heavy vocal weight.
-- pressed folds > airflow > phonation
-- vocal folds start closed, pressed firmly together
-- needs more pressure to _start_ phonation than to continue it, leading to a burst
+这些声音听起来很刺耳，也容易导致低沉的声重。
+- 受迫的声带 > 气流 > 发声
+- 声带开始闭合，紧紧挤压在一起
+- 开始发声所需的压力大于继续发声所需的压力，进而爆发
 
-## Soft onsets
-Soft onsets have either a sudden attack or a slight ramp and are consistent with the rest of the sound.
+## 软起音（Soft Onsets）
+软起音的特点是声音的起始较为平稳，音量与整体保持一致。
 
-These are usually a little cleaner sounding than hard onsets.
-- lightly closed folds > airflow > phonation
-- vocal folds start closed, pressed only very lightly together
-- only needs as much pressure as is needed in phonation, making the voice more consistent
+这些通常听起来比硬声带更清晰。
+- 轻闭的声带 > 气流 > 发声
+- 声带开始闭合，仅轻轻挤压在一起
+- 声带仅轻微闭合，所需的压力与后续发声所需的压力一致，使得声音平滑、稳定
 
-## Aspirate onsets
-Aspirate onsets start breathy and then go to phonation. "Haa" is an aspirate onset.
+## 气音起音 (Aspirate Onsets)
+送气音以气音开始，然后变成发声。「Haa」是送气音。
 
-These typically are associated with breathiness.
-- open folds > airflow > adding closure > phonation
-- vocal folds start open and close in order to start phonation
-- can encourage breathiness
-- can discourage proper vocal fold closure at rest (rare)
+这些通常与气息有关。
+- 打开声带 > 气流 > 增加闭合 > 发声
+- 声带开始打开和闭合以开始发声
+- 可以促进气息
+- 可以阻止静息时声带正确闭合（罕见）

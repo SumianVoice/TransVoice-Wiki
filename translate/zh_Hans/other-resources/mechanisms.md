@@ -1,5 +1,5 @@
 ---
-title: Vocal Mechanisms
+title: 语音机制
 parent: Other Resources
 nav_order: 7
 has_children: false
@@ -15,52 +15,52 @@ has_children: false
 <!-- ```
 finish this section off with each mechanism and what people use to refer to it
 ``` -->
-# Vocal Mechanisms
-A vocal mechanism or register is a distinct configuration of vocal fold interaction. Which, is a complicated way of saying...
-- vocal mechanisms are distinct, they don't overlap
-- they describe how the vocal folds vibrate
-- phonation is always within one of these mechanisms
-- you can pass between mechanisms without a break with training
+# 语音机制 (Vocal Mechanism)
+语音机制（vocal mechanism）或声区（register）指的是声带振动的不同配置。换句话说……
+- 每种语音机制都是独立的，互不重叠
+- 它们描述了声带的振动方式
+- 发声（phonation）总是发生在某一种机理内
+- 通过训练，你可以在不同机制间平滑转换而无断裂
 
-![modal voice](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vocal_fold_scheme.svg/580px-Vocal_fold_scheme.svg.png)
+![模态语音（modal voice）](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vocal_fold_scheme.svg/580px-Vocal_fold_scheme.svg.png)
 
 ## M0
 <p></p>
-fry
+低频喉音（Vocal Fry）
 {: .label .label-blue }
 strohbass
 {: .label .label-blue }
 pulse
 {: .label .label-blue }
 
-M0 or vocal fry is at the bottom of your vocal range. Try going to your lowest note, then relax a little and go lower. The rough sound similar to an idling motorcycle engine is from M0. This is when the folds are slack and the whole fold vibrates.
-- slack folds
-- whole fold vibrates
-- below your lowest M1 note
+M0 处于你的声域最低端。试着找到你的最低音，然后再放松一些，进一步降低音高。类似于怠速中的摩托车引擎的粗哑声音就是 M0。这时声带较为松弛，整个声带都会振动。
+- 声带松弛
+- 整个声带都在振动
+- 低于你的最低 M1 音
 
 ## M1
 <p></p>
-normal speech
+正常语音
 {: .label .label-blue }
-modal
+模态语音（Modal）
 {: .label .label-blue }
-chest voice
+胸声（Chest Voice）
 {: .label .label-blue }
 
-M1 is your normal speaking register.
-- where most people speak the majority of the time
-- most of the vocal folds vibrates
+M1 是你的正常语音声区。
+- 大多数人主要在此声区说话
+- 主要是整个声带振动
 
-![modal voice](https://upload.wikimedia.org/wikipedia/commons/e/eb/Vocal_fold_animated.gif)
+![模态语音（Modal）](https://upload.wikimedia.org/wikipedia/commons/e/eb/Vocal_fold_animated.gif)
 
 
 ## M2
 <p></p>
-falsetto
+假声（Falsetto）
 {: .label .label-blue }
-mix
+混合声（Mix）
 {: .label .label-blue }
-head voice
+头声（Head Voice）
 {: .label .label-blue }
 
 M2 is a usually hollow, very high pitch register.
@@ -69,40 +69,40 @@ M2 is a usually hollow, very high pitch register.
 - the TA muscles deactivate somewhat
 - mostly just mucosa of the folds vibrates
 
-![modal voice](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vocal_fold_falsett_animated.gif)
+![模态语音](https://upload.wikimedia.org/wikipedia/commons/3/3c/Vocal_fold_falsett_animated.gif)
 
 
 ## M3
 <p></p>
-whistle
+哨音（Whistle）
 {: .label .label-blue }
-flageolet
+泛音（Flageolet）
 {: .label .label-blue }
-flute register
+长笛声区（Flute Register）
 {: .label .label-blue }
 
-There are different theories and types of M3, but the main one is with mostly complete closure and a lot of tension, such that only a part of the folds vibrates.
-- mostly only a small part of the folds vibrates and only the mucosa
-- usually starts at 1000hz and can go as high as 5000hz or more.
+关于 M3 有不同的理论和分类，但主流观点认为其特征是声带几乎完全闭合，并伴随较高的紧张度，仅有部分声带振动。
+- 主要是声带的很小部分振动，仅涉及黏膜层。
+- 通常从 1000Hz 开始，可达到 5000Hz 或更高。
 
-This type of M3 is called stop closure whistle by [Antonio Di Corcia and Franco Fussi's paper↗](https://www.francofussi.com/wp-content/uploads/WHISTLE-REGISTER-OF-THE-SINGING-VOICE.-HSDI-EVICENCE.pdf) which puts forward the following findings:
+这种 M3 类型在 [Antonio Di Corcia 与 Franco Fussi 的论文↗](https://www.francofussi.com/wp-content/uploads/WHISTLE-REGISTER-OF-THE-SINGING-VOICE.-HSDI-EVICENCE.pdf) 中被称为「闭合哨音」（Stop Closure Whistle，SCW），其中提出了以下发现：
 
-**FLW - Female Laryngeal Whistle**
-- _"very thin, stiff and tightly stretched vocal folds"_
-- _"Often, no contact between the folds during phonation was noted"_
+**FLW - 女性喉部哨音（Female Laryngeal Whistle）**
+- 「声带非常薄、紧绷并被高度拉伸」
+- 「发声时，声带之间通常没有接触」
 
-**SCW – Stop Closure Whistle**
-- _"the whistle sound depends on a tiny orifice at the anterior third of the folds"_
-- caused by high adduction
-- _"HSDI observation showed a total absence of vibration (normal periodic vibration) in any components of the vibrating system caused by the stop_closure phenomenon"_
+**SCW - 闭合哨音（Stop Closure Whistle）**
+- 「哨音的产生取决于声带前三分之一处的微小开口」
+- 由高强度的内收（adduction）引起
+- 「HSDI 观察显示，由闭合现象引起的哨音并不涉及任何正常周期性振动」
 
-**IW - Ingressive Whistle**
-- _"high activity of the adductor muscles"_
-- _"absence of vibrating parts during ingressive phonation"_
+**IW - 吸气哨音（Ingressive Whistle）**
+- 「强烈的内收肌活动」
+- 「吸气发声期间没有任何振动物质参与」
 
-**Scream in M3**
-- _"[...]very stretched, thin and stiff vocal folds and an high constriction of the false vocal folds"_
-- _"[...]very further reduction of the mucosal wave vibration, very restricted to the edge of the fold"_
+**M3 中的海豚音（Scream in M3）**
+- 「极度拉伸、薄且僵硬的声带，并且假声带（False Vocal Folds）高度收缩」
+- 「黏膜波振动进一步减少，仅局限于声带边缘的极小范围」
 
 
 

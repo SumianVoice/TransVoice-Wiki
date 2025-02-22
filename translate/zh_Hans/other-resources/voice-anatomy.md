@@ -1,5 +1,5 @@
 ---
-title: Voice Anatomy
+title: 语音解剖学
 parent: Other Resources
 nav_order: 11
 has_children: false
@@ -12,54 +12,54 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Voice Anatomy
-While usually unnecessary to train our voices, being aware of the physical changes happening in the vocal tract can provide useful context.
+# 语音解剖学 (Voice Anatomy)
+虽然通常不需要深入了解解剖学来训练声音，但了解声道（Vocal Tract）内发生的物理变化可能会提供有用的背景知识。
 
-# Sam Webster's video
+# Sam Webster 的视频
 <details open markdown="block">
 <summary markdown="block">
 Expand / Collapse
 </summary>
-This video is a really good resource for anatomy information. It's recommended to watch the entire thing if you wish to know more about the anatomy of the voice. This is only about the larynx mind you. There are some notes and bookmarks below.
+这是一部非常优质的解剖学科普视频。如果你希望深入了解声音的解剖结构，建议完整观看。需要注意的是，该视频仅涉及喉部（Larynx）的解剖。以下是一些笔记和时间标记。
 <p align="left">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mtqpyzS48zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Main structures bookmarks
-- 01:58 hyoid bone
-- 02:35 epiglottis
-- 03:18 thyroid cartilage, laryngeal prominence "adams apple"
-- 03:27 cricoid cartilage
-- 04:05 aryrenoid cartilage
-- 05:20 cuneiform cartilages
-- 06:06 thyrohyoid muscle
-- 06:38 vocal folds
-- 07:20 false vocal folds
-- 09:04 pitch, adduction and abduction
-- 10:57 cricothyroid muscle, thyroid tilt for pitch
-- 12:58 thyroarytenoid muscles
-- 13:20 arytenoid muscles - adduction
-- 13:57 posterior cricoarytenoid muscles - abduction
-- 14:25 lateral cricoarytenoid muscles - adduction
+## 主要结构时间标记
+- 01:58 舌骨（Hyoid Bone）
+- 02:35 会厌（Epiglottis）
+- 03:18 甲状软骨（Thyroid Cartilage），喉结（Laryngeal Prominence / "Adam’s Apple"）
+- 03:27 环状软骨（Cricoid Cartilage）
+- 04:05 杓状软骨（Arytenoid Cartilage）
+- 05:20 楔状软骨（Cuneiform Cartilages）
+- 06:06 甲状舌骨肌（Thyrohyoid Muscle）
+- 06:38 声带（Vocal Folds）
+- 07:20 假声带（False Vocal Folds）
+- 09:04 音高（Pitch）、内收（Adduction）与外展（Abduction）
+- 10:57 环甲肌（Cricothyroid Muscle），通过甲状软骨倾斜调节音高
+- 12:58 甲杓肌（Thyroarytenoid Muscles）
+- 13:20 杓状肌（Arytenoid Muscles）- 内收作用
+- 13:57 后环杓肌（Posterior Cricoarytenoid Muscles）- 外展作用
+- 14:25 侧环杓肌（Lateral Cricoarytenoid Muscles）- 内收作用
 
-## Notes:
-- The thyroid tilts in order to increase or decrease pitch, by stretching or relaxing the vocal folds.
-- **CT**: The cricothyroid muscle tilts the thyroid forward, increasing pitch.
-- **TA**: The thyroarytenoid muscles tilts the thyroid backward, decreasing pitch. (also responsible for heavier vocal weight(?))
-- The arytenoid muscles adduct (bring together) the vocal folds along with the lateral cricoarytenoid muscles.
-- The posterior cricoarytenoid muscles abduct (pull apart) the vocal folds. Note: these are only used for breathing, not speech.
-- The epiglottis helps encourage food and so on not to pass through the airway (but the vocal folds close as well when swallowing in order to be sure).
-- The lateral cricoarytenoid muscles adduct the folds
+## 重点笔记
+- 甲状软骨倾斜（Thyroid Tilt）通过拉伸或放松声带来提高或降低音高。
+- 环甲肌（Cricothyroid Muscle, CT）：前倾甲状软骨，提高音高。
+- 甲杓肌（Thyroarytenoid Muscles, TA）：后倾甲状软骨，降低音高。（**或**与较重的音重相关？）
+- 杓状肌（Arytenoid Muscles）与侧环杓肌（Lateral Cricoarytenoid Muscles）共同内收声带（Adduction）。
+- 后环杓肌（Posterior Cricoarytenoid Muscles）用于外展（Abduction）声带，注意：这些肌肉仅用于呼吸，而非发声。
+- 会厌（Epiglottis）在吞咽时帮助防止食物或液体进入气道，同时声带也会闭合以确保安全。
+- 侧环杓肌（Lateral Cricoarytenoid Muscles）负责内收声带
 
 </details>
-# Diagrams
+# 解剖图
 <details open markdown="block">
   <summary>
     Expand / Hide
   </summary>
-![larynx muscles](/img/diagram-larynx-intrinsic.jpg)
-![tongue muscles](/img/diagram-tongue.png)
-![neck muscles](/img/diagram-neck.jpg)
-![neck posterior](/img/diagram-neck-posterior.jpg)
+![喉部肌肉](/img/diagram-larynx-intrinsic.jpg)
+![舌部肌肉](/img/diagram-tongue.png)
+![颈部肌肉](/img/diagram-neck.jpg)
+![颈部后视图](/img/diagram-neck-posterior.jpg)
 
 </details>

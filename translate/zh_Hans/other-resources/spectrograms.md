@@ -1,5 +1,5 @@
 ---
-title: Spectrograms
+title: 频谱图
 parent: Other Resources
 nav_order: 3
 has_children: false
@@ -12,14 +12,14 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Spectrograms
-Spectrograms are cool! It's best not to rely on them. Use them to train your ears, but don't use them in place of your ears!
+频谱图（Spectrograms）
+频谱图很酷！但最好不要过度依赖它们。你可以用它们来训练听觉，但不要让它们取代你的感觉！
 
-The most common use of a spectrogram is to monitor pitch and sometimes formants.
+频谱图最常见的用途是监测音高（Pitch），有时也用于观察共振峰（Formants）。
 
-## How To Read A Spectrogram
+## 如何阅读频谱图
 
-![How To Read A Spectrogram](/img/spectrogram.png)
+![如何阅读频谱图](/img/spectrogram.png)
 
 
-![Formants](/img/formants.png)
+![共振峰](/img/formants.png)

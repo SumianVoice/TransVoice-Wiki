@@ -1,5 +1,5 @@
 ---
-title: FVF
+title: 假声带 (FVF)
 parent: Clarity
 nav_order: 1
 nav_exclude: true
@@ -12,69 +12,69 @@ nav_exclude: true
 1. TOC
 {:toc}
 </details>
-# FVF
+# 假声带 (FVF)
 
 {% include image.html file="/img/fvf-without-with.jpg" alt="fvf comparison" max-width="300px"
-caption="No FVF constriction (left) compared to heavily FVF constricted (right)"
+caption="无假声带收缩（左）对比严重假声带收缩（右）"
 class="float-right" %}
 
-FVF or False Vocal Folds are the ventricular folds, just above the true vocal folds. When stressed, swallowing or holding our breath tightly, these constrict and close to protect the true folds. In older voices, we hear FVF more because the true folds have atrophied and over time lost the ability to function correctly, so the false folds pick up the lost closure.
+假声带（FVF，False Vocal Folds）指的是位于真声带（vocal folds）上方的室带（ventricular folds）。在压力状态下、吞咽时或屏住呼吸时，假声带会收缩并闭合，以保护真声带。在年长者的声音中，假声带收缩更常见，因为真声带随着时间的推移会萎缩并失去正常功能，导致假声带承担部分闭合作用。
 
-The false folds should not be activated in normal speech.
+假声带在正常讲话时不应被使用。
 
-There are commonly two problems associated with false fold constriction, FVF closure conflation and passive FVF constriction.
+常见的假声带收缩问题有两种：假声带闭合混淆（FVF closure conflation）和被动假声带收缩（Passive FVF constriction）。
 
-## FVF closure conflation
-This is where the false folds are constricted when we try to add true fold closure. If left unchecked it can be very difficult to remedy.
-There are signs of this that you can check on fortunately.
+## 假声带闭合混淆
+这是指当我们尝试让真声带闭合时，假声带也收缩。如果不加以纠正，可能会变得非常难以改善。
+我们可以通过以下方法检查是否存在这一问题。
 <!-- ```
 video on false fold closure checks, glottal taps and strikes
 ``` -->
-### Checking for FVF Closure Issues
-1. hold your breath as lightly as possible.
-2. breath out (you should notice a very slight pop)
-  - if this pop is easily heard, you probably have FVF closure coming in
-3. use glottal taps like we just did, and make the sound lighter and lighter, focusing on keeping a consistent stream of air. Don't use less air to make it softer, use more to challenge yourself to do it correctly
+### 检查假声带闭合问题
+1. 尽可能轻地屏住呼吸。
+  - 呼气（你应该能察觉到轻微的「弹开」的感觉。如果声音能被察觉到，则类似于非常微弱的轻咳）。
+2. 如果这个「弹开」声很明显，说明可能存在假声带闭合问题。
+3. 使用「声门轻触 (glottal taps)」练习，逐步让声音变得更轻，同时保持稳定的气流。不要通过减少气流来降低音量，而是使用更多的气流来挑战自己正确发声
 
-Good glottal taps:
-<audio controls> <source src="/audio/glottal taps unconstricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-Constricted glottal taps:
-<audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
+正确的/好的 声门轻触:
+<audio controls> <source src="/audio/glottal taps unconstricted.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
+受假声带收缩影响的 声门轻触:
+<audio controls> <source src="/audio/glottal taps constricted.ogg" type="audio/ogg"> 浏览器不支持音频播放 </audio>
 
 
-## Passive FVF Constriction
-This is where the voice constantly sound rough and hoarse. We can check for passive FVF in a few ways.
+## 被动假声带收缩
+这是指声音长期听起来沙哑、嘶哑或粗糙。可以通过以下方法检查是否存在被动假声带收缩。
 <!-- ```
 video/audio example of fvf constriction
 ``` -->
-### Using Quiet Breathing to Reduce FVF constriction
-We can use quiet breathing as a way to reduce false fold constriction because the loudness of a breath is directly tied to the amount of restriction in the throat; which is what adding false folds does.
+### 通过安静呼吸减少假声带收缩
+使用安静的呼吸可以减少假声带收缩，因为呼吸的响度直接与喉部的收缩程度相关，而假声带收缩正是增加喉部紧张的原因。
 
-It is very important that we stay relaxed in this exercise. If we add effort in any way it could encourage some things we definitely don't want.
+练习时保持放松非常重要。如果在练习过程中增加额外的力，可能会无意中强化错误的发声习惯。
 
-1. Breathe in and out normally
-2. Breathe in and out again, but make it silent and airy
-  - this is similar to when blowing out a candle
-3. Breathe out again
-  - in the middle of the out breath say "ah"
-  - don't try to change pitch
-  - leave the "ah" as the default position with no effort
-  - this is similar to a sigh
-4. Breathe out again
-  - this time change the pitch to the target pitch
+1. 以正常方式吸气和呼气。
+2. 再次吸气和呼气，但让呼吸尽量安静、轻柔、有气息感。
+   - 类似于轻轻吹灭蜡烛的感觉。
+3. 再次呼气。
+   - 在呼气的中途发出 「啊」。
+   - 不要刻意改变音高。
+   - 让「啊」保持最自然的状态，不要用力发声。
+   - 这个练习类似于叹气。
+4. 再次呼气。
+   - 这次尝试将音高调整到目标音高
 
 {% include youtube.html id="v-res-stepping" ytid="_k_gFcMACrw" %}
 
-### Using light phonation
-1. use a very light humming sound
-2. make it lighter
-3. is there a roughness or "rattle"?
-  - yes -> probably constricted
-  - no -> probably not constricted
+### 通过轻柔发声检查假声带收缩
+1. 发出一个非常轻柔的哼声。
+2. 让哼声变得更轻、更柔和。
+3. 检查是否存在嘶哑或「咳/咔」声：
+   - 如果有嘶哑或「咳/咔」声 → 可能存在假声带收缩。
+   - 如果声音清晰 → 可能没有假声带收缩
 
-Unconstricted hum:
+无假声带收缩的哼声：
 <audio controls> <source src="/audio/hum unconstricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
-Constricted hum:
+受假声带收缩影响的哼声：
 <audio controls> <source src="/audio/hum constricted.ogg" type="audio/ogg"> Your browser does not support the audio element. </audio>
 
 

@@ -1,28 +1,28 @@
 ---
-title: Legal Disclaimer
+title: 免责声明
 nav_order: 200
 has_children: false
 ---
 
-# Disclaimer
-All information provided on this site is from community additions. It is provided without warranty, guarantee or liability. By viewing this or any page under wiki.sumianvoice.com, you agree to absolve the site maintainers and contributors of all liability for the content hosted on those pages.
+# 免责声明
+本网站提供的所有信息均来自社区补充。不提供任何担保、保证或责任。通过查看此页面或 wiki.sumianvoice.com 下的任何页面，您同意免除网站维护者和贡献者对这些页面上托管的内容的所有责任。
 
-This is a community project, if you have criticisms, make them heard - we want to hear it. Don't sue us.
+这是一个社区项目，如果您有批评，欢迎提出：我们希望倾听反馈，而不是起诉我们。
 
 
 
-Actual legalese:
+法律术语版：
 
-## NOTICE
+## 通知
 
-THE CONTRIBUTORS OF CONTENT TO THIS SITE (wiki.sumianvoice.com and it's related pages) WILL HENCEFORTH BE REFERRED TO AS MAINTAINER ENTITIES.
+本网站（wiki.sumianvoice.com 及其相关页面）内容的贡献者今后将被称为维护者实体。
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE MAINTAINER ENTITIES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (i) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (ii) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS, CONTRIBUTORS OR THIRD PARTIES; (iii) ANY CONTENT OBTAINED FROM THE SERVICES; OR (iv) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT. THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, AND WHETHER OR NOT THE MAINTAINER ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+在适用法律允许的最大范围内，维护实体不对任何间接、偶发、特殊、后果性或惩罚性损害，或任何利润或收入损失（无论是直接或间接造成的），或任何数据、使用、商誉的损失或其他无形损失承担责任，这些损失源于（i）您访问、使用或无法访问或使用服务；（ii）任何第三方在服务上的行为或内容，包括但不限于其他用户、贡献者或第三方的任何诽谤、冒犯或非法行为； (iii) 从服务中获得的任何内容；或 (iv) 未经授权访问、使用或更改您的传输或内容。本小节的限制适用于任何责任理论，无论是基于担保、合同、法规、侵权行为（包括疏忽）还是其他，也无论维护实体是否已被告知发生此类损害的可能性，即使本文所述的补救措施未能达到其基本目的。
 
-THE MATERIALS ON THIS SITE DO NOT CONSTITUTE HEALTH OR PROFESSIONAL ADVICE OR ADVICE OF ANY KIND, EVEN IF EXPRESSLY OR IMPLICITLY STATED OTHERWISE WITHIN THE CONTENT.
+本网站上的资料不构成任何形式的健康或专业建议或建议，即使内容中另有明示或暗示。
 
-THIS SITE CONTAINS LINKS TO THIRD PARTIES. THE MAINTAINER ENTITIES ARE NOT RESPONSIBLE FOR ANY CONTENT IN ANY LINKED SITE OR ANY SUBSEQUENT LINKS IN LINKED SITES.
+本网站包含第三方链接。维护实体对任何链接网站中的任何内容或链接网站中的任何后续链接概不负责。
 
-ANY OPINIONS IMPLICIT OR EXPLICIT FOUND ON THIS SITE DO NOT REPRESENT THE OPINIONS OF THE MAINTAINER ENTITIES.
+本网站上的任何隐含或明确意见均不代表维护者实体的意见。
 
-THE MAINTAINER ENTITIES DO NOT GUARANTEE THE VALIDITY NOR THE UTILITY NOR EFFECTIVENESS OF ANY MATERIALS PROVIDED ON THE SITE.
+维护者实体不保证本网站上提供的任何材料的有效性、实用性或有效性。

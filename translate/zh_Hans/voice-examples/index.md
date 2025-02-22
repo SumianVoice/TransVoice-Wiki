@@ -21,17 +21,17 @@ has_children: false
 
 ### Drawing Wiff Waffles
 {: .d-inline-block }
-<div>dynamic</div>{: .label .label-green }
-<div>medium pitch</div>{: .label .label-yellow }
-<div>medium high resonance</div>{: .label .label-blue }
+<div>多变</div>{: .label .label-green }
+<div>中等音高</div>{: .label .label-yellow }
+<div>中高共鸣</div>{: .label .label-blue }
 
 适于训练多种语音模式，以及中声部的明亮音色。
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (150hz - 330hz intonation, 500hz highest)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitch is hard)
+音重   🥁 🟡 🟡 🟤 🟤 🟤 低沉
+共鸣      🎻 🟡 🟡 🟡 🟡 🟤 中高
+音高          🎵 🟡 🟡 🟡 🟤 🟤 低到中等 （150hz - 330Hz 变化, 500Hz 峰值）
+难度     💔 🟡 🟡 🟡 🟤 🟤 简单到中等 （在低音时保持声音明亮有难度）
 ```
 {% include youtube.html id="v-waffles" ytid="qjC30KkyLLU" %}
 <!--  -->
@@ -39,17 +39,17 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium (brightness at low pitc
 <!--  -->
 ### imawonder
 {: .d-inline-block }
-<div>very bright</div>{: .label .label-yellow }
-<div>slightly heavy</div>{: .label .label-blue }
-<div>low pitch</div>{: .label .label-red }
+<div>非常明快</div>{: .label .label-yellow }
+<div>轻微低沉</div>{: .label .label-blue }
+<div>低音高</div>{: .label .label-red }
 
-Really good for learning brightness despite a very low pitch
+非常适合学习明亮音色尽管音调很低
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 heavier
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (150hz - 250hz intonation, ~500hz peaks)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high intonation peaks)
+音重   🥁 🟡 🟡 🟡 🟡 🟤 比较低沉
+共鸣      🎻 🟡 🟡 🟡 🟤 🟤 中高
+音高          🎵 🟡 🟡 🟤 🟤 🟤 低 (150hz - 250hz 变化, ~500hz 峰值)
+难度     💔 🟡 🟡 🟡 🟤 🟤 中等较难（明快，震动感强，语调峰值高）
 ```
 {% include youtube.html id="v-imawonder" ytid="fmgoaFjsqt4" start="4409" %}
 <!--  -->
@@ -57,18 +57,18 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (bright, buzzy, high in
 <!--  -->
 ### Nurse
 {: .d-inline-block }
-<div>very low pitch</div>{: .label .label-red }
-<div>smooth</div>{: .label .label-blue }
-<div>deep fem</div>{: .label .label-grey }
-<div>low resonance</div>{: .label .label-blue }
+<div>非常低音高</div>{: .label .label-red }
+<div>流畅</div>{: .label .label-blue }
+<div>低沉的女性化</div>{: .label .label-grey }
+<div>低共鸣</div>{: .label .label-blue }
 
-Perfect for learning a deep feminine voice at very (120hz) low pitch.
+非常适合学习音调极低（120 赫兹）的低沉女声。
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 medium high
-pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(120 - 200hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
+音重          🥁 🟡 🟡 🟤 🟤 🟤 偏轻
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 中高
+音高          🎵 🟡 🟤 🟤 🟤 🟤 非常低（120Hz - 200Hz）  
+难度          💔 🟡 🟡 🟡 🟡 🟤 难（在极低音高下保持良好的喉头控制）  
 ```
 {% include youtube.html id="v-nurse" ytid="3u6snmQNTRQ" %}
 <!--  -->
@@ -76,19 +76,19 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 <!--  -->
 ### Moriah Elizabeth
 {: .d-inline-block }
-<div>typical feminine</div>{: .label .label-pink }
-<div>creak</div>{: .label .label-grey }
-<div>low pitch</div>{: .label .label-blue }
-<div>high intonation</div>{: .label .label-red }
-<div>high volume</div>{: .label .label-white }
+<div>典型女性化</div>{: .label .label-pink }
+<div>喉音（creak）</div>{: .label .label-grey }
+<div>低音高</div>{: .label .label-blue }
+<div>高音调</div>{: .label .label-red }
+<div>高响度</div>{: .label .label-white }
 
-Good for learning high pitch brightness and getting out of a low volume configuration.
+适用于学习高音明快度，并摆脱低音量发声习惯。
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high w/ twang sometimes
-pitch          🎵 🟡 🟡 🟡 🟡 🟤 medium-high (170hz - 350hz intonation, ~400hz highest)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
+音重          🥁 🟡 🟡 🟤 🟤 🟤 低  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高（偶尔带鼻音）  
+音高          🎵 🟡 🟡 🟡 🟡 🟤 中高（170Hz - 350Hz 语调变化，~400Hz 最高）  
+难度          💔 🟡 🟡 🟡 🟡 🟤 中等偏难  
 ```
 {% include youtube.html id="v-moriah" ytid="UzvqPVx0Jd4" %}
 <!--  -->
@@ -96,18 +96,18 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 medium-hard
 <!--  -->
 ### Jimena Reno
 {: .d-inline-block }
-<div>medium pitch</div>{: .label .label-green }
-<div>low intonation</div>{: .label .label-blue }
-<div>low volume</div>{: .label .label-grey }
-<div>high resonance</div>{: .label .label-red }
+<div>中等音高</div>{: .label .label-green }
+<div>低语调</div>{: .label .label-blue }
+<div>低响度</div>{: .label .label-grey }
+<div>高共鸣</div>{: .label .label-red }
 
-Good for low volume brightness and a good entry level mimicry source. Slightly breathy at times.
+适用于低音量明亮度的训练，是一个较易模仿的入门示例，偶尔带有一点气声。
 
 ```
-vocal weight   🥁 🟡 🟤 🟤 🟤 🟤 very low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200hz - 250hz intonation, ~300hz peaks)
-difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
+音重          🥁 🟡 🟤 🟤 🟤 🟤 非常轻  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（200Hz - 250Hz 语调变化，~300Hz 最高）  
+难度          💔 🟡 🟡 🟤 🟤 🟤 容易（但共鸣控制较难）  
 ```
 {% include youtube.html id="v-jimena" ytid="eZqOHmWViUQ" start="55" %}
 <!--  -->
@@ -115,18 +115,18 @@ difficulty     💔 🟡 🟡 🟤 🟤 🟤 easy-ish (hard resonance)
 <!--  -->
 ### Karina Singh
 {: .d-inline-block }
-<div>low pitch</div>{: .label .label-green }
-<div>low intonation</div>{: .label .label-blue }
-<div>intonation spikes</div>{: .label .label-red }
-<div>lowish resonance</div>{: .label .label-grey }
+<div>低音高</div>{: .label .label-green
+<div>低语调</div>{: .label .label-blue }
+<div>语调突变</div>{: .label .label-red }
+<div>较低共鸣</div>{: .label .label-grey }
 
-Good example of low resonance and pitch but maintaining feminine qualities and brightness.
+低音与共鸣较低，但仍能保持女性化特征和明快度的优秀示例。
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 low-medium (160hz - ~250hz intonation, ~340hz peaks)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
+音重          🥁 🟡 🟡 🟤 🟤 🟤 低  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 低至中等（160Hz - ~250Hz 语调变化，~340Hz 最高）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 简单至中等  
 ```
 {% include youtube.html id="v-karina" ytid="DYGBmB04SVo" start="20" %}
 <!--  -->
@@ -134,17 +134,17 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 easy-medium
 <!--  -->
 ### Jackie Liu
 {: .d-inline-block }
-<div>low pitch</div>{: .label .label-blue }
-<div>high intonation</div>{: .label .label-green }
-<div>dynamic</div>{: .label .label-red }
+<div>低音高</div>{: .label .label-blue }
+<div>高语调</div>{: .label .label-green }
+<div>富于变化</div>{: .label .label-red }
 
-Very soft and high resonance, good for learning brightness at low pitch
+声音柔和且共鸣较高，适合在低音下学习明快度
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 low-high (140hz - 350hz intonation)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
+音重          🥁 🟡 🟡 🟤 🟤 🟤 低  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高  
+音高          🎵 🟡 🟡 🟤 🟤 🟤 低至高（140Hz - 350Hz 语调变化）  
+难度          💔 🟡 🟡 🟡 🟡 🟤 难（语调变化、低音训练）  
 ```
 {% include youtube.html id="v-jackie" ytid="oOXXuwTPJYQ" start="393" %}
 <!--  -->
@@ -152,17 +152,17 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard - intonation, low pitch
 <!--  -->
 ### PearlescentMoon
 {: .d-inline-block }
-<div>high pitch intonation</div>{: .label .label-red }
-<div>medium low vocal weight</div>{: .label .label-green }
-<div>🇦🇺 Australian accent</div>{: .label .label-blue }
+<div>高音语调</div>{: .label .label-red }
+<div>中低音重</div>{: .label .label-green }
+<div>🇦🇺 澳大利亚口音</div>{: .label .label-blue }
 
-Good for super high intonation
+适合极高语调训练
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch          🎵 🟡 🟡 🟡 🟡 🟤 170hz- 400hz
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
+音重          🥁 🟡 🟡 🟡 🟤 🟤 中低  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高  
+音高          🎵 🟡 🟡 🟡 🟡 🟤 170Hz - 400Hz  
+难度          💔 🟡 🟡 🟡 🟡 🟤 难  
 ```
 {% include youtube.html id="v-pearlescentmoon" ytid="Ke9RcVSdWkg" %}
 <!--  -->
@@ -170,17 +170,17 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard
 <!--  -->
 ### Shohreh Aghdashloo
 {: .d-inline-block }
-<div>very low pitch</div>{: .label .label-grey }
-<div>FVF constriction</div>{: .label .label-red }
-<div>vocal fry</div>{: .label .label-blue }
+<div>极低音</div>{: .label .label-grey }
+<div>假声带收缩（FVF constriction）</div>{: .label .label-red }
+<div>沙哑（Vocal fry）</div>{: .label .label-blue }
 
-A quite out of the ordinary voice that's really interesting and beautiful
+非常独特且优美的嗓音示例
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-high
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low 65 - 150hz
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
+音重          🥁 🟡 🟡 🟡 🟤 🟤 中高  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高  
+音高          🎵 🟡 🟤 🟤 🟤 🟤 非常低（65Hz - 150Hz）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 难  
 ```
 {% include youtube.html id="v-shohreh" ytid="DGcUB55muSw" start="18" %}
 <!--  -->
@@ -188,18 +188,18 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard
 <!--  -->
 ### 39daph
 {: .d-inline-block }
-<div>lowish resonance</div>{: .label .label-grey }
-<div>heavier weight</div>{: .label .label-grey }
-<div>bright</div>{: .label .label-blue }
-<div>very dynamic</div>{: .label .label-red }
+<div>较低共鸣</div>{: .label .label-grey }
+<div>较重音重</div>{: .label .label-grey }
+<div>明快</div>{: .label .label-blue }
+<div>富于变化</div>{: .label .label-red }
 
-Good for low pitch brightness and dynamic resonance and weight.
+适用于低音明亮度训练，以及动态共鸣和音重控制。
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium with high intonation (140hz - 270hz, 350hz highs)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
+音重          🥁 🟡 🟡 🟡 🟤 🟤 中等  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（140Hz - 270Hz，最高 350Hz）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 难（喉头控制）  
 ```
 {% include youtube.html id="v-daph" ytid="EpM3nWRUqXE" %}
 <!--  -->
@@ -207,16 +207,16 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 hard (glottal behaviour)
 <!--  -->
 ### pikat
 {: .d-inline-block }
-<div>low pitch</div>{: .label .label-red }
-<div>low resonance</div>{: .label .label-green }
-<div>deep</div>{: .label .label-blue }
-Low pitch deep fem voice with ludicrous glottal behaviour
+<div>低音高</div>{: .label .label-red }
+<div>低共鸣</div>{: .label .label-green }
+<div>低沉</div>{: .label .label-blue }
+低音高、深沉的女性嗓音，带有极其流畅的喉头控制
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium low
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 150hz with spikes up to 400hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is very smooth)
+音重          🥁 🟡 🟡 🟡 🟤 🟤 中低  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（130 - 150Hz，峰值 400Hz）  
+难度          💔 🟡 🟡 🟡 🟡 🟡 非常难（喉头控制极其流畅）  
 ```
 {% include youtube.html id="v-pikat" ytid="q-30doxX9Yo" start="0" %}
 <!--  -->
@@ -224,17 +224,17 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟡 very hard (glottal behaviour is ver
 <!--  -->
 ### Gazes
 {: .d-inline-block }
-<div>quiet</div>{: .label .label-grey }
-<div>high resonance</div>{: .label .label-green }
-<div>slightly breathy</div>{: .label .label-blue }
+<div>安静</div>{: .label .label-grey }
+<div>高共鸣</div>{: .label .label-green }
+<div>略带气声</div>{: .label .label-blue }
 
-Good for high resonance at low volume
+适用于低音量情况下的高共鸣训练
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 low
-resonance      🎻 🟡 🟡 🟡 🟡 🟤 high
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 -250hz)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
+音重          🥁 🟡 🟡 🟤 🟤 🟤 低  
+共鸣          🎻 🟡 🟡 🟡 🟡 🟤 高  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（200 - 250Hz）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 中等（共鸣和音重控制）  
 ```
 {% include youtube.html id="v-gazes" ytid="1SqetzLJ4Es" %}
 <!--  -->
@@ -242,17 +242,17 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium (resonance and weight)
 <!--  -->
 ### Rainbow 6 video
 {: .d-inline-block }
-<div>low pitch</div>{: .label .label-green }
-<div>slightly breathy</div>{: .label .label-blue }
-<div>Japanese</div>{: .label .label-red }
+<div>低音高</div>{: .label .label-green }
+<div>略带气声</div>{: .label .label-blue }
+<div>日语</div>{: .label .label-red }
 
-Good for voice acting deep feminine voices
+适用于配音深沉女性化语音的训练
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 medium light
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟡 🟤 🟤 🟤 low (180-300hz)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
+音重          🥁 🟡 🟡 🟤 🟤 🟤 中轻  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟡 🟤 🟤 🟤 低（180 - 300Hz）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 中等  
 ```
 {% include youtube.html id="v-rainbow6" ytid="lgk9WQsg5xU" %}
 <!--  -->
@@ -260,18 +260,18 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium
 <!--  -->
 ### The Narrator (Baldur's Gate)
 {: .d-inline-block }
-<div>extreme low pitch</div>{: .label .label-red }
-<div>bright voice</div>{: .label .label-yellow }
-<div>vocal fry</div>{: .label .label-grey }
-<div>deep fem</div>{: .label .label-blue }
+<div>极低音高</div>{: .label .label-red }
+<div>明快</div>{: .label .label-yellow }
+<div>沙哑</div>{: .label .label-grey }
+<div>低沉女性化</div>{: .label .label-blue }
 
-Very deep and extremely low pitch, good for bright and also deep feminine voice mimicry.
+非常深沉且音高极低，适用于明快但同时低沉的女性嗓音模仿。
 
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟤 🟤 medium-low
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟤 🟤 🟤 🟤 very low(100 - 160hz, base ~140hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at very very low pitch)
+音重          🥁 🟡 🟡 🟡 🟤 🟤 中低  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟤 🟤 🟤 🟤 非常低（100 - 160Hz，基准 ~140Hz）  
+难度          💔 🟡 🟡 🟡 🟡 🟤 难（极低音高下的喉头控制）  
 ```
 {% include youtube.html id="v-baldurs" ytid="BcdezgUEnLM" %}
 <!--  -->
@@ -279,46 +279,46 @@ difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (good glottal behaviour at ver
 <!--  -->
 ### GeminiTay
 {: .d-inline-block }
-<div>bright voice</div>{: .label .label-yellow }
-<div>loud</div>{: .label .label-grey }
-<div>high intonation</div>{: .label .label-blue }
+<div>明快的嗓音</div>{: .label .label-yellow }
+<div>响亮</div>{: .label .label-grey }
+<div>高语调</div>{: .label .label-blue }
 
-Bright, loud medium pitch voice with a fair bit of intonation range.
+中等音高、响亮且富于语调变化的语音。
 
 ```
-vocal weight   🥁 🟡 🟡 🟤 🟤 🟤 very low
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium high - 900-1200 F1 (~1200 /æ/)
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (200 - 350hz)
-difficulty     💔 🟡 🟡 🟡 🟡 🟤 hard (volume, brightness and resonance)
+音重          🥁 🟡 🟡 🟤 🟤 🟤 非常轻  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中高（900-1200Hz F1，~1200Hz /æ/）  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（200 - 350Hz）  
+难度          💔 🟡 🟡 🟡 🟡 🟤 难（音量、明快度和共鸣控制）  
 ```
 {% include youtube.html id="v-geminitay" ytid="l-OHb50BzzQ" %}
 <!--  -->
 
 
 </details>
-<!-- End of fem voices! -->
+<!-- 女性化语音到此结束! -->
 
-<!-- Start of masc voices! -->
+<!-- 男性化语音从此开始 -->
 
 <details open markdown="block">
 <summary markdown="block">
-## ♂️ Masculine Voices
+## ♂️ 男性化语音
 </summary>
 <!-- voice block -->
 
 ### Frank Proto
 {: .d-inline-block }
-<div>medium high pitch</div>{: .label .label-blue }
-<div>heavy</div>{: .label .label-yellow }
-<div>vocal fry</div>{: .label .label-grey }
-<div>roughness</div>{: .label .label-red }
+<div>中高音高</div>{: .label .label-blue }
+<div>低沉</div>{: .label .label-yellow }
+<div>沙哑</div>{: .label .label-grey }
+<div>粗犷</div>{: .label .label-red }
 
-Dynamic, mostly high pitch, lots of intonation, fast tempo
+动态丰富，音高较高，语调变化大，语速快
 ```
-vocal weight   🥁 🟡 🟡 🟡 🟡 🟤 medium high
-resonance      🎻 🟡 🟡 🟡 🟤 🟤 medium
-pitch          🎵 🟡 🟡 🟡 🟤 🟤 medium (130 - 250hz, base ~150hz)
-difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (heavy vocal weight)
+音重          🥁 🟡 🟡 🟡 🟡 🟤 中高  
+共鸣          🎻 🟡 🟡 🟡 🟤 🟤 中等  
+音高          🎵 🟡 🟡 🟡 🟤 🟤 中等（130 - 250Hz，基准 ~150Hz）  
+难度          💔 🟡 🟡 🟡 🟤 🟤 中等偏难（音重较大）  
 ```
 {% include youtube.html id="v-frankproto" ytid="I-mWa_GqIEg" %}
 <!--  -->
@@ -326,7 +326,7 @@ difficulty     💔 🟡 🟡 🟡 🟤 🟤 medium hard (heavy vocal weight)
 
 
 </details>
-<!-- End of masc voices! -->
+<!-- 男性化语音到此结束 -->
 
 
 

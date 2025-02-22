@@ -1,5 +1,5 @@
 ---
-title: Questionable Exercises
+title: 有争议的训练法
 parent: Other Resources
 nav_order: 12
 has_children: false
@@ -12,43 +12,43 @@ has_children: false
 1. TOC
 {:toc}
 </details>
-# Questionable Exercises
+# 有争论的训练法
 {: .no_toc }
-Below is a very incomplete list of just some of the vocal training methods that are either extremely questionable or downright dangerous. Each is ranked and information about how to avoid the risks if possible is included.
+以下是一些极具争议性，甚至可能有害的声音训练方法的简要列表。每种方法都经过评级，并附带关于如何尽可能避免风险的信息。
 
-This is an evolving document like most of the site, so we're always looking for more info.
+和本网站的大多数内容一样，这是一份不断更新的文档，因此我们始终在寻找更多相关信息。
 
 
 <details open markdown="block"><summary markdown="block">
-## Risky, dangerous or ineffective exercises
+## 风险较高、危险或无效的训练方法
 </summary>
 
-### Swallow and hold
+### 保持吞咽喉位（Swallow and Hold）
 
 {: .d-inline-block }
-<div>dangerous</div>{: .label .label-red }
+<div>危险</div>{: .label .label-red }
 
-- often used to raise the larynx
-- risks extreme constriction of muscles not associated with phonation including [FVF](/wiki/pages/clarity/FVF)
-- strain, loss of vocal control, loss of [closure](/wiki/pages/clarity/breathiness), pain can result
-- was recommended by some very old resources and occasionally SLPs
+- 通常用于提高喉头位置（Larynx）
+- 可能导致与发声无关的肌肉过度收缩，包括 [假声带（FVF）](/wiki/pages/clarity/FVF) 的紧闭
+- 可能导致紧张、失去声音控制、失去 [闭合能力](/wiki/pages/clarity/breathiness) ，甚至引发疼痛
+- 曾在一些非常古老的资源中被推荐，偶尔也被部分言语治疗师（SLP）提及
 
-**To avoid risks**:
-- don't do it at all, ever
-- swallowing is fine, holding is not. Learning _what_ a larynx _is_ with swallowing is fine, but it is absolutely paramount that you don't hold it and _do not base your understanding of how the larynx can be moved_ on the sensations being felt or muscles used when swallowing.
+**避免风险的方法**：
+- 完全不要做，永远不要做
+- 吞咽本身没问题，但不应该保持吞咽状态。通过吞咽来了解喉头的位置是可以的，但绝对不能让自己保持这个状态，更不要根据吞咽时的感觉或使用的肌肉来推断喉头的活动方式。
 
-### Glottal stop slide _or any slide toward full [closure](/wiki/pages/clarity/breathiness)_
+### 声门停止滑动（Glottal Stop Slide）或任何向完全 [闭合](/wiki/pages/clarity/breathiness) 方向的滑音
 
 {: .d-inline-block }
-<div>risky</div>{: .label .label-yellow }
+<div>有风险</div>{: .label .label-yellow }
 
-- can encourage a conflation between [FVF](/wiki/pages/clarity/FVF) closure and true fold [closure](/wiki/pages/clarity/breathiness)
-- very, very hard to untrain if habitualised
+- 可能导致[假声带 (FVF)](/wiki/pages/clarity/FVF) 的闭合与真正声带闭合，即 [气声](/wiki/pages/clarity/breathiness) 混淆
+- 如果习惯化，会非常、非常难以纠正
 
-**To avoid risks**:
-- only do it under supervision of someone who knows what [FVF](/wiki/pages/clarity/FVF) closure glottal stops and strikes sound like
-  - don't add more pressure
-  - use extremely light [glottal taps](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) to gain understanding of unconstricted true fold closure
-- don't do it
+**避免风险的方法**:
+- 只有在熟悉 [假声带 (FVF)](/wiki/pages/clarity/FVF) 闭合、声门停止 (glottal stops) 和声门冲击 (glottal strikes) 的人指导下才可尝试
+- 不要施加额外压力
+- 使用极轻的 [声门轻触 (glottal taps)](/wiki/pages/clarity/FVF.html#checking-for-fvf-closure-issues) 来理解非受限的真正声带闭合
+- 不要使用这个方法
 
 </details>

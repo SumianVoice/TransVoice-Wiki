@@ -1,5 +1,5 @@
 ---
-title: Hall of Fame
+title: 名人堂
 parent: Big List of Stuff
 nav_order: 99
 has_children: false
@@ -7,16 +7,16 @@ nav_exclude: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
-1. TOC
+1. 目录
 {:toc}
 </details>
-# Introduction
-This is a big list of really interesting or amazing voices, in no particular order.
+# 介绍
+这里是一个汇总了各种有趣或令人惊叹的语音列表，排名不分先后。
 
-## List of Amazing Voices
+## 令人惊叹的语音列表
 ### Kiseki
 {% include youtube.html id="v-kiseki" ytid="crS7Cliv75U" %}
 ### Super Idol

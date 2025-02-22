@@ -51,21 +51,21 @@ has_children: true
 - 即使只是暂时地在自然不强迫的情况下用稍高于平时的音高讲话也会有帮助（参见 [pitch naturalisation](/wiki/pages/PIPM)）。
 - 避免 [breathiness](/wiki/pages/clarity/breathiness) 或过轻的声音，目前避免使用 [M2 / 假声](/wiki/pages/other-resources/mechanisms)。
 
-## Raise [resonance](/wiki/pages/resonance) and brighten as needed
-- try to think of resonance as just an **aspect of sound**, don't focus on physical aspects like raising the larynx except for context
-- people often raise their larynx (and thus, resonance) when going to a high pitch, so you might not even need to do this step
-- avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
-- avoid unvoiced / whisper slides if you can, or **prioritise doing voiced** ones. If you do unvoiced slides, make sure they are not constricted or rough, use "la" or "wa" (soft onsets) to help reduce the chance of constriction
-- clean the sound up before using it. Don't use a configuration that is rough or efforful, make it smooth first even at the cost of lowering resonance slightly
+## 提高[共鸣](/wiki/pages/resonance)并增强明亮度
+- 只需将共鸣视为声音的**一种特质**，而不是专注于喉头位置等物理方面
+- 人们在升高音高时通常会自然提升喉头（进而提高共鸣），因此你可能不需要特意练习这一步
+- 避免 [假声带](/wiki/pages/clarity/FVF) 收缩（避免出现「老年人声音」）
+- 避免无声滑音或低声滑音，优先「有声滑音」。如果进行无声滑音，确保它们不紧绷或粗糙，可以用「la」或「wa」进行柔和起音，以减少收缩的可能性
+- 先让声音变得平滑，再进行进一步调整。如果当前配置听起来粗糙或费力，先调整使其平滑，即使这意味着共鸣稍微降低
 
 ## 语音清洁
 若你的声音有任何粗糙之处，那么请在现在尝试清洁。因为如果现在不改正，未来将会非常难去除。
 
-- reduce any [breathiness](/wiki/pages/clarity/breathiness)
-- practice lighter onsets with glottal strikes
-- reduce [FVF](/wiki/pages/clarity/FVF) or roughness if present
-- identify sources of tension and eliminate them
-- find or create your strategically lazy configuration
+- 降低 [气声](/wiki/pages/clarity/breathiness)
+- 练习更轻柔的起音，并加入声门冲击训练
+- 减少 [假声带](/wiki/pages/clarity/FVF)收缩 或 声音粗糙感
+- 识别并消除紧张源
+- 找到或创建适合你的「懒惰配置」（放松、易达到但有效的语音状态）
 
 ## 练习语音范式
 - 找到你喜欢的声音的 [语音示例] (/wiki/pages/voice-examples)
@@ -74,38 +74,38 @@ has_children: true
 - 模仿某人的语音范式
 - 语调不需要很高，但值得练习
 
-## Get more [pitch range](/wiki/pages/pitch-range)
-- at first this means just using the voice at a slightly higher pitch sometimes to stretch your range over time. Fatigue or strain is to be avoided entirely; if you feel tension in the neck you are trying too hard or are too high
-- blending into m2/falsetto and making it sound more full
-- practice intonating progressively higher
+## 扩展[音域](/wiki/pages/pitch-range)
+- 一开始可以在更高的音高上练习，以便逐渐扩大音高范围。避免紧张或疲劳；如果感到喉部紧绷，说明你用力过猛或音高过高
+- 练习将 M2 / 假声融合进主声区，使其听起来更加饱满
+- 逐步练习更高的语调变化
 
-## Start [mimicry](/wiki/pages/microbehaviours/mimicry) and learn [microbehaviours](/wiki/pages/microbehaviours)
-- you can do this at any time, but make sure you can hit the pitch and resonance of the voice you're mimicking or else it might be quite difficult
-- find a clip of a voice such as from [voice examples](/wiki/pages/voice-examples) that is not outside your pitch or resonance range
-- put a beep sound at the beginning for timing if needed
-- practice speaking over it as it plays and also listening and copying
+## ## 开始 [模仿](/wiki/pages/microbehaviours/mimicry) 并学习 [微行为](/wiki/pages/microbehaviours)
+- 你可以随时进行这项练习，但要确保自己能够匹配你所模仿声音的音高和共鸣，否则可能会变得非常困难。
+- 找一个与你的音高和共鸣范围相匹配的语音片段，例如[语音示例](/wiki/pages/voice-examples)中的内容。
+- 如果需要，可以在语音片段开头添加一个提示声（比如哔）来帮助掌握节奏。
+- 在播放音频时尝试跟读，并练习聆听和模仿。
 </details>
 
-## Voice Masculinisation
-To achieve a heavier, darker and more masculine voice in general. (under construction)
+## 男性化语音训练
+旨在获得更沉重、更低沉、更男性化的语音。（建设中）
 <details open markdown="block">
 <summary markdown="block">
 Expand / Collapse
 </summary>
 
-## Expand your lower range
-- low pitch and heavy vocal weight are linked, and to achieve one you need the other
-- [Vocal Weight Layering slides](/wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) are a good exercise to start with
-- avoid fry and pressed phonation, as they don't help but can sound lower in pitch
+## 扩展低音范围
+- 低音高和高音重是相关的，两个往往且需要被同时掌握。
+- [音重分层滑音](/wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) 练习是一个很好的入门训练。
+- 避免低频喉音和受压发声，这些可能会让声音听起来更低沉，但实际上并不会真正降低音高
 
-## Develop a lower resonance and darker voice
-- mouth space and articulation are extremely important, so look at some methods that focus on that like [hah/haw](/wiki/pages/resonance/#haah-and-haww)
-- it may be needed to lower overall resonance too, not just mouth space; whispering high to low as a guide, or doing a yawn, can make that happen
+## 培养更低的共鸣和更低沉的音色
+- 口腔空间和发音方式极为重要，可以尝试一些专注于这些方面的方法，例如 [hah/haw 练习](/wiki/pages/resonance/#haah-and-haww)。
+- 可能需要降低整体共鸣，而不仅仅是调整口腔空间。尝试从高到低的轻语练习，或者哈欠练习（本教程皆附），可以帮助降低共鸣
 
-## Practice speech patterns
-- find an [example](/wiki/pages/voice-examples) of a voice you like
-- you don't need to be monotone to sound masculine, but you do need to keep the voice heavy if you do intonate
-- masculine voices typically have less intonation frequency, meaning they may intonate up once and let it slowly drop, rather than going up and down for every word (but, again it's not always the case)
+## 训练语音模式
+- 找一个你喜欢的 [语音示例](/wiki/pages/voice-examples)。
+- 不需要让语调完全单调来听起来更男性化，但如果你有语调变化，仍然需要保持声音的重量感。
+- 男性化语音通常语调变化频率较低，可能会在某处稍微上扬后缓慢下降，而不会在每个词上都出现明显的音调起伏（但这也不是绝对的）
 
 
 </details>
