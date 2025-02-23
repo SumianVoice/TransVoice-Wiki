@@ -1,12 +1,12 @@
 ---
 title: 次谐波
-parent: Clarity
+parent: "清晰度 (Clarity)"
 nav_order: 9
 nav_exclude: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

@@ -1,13 +1,13 @@
 ---
 title: 语音健康
-parent: Other Resources
+parent: "其它资源"
 nav_order: 4
 has_children: false
 nav_exclude: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

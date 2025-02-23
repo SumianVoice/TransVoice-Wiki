@@ -1,11 +1,11 @@
 ---
 title: 微行为列表
-parent: Microbehaviours
+parent: "微行为 (Microbehaviours)"
 nav_order: 2
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

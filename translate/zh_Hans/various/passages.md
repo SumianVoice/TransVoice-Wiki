@@ -1,13 +1,13 @@
 ---
 title: 示例文本段落
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 10
 has_children: false
 nav_exclude: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
@@ -49,7 +49,7 @@ This passage is very common and useful for starting out. It's a good example of 
 ### 短句
 </summary>
 
-The phrases in this passage are shorter, which can help when trying small modifications many times.
+这些短语较短，适合反复进行微调练习。
 - Open the crate but don't break the glass.
 - Oak is strong and also gives shade.
 - Cats and dogs each hate the other.

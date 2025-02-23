@@ -1,13 +1,13 @@
 ---
 title: 发出低沉的女性化语音
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 8
 has_children: false
 nav_exclude: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. 目录

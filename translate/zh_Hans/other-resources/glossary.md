@@ -1,12 +1,12 @@
 ---
 title: 术语表
-parent: Other Resources
+parent: "其它资源"
 nav_order: 1
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

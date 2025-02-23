@@ -1,12 +1,12 @@
 ---
 title: 新用术语
-parent: Other Resources
+parent: "其它资源"
 nav_order: 19
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
@@ -31,7 +31,7 @@ has_children: false
 
 ## 重要说明
 
-If you wish to verify this signature, use the plaintext version in the `new_terminology.md` file on GitHub. Otherwise, some of the characters used in markdown will not be present and you will get a bad verify.
+如果你希望验证此签名，请首先确认中文版本是否与英文版本内容匹配（中文版本可能存在落后与迟滞），且请使用 **SumianVoice/TransVoice-Wiki** GitHub 仓库上的 `new_terminology.md` 文件中的纯文本版本。否则，由于 Markdown 语法的特殊字符，某些字符可能会缺失，导致验证失败。
 
 
 以下信息是权威的最终版本。你可以通过检查签名的日期是否晚于原始版本，并通过 Git 记录确认所有变更。

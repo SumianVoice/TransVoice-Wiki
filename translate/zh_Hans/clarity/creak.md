@@ -1,11 +1,11 @@
 ---
 title: 喉音颤振（Creak）
-parent: Clarity
+parent: "清晰度 (Clarity)"
 nav_order: 3
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

@@ -1,11 +1,11 @@
 ---
 title: 何为语音性别
-parent: Getting Started
+parent: "入门"
 nav_order: 5
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

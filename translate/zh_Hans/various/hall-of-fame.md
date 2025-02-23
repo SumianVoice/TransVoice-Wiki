@@ -1,6 +1,6 @@
 ---
 title: 名人堂
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 99
 has_children: false
 nav_exclude: false

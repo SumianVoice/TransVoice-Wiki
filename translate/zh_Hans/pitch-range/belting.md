@@ -1,11 +1,11 @@
 ---
 title: 强胸声训练
-parent: Pitch Range Expansion
+parent: "音域扩展 (Pitch Range Expansion)"
 nav_order: 2
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

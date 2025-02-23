@@ -1,13 +1,13 @@
 ---
 title: 隐蔽练习
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 2
 has_children: false
 nav_exclude: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

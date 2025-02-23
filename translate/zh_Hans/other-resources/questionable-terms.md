@@ -1,12 +1,12 @@
 ---
 title: 有争议的术语
-parent: Other Resources
+parent: "其它资源"
 nav_order: 12
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

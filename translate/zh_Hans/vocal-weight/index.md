@@ -1,11 +1,11 @@
 ---
-title: "\n音重"
+title: 音重 (Vocal Weight)
 nav_order: 5
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
@@ -56,7 +56,7 @@ has_children: false
 针对降低音重/获得更轻柔声音的训练。这部分训练主要面向女性化音色，但具体训练程度取决于个人需求！
 <details closed markdown="block">
 <summary markdown="block">
-Expand / Collapse
+展开/折叠
 </summary>
 
 ### [PIPM](/wiki/pages/PIPM) / 音高自然化训练
@@ -115,7 +115,7 @@ Expand / Collapse
 这些训练是为了获得更重的音重。它们通常用于强化男性化声音，但也可以用于任何程度的音重调整，以实现男性化或中性化的音重水平。
 <details closed markdown="block">
 <summary>
-<u>Expand / Collapse</u>
+<u>展开/折叠</u>
 </summary>
 
 ### 音高滑动/滑音 与 音重叠加
@@ -135,7 +135,7 @@ Expand / Collapse
 包含有关音重与 [闭合度](/wiki/pages/clarity/breathiness.html#breathiness) 的关系、训练时应避免的事项等内容。
 <details closed markdown="block">
 <summary markdown="block">
-Expand / Collapse
+展开/折叠
 </summary>
 
 ### 音重与气流

@@ -1,18 +1,18 @@
 ---
-title: 共鸣（Resonance）
+title: 共鸣 (Resonance)
 nav_order: 6
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
 
-# 共鸣（Resonance）
+# 共鸣 (Resonance)
 ## 何为共鸣？
 某个容器（如人体喉部、口部、鼻腔等）内部的空间可以理解为其内部体积，就像管道中的空气一样。共鸣指的是声音如何受到空间形状和大小的影响。我们可以通过高共鸣或低共鸣来感知这种音质，或者通过明亮度（brightness）来感知它，这是更具感知性的对应概念。低共鸣的声音听起来更低沉、浑厚，有种如雷声样「轰隆」的感觉。高共鸣的声音则更明亮，在极端情况下甚至可能带有「刺耳」的特质。可以用一些虚拟角色来类比：巨人通常会有低沉、轰鸣的低共鸣声音。地精、侏儒的声音通常是高共鸣的，听起来明亮而尖锐。
 
@@ -35,7 +35,7 @@ has_children: false
 提升共鸣并让声音整体更加明亮，可以通过多种调整方法实现。
 <details closed markdown="block">
 <summary>
-<u>Expand / Collapse</u>
+<u>展开/折叠</u>
 </summary>
 
 ###。有声共鸣阶梯训练（Voiced Resonance Stepping）

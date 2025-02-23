@@ -9,7 +9,7 @@ has_children: false
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 - TOC

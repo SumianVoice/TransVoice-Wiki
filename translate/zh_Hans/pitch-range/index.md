@@ -1,11 +1,11 @@
 ---
-title: 音域扩展
+title: 音域扩展 (Pitch Range Expansion)
 nav_order: 25
 has_children: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

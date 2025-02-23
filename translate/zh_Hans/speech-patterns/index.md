@@ -1,17 +1,17 @@
 ---
-title: 语音模式
+title: 语音模式 (Speech Patterns)
 nav_order: 8
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
-# 语音模式
+# 语音模式 (Speech Patterns)
 ## 性别化语音模式
 ### 典型的女性化语音特征：
 - 更广的语调范围

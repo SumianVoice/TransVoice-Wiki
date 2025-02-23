@@ -1,12 +1,12 @@
 ---
 title: 语音解剖学
-parent: Other Resources
+parent: "其它资源"
 nav_order: 11
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
@@ -18,7 +18,7 @@ has_children: false
 # Sam Webster 的视频
 <details open markdown="block">
 <summary markdown="block">
-Expand / Collapse
+展开/折叠
 </summary>
 这是一部非常优质的解剖学科普视频。如果你希望深入了解声音的解剖结构，建议完整观看。需要注意的是，该视频仅涉及喉部（Larynx）的解剖。以下是一些笔记和时间标记。
 <p align="left">

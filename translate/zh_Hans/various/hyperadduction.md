@@ -1,12 +1,12 @@
 ---
 title: 过度内收（Hyperadduction）
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 12
 has_children: false
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC

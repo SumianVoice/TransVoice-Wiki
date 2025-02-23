@@ -1,17 +1,17 @@
 ---
-title: 微行为（Microbehaviours）
+title: 微行为 (Microbehaviours)
 nav_order: 20
 has_children: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
 {:toc}
 </details>
-# 微行为（Microbehaviours）
+# 微行为 (Microbehaviours)
 你可以把它看作声音指纹（voice print）。
 微行为是用来描述那些过于细微，无法单独解释或有意识训练的声音特征。当我们讨论声门行为（glottal behaviour） 时，它涵盖了从音重（vocal weight） 这样较大的特征，到起音（onsets） 这样极小的细节。那么，有没有比起音更微小、更难以影响的因素呢？答案是**微行为**。
 

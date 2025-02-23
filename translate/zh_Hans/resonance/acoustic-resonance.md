@@ -1,13 +1,13 @@
 ---
 title: 声学共鸣（Acoustic Resonance）
-parent: Big List of Stuff
+parent: "杂项"
 nav_order: 19
 has_children: false
 nav_exclude: true
 ---
 <details closed markdown="block">
   <summary>
-    Table of contents
+    目录
   </summary>
 {: .text-delta }
 1. TOC
