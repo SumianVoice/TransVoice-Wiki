@@ -1,5 +1,5 @@
 ---
-title: 起音
+title: 起音 (Onsets)
 parent: "清晰度 (Clarity)"
 nav_order: 2
 ---
