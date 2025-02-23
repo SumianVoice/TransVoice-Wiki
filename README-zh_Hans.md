@@ -23,7 +23,7 @@
     _**或者**_
 - 使 Wiki 页面在风格上更加一致
 
-有时，向页面添加过多信息可能会降低可访问性并增加理解难度。在这种情况下，我们应该考虑是否将该内容拆分到一个新的页面，例如对原文的增添可以对原地址 `https://wiki.sumianvoice.com/wiki/pages/various/` 提交，中文可添加至 `https://github.com/trans-archive/TransVoice-Wiki/pages/various/`，并通过链接指向它。同时，仍需遵循上述原则。
+有时，向页面添加过多信息可能会降低可访问性并增加理解难度。在这种情况下，我们应该考虑是否将该内容拆分到一个新的页面，例如对原文的增添可以对原地址 `https://wiki.sumianvoice.com/translate/zh_Hans/various/` 提交，中文可添加至 `https://github.com/trans-archive/TransVoice-Wiki/pages/various/`，并通过链接指向它。同时，仍需遵循上述原则。
 
 
 ## GitHub Pages

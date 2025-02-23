@@ -17,14 +17,14 @@ nav_order: 2
 这可能不是一种真正的微行为，而只是简单地增加了鼻音（twang） 的效果。
 
 样例:
-- [imawonder](/wiki/pages/voice-examples/#imawonder)
-- [39daph](/wiki/pages/voice-examples/#daph)
-- [The Narrator (Baldur's Gate)](/wiki/pages/voice-examples/#the-narrator-baldurs-gate) (某些情况下)
-- [Drawing With Waffles](/wiki/pages/voice-examples/#drawing-with-waffles) (偶尔)
+- [imawonder](voice-examples/#imawonder)
+- [39daph](voice-examples/#daph)
+- [The Narrator (Baldur's Gate)](voice-examples/#the-narrator-baldurs-gate) (某些情况下)
+- [Drawing With Waffles](voice-examples/#drawing-with-waffles) (偶尔)
 
 ## 高共鸣的低沉感（High Resonance Deepness）
 低沉的声音通常与气息感（breathiness）或低共鸣（low resonance） 相关，但在这里，它具有高共鸣（high resonance），但不会显得明亮。
 
 样例:
-- [Nurse](/wiki/pages/voice-examples/#nurse)
-- [The Narrator (Baldur's Gate)](/wiki/pages/voice-examples/#the-narrator-baldurs-gate) (某些情况下)
+- [Nurse](voice-examples/#nurse)
+- [The Narrator (Baldur's Gate)](voice-examples/#the-narrator-baldurs-gate) (某些情况下)

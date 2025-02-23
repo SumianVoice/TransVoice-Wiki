@@ -13,7 +13,7 @@ has_children: false
 </span>
 
 ## 如何阅读频谱图
-[点击此处查看解释](https://wiki.sumianvoice.com/wiki/pages/other-resources/spectrograms.html)
+[点击此处查看解释](https://wiki.sumianvoice.com/translate/zh_Hans/other-resources/spectrograms.html)
 
 
 ## 音高下限

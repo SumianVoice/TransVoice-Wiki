@@ -12,7 +12,7 @@ nav_order: 3
 {:toc}
 </details>
 # 喉音颤振（Creak）
-喉音颤振（Creak），有时也被**误**称为低频喉音 [(fry)](/wiki/pages/other-resources/mechanisms.html#m0) ，两者实际上有区别。喉音颤振是一种粗糙、不规则的噪声。当声带闭合过紧且气流不足时，声带无法以稳定的周期性振动，而是会偶尔被中断，从而产生这种声音。
+喉音颤振（Creak），有时也被**误**称为低频喉音 [(fry)](other-resources/mechanisms.html#m0) ，两者实际上有区别。喉音颤振是一种粗糙、不规则的噪声。当声带闭合过紧且气流不足时，声带无法以稳定的周期性振动，而是会偶尔被中断，从而产生这种声音。
 
 <audio controls> <source src="/audio/creak-example.ogg" type="audio/ogg"> 浏览器不支持声音元素 </audio>
 
@@ -29,7 +29,7 @@ nav_order: 3
 喉音颤振在女性语音模式中较为常见，但它本身并不具有性别特征。一些口音（如山谷女孩腔（Valley Girl））通常带有较多的喉音颤振。
 
 ## 喉音颤振的问题
-尽管喉音颤振很常见，但有时可能会影响语音的清晰度，使人难以控制。由于它与气流密切相关，因此增加少量气流并保持气流稳定，尤其是在句尾时，有助于减少喉音颤振。 [SOVTEs](/wiki/pages/other-resources/SOVTE) （半闭合声门训练）可以在一定程度上帮助改善喉音颤振，特别是唇颤音（Lip Trills）。
+尽管喉音颤振很常见，但有时可能会影响语音的清晰度，使人难以控制。由于它与气流密切相关，因此增加少量气流并保持气流稳定，尤其是在句尾时，有助于减少喉音颤振。 [SOVTEs](other-resources/SOVTE) （半闭合声门训练）可以在一定程度上帮助改善喉音颤振，特别是唇颤音（Lip Trills）。
 
 # 练习
 ## 唇颤音（Lip Trills）

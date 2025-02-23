@@ -22,9 +22,9 @@ has_children: false
 - 包含所有与发声（Phonation）/ 声音产生相关的行为
 - 音重（Vocal Weight）、音高（Pitch）、闭合（Closure）、假声带（FVF）、声门下压力（Subglottal Pressure）、起音（Onsets），甚至某些微行为都属于这一范畴
 - 是一个概括性术语，描述声音是如何被产生的，以及它的「清晰度」如何
-- 与 [清晰度 (clarity)](/wiki/pages/clarity)、音色纯度 以及 [谐噪比 (HNR)](#harmonic-to-noise-ratio-hnr) 密切相关
+- 与 [清晰度 (clarity)](clarity)、音色纯度 以及 [谐噪比 (HNR)](#harmonic-to-noise-ratio-hnr) 密切相关
 
-### [音重 Vocal Weight](/wiki/pages/vocal-weight)
+### [音重 Vocal Weight](vocal-weight)
 - 声音听起来有多「厚重」
 - 不涉及音量、受压发声（Pressed Phonation）或气息感（Breathiness）
 - 可能由声带振动质量（Vocal Fold Vibratory Mass, VFVM）决定
@@ -43,11 +43,11 @@ has_children: false
 - 通常使用 EGG（电声门图 Electroglottography）进行测量
 
 ### 开放系数（Open Quotient）
-- 与 低[音重 vocal weight](/wiki/pages/vocal-weight) 相关
+- 与 低[音重 vocal weight](vocal-weight) 相关
 - 表示每个声门周期（声带振动的每个循环）中，声带处于打开状态的时间比例
 
 ### 闭合系数（Closed Quotient）
-- 与 高[音重 vocal weight](/wiki/pages/vocal-weight) 相关
+- 与 高[音重 vocal weight](vocal-weight) 相关
 - 表示每个声门周期中，声带处于闭合状态的时间比例
 </details>
 <!-- ======================================================================================================= -->
@@ -69,7 +69,7 @@ has_children: false
 ### 声区（Register）
 - 见下
 
-### [喉部振动机制（Laryngeal Vibratory Mechanism）](/wiki/pages/other-resources/mechanisms)
+### [喉部振动机制（Laryngeal Vibratory Mechanism）](other-resources/mechanisms)
 - 描述声带如何振动以及振动的部分
 
 #### M0 - 低频喉音（Vocal Fry）
@@ -103,14 +103,14 @@ has_children: false
 <details open markdown="block"><summary markdown="block">
 ## 共鸣 (Resonance) 相关
 </summary>
-### [共鸣 Resonance](/wiki/pages/resonance)
+### [共鸣 Resonance](resonance)
 - 充当滤波器，突出声音中的某些频率。
 - 改变声音的音色或非音高特性。
 - 依赖于声道的大小和形状。
 - 容器的大小是其外部体积，空间是其内部体积，而共鸣则描述了声音如何受该空间的体积和形状影响
 
 ### 语音尺度/大小（Vocal Size，此翻译待商榷）
-- **[不要](/wiki/pages/other-resources/questionable-terms.html#size) 直觉地或在没有正确训练/指导的情况下尝试改变声音的大小**，除非你确定不会收紧喉部或使用多余的肌肉！
+- **[不要](other-resources/questionable-terms.html#size) 直觉地或在没有正确训练/指导的情况下尝试改变声音的大小**，除非你确定不会收紧喉部或使用多余的肌肉！
 - 声音的感知特性，它描述了所有共鸣修饰的总体效果
 
 ### 明亮度（Brightness）

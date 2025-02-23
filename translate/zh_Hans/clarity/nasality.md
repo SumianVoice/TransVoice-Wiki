@@ -14,7 +14,7 @@ nav_order: 4
 # 鼻音（Nasality）
 当说话时有过多的空气通过鼻腔，我们称之为强鼻音（hypernasality），或者简称鼻音（nasality）。
 
-鼻音会使声音变低沉，因为它会削弱 [共振峰](/wiki/pages/resonance/#formants) 的显著程度。
+鼻音会使声音变低沉，因为它会削弱 [共振峰](resonance/#formants) 的显著程度。
 
 ![频谱图上的鼻音](/img/spec-nasalcomparison.jpg)
 

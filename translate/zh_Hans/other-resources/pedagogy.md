@@ -27,4 +27,4 @@ has_children: false
 
 基本上，我们希望提供既有效又安全的信息和方法，只要它们没有明显的风险，就值得收录。
 
-如果你在使用任何方法时遇到问题（无论是否在本站列出），可以查看 [有争议的练习列表](/wiki/pages/other-resources/questionable-exercises) 。我们欢迎任何新的信息补充。
+如果你在使用任何方法时遇到问题（无论是否在本站列出），可以查看 [有争议的练习列表](other-resources/questionable-exercises) 。我们欢迎任何新的信息补充。

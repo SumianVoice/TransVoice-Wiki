@@ -67,7 +67,7 @@ Does not include any other factor such as adduction, twang, volume, creak / fry.
 
 # Rezion
 Resonant frequencies of the vocal tract filter similar frequencies to be louder and others quieter. The resultant effect on the voice is the formation of formants, which highlight some part of the voice, usually around the resonant frequencies of the vocal tract. 【译文：声道的共振频率会使某些频率的声音变得更响亮，而其他频率变得更安静。其结果是在声音中形成共振峰（Formants），通常突出声道的共振频率附近的部分】
-Rezion is the assumed level of F1 and F2 (the first and second formants above the fundamental) on average. If measured precisely, it is measured by the frequency of F1 on an /a/ vowel (UK “bath”). 【译文：Rezion 代表 F1 和 F2（基频之上的第一和第二共振峰）的平均水平。如果精确测量，则指的是 /a/ 元音（英式英语“bath”）中 F1 的频率】。
+Rezion is the assumed level of F1 and F2 (the first and second formants above the fundamental) on average. If measured precisely, it is measured by the frequency of F1 on an /a/ vowel (UK 「bath」). 【译文：Rezion 代表 F1 和 F2（基频之上的第一和第二共振峰）的平均水平。如果精确测量，则指的是 /a/ 元音（英式英语「bath」）中 F1 的频率】。
 
 Higher frequency F1 and F2 without changing vowel > higher rezion 【译文：较高的 F1 和 F2 频率（不改变元音），则 Rezion 增加】
 

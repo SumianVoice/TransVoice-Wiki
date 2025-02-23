@@ -3,7 +3,7 @@ title: 声学共鸣（Acoustic Resonance）
 parent: "杂项"
 nav_order: 19
 has_children: false
-nav_exclude: true
+nav_exclude: false
 ---
 <details closed markdown="block">
   <summary>
