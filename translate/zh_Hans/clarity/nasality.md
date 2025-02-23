@@ -1,5 +1,5 @@
 ---
-title: 鼻音
+title: 鼻音 (Nasality)
 parent: "清晰度 (Clarity)"
 nav_order: 4
 ---
