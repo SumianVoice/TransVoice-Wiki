@@ -1,5 +1,36 @@
 remote_theme: just-the-docs/just-the-docs
 
+include:
+  - translate/zh_Hans
+  - img
+exclude:
+  - translate/en
+  - translate/en/**/*.md
+  - wiki
+  - wiki/**/*.md
+
+
+collections:
+  zh_Hans:
+    output: true
+    permalink: /:path/
+  en:
+    output: false
+    permalink: /en/:path/
+  wiki:
+    output: false
+    permalink: /wiki/:path/
+
+
+just_the_docs:
+  collections:
+    zh_Hans:
+      name: "仅测试用中文文档 | Chinese localization, for testing only"
+      nav_order: 1
+  exclude:
+    - wiki
+    - translate/en
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/img/icon.png"
 # color_scheme: dark
@@ -7,8 +38,8 @@ color_scheme: darkOverride
 
 title: Voice Resource Project
 description: Resources for transvoice students
-# baseurl: "wiki.sumianvoice.com" # the subpath of your site, e.g. /blog
-url: "https://wiki.sumianvoice.com" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "[URL HERE]" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #
