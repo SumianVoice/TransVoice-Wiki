@@ -17,7 +17,7 @@ finish this section off with each mechanism and what people use to refer to it
 ``` -->
 # Vocal Mechanisms
 A vocal mechanism or register is a distinct configuration of vocal fold interaction. Which, is a complicated way of saying...
-- vocal mechanisms are distinct, they don't overlap
+- vocal mechanisms are distinct ways the folds interact
 - they describe how the vocal folds vibrate
 - phonation is always within one of these mechanisms
 - you can pass between mechanisms without a break with training
