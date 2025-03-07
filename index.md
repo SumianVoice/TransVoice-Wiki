@@ -14,8 +14,6 @@ Basically, we want something a beginner can use as a guide to change their voice
 
 This resource is still mostly feminisation oriented, which means most of the resources assume you want to make your voice more feminine, but there is work being done to make the resources mostly agnostic of your goals. There are also plenty of resources that are not specific to gendered voice but play a secondary part (such as [clarity](/wiki/pages/clarity)) and many of the exercises listed work in reverse with some minor alterations.
 
-Overall, the project aims to be an approachable yet informative source, and to be as complete as possible and open to new information. We want something a beginner can use as a guide to change their voice, and a reference material for students and teachers.
-
 ## What About Masculinisation Resources?
 Masculinisation resources are in the works, and we would love more input. The format we want is that for each gendered component of voice, we have a "getting more of this" header and a "getting less of this" header. This way, it doesn't matter if you're masculinising or feminising your voice, you can access the resources relevant for that goal. 
 
