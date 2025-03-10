@@ -71,6 +71,16 @@ Or <div class="something">
 
 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Running Locally
+
+You can build and serve this page locally with Ruby like this:
+
+```sh
+gem install bundler jekyll
+bundle install
+bundle exec jekyll serve
+```
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SumianVoice/Voice-Art-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
