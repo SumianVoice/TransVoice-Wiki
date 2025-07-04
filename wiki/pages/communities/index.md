@@ -74,5 +74,10 @@ A volunteer-run educational support space focused on voice modification.
 - offers free and paid lessons
 - weekly free drop-in events on Sundays
 
+## Taller de la Voz (Spanish)
+<span class="fs-2"> [join on Discord](https://discord.gg/XSTr38nuFB){: .btn .btn-green } </span>
+
+- offers free and paid lessons in Spanish
+- weekly free lessons on Fridays
 
 <!--  -->
