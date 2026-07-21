@@ -48,13 +48,14 @@ Below is a typical plan assuming an average masculine voice trained to be femini
 - using "awwww" as if talking to a cute puppy is a good behavioural trigger for getting light vocal weight
 - just sliding up to a higher pitch and then down half as far (e.g. C3 to C4 to G3) will help a lot with this too
 - even just speaking at a slightly higher pitch than normal for a while will help, provided it is done naturally and not forced (see [pitch naturalisation](/wiki/pages/PIPM))
-- avoid [breathiness](/wiki/pages/clarity/breathiness) or going too light, avoid [M2 / falsetto](/wiki/pages/other-resources/mechanisms) for now
+- avoid [breathiness](/wiki/pages/clarity/breathiness)
+- [M2 / falsetto](/wiki/pages/other-resources/mechanisms) is fine to break into, but it must come back down to a normal voice again
 
 ## Raise [resonance](/wiki/pages/resonance) and brighten as needed
 - try to think of resonance as just an **aspect of sound**, don't focus on physical aspects like raising the larynx except for context
-- people often raise their larynx (and thus, resonance) when going to a high pitch, so you might not even need to do this step
-- avoid [FVF](/wiki/pages/clarity/FVF) constriction (old man / old woman voice)
-- avoid unvoiced / whisper slides if you can, or **prioritise doing voiced** ones. If you do unvoiced slides, make sure they are not constricted or rough, use "la" or "wa" (soft onsets) to help reduce the chance of constriction
+- people often raise their larynx (and thus, resonance) when going to a high pitch, so you might need to do much of this
+- avoid [FVF](/wiki/pages/clarity/FVF) and constriction ("old voice")
+- avoid unvoiced / whisper slides if you can, or at least **prioritise doing voiced** ones. If you do unvoiced slides, make sure they are not constricted or rough, use "la" or "wa" (soft onsets) to help reduce the chance of constriction, and don't slide from a whisper directly into speech - make sure there's a pause between
 - clean the sound up before using it. Don't use a configuration that is rough or efforful, make it smooth first even at the cost of lowering resonance slightly
 
 ## Clean up the voice
@@ -96,6 +97,7 @@ Expand / Collapse
 - low pitch and heavy vocal weight are linked, and to achieve one you need the other
 - [Vocal Weight Layering slides](/wiki/pages/vocal-weight/#pitch-slide-vocal-weight-layering) are a good exercise to start with
 - avoid fry and pressed phonation, as they don't help but can sound lower in pitch
+- the goal is to get a sense of "momentum" or power, when lowering pitch - if it feels forced or weak, it's not helping you get more weight
 
 ## Develop a lower resonance and darker voice
 - mouth space and articulation are extremely important, so look at some methods that focus on that like [hah/haw](/wiki/pages/resonance/#haah-and-haww)
